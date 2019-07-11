@@ -1,0 +1,4 @@
+<map id="AP_BattMonitor::overpower_detected" name="AP_BattMonitor::overpower_detected">
+<area shape="rect" id="node1" title="true when (voltage * current) &gt; watt_max" alt="" coords="237,5,422,49"/>
+<area shape="rect" id="node2" href="$lua__generated__bindings_8cpp.html#ad09ea470c571002f5017e862a79baa24" title=" " alt="" coords="5,5,190,49"/>
+</map>

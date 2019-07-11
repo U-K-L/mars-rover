@@ -1,0 +1,6 @@
+<map id="ChibiOS::Scheduler::watchdog_pat" name="ChibiOS::Scheduler::watchdog_pat">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,144,67"/>
+<area shape="rect" id="node2" href="$watchdog_8c.html#ab80f904c18b5f435b7663d379d8f3997" title=" " alt="" coords="193,5,341,33"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="212,57,321,85"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="390,57,479,85"/>
+</map>

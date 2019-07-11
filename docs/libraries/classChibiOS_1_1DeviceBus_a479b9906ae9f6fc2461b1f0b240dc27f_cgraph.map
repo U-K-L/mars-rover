@@ -1,0 +1,9 @@
+<map id="ChibiOS::DeviceBus::bouncebuffer_setup" name="ChibiOS::DeviceBus::bouncebuffer_setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,50,152,94"/>
+<area shape="rect" id="node2" href="$bouncebuffer_8c.html#a3cca1b350e36a2bce542509487befabd" title=" " alt="" coords="200,27,373,55"/>
+<area shape="rect" id="node7" href="$bouncebuffer_8c.html#a072582dd5b5016a9070b37e0f90792b5" title=" " alt="" coords="217,79,356,123"/>
+<area shape="rect" id="node3" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="470,5,514,33"/>
+<area shape="rect" id="node4" href="$malloc_8c.html#ad68ab3fab5b0d5f5fef166919b258742" title=" " alt="" coords="422,109,562,137"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#a0ec75ec3773e0053f3d233b785b7f3c2" title=" " alt="" coords="445,57,539,85"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="611,83,706,111"/>
+</map>

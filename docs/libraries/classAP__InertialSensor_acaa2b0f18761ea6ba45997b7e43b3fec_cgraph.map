@@ -1,0 +1,5 @@
+<map id="AP_InertialSensor::get_vibration_levels" name="AP_InertialSensor::get_vibration_levels">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,144,67"/>
+<area shape="rect" id="node2" href="$classLowPassFilter.html#a34bc75aa770bc6cc0facee3b43a05bec" title=" " alt="" coords="192,5,323,33"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title=" " alt="" coords="219,57,295,85"/>
+</map>

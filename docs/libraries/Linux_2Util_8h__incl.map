@@ -1,0 +1,49 @@
+<map id="libraries/AP_HAL_Linux/Util.h" name="libraries/AP_HAL_Linux/Util.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1050,6,1211,50"/>
+<area shape="rect" id="node2" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries." alt="" coords="304,811,499,839"/>
+<area shape="rect" id="node5" href="$AP__HAL_8h.html" title=" " alt="" coords="1079,425,1216,453"/>
+<area shape="rect" id="node33" href="$Heat_8h.html" title=" " alt="" coords="588,99,648,127"/>
+<area shape="rect" id="node34" href="$Perf_8h.html" title=" " alt="" coords="1636,99,1692,127"/>
+<area shape="rect" id="node43" href="$ToneAlarm__Disco_8h.html" title=" " alt="" coords="1853,99,1989,127"/>
+<area shape="rect" id="node46" href="$AP__HAL__Linux_2ToneAlarm_8h.html" title=" " alt="" coords="2240,185,2336,213"/>
+<area shape="rect" id="node47" href="$Linux_2Semaphores_8h.html" title=" " alt="" coords="238,657,345,685"/>
+<area shape="rect" id="node3" title=" " alt="" coords="900,889,964,917"/>
+<area shape="rect" id="node4" title=" " alt="" coords="648,889,711,917"/>
+<area shape="rect" id="node6" href="$AP__HAL__Namespace_8h.html" title=" " alt="" coords="1543,811,1704,839"/>
+<area shape="rect" id="node10" href="$AP__HAL__Boards_8h.html" title=" " alt="" coords="573,811,705,839"/>
+<area shape="rect" id="node11" href="$AP__HAL__Macros_8h.html" title=" " alt="" coords="531,734,665,762"/>
+<area shape="rect" id="node12" href="$AP__HAL__Main_8h.html" title=" " alt="" coords="1337,502,1456,530"/>
+<area shape="rect" id="node24" href="$UARTDriver_8h.html" title=" " alt="" coords="906,657,1008,685"/>
+<area shape="rect" id="node14" href="$AnalogIn_8h.html" title=" " alt="" coords="1796,734,1880,762"/>
+<area shape="rect" id="node23" href="$Storage_8h.html" title=" " alt="" coords="1135,657,1213,685"/>
+<area shape="rect" id="node16" href="$GPIO_8h.html" title=" " alt="" coords="1238,657,1303,685"/>
+<area shape="rect" id="node17" href="$RCInput_8h.html" title=" " alt="" coords="1670,657,1751,685"/>
+<area shape="rect" id="node18" href="$RCOutput_8h.html" title=" " alt="" coords="1327,657,1419,685"/>
+<area shape="rect" id="node29" href="$Scheduler_8h.html" title=" " alt="" coords="741,734,832,762"/>
+<area shape="rect" id="node30" href="$Semaphores_8h.html" title=" " alt="" coords="195,734,303,762"/>
+<area shape="rect" id="node31" href="$Util_8h.html" title=" " alt="" coords="1075,734,1127,762"/>
+<area shape="rect" id="node28" href="$AP__HAL_2OpticalFlow_8h.html" title=" " alt="" coords="1544,657,1645,685"/>
+<area shape="rect" id="node32" href="$Flash_8h.html" title=" " alt="" coords="1201,734,1265,762"/>
+<area shape="rect" id="node25" href="$BetterStream_8h.html" title=" " alt="" coords="857,734,1001,762"/>
+<area shape="rect" id="node13" href="$HAL_8h.html" title=" " alt="" coords="1356,579,1413,607"/>
+<area shape="rect" id="node27" href="$system_8h.html" title=" " alt="" coords="561,657,636,685"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1591,889,1656,917"/>
+<area shape="rect" id="node8" href="$functor_8h.html" title=" " alt="" coords="2224,889,2329,917"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2236,966,2319,994"/>
+<area shape="rect" id="node19" href="$SPIDevice_8h.html" title=" " alt="" coords="2027,657,2121,685"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2006,811,2084,839"/>
+<area shape="rect" id="node20" href="$Device_8h.html" title=" " alt="" coords="2241,734,2313,762"/>
+<area shape="rect" id="node21" href="$OwnPtr_8h.html" title=" " alt="" coords="2438,734,2548,762"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2461,811,2525,839"/>
+<area shape="rect" id="node26" title=" " alt="" coords="888,811,957,839"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1548,185,1608,213"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1633,185,1695,213"/>
+<area shape="rect" id="node37" title=" " alt="" coords="328,734,405,762"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2109,734,2165,762"/>
+<area shape="rect" id="node39" href="$AP__HAL__Linux_8h.html" title=" " alt="" coords="1772,270,1895,298"/>
+<area shape="rect" id="node41" href="$Perf__Lttng_8h.html" title=" " alt="" coords="1872,185,1965,213"/>
+<area shape="rect" id="node42" href="$Thread_8h.html" title=" " alt="" coords="1877,657,1952,685"/>
+<area shape="rect" id="node40" href="$HAL__Linux__Class_8h.html" title=" " alt="" coords="1219,347,1356,375"/>
+<area shape="rect" id="node44" href="$RCOutput__Bebop_8h.html" title=" " alt="" coords="2041,177,2215,221"/>
+<area shape="rect" id="node45" href="$I2CDevice_8h.html" title=" " alt="" coords="2200,657,2348,685"/>
+</map>

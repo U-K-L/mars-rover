@@ -1,0 +1,9 @@
+<map id="AP_HAL::RCOutput::force_safety_no_wait" name="AP_HAL::RCOutput::force_safety_no_wait">
+<area shape="rect" id="node1" title=" " alt="" coords="853,39,1029,83"/>
+<area shape="rect" id="node2" href="$classAP__BoardConfig.html#a5f1bd37f36b512bae5fca062d55c055c" title=" " alt="" coords="643,5,805,49"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a2c41f461a8bc8bddbb7ed30ce2a1f135" title=" " alt="" coords="643,73,805,117"/>
+<area shape="rect" id="node3" href="$classAP__BoardConfig.html#aba2ca4fd524c037dbffaed17344fc0f1" title=" " alt="" coords="438,5,583,49"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a29e2941413d50ab63cd70f5beadef19a" title=" " alt="" coords="427,73,594,117"/>
+<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#abc79cdd8393234b66f2e8217a527f8f9" title=" " alt="" coords="216,73,379,117"/>
+<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,73,168,117"/>
+</map>

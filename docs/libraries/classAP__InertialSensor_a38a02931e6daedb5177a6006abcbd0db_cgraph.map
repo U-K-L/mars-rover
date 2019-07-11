@@ -1,0 +1,8 @@
+<map id="AP_InertialSensor::kill_imu" name="AP_InertialSensor::kill_imu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,141,101"/>
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="234,5,280,33"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a714dc332f1f664de77df912220525653" title=" " alt="" coords="189,57,325,101"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#af8aa055fcbf0bc843ca4914a9cc84013" title=" " alt="" coords="189,130,325,174"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#adab0e15f297d55a8436b607627db0e5f" title=" " alt="" coords="373,50,509,94"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#a5b42199f260d9523973a51debd99146e" title=" " alt="" coords="373,142,509,186"/>
+</map>

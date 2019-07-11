@@ -1,0 +1,6 @@
+<map id="AP_GPS_NMEA::_have_new_message" name="AP_GPS_NMEA::_have_new_message">
+<area shape="rect" id="node1" title="return true if we have a new set of NMEA messages" alt="" coords="646,5,810,49"/>
+<area shape="rect" id="node2" href="$classAP__GPS__NMEA.html#ab82936a41e41786f03aea079978de6bc" title=" " alt="" coords="435,5,597,49"/>
+<area shape="rect" id="node3" href="$classAP__GPS__NMEA.html#a955545b788a23ec083d91b961391429b" title=" " alt="" coords="208,13,387,41"/>
+<area shape="rect" id="node4" href="$classAP__GPS__NMEA.html#a8c5c59212662fd5f6db86d6aa2050415" title=" " alt="" coords="5,13,160,41"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AC_AttitudeControl::input_rate_bf_roll_pitch_yaw" name="AC_AttitudeControl::input_rate_bf_roll_pitch_yaw">
+<area shape="rect" id="node1" title=" " alt="" coords="384,35,520,95"/>
+<area shape="rect" id="node2" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="184,5,336,49"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Heli.html#aa78e07c940c43aa150caf3c52cf76809" title=" " alt="" coords="192,73,328,133"/>
+<area shape="rect" id="node3" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,13,136,41"/>
+</map>

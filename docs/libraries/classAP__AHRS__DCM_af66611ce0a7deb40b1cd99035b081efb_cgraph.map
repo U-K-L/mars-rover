@@ -1,0 +1,8 @@
+<map id="AP_AHRS_DCM::get_velocity_NED" name="AP_AHRS_DCM::get_velocity_NED">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,240,85"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="318,5,386,33"/>
+<area shape="rect" id="node4" href="$classAP__GPS.html#ac22b61d2e6cf0b6ff647173ea336de01" title="Query GPS status." alt="" coords="293,57,411,85"/>
+<area shape="rect" id="node6" href="$classAP__GPS.html#ac92efd3f6c2ad2af5b59635cb2c8eced" title=" " alt="" coords="289,109,415,137"/>
+<area shape="rect" id="node3" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="465,5,626,33"/>
+<area shape="rect" id="node5" href="$classAP__GPS.html#a23a9fce42abaf8f53d5a3f64c84461e7" title=" " alt="" coords="486,57,604,85"/>
+</map>

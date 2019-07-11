@@ -1,0 +1,7 @@
+<map id="SITL::Gripper_Servo::set_alt" name="SITL::Gripper_Servo::set_alt">
+<area shape="rect" id="node1" title=" " alt="" coords="414,57,557,101"/>
+<area shape="rect" id="node2" href="$classSITL_1_1Aircraft.html#ad2aa9945ff600ad08823ae67524e078e" title=" " alt="" coords="218,57,366,101"/>
+<area shape="rect" id="node3" href="$classSITL_1_1SimRover.html#aee0311ff7a61d71cc2ecd4a148636440" title=" " alt="" coords="6,5,170,33"/>
+<area shape="rect" id="node4" href="$classSITL_1_1MultiCopter.html#a3420ce467f86d484407193d3f6e5447c" title=" " alt="" coords="22,57,154,101"/>
+<area shape="rect" id="node5" href="$classSITL_1_1Plane.html#a68de2c1dd6684fe9e83bc087d702a439" title=" " alt="" coords="18,125,158,153"/>
+</map>

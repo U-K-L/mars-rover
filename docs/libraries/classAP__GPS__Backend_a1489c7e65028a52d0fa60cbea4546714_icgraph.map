@@ -1,0 +1,18 @@
+<map id="AP_GPS_Backend::check_new_itow" name="AP_GPS_Backend::check_new_itow">
+<area shape="rect" id="node1" title=" " alt="" coords="728,141,904,185"/>
+<area shape="rect" id="node2" href="$classAP__GPS__UBLOX.html#a8669b01bfd1daaafd058e76917a3265d" title=" " alt="" coords="488,5,664,49"/>
+<area shape="rect" id="node5" href="$classAP__GPS__SBP.html#a95d51866fda5a620229c74d5684acce4" title=" " alt="" coords="476,73,676,117"/>
+<area shape="rect" id="node8" href="$classAP__GPS__SBP2.html#ac64f29dd084dc165c676cfd2751e77ae" title=" " alt="" coords="473,141,679,185"/>
+<area shape="rect" id="node11" href="$classAP__GPS__NOVA.html#ad2bc4d408089ac56e00a19896cea92aa" title=" " alt="" coords="489,209,663,253"/>
+<area shape="rect" id="node14" href="$classAP__GPS__SBF.html#a302b0e8422996c2cabb9dfac0eae59a4" title=" " alt="" coords="495,277,657,321"/>
+<area shape="rect" id="node3" href="$classAP__GPS__UBLOX.html#a16ae8ab4b0babfbc2245beb0a438ec33" title=" " alt="" coords="218,13,422,41"/>
+<area shape="rect" id="node4" href="$classAP__GPS__UBLOX.html#a64d0773944721dc3cfdd0c81b31c3cf6" title=" " alt="" coords="6,13,167,41"/>
+<area shape="rect" id="node6" href="$classAP__GPS__SBP.html#ad6291fa91e5c338da770ffdfefb6cd8a" title=" " alt="" coords="220,81,420,109"/>
+<area shape="rect" id="node7" href="$classAP__GPS__SBP.html#a4b4a47d9631302cd12061493aa77299a" title=" " alt="" coords="15,81,158,109"/>
+<area shape="rect" id="node9" href="$classAP__GPS__SBP2.html#a401dc8505b1460b2cacbafea3d223a91" title=" " alt="" coords="217,149,423,177"/>
+<area shape="rect" id="node10" href="$classAP__GPS__SBP2.html#a251cdad10dff6c4e02d59f0507e5f3b6" title=" " alt="" coords="12,149,162,177"/>
+<area shape="rect" id="node12" href="$classAP__GPS__NOVA.html#a7473234145e1b86ae8162d4b51fb09dd" title=" " alt="" coords="240,217,400,245"/>
+<area shape="rect" id="node13" href="$classAP__GPS__NOVA.html#ae5a1e16242062176804a85e0694e3de6" title=" " alt="" coords="10,217,163,245"/>
+<area shape="rect" id="node15" href="$classAP__GPS__SBF.html#a4ff03181a0163ebda3dcc6b550e0d05a" title=" " alt="" coords="246,285,394,313"/>
+<area shape="rect" id="node16" href="$classAP__GPS__SBF.html#afb067d84a0c140d4a0f38c30b791e84d" title=" " alt="" coords="16,285,158,313"/>
+</map>

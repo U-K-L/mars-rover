@@ -1,0 +1,16 @@
+<map id="AC_AttitudeControl::ang_vel_to_euler_rate" name="AC_AttitudeControl::ang_vel_to_euler_rate">
+<area shape="rect" id="node1" title=" " alt="" coords="643,343,805,387"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#af0e7aef643e29d1f1af2a9cd1945d426" title=" " alt="" coords="414,57,594,117"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl.html#aa111691a6822ceea4c70c434ee6d38e7" title=" " alt="" coords="436,141,572,201"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl.html#aa534dbef87d61ff598744ffa60782bbc" title=" " alt="" coords="436,225,572,269"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl.html#a2ca277e7c4a5ac2980814673aae2d037" title=" " alt="" coords="436,293,572,353"/>
+<area shape="rect" id="node11" href="$classAC__AttitudeControl.html#ae23c97bb2a32c96c680959fd586d9e61" title=" " alt="" coords="436,377,572,437"/>
+<area shape="rect" id="node12" href="$classAC__AttitudeControl.html#ae23959f7f64068fed032553f5d66eeb9" title=" " alt="" coords="436,461,572,521"/>
+<area shape="rect" id="node13" href="$classAC__AttitudeControl__Heli.html#a3741c5f0deabfef2c6889171b5c4a217" title=" " alt="" coords="428,545,580,605"/>
+<area shape="rect" id="node14" href="$classAC__AttitudeControl.html#ad5f06ff5ba37d9af1afdb1ab18827a06" title=" " alt="" coords="415,629,593,673"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#a96317d64d32a0d29202c4f443bd06076" title=" " alt="" coords="184,5,365,65"/>
+<area shape="rect" id="node4" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,161,136,189"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl__Heli.html#a8720532877383f5bc054862f88e64dfe" title=" " alt="" coords="192,141,357,201"/>
+<area shape="rect" id="node7" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="199,225,351,269"/>
+<area shape="rect" id="node10" href="$classAC__AttitudeControl__Heli.html#aa78e07c940c43aa150caf3c52cf76809" title=" " alt="" coords="206,293,343,353"/>
+</map>

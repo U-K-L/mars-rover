@@ -1,0 +1,8 @@
+<map id="GCS_MAVLINK::log_mavlink_stats" name="GCS_MAVLINK::log_mavlink_stats">
+<area shape="rect" id="node1" title=" " alt="" coords="6,49,199,93"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="261,5,395,33"/>
+<area shape="rect" id="node4" href="$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="286,57,370,85"/>
+<area shape="rect" id="node6" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="249,109,407,137"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="495,5,593,33"/>
+<area shape="rect" id="node5" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="457,57,631,85"/>
+</map>

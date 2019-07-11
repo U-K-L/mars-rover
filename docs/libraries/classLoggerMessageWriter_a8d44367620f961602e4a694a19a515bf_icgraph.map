@@ -1,0 +1,10 @@
+<map id="LoggerMessageWriter::reset" name="LoggerMessageWriter::reset">
+<area shape="rect" id="node1" title=" " alt="" coords="1061,123,1213,167"/>
+<area shape="rect" id="node2" href="$classLoggerMessageWriter__WriteSysInfo.html#a745159048f7a2d87206960619d923ef5" title=" " alt="" coords="861,5,1013,49"/>
+<area shape="rect" id="node7" href="$classLoggerMessageWriter__WriteEntireMission.html#afb24c87a4a076c390efd063966e9bdf6" title=" " alt="" coords="861,73,1013,133"/>
+<area shape="rect" id="node8" href="$classLoggerMessageWriter__WriteAllRallyPoints.html#a7826f6219d5f321f3c6868316cd899b3" title=" " alt="" coords="861,157,1013,217"/>
+<area shape="rect" id="node3" href="$classLoggerMessageWriter__DFLogStart.html#a3ad60d329f002214e3a40b36fb9f95ef" title=" " alt="" coords="661,123,813,167"/>
+<area shape="rect" id="node4" href="$classAP__Logger__Backend.html#a83b8480d85ac169849cbf96bddd3d73e" title=" " alt="" coords="459,115,613,175"/>
+<area shape="rect" id="node5" href="$classAP__Logger__MAVLink.html#ae9cfb8bd57cbba1a5b773515dd5e5d57" title=" " alt="" coords="256,123,411,167"/>
+<area shape="rect" id="node6" href="$classAP__Logger__MAVLink.html#ad05ad1c067f86340d01210187efe2979" title=" " alt="" coords="6,123,208,167"/>
+</map>

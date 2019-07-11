@@ -1,0 +1,5 @@
+<map id="MissionItemProtocol" name="MissionItemProtocol">
+<area shape="rect" id="node1" title=" " alt="" coords="88,6,229,34"/>
+<area shape="rect" id="node2" href="$classMissionItemProtocol__Rally.html" title=" " alt="" coords="5,83,147,127"/>
+<area shape="rect" id="node3" href="$classMissionItemProtocol__Waypoints.html" title=" " alt="" coords="171,83,312,127"/>
+</map>

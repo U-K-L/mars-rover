@@ -1,0 +1,5 @@
+<map id="ChibiOS::Util::set_hw_rtc" name="ChibiOS::Util::set_hw_rtc">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,128,49"/>
+<area shape="rect" id="node2" href="$stm32__util_8c.html#a5183bcfd602055f61a8b029159141544" title=" " alt="" coords="176,13,320,41"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="368,13,467,41"/>
+</map>

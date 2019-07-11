@@ -1,0 +1,12 @@
+<map id="AP_AHRS::getAOA" name="AP_AHRS::getAOA">
+<area shape="rect" id="node1" title=" " alt="" coords="6,169,144,197"/>
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a7328e4bc4caf3cb87a16915edcde932e" title=" " alt="" coords="193,169,394,197"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="487,5,596,33"/>
+<area shape="rect" id="node5" href="$classAP__AHRS.html#a69b21caefc3aab8edc889cb7a181a756" title=" " alt="" coords="443,57,640,85"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a01436317dbb7f62470f56b66af4e872d" title=" " alt="" coords="453,109,629,137"/>
+<area shape="rect" id="node7" href="$classAP__AHRS.html#a8a1988bb283c488c86b329be18271fbf" title=" " alt="" coords="461,161,622,205"/>
+<area shape="rect" id="node8" href="$classMatrix3.html#a212a94e2a9c26def827fa766f4d0ae3e" title=" " alt="" coords="461,229,621,257"/>
+<area shape="rect" id="node9" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="486,281,596,309"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a3370ada2588e54722319d65e00d8545c" title=" " alt="" coords="502,333,581,361"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="689,5,778,33"/>
+</map>

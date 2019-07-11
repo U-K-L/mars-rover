@@ -1,0 +1,14 @@
+<map id="NavEKF3::updateLaneSwitchYawResetData" name="NavEKF3::updateLaneSwitchYawResetData">
+<area shape="rect" id="node1" title=" " alt="" coords="6,94,202,138"/>
+<area shape="rect" id="node2" href="$classNavEKF3.html#a0dfa237b7b3cf14f0f99eb91fe539cea" title=" " alt="" coords="261,34,451,78"/>
+<area shape="rect" id="node6" href="$classNavEKF3__core.html#a6f8d21f162d7fa8c309a776a561b1f18" title=" " alt="" coords="251,169,461,197"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title=" " alt="" coords="569,73,639,101"/>
+<area shape="rect" id="node3" href="$classNavEKF3__core.html#a48263af5835a86691625db1a0a27364e" title=" " alt="" coords="510,5,698,49"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title=" " alt="" coords="799,65,876,93"/>
+<area shape="rect" id="node7" href="$classQuaternion.html#a16eda13811dc1ec519adf9b5c1b1eb7c" title=" " alt="" coords="533,169,675,197"/>
+<area shape="rect" id="node12" href="$classAP__AHRS.html#af26aa91e7f2f81097d4b95eb1235e027" title=" " alt="" coords="534,221,674,249"/>
+<area shape="rect" id="node8" href="$classQuaternion.html#ad5eb201474aade27db5131c2c07d2088" title=" " alt="" coords="750,117,925,145"/>
+<area shape="rect" id="node9" href="$classQuaternion.html#a436fa63d58deadc491409c02b3e67fb1" title=" " alt="" coords="762,169,912,213"/>
+<area shape="rect" id="node11" href="$classQuaternion.html#a34f2a4db4c8ddf33540cb307fa929b72" title=" " alt="" coords="747,237,928,265"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a3370ada2588e54722319d65e00d8545c" title=" " alt="" coords="977,177,1055,205"/>
+</map>

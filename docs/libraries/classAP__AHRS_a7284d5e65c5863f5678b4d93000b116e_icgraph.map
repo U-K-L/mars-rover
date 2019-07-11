@@ -1,0 +1,7 @@
+<map id="AP_AHRS::update_orientation" name="AP_AHRS::update_orientation">
+<area shape="rect" id="node1" title=" " alt="" coords="483,31,685,59"/>
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a61a8beb36c6b10a6ece0d06f76d4bd2d" title=" " alt="" coords="107,5,215,33"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a6902570304ec8a9d38c57e5b053e6d0a" title=" " alt="" coords="265,57,434,85"/>
+<area shape="rect" id="node3" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,57,59,85"/>
+<area shape="rect" id="node5" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="110,57,212,85"/>
+</map>

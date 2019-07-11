@@ -1,0 +1,14 @@
+<map id="AP_Airspeed_UAVCAN::DetectedModules" name="AP_Airspeed_UAVCAN::DetectedModules">
+<area shape="rect" id="node1" title=" " alt="" coords="510,321,671,365"/>
+<area shape="rect" id="node2" href="$classAP__Airspeed__UAVCAN.html" title=" " alt="" coords="390,430,551,458"/>
+<area shape="rect" id="node3" href="$classAP__Airspeed__Backend.html" title=" " alt="" coords="321,329,479,357"/>
+<area shape="rect" id="node4" href="$classAP__Airspeed.html" title=" " alt="" coords="173,430,272,458"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,133,157,161"/>
+<area shape="rect" id="node10" href="$classAP__UAVCAN.html" title=" " alt="" coords="540,227,640,255"/>
+<area shape="rect" id="node6" href="$structAP__Airspeed_1_1airspeed__state.html" title=" " alt="" coords="138,321,296,365"/>
+<area shape="rect" id="node7" href="$classAirspeed__Calibration.html" title=" " alt="" coords="270,227,415,255"/>
+<area shape="rect" id="node8" href="$classMatrix3.html" title=" " alt="" coords="295,133,408,161"/>
+<area shape="rect" id="node9" href="$classVector3.html" title=" " alt="" coords="365,6,480,34"/>
+<area shape="rect" id="node11" title=" " alt="" coords="512,133,668,161"/>
+<area shape="rect" id="node12" href="$structAP__UAVCAN_1_1led__device.html" title=" " alt="" coords="693,133,864,161"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fseek" name="fseek">
+<area shape="rect" id="node1" title="POSIX seek to file possition." alt="" coords="117,31,171,59"/>
+<area shape="rect" id="node2" href="$posix_8c.html#ac81a57126a4b0d3008da9a12c5c443ab" title="POSIX set position of file stream." alt="" coords="5,5,69,33"/>
+<area shape="rect" id="node3" href="$posix_8c.html#aa0cd401f198d33d9d01a9e8aa4026819" title="POSIX rewind file to the beginning." alt="" coords="7,57,68,85"/>
+</map>

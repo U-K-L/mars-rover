@@ -1,0 +1,6 @@
+<map id="libraries/AP_HAL_ChibiOS/hwdef/common/watchdog.c" name="libraries/AP_HAL_ChibiOS/hwdef/common/watchdog.c">
+<area shape="rect" id="node1" title=" " alt="" coords="4,6,189,50"/>
+<area shape="rect" id="node2" title=" " alt="" coords="88,177,137,205"/>
+<area shape="rect" id="node3" href="$watchdog_8h.html" title=" " alt="" coords="53,99,141,127"/>
+<area shape="rect" id="node4" href="$stm32__util_8h.html" title=" " alt="" coords="167,99,259,127"/>
+</map>

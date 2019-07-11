@@ -1,0 +1,16 @@
+<map id="ByteBuffer::set_size" name="ByteBuffer::set_size">
+<area shape="rect" id="node1" title=" " alt="" coords="649,217,789,245"/>
+<area shape="rect" id="node2" href="$classLinux_1_1UARTDriver.html#a44810a7631b129c1ca027136467b206c" title=" " alt="" coords="440,5,579,49"/>
+<area shape="rect" id="node4" href="$classLinux_1_1UARTDriver.html#a03789406dd3795284c7a645121314e99" title=" " alt="" coords="440,73,579,117"/>
+<area shape="rect" id="node6" href="$classHALSITL_1_1UARTDriver.html#a378857176ba475df8fe41c5f77dedc83" title=" " alt="" coords="427,141,592,185"/>
+<area shape="rect" id="node10" href="$classLinux_1_1SPIUARTDriver.html#ad4654c68cbc8517d6a3026e85237ecac" title=" " alt="" coords="432,209,586,253"/>
+<area shape="rect" id="node11" href="$classChibiOS_1_1UARTDriver.html#a9e0f62386e505ff552ae03611b0ee341" title=" " alt="" coords="434,277,584,321"/>
+<area shape="rect" id="node12" href="$classChibiOS_1_1UARTDriver.html#a6586acb78a83e15e1ff786c23e5090fc" title=" " alt="" coords="420,345,599,373"/>
+<area shape="rect" id="node13" href="$classAP__Logger__Block.html#a9c268769f4ddf3cb114609d55ed00d4b" title=" " alt="" coords="433,397,586,425"/>
+<area shape="rect" id="node3" href="$classLinux_1_1UARTDriver.html#a9e0f62386e505ff552ae03611b0ee341" title=" " alt="" coords="220,5,359,49"/>
+<area shape="rect" id="node5" href="$classLinux_1_1UARTDriver.html#a6586acb78a83e15e1ff786c23e5090fc" title=" " alt="" coords="208,81,370,109"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1UARTDriver.html#a9e0f62386e505ff552ae03611b0ee341" title=" " alt="" coords="212,137,367,181"/>
+<area shape="rect" id="node8" href="$classHALSITL_1_1UARTDriver.html#acd081404b05f50cd909846b84f164583" title=" " alt="" coords="212,205,367,249"/>
+<area shape="rect" id="node9" href="$classHALSITL_1_1UARTDriver.html#adb11e3cc5478ef50d69444c26aa4ee1f" title=" " alt="" coords="5,205,160,249"/>
+<area shape="rect" id="node14" href="$classAP__Logger__SITL.html#a207655bf8be66e8d409eb68caf60d839" title=" " alt="" coords="215,397,364,425"/>
+</map>

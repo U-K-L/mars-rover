@@ -1,0 +1,4 @@
+<map id="AC_WPNav::set_wp_destination" name="AC_WPNav::set_wp_destination">
+<area shape="rect" id="node1" title=" " alt="" coords="305,5,519,33"/>
+<area shape="rect" id="node2" href="$classAC__WPNav.html#a9a03d6c28caa4be4a9f0846dc5cff160" title="set waypoint destination using NED position vector from ekf origin in meters" alt="" coords="6,5,255,33"/>
+</map>

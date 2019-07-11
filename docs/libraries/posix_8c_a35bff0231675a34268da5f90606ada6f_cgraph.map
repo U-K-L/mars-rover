@@ -1,0 +1,8 @@
+<map id="fgetpos" name="fgetpos">
+<area shape="rect" id="node1" title="POSIX get position of file stream." alt="" coords="6,32,71,60"/>
+<area shape="rect" id="node2" href="$posix_8c.html#a5a002ad43f113e8c634d284ee34d1d53" title="POSIX file position of open stream." alt="" coords="120,32,162,60"/>
+<area shape="rect" id="node3" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="531,59,584,87"/>
+<area shape="rect" id="node4" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="396,32,449,60"/>
+<area shape="rect" id="node5" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="210,84,315,112"/>
+<area shape="rect" id="node6" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="363,136,483,164"/>
+</map>

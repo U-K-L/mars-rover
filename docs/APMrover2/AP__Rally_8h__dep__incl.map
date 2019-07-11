@@ -1,0 +1,42 @@
+<map id="APMrover2/AP_Rally.h" name="APMrover2/AP_Rally.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3602,6,3757,34"/>
+<area shape="rect" id="node2" href="$Parameters_8h.html" title=" " alt="" coords="3471,83,3643,111"/>
+<area shape="rect" id="node3" href="$Rover_8h.html" title=" " alt="" coords="3566,161,3703,189"/>
+<area shape="rect" id="node9" href="$AP__Rally_8cpp.html" title=" " alt="" coords="7095,246,7265,274"/>
+<area shape="rect" id="node4" href="$afs__rover_8cpp.html" title=" " alt="" coords="6899,246,7071,274"/>
+<area shape="rect" id="node5" href="$RC__Channel_8h.html" title=" " alt="" coords="5,246,184,274"/>
+<area shape="rect" id="node7" href="$AP__Arming_8cpp.html" title=" " alt="" coords="208,246,392,274"/>
+<area shape="rect" id="node8" href="$AP__MotorsUGV_8cpp.html" title=" " alt="" coords="416,246,625,274"/>
+<area shape="rect" id="node10" href="$balance__bot_8cpp.html" title=" " alt="" coords="651,246,840,274"/>
+<area shape="rect" id="node11" href="$commands_8cpp.html" title=" " alt="" coords="864,246,1045,274"/>
+<area shape="rect" id="node12" href="$compat_8cpp.html" title=" " alt="" coords="1070,246,1231,274"/>
+<area shape="rect" id="node13" href="$crash__check_8cpp.html" title=" " alt="" coords="1255,246,1445,274"/>
+<area shape="rect" id="node14" href="$cruise__learn_8cpp.html" title=" " alt="" coords="1471,246,1660,274"/>
+<area shape="rect" id="node15" href="$ekf__check_8cpp.html" title=" " alt="" coords="1684,246,1860,274"/>
+<area shape="rect" id="node16" href="$failsafe_8cpp.html" title=" " alt="" coords="1884,246,2043,274"/>
+<area shape="rect" id="node17" href="$fence_8cpp.html" title=" " alt="" coords="2068,246,2217,274"/>
+<area shape="rect" id="node18" href="$GCS__Mavlink_8cpp.html" title=" " alt="" coords="2241,246,2439,274"/>
+<area shape="rect" id="node19" href="$GCS__Rover_8cpp.html" title=" " alt="" coords="2463,246,2651,274"/>
+<area shape="rect" id="node20" href="$Log_8cpp.html" title=" " alt="" coords="2676,246,2815,274"/>
+<area shape="rect" id="node21" href="$mode_8cpp.html" title=" " alt="" coords="2840,246,2989,274"/>
+<area shape="rect" id="node22" href="$mode__acro_8cpp.html" title=" " alt="" coords="3014,246,3196,274"/>
+<area shape="rect" id="node23" href="$mode__auto_8cpp.html" title=" " alt="" coords="3222,246,3404,274"/>
+<area shape="rect" id="node24" href="$mode__follow_8cpp.html" title=" " alt="" coords="3430,246,3620,274"/>
+<area shape="rect" id="node25" href="$mode__guided_8cpp.html" title=" " alt="" coords="3645,246,3843,274"/>
+<area shape="rect" id="node26" href="$mode__hold_8cpp.html" title=" " alt="" coords="3867,246,4049,274"/>
+<area shape="rect" id="node27" href="$mode__loiter_8cpp.html" title=" " alt="" coords="4074,246,4259,274"/>
+<area shape="rect" id="node28" href="$mode__manual_8cpp.html" title=" " alt="" coords="4283,246,4484,274"/>
+<area shape="rect" id="node29" href="$mode__rtl_8cpp.html" title=" " alt="" coords="4509,246,4677,274"/>
+<area shape="rect" id="node30" href="$mode__simple_8cpp.html" title=" " alt="" coords="4702,246,4897,274"/>
+<area shape="rect" id="node31" href="$mode__smart__rtl_8cpp.html" title=" " alt="" coords="4922,238,5088,282"/>
+<area shape="rect" id="node32" href="$mode__steering_8cpp.html" title=" " alt="" coords="5112,246,5316,274"/>
+<area shape="rect" id="node33" href="$motor__test_8cpp.html" title=" " alt="" coords="5341,246,5520,274"/>
+<area shape="rect" id="node34" href="$Parameters_8cpp.html" title=" " alt="" coords="5544,246,5729,274"/>
+<area shape="rect" id="node35" href="$radio_8cpp.html" title=" " alt="" coords="5755,246,5900,274"/>
+<area shape="rect" id="node6" href="$RC__Channel_8cpp.html" title=" " alt="" coords="2919,331,3112,359"/>
+<area shape="rect" id="node36" href="$Rover_8cpp.html" title=" " alt="" coords="5976,246,6127,274"/>
+<area shape="rect" id="node37" href="$sailboat_8cpp.html" title=" " alt="" coords="6152,246,6315,274"/>
+<area shape="rect" id="node38" href="$sensors_8cpp.html" title=" " alt="" coords="6338,246,6501,274"/>
+<area shape="rect" id="node39" href="$Steering_8cpp.html" title=" " alt="" coords="6526,246,6692,274"/>
+<area shape="rect" id="node40" href="$system_8cpp.html" title=" " alt="" coords="6716,246,6875,274"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ChibiOS::RCInput::rc_bind" name="ChibiOS::RCInput::rc_bind">
+<area shape="rect" id="node1" title=" " alt="" coords="5,175,184,203"/>
+<area shape="rect" id="node2" href="$classChibiOS_1_1Semaphore.html#a8bf61c47a321957ad30034420d442bce" title=" " alt="" coords="249,65,396,109"/>
+<area shape="rect" id="node7" href="$classAP__BoardConfig.html#a88fafdbccbeac097961a7cf64993530f" title=" " alt="" coords="253,133,392,177"/>
+<area shape="rect" id="node8" href="$classChibiOS_1_1Semaphore.html#afe45528a5225a2736da02cf613845769" title=" " alt="" coords="249,201,396,245"/>
+<area shape="rect" id="node9" href="$classAP__RCProtocol.html#a675b2cb022c16586407fa6cec152739b" title=" " alt="" coords="232,269,413,297"/>
+<area shape="rect" id="node3" href="$classChibiOS_1_1Semaphore.html#a3d32468b4916580646301fd236f396e7" title=" " alt="" coords="476,5,623,49"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="482,73,616,101"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="476,125,623,169"/>
+<area shape="rect" id="node5" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="685,73,784,101"/>
+<area shape="rect" id="node10" href="$classAP__RCProtocol__Backend.html#a2c6391db27937be3d95ad7d4c8f1a9f2" title=" " alt="" coords="462,261,636,305"/>
+</map>

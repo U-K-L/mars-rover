@@ -1,0 +1,6 @@
+<map id="AP_RangeFinder_Backend::min_distance_cm" name="AP_RangeFinder_Backend::min_distance_cm">
+<area shape="rect" id="node1" title=" " alt="" coords="262,73,445,117"/>
+<area shape="rect" id="node2" href="$classRangeFinder.html#ac1da703167f0657f1977366c6eba2bef" title=" " alt="" coords="17,5,202,49"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#ab2fdac71e912e61b3c6130bf41352bdb" title=" " alt="" coords="5,73,214,117"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__RangeFinder.html#a4662aa96bde386a3bb0f43b6a8c95008" title=" " alt="" coords="16,141,202,185"/>
+</map>

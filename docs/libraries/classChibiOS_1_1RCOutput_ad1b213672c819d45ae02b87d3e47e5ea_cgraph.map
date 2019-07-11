@@ -1,0 +1,11 @@
+<map id="ChibiOS::RCOutput::safety_update" name="ChibiOS::RCOutput::safety_update">
+<area shape="rect" id="node1" title=" " alt="" coords="6,125,151,169"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="223,5,332,33"/>
+<area shape="rect" id="node4" href="$classAP__BoardConfig.html#ae36cdd39a41717b869676cf2353fbf04" title=" " alt="" coords="204,57,351,101"/>
+<area shape="rect" id="node5" href="$classAP__BoardConfig.html#a508dc22bb5e92c8046e70e3ca1d3c211" title=" " alt="" coords="204,125,351,169"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="200,193,354,237"/>
+<area shape="rect" id="node7" href="$classChibiOS_1_1RCOutput.html#a87afc652b42b435de46db2eaf6590b6a" title=" " alt="" coords="205,261,350,305"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="456,5,544,33"/>
+<area shape="rect" id="node8" href="$classAP__BoardConfig.html#a88fafdbccbeac097961a7cf64993530f" title=" " alt="" coords="431,226,569,270"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Util.html#a19cbaa06e0e8804d1669deacf5ad6081" title=" " alt="" coords="403,294,597,338"/>
+</map>

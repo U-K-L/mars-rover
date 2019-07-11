@@ -1,0 +1,6 @@
+<map id="GCS_MAVLINK::timesync_receive_timestamp_ns" name="GCS_MAVLINK::timesync_receive_timestamp_ns">
+<area shape="rect" id="node1" title=" " alt="" coords="6,35,181,79"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a050efe232fa3e0106e5576ccc2538bd3" title=" " alt="" coords="230,5,421,49"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="258,73,392,101"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="469,73,568,101"/>
+</map>

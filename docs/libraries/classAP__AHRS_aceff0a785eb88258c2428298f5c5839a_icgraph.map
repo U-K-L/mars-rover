@@ -1,0 +1,10 @@
+<map id="AP_AHRS::get_yaw_rate_earth" name="AP_AHRS::get_yaw_rate_earth">
+<area shape="rect" id="node1" title=" " alt="" coords="466,73,638,117"/>
+<area shape="rect" id="node2" href="$classAR__AttitudeControl.html#a0de698ede9f5ef351a8e4944937fd0cf" title=" " alt="" coords="271,5,406,49"/>
+<area shape="rect" id="node3" href="$classAP__SteerController.html#aaf42965b867c847976199bb550f7a529" title=" " alt="" coords="259,73,418,117"/>
+<area shape="rect" id="node6" href="$classAR__AttitudeControl.html#a1fc75455078aaf1f936c483013f96a2b" title=" " alt="" coords="259,141,418,185"/>
+<area shape="rect" id="node4" href="$classAP__SteerController.html#a6285aeb38fd5614ecd53ae0b83d162ba" title=" " alt="" coords="14,5,202,49"/>
+<area shape="rect" id="node5" href="$classAP__SteerController.html#a58fa2b841c4507318c4560ff237b4db9" title=" " alt="" coords="6,73,210,117"/>
+<area shape="rect" id="node7" href="$classAR__AttitudeControl.html#aedb2c49f989bc820c8df3a01f8c4d780" title=" " alt="" coords="14,141,202,185"/>
+<area shape="rect" id="node8" href="$classAR__AttitudeControl.html#abf916c52557e5fab8099983f346c256f" title=" " alt="" coords="17,209,199,253"/>
+</map>

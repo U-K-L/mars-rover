@@ -1,0 +1,12 @@
+<map id="AP_Logger::Write_Attitude" name="AP_Logger::Write_Attitude">
+<area shape="rect" id="node1" title=" " alt="" coords="5,117,184,145"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="249,5,383,33"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a7be6cecc012fbd1984f4c6c19ffd6997" title=" " alt="" coords="265,57,367,85"/>
+<area shape="rect" id="node6" href="$classAP__AHRS__NavEKF.html#a2eaa5292c27559525eee7894bb1dab99" title=" " alt="" coords="233,109,399,153"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__NavEKF.html#a9e93c8ec48c59534bb3e930d8ced51fd" title=" " alt="" coords="233,177,399,221"/>
+<area shape="rect" id="node10" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="237,245,395,273"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="505,5,604,33"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title=" " alt="" coords="515,57,595,85"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__DCM.html#a1ca06750a14844318a38274c8a919022" title=" " alt="" coords="454,117,656,145"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__DCM.html#a4e1228a5c498b05c9342608ab97f2785" title=" " alt="" coords="448,185,662,213"/>
+</map>

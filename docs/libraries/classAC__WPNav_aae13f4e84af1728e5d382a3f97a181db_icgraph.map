@@ -1,0 +1,5 @@
+<map id="AC_WPNav::get_slow_down_speed" name="AC_WPNav::get_slow_down_speed">
+<area shape="rect" id="node1" title="get_slow_down_speed &#45; returns target speed of target point based on distance from the destination (in..." alt="" coords="464,5,616,49"/>
+<area shape="rect" id="node2" href="$classAC__WPNav.html#a603ec5c1a7654ccd9a227565cdbee275" title="advance_wp_target_along_track &#45; move target location along track from origin to destination" alt="" coords="241,5,415,49"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="5,13,192,41"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AP_OSD_Screen::draw_gps_longitude" name="AP_OSD_Screen::draw_gps_longitude">
+<area shape="rect" id="node1" title=" " alt="" coords="6,49,167,93"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="267,5,335,33"/>
+<area shape="rect" id="node4" href="$classAP__GPS.html#a14652c171d9c34d23f22f23b1ab04d12" title=" " alt="" coords="237,57,365,85"/>
+<area shape="rect" id="node5" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="216,109,386,137"/>
+<area shape="rect" id="node3" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="435,5,597,33"/>
+</map>

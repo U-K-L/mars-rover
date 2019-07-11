@@ -1,0 +1,13 @@
+<map id="ToshibaLED_I2C::hw_init" name="ToshibaLED_I2C::hw_init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,217,176,245"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a8153774ecb8d07a14cb0eeac74ce6211" title=" " alt="" coords="224,5,418,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="247,73,396,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title=" " alt="" coords="248,141,394,185"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title=" " alt="" coords="243,209,399,253"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="479,329,628,373"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1I2CDevice.html#a5d6a208d57d47068884af3a4fb90f1a2" title=" " alt="" coords="234,329,409,373"/>
+<area shape="rect" id="node11" href="$classToshibaLED__I2C.html#ac6ef8261fdfea20117f3dfb1a040efd3" title=" " alt="" coords="238,397,404,425"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title=" " alt="" coords="480,179,626,223"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="467,247,640,275"/>
+<area shape="rect" id="node7" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="688,187,739,215"/>
+</map>

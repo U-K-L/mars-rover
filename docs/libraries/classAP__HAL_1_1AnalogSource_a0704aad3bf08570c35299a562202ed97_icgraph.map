@@ -1,0 +1,7 @@
+<map id="AP_HAL::AnalogSource::voltage_average_ratiometric" name="AP_HAL::AnalogSource::voltage_average_ratiometric">
+<area shape="rect" id="node1" title=" " alt="" coords="448,73,645,117"/>
+<area shape="rect" id="node2" href="$classAP__Airspeed__Analog.html#a6e7b989caea71bd6000bb3b0f0d80e0e" title=" " alt="" coords="224,5,400,49"/>
+<area shape="rect" id="node3" href="$classAP__WindVane__Analog.html#abf5c904e8b216c4da12243a9476eeb82" title=" " alt="" coords="234,73,390,117"/>
+<area shape="rect" id="node4" href="$classAP__RangeFinder__analog.html#a79298166e180b5de2cf9f7c9dbcf56ea" title=" " alt="" coords="226,141,398,185"/>
+<area shape="rect" id="node5" href="$classAP__RangeFinder__analog.html#abfc8bd429dabb04f5fc400865a6e4d3a" title=" " alt="" coords="5,141,176,185"/>
+</map>

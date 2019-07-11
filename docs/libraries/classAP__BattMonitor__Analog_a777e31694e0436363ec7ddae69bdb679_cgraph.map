@@ -1,0 +1,5 @@
+<map id="AP_BattMonitor_Analog::has_consumed_energy" name="AP_BattMonitor_Analog::has_consumed_energy">
+<area shape="rect" id="node1" title="returns true if battery monitor provides consumed energy info" alt="" coords="6,5,173,49"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Analog.html#af999d244a878a1b4a163d5d0cadf16d2" title="returns true if battery monitor provides current info" alt="" coords="222,5,386,49"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__Params.html#a401e9b141c1337d938290611e33d8e29" title=" " alt="" coords="435,5,603,49"/>
+</map>

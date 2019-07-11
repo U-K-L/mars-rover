@@ -1,0 +1,17 @@
+<map id="AP_InertialSensor_Backend::_inc_accel_error_count" name="AP_InertialSensor_Backend::_inc_accel_error_count">
+<area shape="rect" id="node1" title=" " alt="" coords="806,175,994,219"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__LSM9DS1.html#ad8dbb3016484df97f0a6bea9c459a59d" title=" " alt="" coords="550,5,746,49"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__LSM9DS0.html#a517db16a43fdfa7fa31615d07b225474" title=" " alt="" coords="550,73,746,117"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__Invensensev2.html#ab84dd20ba16c9dfa083abd36f9cdca03" title=" " alt="" coords="539,141,757,185"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__Invensense.html#a352da0427395f10fd6a9da9ec3a498ec" title=" " alt="" coords="546,209,750,253"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor__BMI055.html#a6dbe6f1d68b5a91b8e620c5841685756" title=" " alt="" coords="557,277,739,321"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor__BMI088.html#acc980e77c533f281fb5013ef538166a7" title=" " alt="" coords="557,345,739,389"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM9DS1.html#a2adca5a3291b333dc9f4938a1093224c" title=" " alt="" coords="283,5,480,49"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__LSM9DS0.html#a1fa1189f7920f61d52d526f779be3d8f" title=" " alt="" coords="283,73,480,117"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Invensensev2.html#a3086048ea1829e14d7dd5e9f42d646a8" title=" " alt="" coords="272,141,491,185"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Invensensev2.html#aabef6fa96d268997a2921d8e0563d34c" title=" " alt="" coords="5,141,224,185"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__Invensense.html#a645c1fd527303dde9031b31544bbce6b" title=" " alt="" coords="279,209,484,253"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor__Invensense.html#ad54c13370e4efffcfa2c0eece9b53239" title=" " alt="" coords="12,209,217,253"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor__BMI055.html#a21d17eb17effa4f110bfce7ed5edfbb4" title=" " alt="" coords="290,277,472,321"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor__BMI088.html#a0710f2f2daabadacdff9b1dbe46d1541" title=" " alt="" coords="290,345,472,389"/>
+</map>

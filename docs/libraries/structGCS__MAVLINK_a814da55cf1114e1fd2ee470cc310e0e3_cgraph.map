@@ -1,0 +1,10 @@
+<map id="GCS_MAVLINK::send_battery2" name="GCS_MAVLINK::send_battery2">
+<area shape="rect" id="node1" title=" " alt="" coords="6,141,213,169"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="320,13,408,41"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a919b4b473883ce5282efa1e126b2b7ff" title=" " alt="" coords="290,65,438,109"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor.html#a686b822215badd97a701bf3d391e95c0" title="has_current &#45; returns true if battery monitor instance provides current info" alt="" coords="292,133,436,177"/>
+<area shape="rect" id="node7" href="$classAP__BattMonitor.html#a280ff28558f03d85c6090321287bdd77" title="current_amps &#45; returns the instantaneous current draw in amperes" alt="" coords="262,201,466,229"/>
+<area shape="rect" id="node8" href="$classAP__BattMonitor.html#a03394a700753687bbb87632743cc2bb3" title="voltage &#45; returns battery voltage in millivolts" alt="" coords="281,253,447,281"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="532,5,673,49"/>
+<area shape="rect" id="node6" href="$classAP__BattMonitor__Backend.html#a7c777a6ffefabc4c241a98ddb5be1350" title="returns true if battery monitor instance provides current info" alt="" coords="516,133,690,177"/>
+</map>

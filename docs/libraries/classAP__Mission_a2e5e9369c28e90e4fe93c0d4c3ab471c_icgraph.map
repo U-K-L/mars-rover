@@ -1,0 +1,7 @@
+<map id="AP_Mission::get_current_nav_cmd" name="AP_Mission::get_current_nav_cmd">
+<area shape="rect" id="node1" title="get_current_nav_cmd &#45; returns the current &quot;navigation&quot; command" alt="" coords="387,73,554,117"/>
+<area shape="rect" id="node2" href="$classAP__AdvancedFailsafe.html#a017a878d56457eea9bd9a59c07b92190" title=" " alt="" coords="186,5,339,49"/>
+<area shape="rect" id="node3" href="$classMissionItemProtocol__Waypoints.html#ab90a684c44ab37cf249d731c52da5bcc" title=" " alt="" coords="188,73,337,117"/>
+<area shape="rect" id="node4" href="$classAP__Landing.html#a4cb652398231c274e6061aa6b211366b" title=" " alt="" coords="193,141,332,185"/>
+<area shape="rect" id="node5" href="$classAP__Landing.html#a23d5d937afe630bfa1d3eeea5d767e4b" title=" " alt="" coords="5,141,139,185"/>
+</map>

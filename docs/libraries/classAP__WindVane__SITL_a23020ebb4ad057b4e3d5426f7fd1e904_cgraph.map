@@ -1,0 +1,12 @@
+<map id="AP_WindVane_SITL::update_direction" name="AP_WindVane_SITL::update_direction">
+<area shape="rect" id="node1" title=" " alt="" coords="6,49,197,93"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ab2991c8a02a28bf52b0aba35d9c3bc2f" title=" " alt="" coords="306,5,369,33"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="305,57,370,85"/>
+<area shape="rect" id="node5" href="$classAP__WindVane__Backend.html#aac7b73c8d9f55a93eea4292ea2005171" title=" " alt="" coords="245,109,429,153"/>
+<area shape="rect" id="node3" href="$classSITL_1_1SITL.html#a87fb3ad26e06907baf3e3e6fe7ce3faf" title=" " alt="" coords="478,5,650,33"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="522,57,606,85"/>
+<area shape="rect" id="node7" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title=" " alt="" coords="499,109,629,153"/>
+<area shape="rect" id="node8" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="492,177,636,205"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title=" " alt="" coords="529,229,599,257"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title=" " alt="" coords="699,229,776,257"/>
+</map>

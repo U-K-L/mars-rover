@@ -1,0 +1,4 @@
+<map id="AC_Fence::check_fence_polygon" name="AC_Fence::check_fence_polygon">
+<area shape="rect" id="node1" title="check_fence_polygon &#45; true if polygon fence has been newly breached" alt="" coords="182,5,349,49"/>
+<area shape="rect" id="node2" href="$classAC__Fence.html#abedc694a31751eb8ebc2d72c35cb89e7" title="check &#45; returns the fence type that has been breached (if any)" alt="" coords="6,13,133,41"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GCS_MAVLINK::handle_rc_bind" name="GCS_MAVLINK::handle_rc_bind">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,168,49"/>
+<area shape="rect" id="node2" href="$classRC__Channels.html#af71de44b3d11d95c2d8bfc5d6b429c48" title=" " alt="" coords="216,13,408,41"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1RCInput.html#a31482267ba9d73c26fa2332b1595328b" title=" " alt="" coords="457,13,637,41"/>
+</map>

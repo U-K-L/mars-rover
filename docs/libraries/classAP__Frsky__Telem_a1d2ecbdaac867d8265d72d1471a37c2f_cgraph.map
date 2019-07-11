@@ -1,0 +1,32 @@
+<map id="AP_Frsky_Telem::send_SPort" name="AP_Frsky_Telem::send_SPort">
+<area shape="rect" id="node1" title=" " alt="" coords="6,391,165,435"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="529,17,602,45"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1BetterStream.html#afb6a4e5c487187fe31387e834b784213" title=" " alt="" coords="237,135,395,179"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html#ab0193c7791fd95eb2bfbfd6597bdf6d8" title=" " alt="" coords="237,203,395,247"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1BetterStream.html#a65082ecb994170fc6d2a7ff2bcc301a7" title=" " alt="" coords="237,271,395,315"/>
+<area shape="rect" id="node7" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="272,339,360,367"/>
+<area shape="rect" id="node9" href="$classAP__Frsky__Telem.html#ad990138e15c63b3398944af22e89844b" title=" " alt="" coords="237,391,395,435"/>
+<area shape="rect" id="node14" href="$classAP__BattMonitor.html#afdc523c75aff5beed8f8e34a33c8736d" title="capacity_remaining_pct &#45; returns the % battery capacity remaining (0 ~ 100)" alt="" coords="230,459,402,503"/>
+<area shape="rect" id="node18" href="$classAP__BattMonitor.html#a03394a700753687bbb87632743cc2bb3" title="voltage &#45; returns battery voltage in millivolts" alt="" coords="233,527,399,555"/>
+<area shape="rect" id="node19" href="$classAP__BattMonitor.html#a280ff28558f03d85c6090321287bdd77" title="current_amps &#45; returns the instantaneous current draw in amperes" alt="" coords="214,579,418,607"/>
+<area shape="rect" id="node20" href="$classAP__Frsky__Telem.html#a3c2d1507eebd46226d888b656640f3e0" title=" " alt="" coords="239,683,393,727"/>
+<area shape="rect" id="node26" href="$classAP__Frsky__Telem.html#ae1da62072144b06dbb545bfaf9e37e59" title=" " alt="" coords="239,67,393,111"/>
+<area shape="rect" id="node21" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="531,608,599,636"/>
+<area shape="rect" id="node29" href="$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="295,772,337,800"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="723,17,893,45"/>
+<area shape="rect" id="node8" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="495,308,636,352"/>
+<area shape="rect" id="node10" href="$classAP__Frsky__Telem.html#ae275bd26952ce5ba1eda5650cc7bdcd1" title=" " alt="" coords="712,392,904,420"/>
+<area shape="rect" id="node13" href="$classAP__Frsky__Telem.html#a40947bbc812b8af55d8c01e41888cc11" title=" " alt="" coords="474,428,657,456"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="962,353,1121,397"/>
+<area shape="rect" id="node12" href="$classAP__Frsky__Telem.html#a276d82db4184b09f3c21934ed9a715b6" title=" " alt="" coords="952,421,1131,449"/>
+<area shape="rect" id="node15" href="$classAP__BattMonitor__Backend.html#a4fa5aa96a1b3731cc0640cf3375c3085" title="capacity_remaining_pct &#45; returns the % battery capacity remaining (0 ~ 100)" alt="" coords="478,480,652,524"/>
+<area shape="rect" id="node16" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="785,461,831,489"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="783,513,833,541"/>
+<area shape="rect" id="node23" href="$classAP__GPS.html#a14652c171d9c34d23f22f23b1ab04d12" title=" " alt="" coords="501,660,629,688"/>
+<area shape="rect" id="node24" href="$classAP__Frsky__Telem.html#abc4c87801d2f45cb403e304f2e94effd" title=" " alt="" coords="467,712,663,740"/>
+<area shape="rect" id="node25" href="$classAP__GPS.html#ae7f097588dd863d4624f6fec1509e0e6" title=" " alt="" coords="482,764,649,792"/>
+<area shape="rect" id="node22" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="727,608,889,636"/>
+<area shape="rect" id="node27" href="$classAP__AHRS.html#a861802533d7f8a91efc39425ac9c724f" title=" " alt="" coords="484,73,647,101"/>
+<area shape="rect" id="node28" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="490,125,640,153"/>
+<area shape="rect" id="node30" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="497,816,634,844"/>
+</map>

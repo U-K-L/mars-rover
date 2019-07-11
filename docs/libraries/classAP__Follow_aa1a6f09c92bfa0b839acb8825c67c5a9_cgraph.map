@@ -1,0 +1,9 @@
+<map id="AP_Follow::get_offsets_ned" name="AP_Follow::get_offsets_ned">
+<area shape="rect" id="node1" title=" " alt="" coords="5,65,192,93"/>
+<area shape="rect" id="node2" href="$classVector3.html#aadf732329f2fa584629151e8cb891707" title=" " alt="" coords="267,5,384,33"/>
+<area shape="rect" id="node3" href="$classAP__Follow.html#a55067724ab485e56c7b87e3654a81949" title=" " alt="" coords="249,57,402,101"/>
+<area shape="rect" id="node6" href="$classAP__Follow.html#a30868987a77235c95bf8828a7372b083" title=" " alt="" coords="240,125,410,153"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="459,65,568,93"/>
+<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="617,65,706,93"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="481,125,546,153"/>
+</map>

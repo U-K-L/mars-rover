@@ -1,0 +1,7 @@
+<map id="LoggerMessageWriter_WriteEntireMission::reset" name="LoggerMessageWriter_WriteEntireMission::reset">
+<area shape="rect" id="node1" title=" " alt="" coords="861,5,1013,65"/>
+<area shape="rect" id="node2" href="$classLoggerMessageWriter__DFLogStart.html#a3ad60d329f002214e3a40b36fb9f95ef" title=" " alt="" coords="661,13,813,57"/>
+<area shape="rect" id="node3" href="$classAP__Logger__Backend.html#a83b8480d85ac169849cbf96bddd3d73e" title=" " alt="" coords="459,5,613,65"/>
+<area shape="rect" id="node4" href="$classAP__Logger__MAVLink.html#ae9cfb8bd57cbba1a5b773515dd5e5d57" title=" " alt="" coords="256,13,411,57"/>
+<area shape="rect" id="node5" href="$classAP__Logger__MAVLink.html#ad05ad1c067f86340d01210187efe2979" title=" " alt="" coords="6,13,208,57"/>
+</map>

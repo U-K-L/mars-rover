@@ -1,0 +1,7 @@
+<map id="GCS_MAVLINK::handle_command_do_fence_enable" name="GCS_MAVLINK::handle_command_do_fence_enable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,203,67"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ad7eb5eb7d80cfbcb69839b497bff7a46" title=" " alt="" coords="278,5,357,33"/>
+<area shape="rect" id="node4" href="$classAC__Fence.html#a049ab67fd30dd133cbb24439173a9286" title="enable &#45; allows fence to be enabled/disabled. Note: this does not update the eeprom saved value" alt="" coords="251,57,383,85"/>
+<area shape="rect" id="node3" href="$classAC__Fence.html#a564e4d513a44df29b5bc6b0424aeedf8" title=" " alt="" coords="432,5,603,33"/>
+<area shape="rect" id="node5" href="$classAC__Fence.html#abffb87707643347f6bde6a085f5fec2a" title="clear_breach &#45; update breach bitmask, time and count" alt="" coords="433,57,602,85"/>
+</map>

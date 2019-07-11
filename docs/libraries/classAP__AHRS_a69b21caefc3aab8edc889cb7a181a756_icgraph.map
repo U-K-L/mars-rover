@@ -1,0 +1,30 @@
+<map id="AP_AHRS::get_velocity_NED" name="AP_AHRS::get_velocity_NED">
+<area shape="rect" id="node1" title=" " alt="" coords="1214,247,1410,275"/>
+<area shape="rect" id="node2" href="$lua__generated__bindings_8cpp.html#a9adb1ba85f9a62f61d8c6ad6ba4a6989" title=" " alt="" coords="950,51,1146,79"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a65fa8c7eb737862f78428a02ebedd535" title=" " alt="" coords="971,103,1125,147"/>
+<area shape="rect" id="node8" href="$classAP__Avoidance.html#abc8f1fe8366f6d24482fde3a87f49315" title=" " alt="" coords="973,171,1123,215"/>
+<area shape="rect" id="node10" href="$classAR__AttitudeControl.html#a329178791a21e75f4bb6a3336cd2fea3" title=" " alt="" coords="977,239,1119,283"/>
+<area shape="rect" id="node18" href="$classAP__AHRS__View.html#a71fba0fa37fe88f841b8f76379974809" title=" " alt="" coords="931,307,1165,335"/>
+<area shape="rect" id="node19" href="$classAP__TECS.html#a3031b248e419021c7ccc83bd0cddb387" title=" " alt="" coords="965,359,1131,387"/>
+<area shape="rect" id="node20" href="$classAP__AHRS.html#a7328e4bc4caf3cb87a16915edcde932e" title=" " alt="" coords="947,627,1149,655"/>
+<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#a9b833af29753a8113e5db32c27da7427" title=" " alt="" coords="709,5,867,49"/>
+<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title=" " alt="" coords="457,13,607,41"/>
+<area shape="rect" id="node6" href="$classAP__Frsky__Telem.html#adf5f82d6eff07cf44565ca062d13a75d" title=" " alt="" coords="203,13,349,41"/>
+<area shape="rect" id="node7" href="$classGCS.html#a114e9a61009d41f517a06646afe67d18" title=" " alt="" coords="6,13,133,41"/>
+<area shape="rect" id="node9" href="$classAP__Avoidance.html#a37059296c298d5f6d9a5fb11bab4d329" title=" " alt="" coords="710,73,866,101"/>
+<area shape="rect" id="node11" href="$classAR__AttitudeControl.html#aedb2c49f989bc820c8df3a01f8c4d780" title=" " alt="" coords="694,533,882,577"/>
+<area shape="rect" id="node12" href="$classAR__AttitudeControl.html#a0de698ede9f5ef351a8e4944937fd0cf" title=" " alt="" coords="720,125,856,169"/>
+<area shape="rect" id="node13" href="$classAR__AttitudeControl.html#a9aab31d9702c59bf0cd5dbfc8db2fc6b" title=" " alt="" coords="449,242,615,286"/>
+<area shape="rect" id="node14" href="$classAR__AttitudeControl.html#aa6d93dc014f5037bbcd88e96a392cc5e" title=" " alt="" coords="199,242,353,286"/>
+<area shape="rect" id="node15" href="$classAR__AttitudeControl.html#afc29228fde53e3229643ffe0108da06a" title=" " alt="" coords="717,299,859,359"/>
+<area shape="rect" id="node16" href="$classAR__WPNav.html#a537e00d4cacfe212829be555575c66f4" title=" " alt="" coords="206,430,346,458"/>
+<area shape="rect" id="node17" href="$classAR__WPNav.html#a06e03e3a27331e86b3817dca3f0167af" title=" " alt="" coords="436,362,628,406"/>
+<area shape="rect" id="node21" href="$classAP__AHRS.html#a6f06d92b5a60228c9e14ed04a52d6743" title=" " alt="" coords="719,653,857,681"/>
+<area shape="rect" id="node23" href="$classAP__AHRS.html#a6b7ca065135dc4f0c06879b6a5bca2db" title=" " alt="" coords="720,705,856,733"/>
+<area shape="rect" id="node24" href="$classAP__AHRS__DCM.html#aa8a135d6852e94f279c0be3c8206bfdd" title=" " alt="" coords="703,601,873,629"/>
+<area shape="rect" id="node22" href="$classAP__Logger.html#ab1d83e45eab24c1053261e389bdca9e3" title=" " alt="" coords="434,691,630,719"/>
+<area shape="rect" id="node25" href="$classAP__AHRS__NavEKF.html#a7ce0035d07be995b5f45ac6c711570ce" title=" " alt="" coords="419,626,645,654"/>
+<area shape="rect" id="node28" href="$ModuleTest_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="509,574,555,602"/>
+<area shape="rect" id="node26" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="182,626,370,654"/>
+<area shape="rect" id="node27" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="46,626,93,654"/>
+</map>

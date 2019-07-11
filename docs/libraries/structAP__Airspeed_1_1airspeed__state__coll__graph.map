@@ -1,0 +1,6 @@
+<map id="AP_Airspeed::airspeed_state" name="AP_Airspeed::airspeed_state">
+<area shape="rect" id="node1" title=" " alt="" coords="60,318,217,362"/>
+<area shape="rect" id="node2" href="$classAirspeed__Calibration.html" title=" " alt="" coords="66,225,211,253"/>
+<area shape="rect" id="node3" href="$classMatrix3.html" title=" " alt="" coords="5,131,117,159"/>
+<area shape="rect" id="node4" href="$classVector3.html" title=" " alt="" coords="75,6,189,34"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="syncfs" name="syncfs">
+<area shape="rect" id="node1" title="POSIX Sync pending file changes and metadata for specified fileno." alt="" coords="104,5,163,33"/>
+<area shape="rect" id="node2" href="$posix_8c.html#ac4fa2e6d36e97983d62b9377cc4f6c73" title="POSIX Sync all pending file changes and metadata on ALL files." alt="" coords="6,5,55,33"/>
+</map>

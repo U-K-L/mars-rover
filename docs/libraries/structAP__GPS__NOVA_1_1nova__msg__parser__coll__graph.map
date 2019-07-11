@@ -1,0 +1,9 @@
+<map id="AP_GPS_NOVA::nova_msg_parser" name="AP_GPS_NOVA::nova_msg_parser">
+<area shape="rect" id="node1" title=" " alt="" coords="638,46,826,90"/>
+<area shape="rect" id="node2" href="$unionAP__GPS__NOVA_1_1msgheader.html" title=" " alt="" coords="350,18,543,46"/>
+<area shape="rect" id="node3" href="$structAP__GPS__NOVA_1_1nova__header.html" title=" " alt="" coords="6,5,210,33"/>
+<area shape="rect" id="node4" href="$unionAP__GPS__NOVA_1_1msgbuffer.html" title=" " alt="" coords="354,95,539,123"/>
+<area shape="rect" id="node5" href="$structAP__GPS__NOVA_1_1psrdop.html" title=" " alt="" coords="24,57,192,85"/>
+<area shape="rect" id="node6" href="$structAP__GPS__NOVA_1_1bestpos.html" title=" " alt="" coords="21,109,195,137"/>
+<area shape="rect" id="node7" href="$structAP__GPS__NOVA_1_1bestvel.html" title=" " alt="" coords="24,161,192,189"/>
+</map>

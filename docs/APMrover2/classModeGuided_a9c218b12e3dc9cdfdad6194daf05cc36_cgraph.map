@@ -1,0 +1,8 @@
+<map id="ModeGuided::set_desired_heading_and_speed" name="ModeGuided::set_desired_heading_and_speed">
+<area shape="rect" id="node1" title=" " alt="" coords="6,65,180,109"/>
+<area shape="rect" id="node2" href="$classMode.html#a8d1a05e438a25fbe773c1ce3ad7c9872" title=" " alt="" coords="243,5,429,49"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="281,73,391,101"/>
+<area shape="rect" id="node4" href="$classRover.html#ada8b2c7652711aea7ba237201eb53328" title=" " alt="" coords="230,125,442,153"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="504,98,638,126"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="491,150,650,178"/>
+</map>

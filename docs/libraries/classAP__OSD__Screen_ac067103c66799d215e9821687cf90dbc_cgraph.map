@@ -1,0 +1,6 @@
+<map id="AP_OSD_Screen::draw_compass" name="AP_OSD_Screen::draw_compass">
+<area shape="rect" id="node1" title=" " alt="" coords="6,23,167,67"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="265,5,338,33"/>
+<area shape="rect" id="node4" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="216,57,386,85"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="435,5,605,33"/>
+</map>

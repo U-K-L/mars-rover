@@ -1,0 +1,10 @@
+<map id="AP_Logger::Write_RallyPoint" name="AP_Logger::Write_RallyPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="830,78,1024,106"/>
+<area shape="rect" id="node2" href="$classAP__Rally.html#a7d931e38aad349dec7ef42965f8d6a60" title=" " alt="" coords="648,70,781,114"/>
+<area shape="rect" id="node3" href="$classAP__Rally.html#a4659da1b7d085328ace76c58135d4795" title=" " alt="" coords="455,17,583,45"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#ae507720fd8a0a7f67bc8100a5ae55c40" title=" " alt="" coords="437,70,600,114"/>
+<area shape="rect" id="node8" href="$classMissionItemProtocol__Rally.html#abe4068697920da4db1b877e16e571c35" title=" " alt="" coords="448,138,590,182"/>
+<area shape="rect" id="node4" href="$classMissionItemProtocol__Rally.html#a037cd400cf6bdd35eb23d7e714b5d978" title=" " alt="" coords="231,5,374,49"/>
+<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a0cddddd51bc5ea4c137c1927d2e34d97" title=" " alt="" coords="216,73,389,117"/>
+<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,73,168,117"/>
+</map>

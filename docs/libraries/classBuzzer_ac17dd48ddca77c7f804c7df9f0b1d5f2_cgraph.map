@@ -1,0 +1,6 @@
+<map id="Buzzer::update_pattern_to_play" name="Buzzer::update_pattern_to_play">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,165,67"/>
+<area shape="rect" id="node2" href="$classBuzzer.html#a756d95f57935decea40b5df0f716dc07" title="play_pattern &#45; plays the defined buzzer pattern" alt="" coords="214,5,357,33"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="405,31,515,59"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="564,31,652,59"/>
+</map>

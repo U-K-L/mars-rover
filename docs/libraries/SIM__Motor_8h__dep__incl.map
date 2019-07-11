@@ -1,0 +1,13 @@
+<map id="libraries/SITL/SIM_Motor.h" name="libraries/SITL/SIM_Motor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="130,6,256,50"/>
+<area shape="rect" id="node2" href="$SIM__Frame_8h.html" title=" " alt="" coords="206,99,332,143"/>
+<area shape="rect" id="node11" href="$SIM__Motor_8cpp.html" title=" " alt="" coords="55,99,181,143"/>
+<area shape="rect" id="node4" href="$SIM__Multicopter_8h.html" title=" " alt="" coords="307,193,433,237"/>
+<area shape="rect" id="node9" href="$SIM__Submarine_8h.html" title=" " alt="" coords="4,193,131,237"/>
+<area shape="rect" id="node3" href="$SIM__Frame_8cpp.html" title=" " alt="" coords="156,193,283,237"/>
+<area shape="rect" id="node5" href="$SITL__cmdline_8cpp.html" title=" " alt="" coords="190,379,348,423"/>
+<area shape="rect" id="node6" href="$SIM__Multicopter_8cpp.html" title=" " alt="" coords="307,286,433,330"/>
+<area shape="rect" id="node7" href="$SIM__QuadPlane_8h.html" title=" " alt="" coords="458,286,584,330"/>
+<area shape="rect" id="node8" href="$SIM__QuadPlane_8cpp.html" title=" " alt="" coords="458,379,584,423"/>
+<area shape="rect" id="node10" href="$SIM__Submarine_8cpp.html" title=" " alt="" coords="104,286,231,330"/>
+</map>

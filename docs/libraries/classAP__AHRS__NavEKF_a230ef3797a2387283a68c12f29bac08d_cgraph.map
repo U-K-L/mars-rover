@@ -1,0 +1,9 @@
+<map id="AP_AHRS_NavEKF::prearm_failure_reason" name="AP_AHRS_NavEKF::prearm_failure_reason">
+<area shape="rect" id="node1" title=" " alt="" coords="6,73,196,117"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="246,17,445,45"/>
+<area shape="rect" id="node4" href="$classNavEKF2.html#aa2c14b8532c5fa9fdf42372938bbd574" title=" " alt="" coords="259,73,431,117"/>
+<area shape="rect" id="node6" href="$classNavEKF3.html#a2a960b89853091ee365325b9cf514dff" title=" " alt="" coords="259,141,431,185"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="494,5,682,49"/>
+<area shape="rect" id="node5" href="$classNavEKF2__core.html#a4549665128b8b1b5988fa8308f8a77b7" title=" " alt="" coords="507,73,669,117"/>
+<area shape="rect" id="node7" href="$classNavEKF3__core.html#aae08c43b03a3b37ea48df1fbbc989cfc" title=" " alt="" coords="507,141,669,185"/>
+</map>

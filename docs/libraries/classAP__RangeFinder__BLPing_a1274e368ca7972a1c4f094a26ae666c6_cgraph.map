@@ -1,0 +1,10 @@
+<map id="AP_RangeFinder_BLPing::get_reading" name="AP_RangeFinder_BLPing::get_reading">
+<area shape="rect" id="node1" title=" " alt="" coords="6,141,180,185"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1BetterStream.html#afb6a4e5c487187fe31387e834b784213" title=" " alt="" coords="238,5,397,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#a65082ecb994170fc6d2a7ff2bcc301a7" title=" " alt="" coords="238,73,397,117"/>
+<area shape="rect" id="node4" href="$classAP__RangeFinder__BLPing.html#a981d5d495152b6a11e06fb3932df1359" title=" " alt="" coords="230,141,404,185"/>
+<area shape="rect" id="node5" href="$classAP__RangeFinder__Backend.html#a9ee50edf2273437704ca0bd1f133c575" title=" " alt="" coords="454,166,637,210"/>
+<area shape="rect" id="node6" href="$classAP__RangeFinder__BLPing.html#aec5f258dc6ced45f9fbdfa5624219f05" title=" " alt="" coords="230,261,404,305"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1BetterStream.html#ab0193c7791fd95eb2bfbfd6597bdf6d8" title=" " alt="" coords="466,247,625,291"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="466,315,625,359"/>
+</map>

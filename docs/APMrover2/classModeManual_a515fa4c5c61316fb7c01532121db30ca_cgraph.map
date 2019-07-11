@@ -1,0 +1,23 @@
+<map id="ModeManual::update" name="ModeManual::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,443,152,471"/>
+<area shape="rect" id="node2" href="$classMode.html#a140243f12d97a099a604f0a8e4b68d21" title=" " alt="" coords="217,130,380,174"/>
+<area shape="rect" id="node9" href="$classMode.html#a0b42727ef8ffee505a877ec00119884d" title=" " alt="" coords="217,45,380,89"/>
+<area shape="rect" id="node10" href="$classRover.html#a9a7e3a45cefcd29348b819d4c9acc24c" title=" " alt="" coords="225,577,372,605"/>
+<area shape="rect" id="node11" href="$classRover.html#ab1104c89e6257fa36c5ef3aa5b7889cc" title=" " alt="" coords="216,405,381,449"/>
+<area shape="rect" id="node17" href="$classAP__MotorsUGV.html#a0bba981606c09e5759b6f3c653e1f2aa" title=" " alt="" coords="200,275,397,303"/>
+<area shape="rect" id="node18" href="$classAP__MotorsUGV.html#ad51931763e093262c254c2338e92f813" title=" " alt="" coords="204,473,393,501"/>
+<area shape="rect" id="node20" href="$classAP__MotorsUGV.html#ad962f64af80f94519b7e5de9f2973046" title=" " alt="" coords="201,629,397,657"/>
+<area shape="rect" id="node21" href="$classAP__MotorsUGV.html#a32f1794ebf9887243f5c869bfbe834d3" title=" " alt="" coords="206,525,391,553"/>
+<area shape="rect" id="node3" href="$classMode.html#ae375582a325860ccd91fd2e245e020c1" title=" " alt="" coords="467,57,616,85"/>
+<area shape="rect" id="node7" href="$classAP__MotorsUGV.html#aa5d7f743ab1b268aa6693444bfcb973c" title=" " alt="" coords="453,161,629,205"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#a8b6f71a42818d74fd8bfe348108942fa" title=" " alt="" coords="736,109,824,137"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channel.html#a0ab5f98f5d0bf4afc3f8a55591303e79" title=" " alt="" coords="686,5,874,33"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channel.html#a031c25af427b9dccbd5454eefe55de2a" title=" " alt="" coords="694,57,866,85"/>
+<area shape="rect" id="node8" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="726,279,834,307"/>
+<area shape="rect" id="node12" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a3a8d396a989538f6525de3b76afec8eb" title=" " alt="" coords="447,331,636,359"/>
+<area shape="rect" id="node13" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="500,383,583,411"/>
+<area shape="rect" id="node14" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelRateControl.html#abeb9b9be42b6018addae7c3931dbcb79" title=" " alt="" coords="464,435,619,479"/>
+<area shape="rect" id="node15" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a53d18a4c340562ae7a614cca2c7c5cb7" title=" " alt="" coords="446,503,636,531"/>
+<area shape="rect" id="node16" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a47e559a2d86de77ef1ce3513f5ce159e" title=" " alt="" coords="446,555,637,599"/>
+<area shape="rect" id="node19" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="464,675,618,719"/>
+</map>

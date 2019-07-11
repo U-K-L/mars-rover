@@ -1,0 +1,27 @@
+<map id="AP_Follow::get_target_dist_and_vel_ned" name="AP_Follow::get_target_dist_and_vel_ned">
+<area shape="rect" id="node1" title=" " alt="" coords="5,331,158,375"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="262,5,335,33"/>
+<area shape="rect" id="node4" href="$classAP__Follow.html#aa79db4ba4457dd052a1ebbf078e566e3" title=" " alt="" coords="217,57,380,101"/>
+<area shape="rect" id="node5" href="$classAP__Follow.html#a8d2d6665e4af0c15852fa4e2d45bfced" title=" " alt="" coords="221,245,377,289"/>
+<area shape="rect" id="node13" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="224,365,374,393"/>
+<area shape="rect" id="node14" href="$classLocation.html#a77ca1da10b7da6216bb6cf1253ed3dfc" title=" " alt="" coords="441,401,631,429"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="257,417,340,445"/>
+<area shape="rect" id="node16" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="244,469,354,497"/>
+<area shape="rect" id="node17" href="$classAP__Follow.html#ad94d85336b964a9880dfc6bd8a5582ae" title=" " alt="" coords="221,125,377,169"/>
+<area shape="rect" id="node21" href="$classAP__Follow.html#aa1a6f09c92bfa0b839acb8825c67c5a9" title=" " alt="" coords="205,193,392,221"/>
+<area shape="rect" id="node23" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="267,521,331,549"/>
+<area shape="rect" id="node24" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title=" " alt="" coords="261,573,337,601"/>
+<area shape="rect" id="node25" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="279,625,318,653"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="451,5,621,33"/>
+<area shape="rect" id="node6" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="692,189,801,217"/>
+<area shape="rect" id="node8" href="$classAP__Follow.html#ae82262899ace4bfc6f1b2b73f8f2667e" title=" " alt="" coords="440,297,632,325"/>
+<area shape="rect" id="node9" href="$classLocation.html#a02afc332b5f374b923aa57ec0a63c1af" title=" " alt="" coords="480,349,592,377"/>
+<area shape="rect" id="node7" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="862,189,951,217"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title=" " alt="" coords="711,341,782,369"/>
+<area shape="rect" id="node11" href="$classLocation.html#aa23d345c5562140fb21682f9cc0cc247" title=" " alt="" coords="680,393,813,437"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="882,401,932,429"/>
+<area shape="rect" id="node18" href="$classAP__Follow.html#a55067724ab485e56c7b87e3654a81949" title=" " alt="" coords="460,125,612,169"/>
+<area shape="rect" id="node19" href="$classAP__Follow.html#a30868987a77235c95bf8828a7372b083" title=" " alt="" coords="451,73,621,101"/>
+<area shape="rect" id="node20" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="714,73,779,101"/>
+<area shape="rect" id="node22" href="$classVector3.html#aadf732329f2fa584629151e8cb891707" title=" " alt="" coords="478,193,594,221"/>
+</map>

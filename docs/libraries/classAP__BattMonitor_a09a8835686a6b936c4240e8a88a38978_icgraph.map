@@ -1,0 +1,5 @@
+<map id="AP_BattMonitor::has_consumed_energy" name="AP_BattMonitor::has_consumed_energy">
+<area shape="rect" id="node1" title="has_consumed_energy &#45; returns true if battery monitor instance provides consumed energy info" alt="" coords="254,39,397,83"/>
+<area shape="rect" id="node2" href="$lua__generated__bindings_8cpp.html#ac5846cefc5b5f67bb94db358b5f2c6e1" title=" " alt="" coords="34,5,177,49"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#af61ae80fb30fc8bb0fbf7ede1e47dfb0" title=" " alt="" coords="5,73,205,117"/>
+</map>

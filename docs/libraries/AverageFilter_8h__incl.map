@@ -1,0 +1,6 @@
+<map id="libraries/Filter/AverageFilter.h" name="libraries/Filter/AverageFilter.h">
+<area shape="rect" id="node1" title="A class to provide the average of a number of samples." alt="" coords="4,6,157,50"/>
+<area shape="rect" id="node2" href="$FilterClass_8h.html" title="A pure virtual interface class." alt="" coords="34,177,128,205"/>
+<area shape="rect" id="node4" href="$FilterWithBuffer_8h.html" title="A filter with a buffer. This is implemented separately to the base Filter class to get around restric..." alt="" coords="69,99,192,127"/>
+<area shape="rect" id="node3" title=" " alt="" coords="42,254,120,282"/>
+</map>

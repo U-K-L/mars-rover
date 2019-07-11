@@ -1,0 +1,9 @@
+<map id="AP_BattMonitor_Sum" name="AP_BattMonitor_Sum">
+<area shape="rect" id="node1" title=" " alt="" coords="291,305,440,333"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Backend.html" title=" " alt="" coords="189,211,363,239"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html" title=" " alt="" coords="64,305,179,333"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__Params.html" title=" " alt="" coords="76,110,244,138"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,7,157,35"/>
+<area shape="rect" id="node6" href="$structAP__BattMonitor_1_1BattMonitor__State.html" title=" " alt="" coords="292,102,481,146"/>
+<area shape="rect" id="node7" href="$structAP__BattMonitor_1_1cells.html" title=" " alt="" coords="312,7,460,35"/>
+</map>

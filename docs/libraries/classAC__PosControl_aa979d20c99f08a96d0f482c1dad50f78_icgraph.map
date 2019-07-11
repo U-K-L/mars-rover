@@ -1,0 +1,12 @@
+<map id="AC_PosControl::freeze_ff_z" name="AC_PosControl::freeze_ff_z">
+<area shape="rect" id="node1" title="freeze_ff_z &#45; used to stop the feed forward being calculated during a known discontinuity" alt="" coords="867,149,1053,177"/>
+<area shape="rect" id="node2" href="$classAC__PosControl.html#abd590af4985586d33e4623adf76e7536" title="init_takeoff &#45; initialises target altitude if we are taking off" alt="" coords="656,5,794,49"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#add9f8e5a5f3e35c0e99ddc3af4d9090b" title="shift altitude target (positive means move altitude up)" alt="" coords="653,73,798,117"/>
+<area shape="rect" id="node8" href="$classAC__WPNav.html#a7ebe48af2381e791cbcdea94c7af2e3e" title=" " alt="" coords="646,141,804,185"/>
+<area shape="rect" id="node9" href="$classAC__WPNav.html#acc138e7bc6435087ab308896358de6a3" title="update_spline &#45; update spline controller" alt="" coords="634,209,817,237"/>
+<area shape="rect" id="node10" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="632,261,819,289"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#a6e28625ae3a633cd363c467f71d089a3" title="check for ekf position reset and adjust loiter or brake target position" alt="" coords="428,73,583,117"/>
+<area shape="rect" id="node5" href="$classAC__PosControl.html#af9c555a3b07ea1420ea28e7333379941" title="update_z_controller &#45; fly to altitude in cm above home" alt="" coords="217,73,378,117"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#a4acc8cd7285895654901011106aeab6d" title=" " alt="" coords="6,42,167,86"/>
+<area shape="rect" id="node7" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="21,110,152,138"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="AP_HAL::AnalogIn::channel" name="AP_HAL::AnalogIn::channel">
+<area shape="rect" id="node1" title=" " alt="" coords="261,251,448,279"/>
+<area shape="rect" id="node2" href="$classAP__Airspeed__Analog.html#a5c252488d777999a0584da40e91a506f" title=" " alt="" coords="32,5,187,49"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__Analog.html#a5366468b336c045e8e1e6fee6bb4a423" title="Constructor." alt="" coords="24,73,195,117"/>
+<area shape="rect" id="node4" href="$classAP__LeakDetector__Analog.html#a4b27043e35f59470681a1956f6a6c210" title=" " alt="" coords="18,141,200,185"/>
+<area shape="rect" id="node5" href="$classAP__RangeFinder__analog.html#a589dd759f93a9b6c9e505cd441bcda3a" title=" " alt="" coords="20,209,199,253"/>
+<area shape="rect" id="node6" href="$classAP__WindVane__Analog.html#a13e1af9f7d07bcf65887d3dd73b5d5ae" title=" " alt="" coords="28,277,191,321"/>
+<area shape="rect" id="node7" href="$classAP__WindVane__ModernDevice.html#a63e7b43a704ef83eb5a6ed854101114f" title=" " alt="" coords="5,345,213,389"/>
+<area shape="rect" id="node8" href="$classAP__RSSI.html#aff812b5ec77566214ad7cb69a2eef47c" title=" " alt="" coords="58,413,160,441"/>
+<area shape="rect" id="node9" href="$examples_2AnalogIn_2AnalogIn_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="82,465,136,493"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AP_Baro_BMP085::_calculate" name="AP_Baro_BMP085::_calculate">
+<area shape="rect" id="node1" title=" " alt="" coords="6,73,207,101"/>
+<area shape="rect" id="node2" href="$classAP__Baro__Backend.html#adf46bf795e1e13967264596cf4faadd7" title=" " alt="" coords="257,42,471,70"/>
+<area shape="rect" id="node5" href="$classAverageIntegralFilter.html#a65320d5fb00373066cce8a9806a8bbd7" title=" " alt="" coords="292,94,436,138"/>
+<area shape="rect" id="node3" href="$classAP__Baro.html#a0f2f5b99445cb04a204cbf48819d82c0" title=" " alt="" coords="520,5,653,49"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="555,73,619,101"/>
+</map>

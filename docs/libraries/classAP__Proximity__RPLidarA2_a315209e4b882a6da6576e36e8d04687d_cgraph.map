@@ -1,0 +1,6 @@
+<map id="AP_Proximity_RPLidarA2::set_scan_mode" name="AP_Proximity_RPLidarA2::set_scan_mode">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,179,79"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="227,5,386,49"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="252,73,361,101"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="436,73,524,101"/>
+</map>

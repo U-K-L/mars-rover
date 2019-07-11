@@ -1,0 +1,10 @@
+<map id="AP_Beacon_Backend::correct_for_orient_yaw" name="AP_Beacon_Backend::correct_for_orient_yaw">
+<area shape="rect" id="node1" title=" " alt="" coords="670,86,829,130"/>
+<area shape="rect" id="node2" href="$classAP__Beacon__Backend.html#a55194b951171c21ece82dfc9099e0bfa" title=" " alt="" coords="462,51,621,95"/>
+<area shape="rect" id="node8" href="$classAP__Beacon__Backend.html#a87ef3331478a5d6c121765effef8f5eb" title=" " alt="" coords="462,119,621,163"/>
+<area shape="rect" id="node3" href="$classAP__Beacon__Marvelmind.html#ae8841124cf75e3338507e5bf0f922455" title=" " alt="" coords="241,5,410,65"/>
+<area shape="rect" id="node5" href="$classAP__Beacon__Pozyx.html#aaca9b9889a48ea1b5ec1b2fef27edc36" title=" " alt="" coords="237,89,413,133"/>
+<area shape="rect" id="node7" href="$classAP__Beacon__SITL.html#a3dd010c532343e10c4718060d95c0c08" title=" " alt="" coords="238,157,413,185"/>
+<area shape="rect" id="node4" href="$classAP__Beacon__Marvelmind.html#a65a9954ae6545c32e87e8b041161c4f8" title=" " alt="" coords="13,13,181,57"/>
+<area shape="rect" id="node6" href="$classAP__Beacon__Pozyx.html#ad0c69e4bcb923339a0cc222cf6eabeb4" title=" " alt="" coords="5,97,189,125"/>
+</map>

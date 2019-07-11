@@ -1,0 +1,10 @@
+<map id="AP_Proximity::get_orientation" name="AP_Proximity::get_orientation">
+<area shape="rect" id="node1" title=" " alt="" coords="771,65,968,93"/>
+<area shape="rect" id="node2" href="$classAP__Proximity__MAV.html#a830cc5ddf2120082f362a6484a02837c" title=" " alt="" coords="507,5,723,33"/>
+<area shape="rect" id="node3" href="$classAP__Proximity__RPLidarA2.html#a386bb0ee595ccdb99c8f575c94c5bd8e" title=" " alt="" coords="528,57,701,101"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__LightWareSF40C.html#a4e52a344292dc303a19d5a89edf3c799" title=" " alt="" coords="514,125,715,169"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__RPLidarA2.html#ad0a0a5cef56f41a5d56c699499acd419" title=" " alt="" coords="271,57,444,101"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__RPLidarA2.html#a1be65ea5dc6fcc4790bdca6c0d704ee8" title=" " alt="" coords="20,57,193,101"/>
+<area shape="rect" id="node7" href="$classAP__Proximity__LightWareSF40C.html#ad1302483409899abe3a4812e7b81bf8c" title=" " alt="" coords="257,125,458,169"/>
+<area shape="rect" id="node8" href="$classAP__Proximity__LightWareSF40C.html#ad07c8775f2bfddc5bcb84736a157d1a8" title=" " alt="" coords="6,125,207,169"/>
+</map>

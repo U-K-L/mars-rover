@@ -1,0 +1,21 @@
+<map id="SParser" name="SParser">
+<area shape="rect" id="node1" title=" " alt="" coords="511,918,580,946"/>
+<area shape="rect" id="node2" href="$structDyndata.html" title=" " alt="" coords="330,713,400,741"/>
+<area shape="rect" id="node3" href="$structLabellist.html" title=" " alt="" coords="237,587,307,615"/>
+<area shape="rect" id="node4" href="$structLabeldesc.html" title=" " alt="" coords="231,421,312,449"/>
+<area shape="rect" id="node5" href="$structTString.html" title=" " alt="" coords="104,222,168,250"/>
+<area shape="rect" id="node13" href="$structstringtable.html" title=" " alt="" coords="5,421,88,449"/>
+<area shape="rect" id="node12" href="$structglobal__State.html" title=" " alt="" coords="424,587,519,615"/>
+<area shape="rect" id="node6" href="$structVardesc.html" title=" " alt="" coords="331,587,399,615"/>
+<area shape="rect" id="node7" href="$structZio.html" title=" " alt="" coords="525,823,564,851"/>
+<area shape="rect" id="node8" href="$structlua__State.html" title=" " alt="" coords="676,713,753,741"/>
+<area shape="rect" id="node18" href="$structCallInfo.html" title=" " alt="" coords="723,823,788,851"/>
+<area shape="rect" id="node9" href="$structUpVal.html" title=" " alt="" coords="694,169,751,197"/>
+<area shape="rect" id="node10" href="$structlua__TValue.html" title=" " alt="" coords="547,6,633,34"/>
+<area shape="rect" id="node15" href="$structNode.html" title=" " alt="" coords="483,222,535,250"/>
+<area shape="rect" id="node16" href="$unionTKey.html" title=" " alt="" coords="564,115,616,143"/>
+<area shape="rect" id="node14" href="$structTable.html" title=" " alt="" coords="393,421,445,449"/>
+<area shape="rect" id="node11" href="$structlua__longjmp.html" title=" " alt="" coords="773,587,865,615"/>
+<area shape="rect" id="node17" href="$structGCObject.html" title=" " alt="" coords="560,222,639,250"/>
+<area shape="rect" id="node19" href="$structMbuffer.html" title=" " alt="" coords="590,823,655,851"/>
+</map>

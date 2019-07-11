@@ -1,0 +1,26 @@
+<map id="AP_Motors::get_throttle" name="AP_Motors::get_throttle">
+<area shape="rect" id="node1" title=" " alt="" coords="875,455,1037,483"/>
+<area shape="rect" id="node2" href="$classAC__PosControl.html#abd590af4985586d33e4623adf76e7536" title="init_takeoff &#45; initialises target altitude if we are taking off" alt="" coords="668,5,806,49"/>
+<area shape="rect" id="node3" href="$classAP__MotorsMatrixTS.html#ab59e83167f9e74ad1f5576a09c40fc2b" title=" " alt="" coords="653,73,822,117"/>
+<area shape="rect" id="node4" href="$classAP__MotorsTailsitter.html#a77524bd10bf916c603d20f9baf871fc1" title=" " alt="" coords="649,141,826,185"/>
+<area shape="rect" id="node5" href="$classAP__MotorsSingle.html#ae143d0ad4b95db4a228e3767c79224b5" title=" " alt="" coords="653,209,822,253"/>
+<area shape="rect" id="node6" href="$classAP__MotorsCoax.html#a6036d8d3fd2948640fd0d7461c4475cd" title=" " alt="" coords="656,277,819,321"/>
+<area shape="rect" id="node7" href="$classAP__MotorsTri.html#a4aad996948123d2d8caecb7de264ebc1" title=" " alt="" coords="664,345,811,389"/>
+<area shape="rect" id="node8" href="$classAP__MotorsMatrix.html#a08dfb63192b28d8480871171c4db6a90" title=" " alt="" coords="653,413,821,457"/>
+<area shape="rect" id="node9" href="$classAP__MotorsHeli.html#af9a8373c52a44382d0286efc792f52d5" title=" " alt="" coords="660,481,815,525"/>
+<area shape="rect" id="node11" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title=" " alt="" coords="660,549,815,593"/>
+<area shape="rect" id="node12" href="$classAP__MotorsMulticopter.html#aa257b38145c98531f69e438af3158489" title=" " alt="" coords="660,685,814,729"/>
+<area shape="rect" id="node19" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title=" " alt="" coords="660,617,815,661"/>
+<area shape="rect" id="node20" href="$classAP__MotorsMulticopter.html#a5f8d52cbd1cd93c53f81767a3ad3d3bf" title=" " alt="" coords="661,753,814,797"/>
+<area shape="rect" id="node21" href="$classAP__MotorsMulticopter.html#a68d153ba3fa9271287856cf4aaa0fcac" title=" " alt="" coords="658,821,817,865"/>
+<area shape="rect" id="node22" href="$classAP__Logger.html#a0739b99fb9eb211dae48bc7ccb1d9c31" title=" " alt="" coords="656,889,818,917"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli.html#ab9f72dd9a10890cdd5b284c339b5a043" title=" " alt="" coords="445,557,600,585"/>
+<area shape="rect" id="node13" href="$classAP__MotorsMulticopter.html#ae711bfb73844f124fb762c39cd01e060" title=" " alt="" coords="446,719,599,763"/>
+<area shape="rect" id="node14" href="$classAP__MotorsMulticopter.html#a5c1f9a311308cd7a28bb800b5ef071de" title=" " alt="" coords="245,690,398,734"/>
+<area shape="rect" id="node16" href="$AP__Motors__test_8cpp.html#a1f08b35b02317dc83a8acfc5e1861364" title=" " alt="" coords="266,758,376,786"/>
+<area shape="rect" id="node15" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="122,698,176,726"/>
+<area shape="rect" id="node17" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="102,758,197,786"/>
+<area shape="rect" id="node18" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,758,53,786"/>
+<area shape="rect" id="node23" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="447,881,599,925"/>
+<area shape="rect" id="node24" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="256,889,387,917"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ChibiOS::I2CBus::clear_bus" name="ChibiOS::I2CBus::clear_bus">
+<area shape="rect" id="node1" title=" " alt="" coords="601,43,788,71"/>
+<area shape="rect" id="node2" href="$classChibiOS_1_1I2CDevice.html#a21a03f46d6b4c8d603df4a71a93a65b2" title=" " alt="" coords="393,5,533,49"/>
+<area shape="rect" id="node4" href="$classChibiOS_1_1I2CBus.html#aab8555f70bcaceb49f6d26f92a8b3af6" title=" " alt="" coords="373,73,552,101"/>
+<area shape="rect" id="node3" href="$classChibiOS_1_1I2CDevice.html#acda87a68781e50471e6e8c20a7ec0541" title=" " alt="" coords="185,5,325,49"/>
+<area shape="rect" id="node5" href="$HAL__ChibiOS__Class_8cpp.html#a32dd350155f53d60b3b6287564e845d8" title=" " alt="" coords="213,73,296,101"/>
+<area shape="rect" id="node6" href="$classHAL__ChibiOS.html#a732667c7826ffcd77727c599a2e2969a" title=" " alt="" coords="5,73,136,101"/>
+</map>

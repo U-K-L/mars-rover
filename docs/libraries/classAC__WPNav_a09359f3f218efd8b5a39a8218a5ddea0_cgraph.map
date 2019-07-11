@@ -1,0 +1,4 @@
+<map id="AC_WPNav::get_roll" name="AC_WPNav::get_roll">
+<area shape="rect" id="node1" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="6,5,149,33"/>
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a4498c0bee3dee94a8b098d5ee513df09" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="198,5,362,33"/>
+</map>

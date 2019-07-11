@@ -1,0 +1,7 @@
+<map id="AP_AHRS_View::get_gyro_latest" name="AP_AHRS_View::get_gyro_latest">
+<area shape="rect" id="node1" title=" " alt="" coords="229,123,408,167"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#ae23959f7f64068fed032553f5d66eeb9" title=" " alt="" coords="26,5,161,65"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Sub.html#ac2c2aeb7080b1e40eb19d005e14513b6" title=" " alt="" coords="7,89,179,133"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Heli.html#a5f1a3e763623f247c1cb72d8fb35645d" title=" " alt="" coords="8,157,179,201"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl__Multi.html#af304b91ae160b32aa4cd1de9c872b798" title=" " alt="" coords="5,225,181,269"/>
+</map>

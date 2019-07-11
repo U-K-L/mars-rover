@@ -1,0 +1,11 @@
+<map id="AP_Rally::get_rally_max" name="AP_Rally::get_rally_max">
+<area shape="rect" id="node1" title=" " alt="" coords="838,43,1005,71"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#ae507720fd8a0a7f67bc8100a5ae55c40" title=" " alt="" coords="437,5,600,49"/>
+<area shape="rect" id="node5" href="$classMissionItemProtocol__Rally.html#a0fc7ab325863b3e500b5f2a1480020b3" title=" " alt="" coords="648,35,789,79"/>
+<area shape="rect" id="node6" href="$classAP__Rally.html#a7d931e38aad349dec7ef42965f8d6a60" title=" " alt="" coords="652,103,785,147"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a0cddddd51bc5ea4c137c1927d2e34d97" title=" " alt="" coords="216,5,389,49"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,5,168,49"/>
+<area shape="rect" id="node7" href="$classAP__Rally.html#a4659da1b7d085328ace76c58135d4795" title=" " alt="" coords="455,95,583,123"/>
+<area shape="rect" id="node9" href="$classMissionItemProtocol__Rally.html#abe4068697920da4db1b877e16e571c35" title=" " alt="" coords="448,147,590,191"/>
+<area shape="rect" id="node8" href="$classMissionItemProtocol__Rally.html#a037cd400cf6bdd35eb23d7e714b5d978" title=" " alt="" coords="231,87,374,131"/>
+</map>

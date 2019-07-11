@@ -1,0 +1,12 @@
+<map id="GCS_MAVLINK_Rover::send_pid_tuning" name="GCS_MAVLINK_Rover::send_pid_tuning">
+<area shape="rect" id="node1" title=" " alt="" coords="5,245,171,289"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="270,5,343,33"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a3b15bba5bc072e3ea9d7b595fd9cfd35" title=" " alt="" coords="228,57,386,101"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAC__PID.html#a76473622105f65e201cd106f127d220c" title=" " alt="" coords="232,125,381,153"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#aceff0a785eb88258c2428298f5c5839a" title=" " alt="" coords="221,177,392,221"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a8a151b72c407d3e2f5d51d44ba3bf86a" title=" " alt="" coords="224,245,389,289"/>
+<area shape="rect" id="node7" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a329178791a21e75f4bb6a3336cd2fea3" title=" " alt="" coords="235,313,378,357"/>
+<area shape="rect" id="node8" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a2d313517d6f23ff3de73009148c35c43" title=" " alt="" coords="219,381,394,425"/>
+<area shape="rect" id="node9" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelRateControl.html#af9c89cf629cd8a58ee6ed531bc750a82" title=" " alt="" coords="229,449,384,493"/>
+<area shape="rect" id="node10" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a91c631283b9d4ee09989e43ce12b4bdb" title=" " alt="" coords="227,517,386,561"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="AP_Rally::find_nearest_rally_point" name="AP_Rally::find_nearest_rally_point">
+<area shape="rect" id="node1" title=" " alt="" coords="6,147,162,191"/>
+<area shape="rect" id="node2" href="$classAP__Rally.html#a728713781ee97d3d18aa3e6a798e21e6" title=" " alt="" coords="225,27,359,71"/>
+<area shape="rect" id="node5" href="$classAP__Rally.html#ad0fa2bf50adadcd2c32aa2da3a08d2ef" title=" " alt="" coords="211,117,373,161"/>
+<area shape="rect" id="node9" href="$classLocation.html#a9e973101205763fabc1c9e65ec3ae41d" title=" " alt="" coords="215,185,369,213"/>
+<area shape="rect" id="node14" href="$classAP__Rally.html#a1663d1947b69eb467541366951385ef9" title=" " alt="" coords="228,237,356,265"/>
+<area shape="rect" id="node3" href="$classStorageAccess.html#abb169f592c849f2158a48615c8dee90a" title=" " alt="" coords="425,5,570,49"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title=" " alt="" coords="626,5,787,49"/>
+<area shape="rect" id="node6" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="461,73,534,101"/>
+<area shape="rect" id="node8" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="422,125,572,153"/>
+<area shape="rect" id="node7" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="622,73,792,101"/>
+<area shape="rect" id="node10" href="$classLocation.html#aa23d345c5562140fb21682f9cc0cc247" title=" " alt="" coords="431,177,564,221"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a45fe9f81332c93a04d1fdbcf0bc89c29" title=" " alt="" coords="471,245,523,273"/>
+<area shape="rect" id="node11" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="682,185,732,213"/>
+<area shape="rect" id="node13" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="687,245,726,273"/>
+</map>

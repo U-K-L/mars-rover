@@ -1,0 +1,10 @@
+<map id="AP_AK09916_BusDriver_HALDevice" name="AP_AK09916_BusDriver_HALDevice">
+<area shape="rect" id="node1" title=" " alt="" coords="60,475,227,519"/>
+<area shape="rect" id="node2" href="$classAP__AK09916__BusDriver.html" title=" " alt="" coords="4,374,171,402"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1OwnPtr.html" title=" " alt="" coords="196,366,348,410"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDevice.html" title=" " alt="" coords="201,273,343,301"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html" title=" " alt="" coords="212,193,332,221"/>
+<area shape="rect" id="node6" href="$structAP__HAL_1_1Device_1_1checkreg.html" title=" " alt="" coords="116,99,297,127"/>
+<area shape="rect" id="node7" href="$unionAP__HAL_1_1Device_1_1DeviceId.html" title=" " alt="" coords="322,99,501,127"/>
+<area shape="rect" id="node8" href="$structAP__HAL_1_1Device_1_1DeviceStructure.html" title=" " alt="" coords="301,6,523,34"/>
+</map>

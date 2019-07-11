@@ -1,0 +1,7 @@
+<map id="AP_MotorsMulticopter::update_throttle_filter" name="AP_MotorsMulticopter::update_throttle_filter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,158,119"/>
+<area shape="rect" id="node2" href="$classAP__Motors.html#a67a133570ae075a874c6522b23c5261b" title=" " alt="" coords="211,5,344,33"/>
+<area shape="rect" id="node3" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="205,57,350,85"/>
+<area shape="rect" id="node4" href="$classLowPassFilter.html#a34bc75aa770bc6cc0facee3b43a05bec" title=" " alt="" coords="212,109,343,137"/>
+<area shape="rect" id="node5" href="$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title=" " alt="" coords="206,161,348,189"/>
+</map>

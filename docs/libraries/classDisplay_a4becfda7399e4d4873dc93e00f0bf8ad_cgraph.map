@@ -1,0 +1,10 @@
+<map id="Display::update_battery" name="Display::update_battery">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,167,85"/>
+<area shape="rect" id="node2" href="$stdio_8h.html#a37c1e8ce8a2b411fa666dc33972a2cec" title=" " alt="" coords="249,5,314,33"/>
+<area shape="rect" id="node3" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="238,57,325,85"/>
+<area shape="rect" id="node5" href="$classDisplay.html#ac03add33133d8384bae206c8d44108b7" title=" " alt="" coords="216,110,346,138"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="395,46,536,90"/>
+<area shape="rect" id="node6" href="$classDisplay.html#a479e21ab6f7524849a7d1592dc5f9a95" title=" " alt="" coords="398,114,533,142"/>
+<area shape="rect" id="node7" href="$classDisplay__Backend.html#a58a0fd14153dfb0e3a513c230104862e" title=" " alt="" coords="589,71,739,115"/>
+<area shape="rect" id="node8" href="$classDisplay__Backend.html#a79d80eb1f6591c6e4bc9991145b8271f" title=" " alt="" coords="584,139,744,183"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AP_Mount_Backend::rate_input_rad" name="AP_Mount_Backend::rate_input_rad">
+<area shape="rect" id="node1" title=" " alt="" coords="491,75,664,119"/>
+<area shape="rect" id="node2" href="$classAP__Mount__Backend.html#ab4be0d28626c019ba59dc179f728c9c9" title=" " alt="" coords="251,75,442,119"/>
+<area shape="rect" id="node3" href="$classAP__Mount__Alexmos.html#a1c501a1afd6025356b70bf130982ba24" title=" " alt="" coords="9,5,199,33"/>
+<area shape="rect" id="node4" href="$classAP__Mount__Servo.html#a4e46d4c891b157986810f9fba8eb69c6" title=" " alt="" coords="17,57,191,85"/>
+<area shape="rect" id="node5" href="$classAP__Mount__SToRM32.html#ae445341f9ca88faccc1daa53efb66f1e" title=" " alt="" coords="5,109,203,137"/>
+<area shape="rect" id="node6" href="$classAP__Mount__SToRM32__serial.html#a6fbcffbed86302ab7ddfa4ddf2786c2a" title=" " alt="" coords="10,161,198,205"/>
+</map>

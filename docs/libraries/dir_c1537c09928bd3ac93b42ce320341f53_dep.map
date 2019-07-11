@@ -1,0 +1,16 @@
+<map id="libraries/AP_UAVCAN/examples" name="libraries/AP_UAVCAN/examples">
+<area shape="rect" id="node2" href="dir_897bcfcc602b677bd939653a11f9b6df.html" title="UAVCAN_sniffer" alt="" coords="106,64,224,112"/>
+<area shape="rect" id="node3" href="dir_1cbc10423b2512b31103883361e0123b.html" title="AP_HAL" alt="" coords="129,160,201,208"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000193_000061.html" title="1" alt="" coords="170,134,177,150"/>
+<area shape="rect" id="node4" href="dir_498c8457c5f0ddd4ec603971505dced8.html" title="AP_HAL_ChibiOS" alt="" coords="5,256,133,304"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000193_000062.html" title="1" alt="" coords="87,233,95,249"/>
+<area shape="rect" id="node5" href="dir_df3f4256615fd4197927a84a019a8bd8.html" title="AP_Common" alt="" coords="134,352,233,400"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000193_000037.html" title="1" alt="" coords="204,329,211,345"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000061_000062.html" title="6" alt="" coords="100,241,107,257"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000061_000037.html" title="10" alt="" coords="173,324,188,340"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000062_000061.html" title="37" alt="" coords="123,208,138,224"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000062_000037.html" title="1" alt="" coords="144,326,151,342"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000037_000061.html" title="3" alt="" coords="165,220,172,236"/>
+<area shape="rect" id="clust2" href="dir_c1537c09928bd3ac93b42ce320341f53.html" alt="" coords="95,53,337,123"/>
+<area shape="rect" id="clust1" href="dir_c69c2c05c1eb04cd32ac07fd30c3cc00.html" title="AP_UAVCAN" alt="" coords="84,16,348,133"/>
+</map>

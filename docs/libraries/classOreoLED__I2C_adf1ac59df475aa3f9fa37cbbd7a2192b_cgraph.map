@@ -1,0 +1,8 @@
+<map id="OreoLED_I2C::handle_led_control" name="OreoLED_I2C::handle_led_control">
+<area shape="rect" id="node1" title=" " alt="" coords="5,17,158,61"/>
+<area shape="rect" id="node2" href="$classOreoLED__I2C.html#a8ed937c497632b9fc47fea7b8c5ea766" title=" " alt="" coords="653,6,795,50"/>
+<area shape="rect" id="node4" href="$classOreoLED__I2C.html#aa3af69030758b36d861457192f37df80" title=" " alt="" coords="215,25,372,53"/>
+<area shape="rect" id="node5" href="$classOreoLED__I2C.html#a44b46d81cf72a1ace97a023c6637ea72" title=" " alt="" coords="206,77,381,105"/>
+<area shape="rect" id="node3" href="$structOreoLED__I2C_1_1oreo__state.html#add104a73d43db08a0c5832d56f1820be" title=" " alt="" coords="843,6,1018,50"/>
+<area shape="rect" id="node6" href="$structOreoLED__I2C_1_1oreo__state.html#a1949920d597a5af68c4148815532e37e" title=" " alt="" coords="430,46,605,90"/>
+</map>

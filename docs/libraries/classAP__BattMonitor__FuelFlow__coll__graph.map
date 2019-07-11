@@ -1,0 +1,10 @@
+<map id="AP_BattMonitor_FuelFlow" name="AP_BattMonitor_FuelFlow">
+<area shape="rect" id="node1" title=" " alt="" coords="63,321,239,349"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Backend.html" title=" " alt="" coords="205,219,379,247"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html" title=" " alt="" coords="369,321,484,349"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__Params.html" title=" " alt="" coords="431,110,599,138"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="524,7,676,35"/>
+<area shape="rect" id="node6" href="$structAP__BattMonitor_1_1BattMonitor__State.html" title=" " alt="" coords="214,102,404,146"/>
+<area shape="rect" id="node7" href="$structAP__BattMonitor_1_1cells.html" title=" " alt="" coords="235,7,383,35"/>
+<area shape="rect" id="node8" href="$structAP__BattMonitor__FuelFlow_1_1IrqState.html" title=" " alt="" coords="5,211,181,255"/>
+</map>

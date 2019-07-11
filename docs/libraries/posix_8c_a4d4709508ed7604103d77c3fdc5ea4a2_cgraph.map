@@ -1,0 +1,6 @@
+<map id="rename" name="rename">
+<area shape="rect" id="node1" title="POSIX rename a file by name." alt="" coords="5,31,72,59"/>
+<area shape="rect" id="node2" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="153,5,191,33"/>
+<area shape="rect" id="node4" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="120,57,224,85"/>
+<area shape="rect" id="node3" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="272,5,464,33"/>
+</map>

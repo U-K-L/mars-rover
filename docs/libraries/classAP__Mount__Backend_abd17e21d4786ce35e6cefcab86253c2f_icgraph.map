@@ -1,0 +1,7 @@
+<map id="AP_Mount_Backend::handle_mount_control" name="AP_Mount_Backend::handle_mount_control">
+<area shape="rect" id="node1" title=" " alt="" coords="891,5,1082,49"/>
+<area shape="rect" id="node2" href="$classAP__Mount.html#aa81a8b139a52a6907f6837a96097ae4a" title="Control the mount (depends on the previously set mount configuration)" alt="" coords="667,5,842,49"/>
+<area shape="rect" id="node3" href="$classAP__Mount.html#ad8e2f48359bbe22f2e513b1845139366" title=" " alt="" coords="426,13,619,41"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a37e07887edf8f4f5c8ee0cd38ddc9a11" title=" " alt="" coords="216,5,379,49"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,5,168,49"/>
+</map>

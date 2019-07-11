@@ -1,0 +1,7 @@
+<map id="AP_Mount_SToRM32::find_gimbal" name="AP_Mount_SToRM32::find_gimbal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,184,71"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="260,5,369,33"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#af6800df234ecb0befbc006466c6ec4c6" title=" " alt="" coords="232,57,397,101"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="477,5,566,33"/>
+<area shape="rect" id="node5" href="$classMAVLink__routing.html#a8af5bcd0789c598b02b39c0b07f25a97" title=" " alt="" coords="446,57,597,101"/>
+</map>

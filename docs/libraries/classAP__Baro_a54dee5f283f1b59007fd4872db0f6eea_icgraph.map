@@ -1,0 +1,11 @@
+<map id="AP_Baro::get_altitude_difference" name="AP_Baro::get_altitude_difference">
+<area shape="rect" id="node1" title=" " alt="" coords="558,65,709,109"/>
+<area shape="rect" id="node2" href="$classAP__AdvancedFailsafe.html#afcae077373d7958b1dba0ebc6c25d61b" title=" " alt="" coords="332,5,484,49"/>
+<area shape="rect" id="node4" href="$classAP__ADSB.html#a5fc91d1889d6ad20d7d2fe27a2eef084" title=" " alt="" coords="307,73,509,101"/>
+<area shape="rect" id="node6" href="$classAP__Baro.html#a51144302ade095d22cafe8fa4928fd29" title=" " alt="" coords="347,125,469,153"/>
+<area shape="rect" id="node3" href="$classAP__AdvancedFailsafe.html#a017a878d56457eea9bd9a59c07b92190" title=" " alt="" coords="106,5,259,49"/>
+<area shape="rect" id="node5" href="$classAP__ADSB.html#ab8305f5d3238ab9efff026ed1e6dc283" title=" " alt="" coords="117,73,248,101"/>
+<area shape="rect" id="node7" href="$classAP__Baro.html#abd4110392c9cc5e59b143dd4cb2b5800" title=" " alt="" coords="116,125,249,153"/>
+<area shape="rect" id="node9" href="$BARO__generic_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="159,177,206,205"/>
+<area shape="rect" id="node8" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,125,59,153"/>
+</map>

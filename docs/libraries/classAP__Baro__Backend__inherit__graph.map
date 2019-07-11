@@ -1,0 +1,14 @@
+<map id="AP_Baro_Backend" name="AP_Baro_Backend">
+<area shape="rect" id="node1" title=" " alt="" coords="6,265,140,293"/>
+<area shape="rect" id="node2" href="$classAP__Baro__BMP085.html" title=" " alt="" coords="195,5,328,33"/>
+<area shape="rect" id="node3" href="$classAP__Baro__BMP280.html" title=" " alt="" coords="195,57,328,85"/>
+<area shape="rect" id="node4" href="$classAP__Baro__DPS280.html" title=" " alt="" coords="195,109,327,137"/>
+<area shape="rect" id="node5" href="$classAP__Baro__FBM320.html" title=" " alt="" coords="195,161,328,189"/>
+<area shape="rect" id="node6" href="$classAP__Baro__HIL.html" title=" " alt="" coords="210,213,313,241"/>
+<area shape="rect" id="node7" href="$classAP__Baro__ICM20789.html" title=" " alt="" coords="190,265,333,293"/>
+<area shape="rect" id="node8" href="$classAP__Baro__KellerLD.html" title=" " alt="" coords="195,317,328,345"/>
+<area shape="rect" id="node9" href="$classAP__Baro__LPS2XH.html" title=" " alt="" coords="195,369,328,397"/>
+<area shape="rect" id="node10" href="$classAP__Baro__MS56XX.html" title=" " alt="" coords="194,421,329,449"/>
+<area shape="rect" id="node11" href="$classAP__Baro__SITL.html" title=" " alt="" coords="206,473,316,501"/>
+<area shape="rect" id="node12" href="$classAP__Baro__UAVCAN.html" title=" " alt="" coords="193,525,330,553"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Rover::balancebot_pitch_control" name="Rover::balancebot_pitch_control">
+<area shape="rect" id="node1" title=" " alt="" coords="5,139,171,183"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a3a8d396a989538f6525de3b76afec8eb" title=" " alt="" coords="220,5,409,33"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="273,57,356,85"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelRateControl.html#abeb9b9be42b6018addae7c3931dbcb79" title=" " alt="" coords="237,109,392,153"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a53d18a4c340562ae7a614cca2c7c5cb7" title=" " alt="" coords="220,177,410,205"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="261,229,369,257"/>
+<area shape="rect" id="node7" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a47e559a2d86de77ef1ce3513f5ce159e" title=" " alt="" coords="219,281,410,325"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AP_Airspeed" name="AP_Airspeed">
+<area shape="rect" id="node1" title=" " alt="" coords="204,427,303,455"/>
+<area shape="rect" id="node3" href="$classAP__Airspeed__Backend.html" title=" " alt="" coords="174,521,332,549"/>
+<area shape="rect" id="node2" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,326,157,354"/>
+<area shape="rect" id="node4" href="$structAP__Airspeed_1_1airspeed__state.html" title=" " alt="" coords="294,318,452,362"/>
+<area shape="rect" id="node5" href="$classAirspeed__Calibration.html" title=" " alt="" coords="301,225,445,253"/>
+<area shape="rect" id="node6" href="$classMatrix3.html" title=" " alt="" coords="239,131,352,159"/>
+<area shape="rect" id="node7" href="$classVector3.html" title=" " alt="" coords="309,6,424,34"/>
+</map>

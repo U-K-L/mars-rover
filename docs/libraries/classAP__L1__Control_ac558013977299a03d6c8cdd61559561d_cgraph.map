@@ -1,0 +1,6 @@
+<map id="AP_L1_Control::get_yaw_sensor" name="AP_L1_Control::get_yaw_sensor">
+<area shape="rect" id="node1" title=" " alt="" coords="6,5,144,49"/>
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a4e136782e86e2adaaf7f0f759067dfe1" title=" " alt="" coords="192,13,293,41"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title=" " alt="" coords="341,13,421,41"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title=" " alt="" coords="469,13,549,41"/>
+</map>

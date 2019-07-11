@@ -1,0 +1,8 @@
+<map id="AP_BattMonitor_SMBus_Maxell::check_pec_support" name="AP_BattMonitor_SMBus_Maxell::check_pec_support">
+<area shape="rect" id="node1" title=" " alt="" coords="6,39,196,83"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__SMBus.html#ac10f1791a37bbf796c42729b7540503d" title=" " alt="" coords="245,5,411,49"/>
+<area shape="rect" id="node6" href="$classAP__BattMonitor__SMBus__Maxell.html#a6424002c41cad061e13605cf52cc5560" title=" " alt="" coords="245,73,411,117"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="464,5,619,49"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor__SMBus.html#a2c925254f4b6953855c088faa0cd7421" title="get_PEC &#45; calculate packet error correction code of buffer" alt="" coords="459,73,624,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="672,13,845,41"/>
+</map>

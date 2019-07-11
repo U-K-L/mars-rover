@@ -1,0 +1,13 @@
+<map id="AP_Arming_Rover::gps_checks" name="AP_Arming_Rover::gps_checks">
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,166,239"/>
+<area shape="rect" id="node2" href="$classMode.html#ae5a240ec7efe2623eb88c68beda58a99" title=" " alt="" coords="228,5,391,33"/>
+<area shape="rect" id="node3" href="$classMode.html#a877262e51b58f132cb52c5977bf13c51" title=" " alt="" coords="228,57,390,85"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="273,109,346,137"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#ada49d3ea365a19d376d5a2cb14bcde45" title=" " alt="" coords="214,161,404,205"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a230ef3797a2387283a68c12f29bac08d" title=" " alt="" coords="214,229,404,273"/>
+<area shape="rect" id="node7" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Arming.html#a23895372c31458800735b5eb6ff28589" title=" " alt="" coords="224,297,394,325"/>
+<area shape="rect" id="node8" href="$classRover.html#af202d295a4f603e08d3c8cadce0bc98d" title=" " alt="" coords="231,349,388,377"/>
+<area shape="rect" id="node11" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Arming.html#a3e31fe40e0d7d0e6befd2f82dd6b5a6d" title=" " alt="" coords="226,401,393,429"/>
+<area shape="rect" id="node9" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#a5b4f593794f7c47d8b13ded289291a85" title=" " alt="" coords="454,323,650,351"/>
+<area shape="rect" id="node10" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title=" " alt="" coords="476,375,628,403"/>
+</map>

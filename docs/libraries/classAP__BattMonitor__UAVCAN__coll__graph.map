@@ -1,0 +1,12 @@
+<map id="AP_BattMonitor_UAVCAN" name="AP_BattMonitor_UAVCAN">
+<area shape="rect" id="node1" title=" " alt="" coords="876,67,1052,95"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Backend.html" title=" " alt="" coords="606,201,780,229"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html" title=" " alt="" coords="907,247,1021,275"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__Params.html" title=" " alt="" coords="321,343,489,371"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="16,291,168,319"/>
+<area shape="rect" id="node8" href="$classAP__UAVCAN.html" title=" " alt="" coords="355,38,456,66"/>
+<area shape="rect" id="node6" href="$structAP__BattMonitor_1_1BattMonitor__State.html" title=" " alt="" coords="310,123,500,167"/>
+<area shape="rect" id="node7" href="$structAP__BattMonitor_1_1cells.html" title=" " alt="" coords="18,131,166,159"/>
+<area shape="rect" id="node9" title=" " alt="" coords="14,6,170,34"/>
+<area shape="rect" id="node10" href="$structAP__UAVCAN_1_1led__device.html" title=" " alt="" coords="6,58,178,86"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AP_BoardConfig::watchdog_enabled" name="AP_BoardConfig::watchdog_enabled">
+<area shape="rect" id="node1" title=" " alt="" coords="379,65,565,109"/>
+<area shape="rect" id="node2" href="$classChibiOS_1_1Scheduler.html#a66d207ecd5b9d48df9546c3248929464" title=" " alt="" coords="192,5,331,49"/>
+<area shape="rect" id="node4" href="$HAL__ChibiOS__Class_8cpp.html#a32dd350155f53d60b3b6287564e845d8" title=" " alt="" coords="220,73,303,101"/>
+<area shape="rect" id="node6" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title=" " alt="" coords="207,125,316,153"/>
+<area shape="rect" id="node3" href="$classChibiOS_1_1Scheduler.html#a241ba4fe05070acba40af09beb5d65fc" title=" " alt="" coords="5,5,144,49"/>
+<area shape="rect" id="node5" href="$classHAL__ChibiOS.html#a732667c7826ffcd77727c599a2e2969a" title=" " alt="" coords="9,73,140,101"/>
+</map>

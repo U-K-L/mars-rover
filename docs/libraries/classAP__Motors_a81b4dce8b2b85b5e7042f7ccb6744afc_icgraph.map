@@ -1,0 +1,9 @@
+<map id="AP_Motors::set_pitch" name="AP_Motors::set_pitch">
+<area shape="rect" id="node1" title=" " alt="" coords="449,157,597,185"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl__Heli.html#ae1e17847d017cc4f71e36397df689ddb" title=" " alt="" coords="232,5,392,65"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Sub.html#ac2c2aeb7080b1e40eb19d005e14513b6" title=" " alt="" coords="226,89,398,133"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#a5f1a3e763623f247c1cb72d8fb35645d" title=" " alt="" coords="5,81,176,125"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl__Multi.html#af304b91ae160b32aa4cd1de9c872b798" title=" " alt="" coords="224,209,400,253"/>
+<area shape="rect" id="node6" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="265,277,359,305"/>
+<area shape="rect" id="node7" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="67,277,114,305"/>
+</map>

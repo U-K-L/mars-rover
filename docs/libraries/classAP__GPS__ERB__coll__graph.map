@@ -1,0 +1,31 @@
+<map id="AP_GPS_ERB" name="AP_GPS_ERB">
+<area shape="rect" id="node1" title=" " alt="" coords="976,267,1085,295"/>
+<area shape="rect" id="node2" href="$classAP__GPS__Backend.html" title=" " alt="" coords="658,391,792,419"/>
+<area shape="rect" id="node6" href="$classAP__GPS.html" title=" " alt="" coords="993,513,1068,541"/>
+<area shape="rect" id="node3" href="$classJitterCorrection.html" title=" " alt="" coords="295,391,407,419"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="275,330,426,358"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="6,330,165,358"/>
+<area shape="rect" id="node7" href="$structAP__GPS_1_1detect__state.html" title=" " alt="" coords="648,755,803,783"/>
+<area shape="rect" id="node8" href="$structSBP__detect__state.html" title=" " alt="" coords="287,753,415,781"/>
+<area shape="rect" id="node9" href="$structUBLOX__detect__state.html" title=" " alt="" coords="277,805,424,833"/>
+<area shape="rect" id="node10" href="$structSIRF__detect__state.html" title=" " alt="" coords="285,857,417,885"/>
+<area shape="rect" id="node11" href="$structMTK19__detect__state.html" title=" " alt="" coords="278,909,423,937"/>
+<area shape="rect" id="node12" href="$structERB__detect__state.html" title=" " alt="" coords="286,961,415,989"/>
+<area shape="rect" id="node13" href="$structSBP2__detect__state.html" title=" " alt="" coords="283,597,418,625"/>
+<area shape="rect" id="node14" href="$structNMEA__detect__state.html" title=" " alt="" coords="281,649,421,677"/>
+<area shape="rect" id="node15" href="$structMTK__detect__state.html" title=" " alt="" coords="286,701,415,729"/>
+<area shape="rect" id="node16" href="$structAP__GPS_1_1GPS__timing.html" title=" " alt="" coords="649,595,802,623"/>
+<area shape="rect" id="node17" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="649,703,802,731"/>
+<area shape="rect" id="node18" href="$classVector3.html" title=" " alt="" coords="28,523,143,551"/>
+<area shape="rect" id="node21" href="$structAP__GPS_1_1GPS__State.html" title=" " alt="" coords="276,467,425,495"/>
+<area shape="rect" id="node19" href="$structVector2.html" title=" " alt="" coords="668,807,783,835"/>
+<area shape="rect" id="node20" href="$structAP__GPS_1_1rtcm__buffer.html" title=" " alt="" coords="651,254,800,282"/>
+<area shape="rect" id="node22" href="$classLocation.html" title=" " alt="" coords="49,453,121,481"/>
+<area shape="rect" id="node23" href="$unionAP__GPS__ERB_1_1PACKED.html" title=" " alt="" coords="640,163,811,191"/>
+<area shape="rect" id="node24" href="$structAP__GPS__ERB_1_1erb__pos.html" title=" " alt="" coords="268,111,433,139"/>
+<area shape="rect" id="node25" href="$structAP__GPS__ERB_1_1erb__vel.html" title=" " alt="" coords="270,163,431,191"/>
+<area shape="rect" id="node26" href="$structAP__GPS__ERB_1_1erb__stat.html" title=" " alt="" coords="268,215,433,243"/>
+<area shape="rect" id="node27" href="$structAP__GPS__ERB_1_1erb__dops.html" title=" " alt="" coords="264,267,437,295"/>
+<area shape="rect" id="node28" href="$structAP__GPS__ERB_1_1erb__rtk.html" title=" " alt="" coords="271,7,430,35"/>
+<area shape="rect" id="node29" href="$structAP__GPS__ERB_1_1erb__ver.html" title=" " alt="" coords="270,59,432,87"/>
+</map>

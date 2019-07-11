@@ -1,0 +1,17 @@
+<map id="SITL::Aircraft::hagl" name="SITL::Aircraft::hagl">
+<area shape="rect" id="node1" title=" " alt="" coords="630,161,762,189"/>
+<area shape="rect" id="node2" href="$classSITL_1_1Aircraft.html#a502deceacbf96bf8534e89310fcbe8a2" title=" " alt="" coords="459,201,581,245"/>
+<area shape="rect" id="node14" href="$classSITL_1_1Aircraft.html#ad2aa9945ff600ad08823ae67524e078e" title=" " alt="" coords="245,62,392,106"/>
+<area shape="rect" id="node3" href="$classSITL_1_1Aircraft.html#a53c408b7b32bd7624881437630b7b03d" title=" " alt="" coords="245,219,392,263"/>
+<area shape="rect" id="node11" href="$classSITL_1_1Aircraft.html#a2fb593c67df80968d58af79b5d0b62d2" title=" " alt="" coords="228,287,410,315"/>
+<area shape="rect" id="node13" href="$classSITL_1_1Plane.html#a23a7248ca498b4b952d1673372689cb0" title=" " alt="" coords="243,151,394,195"/>
+<area shape="rect" id="node4" href="$classSITL_1_1Balloon.html#a9bf961c92a5a7fa4a2a47116e74232c9" title=" " alt="" coords="17,298,167,326"/>
+<area shape="rect" id="node5" href="$classSITL_1_1Helicopter.html#a5861ca3716cbd0be3cbfb3d7113ee511" title=" " alt="" coords="9,350,175,378"/>
+<area shape="rect" id="node6" href="$classSITL_1_1MultiCopter.html#a3420ce467f86d484407193d3f6e5447c" title=" " alt="" coords="26,110,158,154"/>
+<area shape="rect" id="node7" href="$classSITL_1_1Plane.html#a68de2c1dd6684fe9e83bc087d702a439" title=" " alt="" coords="22,58,162,86"/>
+<area shape="rect" id="node8" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title=" " alt="" coords="6,178,178,206"/>
+<area shape="rect" id="node9" href="$classSITL_1_1SingleCopter.html#af9dfd509cd00dfbb5d9aaafc5938b327" title=" " alt="" coords="25,230,159,274"/>
+<area shape="rect" id="node10" href="$classSITL_1_1Submarine.html#a831df237e7890146463c338be1b23106" title=" " alt="" coords="7,402,177,430"/>
+<area shape="rect" id="node12" href="$classSITL_1_1Sailboat.html#aa759ede693f627efa2de92d533961072" title=" " alt="" coords="15,454,169,482"/>
+<area shape="rect" id="node15" href="$classSITL_1_1SimRover.html#aee0311ff7a61d71cc2ecd4a148636440" title=" " alt="" coords="10,6,174,34"/>
+</map>

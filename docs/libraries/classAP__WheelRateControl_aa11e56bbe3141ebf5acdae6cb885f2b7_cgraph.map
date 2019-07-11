@@ -1,0 +1,27 @@
+<map id="AP_WheelRateControl::get_rate_controlled_throttle" name="AP_WheelRateControl::get_rate_controlled_throttle">
+<area shape="rect" id="node1" title=" " alt="" coords="6,437,162,497"/>
+<area shape="rect" id="node2" href="$classAP__WheelRateControl.html#aab84fcd466e5a86567e0e628092f2fc1" title=" " alt="" coords="229,5,384,49"/>
+<area shape="rect" id="node4" href="$classAC__PID.html#a130a8cbce6b6e37484f01020fdc423a3" title=" " alt="" coords="250,73,363,101"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="252,125,361,153"/>
+<area shape="rect" id="node7" href="$classAC__PID.html#a2fd30f6413ff1b18c387542450e15bb3" title=" " alt="" coords="237,177,376,205"/>
+<area shape="rect" id="node8" href="$classAC__PID.html#aeee26e2bec3de02355b307b2b40ddbaa" title=" " alt="" coords="248,229,366,257"/>
+<area shape="rect" id="node9" href="$classAP__WheelRateControl.html#abeb9b9be42b6018addae7c3931dbcb79" title=" " alt="" coords="229,281,384,325"/>
+<area shape="rect" id="node11" href="$classAP__WheelEncoder.html#a53d18a4c340562ae7a614cca2c7c5cb7" title=" " alt="" coords="212,349,402,377"/>
+<area shape="rect" id="node12" href="$classAC__PID.html#ac267330f1299f011febcaaba47994af7" title=" " alt="" coords="214,401,399,429"/>
+<area shape="rect" id="node17" href="$classAC__PID.html#a3f727ab395b401474027b6b9efcab5a3" title=" " alt="" coords="219,453,395,481"/>
+<area shape="rect" id="node18" href="$classAC__PID.html#a145ef8518ea98748f63f92c0ecb63432" title=" " alt="" coords="223,505,391,533"/>
+<area shape="rect" id="node19" href="$classAC__PID.html#af8b4c040c43a28fbe025de765f38e90d" title=" " alt="" coords="252,557,362,585"/>
+<area shape="rect" id="node20" href="$classAC__PID.html#a4808bb2656a1e8d94c713e58a7a2a222" title=" " alt="" coords="252,609,362,637"/>
+<area shape="rect" id="node21" href="$classAC__PID.html#a4a857985a080572a7c14d339ba79388e" title=" " alt="" coords="227,661,386,689"/>
+<area shape="rect" id="node22" href="$AP__Math_8h.html#a8b6f71a42818d74fd8bfe348108942fa" title=" " alt="" coords="262,713,351,741"/>
+<area shape="rect" id="node23" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="265,765,348,793"/>
+<area shape="rect" id="node24" href="$classAC__PID.html#a2d5bf9811a78c93a396ec1e37ae6fa0a" title=" " alt="" coords="492,771,598,799"/>
+<area shape="rect" id="node25" href="$classAC__PID.html#ad0c0510049ea37401920792e843bec86" title=" " alt="" coords="252,869,362,897"/>
+<area shape="rect" id="node3" href="$classAP__WheelEncoder.html#a3a8d396a989538f6525de3b76afec8eb" title=" " alt="" coords="451,13,640,41"/>
+<area shape="rect" id="node6" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="501,125,590,153"/>
+<area shape="rect" id="node10" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="520,289,570,317"/>
+<area shape="rect" id="node13" href="$classAC__PID.html#a0fff9a598969ca892c013cf7f5fcbb36" title=" " alt="" coords="467,582,623,610"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="688,681,752,709"/>
+<area shape="rect" id="node15" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="701,582,739,610"/>
+<area shape="rect" id="node16" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="800,582,992,610"/>
+</map>

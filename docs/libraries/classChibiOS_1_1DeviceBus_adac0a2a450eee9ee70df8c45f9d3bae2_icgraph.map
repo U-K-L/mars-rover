@@ -1,0 +1,5 @@
+<map id="ChibiOS::DeviceBus::adjust_timer" name="ChibiOS::DeviceBus::adjust_timer">
+<area shape="rect" id="node1" title=" " alt="" coords="230,39,372,83"/>
+<area shape="rect" id="node2" href="$classChibiOS_1_1I2CDevice.html#a0ee932744e9baa1fff2a3fe58a0b363b" title=" " alt="" coords="6,5,180,49"/>
+<area shape="rect" id="node3" href="$classChibiOS_1_1SPIDevice.html#ac1fba92472e0b85b2c09e0a9b302bb3d" title=" " alt="" coords="6,73,180,117"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="AC_PosControl::run_xy_controller" name="AC_PosControl::run_xy_controller">
+<area shape="rect" id="node1" title=" " alt="" coords="6,679,146,723"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ab742b8c41eb0a08e79d6fbec520a87a4" title=" " alt="" coords="250,5,369,33"/>
+<area shape="rect" id="node4" href="$classAP__AHRS__NavEKF.html#ac5a65085554dbf46c0718752e9425945" title=" " alt="" coords="195,179,424,223"/>
+<area shape="rect" id="node12" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title=" " alt="" coords="241,285,377,329"/>
+<area shape="rect" id="node13" href="$classAC__P.html#a723b372dfceb74ddb2edbe11544e9d5a" title=" " alt="" coords="270,353,349,381"/>
+<area shape="rect" id="node14" href="$classAC__PosControl.html#aad6ecfc804abc643d1a3b5df2aca6a7b" title="limit vector to a given length, returns true if vector was limited" alt="" coords="237,473,382,517"/>
+<area shape="rect" id="node18" href="$classAC__PosControl.html#a1d283dc52ca57851bdeeafa6d8163fb9" title="Proportional controller with piecewise sqrt sections to constrain second derivative." alt="" coords="238,405,381,449"/>
+<area shape="rect" id="node24" href="$classAP__InertialNav.html#a5bfad40c8a4e0ca98aa09c80e17c4ff5" title=" " alt="" coords="241,817,377,861"/>
+<area shape="rect" id="node25" href="$classAC__PID__2D.html#a994d6d6ae32266917ec47f9ba8363b54" title=" " alt="" coords="232,541,387,569"/>
+<area shape="rect" id="node27" href="$classAC__PID__2D.html#a6be6f457835b329a1d00ff7591c87717" title=" " alt="" coords="242,885,377,913"/>
+<area shape="rect" id="node28" href="$classAC__PID__2D.html#a56b4679c841fb7d12fb6004740a97d69" title=" " alt="" coords="244,661,374,689"/>
+<area shape="rect" id="node30" href="$classAC__PID__2D.html#a142385e126ce3e16e8580a4dfdd5aeca" title=" " alt="" coords="223,713,396,741"/>
+<area shape="rect" id="node32" href="$classAC__PID__2D.html#a4aa3c0bf9571ae49fe4f49af11ff816f" title=" " alt="" coords="242,937,377,965"/>
+<area shape="rect" id="node33" href="$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title=" " alt="" coords="238,989,380,1017"/>
+<area shape="rect" id="node34" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title=" " alt="" coords="244,1041,374,1085"/>
+<area shape="rect" id="node31" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="550,869,596,897"/>
+<area shape="rect" id="node35" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="237,1109,382,1137"/>
+<area shape="rect" id="node36" href="$classLowPassFilter.html#a34bc75aa770bc6cc0facee3b43a05bec" title=" " alt="" coords="244,1161,375,1189"/>
+<area shape="rect" id="node37" href="$classAC__AttitudeControl.html#a06dc613bef4b2a9a781c2b34118bd929" title=" " alt="" coords="723,17,922,61"/>
+<area shape="rect" id="node38" href="$classAC__PosControl.html#a84660e7d1713d6217dafeb78e037e42f" title="get_lean_angle_max_cd &#45; returns the maximum lean angle the autopilot may request" alt="" coords="235,593,383,637"/>
+<area shape="rect" id="node40" href="$classAC__PosControl.html#a6c9ecbd56846402f4f7e13d51f6740ab" title=" " alt="" coords="233,1213,385,1257"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="488,5,658,33"/>
+<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="474,109,673,137"/>
+<area shape="rect" id="node7" href="$classNavEKF2.html#a7d8a2056d3b8af9de62a76f6804111bf" title=" " alt="" coords="473,213,674,241"/>
+<area shape="rect" id="node10" href="$classNavEKF3.html#a9ff516d8cf7091cd56ae86737ca404d6" title=" " alt="" coords="473,161,674,189"/>
+<area shape="rect" id="node6" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="728,85,917,129"/>
+<area shape="rect" id="node8" href="$classNavEKF2__core.html#a0b61d2c7ad5a17fc0a7add8d6b8ef21a" title=" " alt="" coords="723,221,923,265"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="994,161,1044,189"/>
+<area shape="rect" id="node11" href="$classNavEKF3__core.html#a5a9f0e2cd73cf625c7015bf0dbb43393" title=" " alt="" coords="723,153,923,197"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a45fe9f81332c93a04d1fdbcf0bc89c29" title=" " alt="" coords="547,421,599,449"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="781,623,864,651"/>
+<area shape="rect" id="node16" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="803,381,842,409"/>
+<area shape="rect" id="node19" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="541,661,605,689"/>
+<area shape="rect" id="node20" href="$main_8c.html#a9d87237c8a191a7bb92fc78770e62592" title=" " alt="" coords="549,265,598,293"/>
+<area shape="rect" id="node23" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title=" " alt="" coords="535,369,611,397"/>
+<area shape="rect" id="node21" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="793,289,853,317"/>
+<area shape="rect" id="node22" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="971,289,1066,317"/>
+<area shape="rect" id="node26" href="$classAC__PID__2D.html#abf290aa801d443a9c770bdfaae0820e8" title=" " alt="" coords="496,525,651,569"/>
+<area shape="rect" id="node29" href="$structVector2.html#a671d712528ea3b2cc21fd4616eea8f98" title=" " alt="" coords="518,765,628,793"/>
+<area shape="rect" id="node39" href="$classAC__AttitudeControl.html#ac71e87097ca470583c0d8f32ead23f21" title=" " alt="" coords="506,593,641,637"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="GCS_MAVLINK::capabilities" name="GCS_MAVLINK::capabilities">
+<area shape="rect" id="node1" title=" " alt="" coords="6,141,194,169"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#aa01135941499a6cbb5fc30403fc24c65" title=" " alt="" coords="281,13,412,41"/>
+<area shape="rect" id="node4" href="$classAP__SerialManager.html#aeec52d0317706a561feba321569f09a9" title=" " alt="" coords="267,65,426,109"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a085f9cede300d1fd4b58aa8b1719274f" title=" " alt="" coords="243,133,450,177"/>
+<area shape="rect" id="node6" href="$classAP__AdvancedFailsafe.html#ac1cf01bebffa6a670fa28f10e4a81746" title=" " alt="" coords="270,201,423,245"/>
+<area shape="rect" id="node7" href="$namespaceAP.html#ae87744fcd7073579dee4ddbf9d32239e" title=" " alt="" coords="311,269,382,297"/>
+<area shape="rect" id="node3" href="$classAP__SerialManager.html#afa2d8d5e467b6c0349d9d0864866cf16" title=" " alt="" coords="500,5,660,49"/>
+<area shape="rect" id="node8" href="$classAP__Rally.html#a65322fc251296376f6d07ac772afffbe" title=" " alt="" coords="499,269,661,297"/>
+</map>

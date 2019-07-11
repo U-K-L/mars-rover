@@ -1,0 +1,11 @@
+<map id="Linux::Pollable::~Pollable" name="Linux::Pollable::~Pollable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,117,176,145"/>
+<area shape="rect" id="node2" href="$posix_8c.html#a8877deace0c63591fee0cc9c94d249d3" title="POSIX Close a file with fileno handel." alt="" coords="224,117,277,145"/>
+<area shape="rect" id="node3" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="509,117,629,145"/>
+<area shape="rect" id="node4" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="677,65,731,93"/>
+<area shape="rect" id="node5" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="341,65,446,93"/>
+<area shape="rect" id="node7" href="$posix_8c.html#a9d5502ebc4eba38ea5ef6ca4ba71bc02" title="Free POSIX fileno FILE descriptor. NOT POSIX." alt="" coords="326,169,461,197"/>
+<area shape="rect" id="node9" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="342,221,445,249"/>
+<area shape="rect" id="node6" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="543,65,596,93"/>
+<area shape="rect" id="node8" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="547,221,591,249"/>
+</map>

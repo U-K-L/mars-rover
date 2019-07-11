@@ -1,0 +1,8 @@
+<map id="AC_PosControl::set_desired_velocity_xy" name="AC_PosControl::set_desired_velocity_xy">
+<area shape="rect" id="node1" title=" " alt="" coords="446,91,591,135"/>
+<area shape="rect" id="node2" href="$classAC__Loiter.html#a5a2f3d8bb29a6cf03ea900e24dae2b75" title=" " alt="" coords="209,5,372,49"/>
+<area shape="rect" id="node4" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title=" " alt="" coords="238,73,344,101"/>
+<area shape="rect" id="node5" href="$classAC__Loiter.html#ac61cfb41e7da4ba41276d3e731d6ea85" title="init_target to a position in cm from ekf origin" alt="" coords="217,125,364,153"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title=" " alt="" coords="184,177,397,205"/>
+<area shape="rect" id="node3" href="$classAC__Loiter.html#ad73abbc1c7fcefbb9d18bac3b1fe4444" title="run the loiter controller" alt="" coords="6,13,135,41"/>
+</map>

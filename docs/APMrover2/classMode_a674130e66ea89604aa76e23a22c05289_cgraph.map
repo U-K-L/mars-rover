@@ -1,0 +1,7 @@
+<map id="Mode::calc_speed_nudge" name="Mode::calc_speed_nudge">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,180,85"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#a68558c4f79a8582543daefde13c64abc" title=" " alt="" coords="268,5,380,33"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channel.html#a0ab5f98f5d0bf4afc3f8a55591303e79" title=" " alt="" coords="230,57,418,85"/>
+<area shape="rect" id="node4" href="$classMode.html#a4b62f8ed780864334ba6b067dfc87d74" title=" " alt="" coords="243,109,405,137"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="467,109,575,137"/>
+</map>

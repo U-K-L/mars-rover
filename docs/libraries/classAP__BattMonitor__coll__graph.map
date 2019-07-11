@@ -1,0 +1,8 @@
+<map id="AP_BattMonitor" name="AP_BattMonitor">
+<area shape="rect" id="node1" title=" " alt="" coords="584,106,699,134"/>
+<area shape="rect" id="node6" href="$classAP__BattMonitor__Backend.html" title=" " alt="" coords="793,90,967,118"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Params.html" title=" " alt="" coords="300,29,468,57"/>
+<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,62,158,90"/>
+<area shape="rect" id="node4" href="$structAP__BattMonitor_1_1BattMonitor__State.html" title=" " alt="" coords="289,150,479,194"/>
+<area shape="rect" id="node5" href="$structAP__BattMonitor_1_1cells.html" title=" " alt="" coords="7,158,156,186"/>
+</map>

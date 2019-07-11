@@ -1,0 +1,6 @@
+<map id="AP_Notify::buzzer_enabled" name="AP_Notify::buzzer_enabled">
+<area shape="rect" id="node1" title=" " alt="" coords="214,57,397,85"/>
+<area shape="rect" id="node2" href="$classAP__ToneAlarm.html#a8a95fc204fe7bd62fb3c227d2d84cf94" title="init &#45; initialised the tone alarm" alt="" coords="18,5,153,33"/>
+<area shape="rect" id="node3" href="$classBuzzer.html#af6fac86df7258e5220dd7cc1b02448c2" title="init &#45; initialise the buzzer" alt="" coords="42,57,129,85"/>
+<area shape="rect" id="node4" href="$classAP__ToneAlarm.html#a609a448b91c414d9f9c4558b0039efde" title="update &#45; updates led according to timed_updated. Should be called at 50Hz" alt="" coords="6,109,165,137"/>
+</map>

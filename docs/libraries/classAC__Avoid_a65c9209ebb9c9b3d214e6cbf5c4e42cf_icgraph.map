@@ -1,0 +1,8 @@
+<map id="AC_Avoid::adjust_velocity_beacon_fence" name="AC_Avoid::adjust_velocity_beacon_fence">
+<area shape="rect" id="node1" title=" " alt="" coords="632,49,808,93"/>
+<area shape="rect" id="node2" href="$classAC__Avoid.html#a01d83151f44d23a5726ff39635f0f868" title=" " alt="" coords="408,57,584,85"/>
+<area shape="rect" id="node3" href="$classAC__Avoid.html#adf44b8b238014ae3c9993326c90a75bb" title=" " alt="" coords="188,5,356,33"/>
+<area shape="rect" id="node4" href="$classAC__Avoid.html#a217199bf4005cbf42542bf94c59c9369" title=" " alt="" coords="184,57,360,85"/>
+<area shape="rect" id="node5" href="$classAC__Loiter.html#a5a2f3d8bb29a6cf03ea900e24dae2b75" title=" " alt="" coords="191,109,353,153"/>
+<area shape="rect" id="node6" href="$classAC__Loiter.html#ad73abbc1c7fcefbb9d18bac3b1fe4444" title="run the loiter controller" alt="" coords="6,117,135,145"/>
+</map>

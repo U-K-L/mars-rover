@@ -1,0 +1,8 @@
+<map id="AC_WPNav::set_speed_down" name="AC_WPNav::set_speed_down">
+<area shape="rect" id="node1" title="set current target descent rate during wp navigation" alt="" coords="6,78,207,106"/>
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a88da0572a03fc47913d30d64eaa43951" title=" " alt="" coords="256,35,395,79"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#a2d262a8d09edeae24574bb97f3574e60" title="get_max_speed_up &#45; accessor for current maximum up speed in cm/s" alt="" coords="256,103,395,147"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#acac2980eb3698791d55ca8fa260ab5af" title=" " alt="" coords="442,35,587,79"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#a2036c70174679b20454d8e5b611e115b" title="calc_leash_length &#45; calculates the horizontal leash length given a maximum speed, acceleration and po..." alt="" coords="634,5,779,49"/>
+<area shape="rect" id="node5" href="$classAC__P.html#a723b372dfceb74ddb2edbe11544e9d5a" title=" " alt="" coords="667,73,746,101"/>
+</map>

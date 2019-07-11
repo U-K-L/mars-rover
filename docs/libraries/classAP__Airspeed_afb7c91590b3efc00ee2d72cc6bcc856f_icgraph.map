@@ -1,0 +1,10 @@
+<map id="AP_Airspeed::calibrate" name="AP_Airspeed::calibrate">
+<area shape="rect" id="node1" title=" " alt="" coords="1454,43,1610,71"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#ab18a4f9e78055494fc43c9665b6644a5" title=" " alt="" coords="1160,5,1405,49"/>
+<area shape="rect" id="node8" href="$Airspeed_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="1256,73,1310,101"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a60c3c7ed1d9e0a9d298fac37c688763b" title=" " alt="" coords="902,5,1112,49"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a562b2955a49da7d782d3f55ed8e021c9" title=" " alt="" coords="643,5,853,49"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a29e2941413d50ab63cd70f5beadef19a" title=" " alt="" coords="427,5,594,49"/>
+<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#abc79cdd8393234b66f2e8217a527f8f9" title=" " alt="" coords="216,5,379,49"/>
+<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,5,168,49"/>
+</map>

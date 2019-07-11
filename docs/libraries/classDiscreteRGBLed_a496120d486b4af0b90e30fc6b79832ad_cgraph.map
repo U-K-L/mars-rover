@@ -1,0 +1,6 @@
+<map id="DiscreteRGBLed::hw_init" name="DiscreteRGBLed::hw_init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,65,176,93"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1GPIO.html#a4e8955091af056240f447b68b76725bb" title=" " alt="" coords="224,5,392,33"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1DigitalSource.html#af16b96dab1499f30659a1fd892df6c2d" title=" " alt="" coords="228,57,388,101"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1DigitalSource.html#a43392c05a7dae030a78dd1c4800bf5fe" title=" " alt="" coords="228,125,388,169"/>
+</map>

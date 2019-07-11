@@ -1,0 +1,10 @@
+<map id="AC_AttitudeControl::euler_rate_to_ang_vel" name="AC_AttitudeControl::euler_rate_to_ang_vel">
+<area shape="rect" id="node1" title=" " alt="" coords="643,157,805,201"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#af0e7aef643e29d1f1af2a9cd1945d426" title=" " alt="" coords="414,65,594,125"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl.html#aa111691a6822ceea4c70c434ee6d38e7" title=" " alt="" coords="436,149,572,209"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl.html#a49cd1e5d7c1a3550080c9ccca6ce8da8" title=" " alt="" coords="429,233,579,293"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#a96317d64d32a0d29202c4f443bd06076" title=" " alt="" coords="184,5,365,65"/>
+<area shape="rect" id="node4" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,161,136,189"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl__Heli.html#a8720532877383f5bc054862f88e64dfe" title=" " alt="" coords="192,141,357,201"/>
+<area shape="rect" id="node7" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="199,225,351,269"/>
+</map>

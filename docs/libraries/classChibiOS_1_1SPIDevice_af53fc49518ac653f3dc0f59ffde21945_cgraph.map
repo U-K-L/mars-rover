@@ -1,0 +1,8 @@
+<map id="ChibiOS::SPIDevice::set_chip_select" name="ChibiOS::SPIDevice::set_chip_select">
+<area shape="rect" id="node1" title=" " alt="" coords="6,35,146,79"/>
+<area shape="rect" id="node2" href="$classChibiOS_1_1SPIDevice.html#a5a692c5abcee37232eb057fb9a639c7d" title=" " alt="" coords="195,35,336,79"/>
+<area shape="rect" id="node3" href="$classChibiOS_1_1Semaphore.html#a5d52f4d2148547be239b89941612df27" title=" " alt="" coords="384,5,531,49"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#a0ec75ec3773e0053f3d233b785b7f3c2" title=" " alt="" coords="411,73,504,101"/>
+<area shape="rect" id="node4" href="$classChibiOS_1_1Semaphore.html#a9b3100381eab8d8c7640f4fa5f2fe367" title=" " alt="" coords="578,5,726,49"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="604,73,700,101"/>
+</map>

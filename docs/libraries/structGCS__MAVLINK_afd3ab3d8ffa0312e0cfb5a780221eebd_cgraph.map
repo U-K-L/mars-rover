@@ -1,0 +1,5 @@
+<map id="GCS_MAVLINK::handle_servorelay_message" name="GCS_MAVLINK::handle_servorelay_message">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,168,49"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ab5e102a9841d2cbe10bcc8f75f993d57" title=" " alt="" coords="216,13,363,41"/>
+<area shape="rect" id="node3" href="$classAP__ServoRelayEvents.html#aba672e443bdfad91bdb84f5c45649f31" title=" " alt="" coords="411,5,567,49"/>
+</map>

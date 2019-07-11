@@ -1,0 +1,17 @@
+<map id="AP_Scheduler::Log_Write_Performance" name="AP_Scheduler::Log_Write_Performance">
+<area shape="rect" id="node1" title=" " alt="" coords="6,313,181,357"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="254,5,388,33"/>
+<area shape="rect" id="node4" href="$classAP_1_1PerfInfo.html#a35fb1b18a36c6e3294f4ac4915f292ae" title=" " alt="" coords="245,57,398,101"/>
+<area shape="rect" id="node5" href="$classAP_1_1PerfInfo.html#a25542256993be3838d25c40707791060" title=" " alt="" coords="245,125,398,169"/>
+<area shape="rect" id="node6" href="$classAP_1_1PerfInfo.html#a9a6c1174425ac173efb2acf8b82c0e0a" title=" " alt="" coords="229,193,414,221"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Util.html#a2a2e64f649d25593951054d44c0ed53b" title=" " alt="" coords="242,245,401,289"/>
+<area shape="rect" id="node8" href="$classAP__Scheduler.html#abda29cac2f54d56ff8bf7791a6667a9c" title=" " alt="" coords="252,313,391,357"/>
+<area shape="rect" id="node10" href="$namespaceAP.html#afceb236ff617aaaa2b08afacd72532b0" title=" " alt="" coords="262,381,381,409"/>
+<area shape="rect" id="node11" href="$classAP__InternalError.html#a4396aa49ba2d14f80df61bfbd9c17de3" title=" " alt="" coords="240,433,403,461"/>
+<area shape="rect" id="node12" href="$classAP__InternalError.html#a1f7f14a65194ec4df6fb0f155f59a55a" title=" " alt="" coords="241,485,402,513"/>
+<area shape="rect" id="node13" href="$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="280,537,363,565"/>
+<area shape="rect" id="node15" href="$classAP__Logger.html#a32f5822b72789c7c83402b2af7544d09" title=" " alt="" coords="238,589,405,633"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="500,5,599,33"/>
+<area shape="rect" id="node9" href="$classAP__Scheduler.html#a6ea2df59d699e91c31e1688ded595f1c" title=" " alt="" coords="467,313,632,357"/>
+<area shape="rect" id="node14" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="462,537,637,565"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AP_Baro::update_calibration" name="AP_Baro::update_calibration">
+<area shape="rect" id="node1" title=" " alt="" coords="6,119,197,147"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="271,5,380,33"/>
+<area shape="rect" id="node4" href="$classAP__Baro.html#adf354fe73e210f7be030a4e4d95113d6" title=" " alt="" coords="263,81,388,109"/>
+<area shape="rect" id="node5" href="$classAP__Baro.html#a41b3c00624c78b883413b53fc5a81a32" title=" " alt="" coords="245,157,405,185"/>
+<area shape="rect" id="node6" href="$classAP__Baro.html#a0bdd3c41ed13e7d3b6e71bbc6fd05fd9" title=" " alt="" coords="248,233,403,277"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="454,5,543,33"/>
+</map>

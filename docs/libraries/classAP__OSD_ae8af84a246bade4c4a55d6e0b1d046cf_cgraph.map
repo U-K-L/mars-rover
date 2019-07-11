@@ -1,0 +1,11 @@
+<map id="AP_OSD::update_current_screen" name="AP_OSD::update_current_screen">
+<area shape="rect" id="node1" title=" " alt="" coords="6,127,178,171"/>
+<area shape="rect" id="node2" href="$classOpticalFlow.html#aaca5ba85d356c48d8d3fb5194b0f890a" title=" " alt="" coords="474,109,620,137"/>
+<area shape="rect" id="node3" href="$classRC__Channels.html#a53ec09345af08ddbfd242e70a408c1e7" title=" " alt="" coords="234,5,411,33"/>
+<area shape="rect" id="node5" href="$classRC__Channel.html#a35dd43d363695269b38277306426f883" title=" " alt="" coords="233,109,412,137"/>
+<area shape="rect" id="node6" href="$classAP__OSD.html#ab4c50f93c3e74ba1eeeeeccb0b88aa31" title=" " alt="" coords="245,161,400,189"/>
+<area shape="rect" id="node7" href="$classRC__Channel.html#a903c74361c5318f0af90b66ca83a79b3" title=" " alt="" coords="228,213,418,241"/>
+<area shape="rect" id="node8" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="268,265,377,293"/>
+<area shape="rect" id="node4" href="$classRC__Channels.html#a305bdcb535ed4055e86125c65bc6ba0c" title=" " alt="" coords="467,5,626,33"/>
+<area shape="rect" id="node9" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="502,265,591,293"/>
+</map>

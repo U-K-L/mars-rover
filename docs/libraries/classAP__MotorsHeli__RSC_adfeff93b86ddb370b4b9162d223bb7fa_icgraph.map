@@ -1,0 +1,6 @@
+<map id="AP_MotorsHeli_RSC::get_critical_speed" name="AP_MotorsHeli_RSC::get_critical_speed">
+<area shape="rect" id="node1" title=" " alt="" coords="243,89,397,133"/>
+<area shape="rect" id="node2" href="$classAP__MotorsHeli__Quad.html#a226354e395ed2d9eee79cfbeb930d1cc" title=" " alt="" coords="25,5,175,65"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Single.html#ac58406ec975c076b307c6382064e89b8" title=" " alt="" coords="6,89,194,133"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli__Dual.html#a91ef6ba88a438531ee10f7a0df2d4da0" title=" " alt="" coords="27,157,173,217"/>
+</map>

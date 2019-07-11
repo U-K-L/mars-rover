@@ -1,0 +1,10 @@
+<map id="AP_Proximity_LightWareSF40C::request_new_data" name="AP_Proximity_LightWareSF40C::request_new_data">
+<area shape="rect" id="node1" title=" " alt="" coords="6,50,207,94"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="532,6,641,34"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__LightWareSF40C.html#aba79bd79fcaa0a850f030469b5965595" title=" " alt="" coords="257,50,458,94"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__LightWareSF40C.html#a691ec202cfb0bd9a25582ffd28e245db" title=" " alt="" coords="257,118,458,162"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="716,6,804,34"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="507,58,666,102"/>
+<area shape="rect" id="node7" href="$stdio_8h.html#a37c1e8ce8a2b411fa666dc33972a2cec" title=" " alt="" coords="554,126,619,154"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="564,178,610,206"/>
+</map>

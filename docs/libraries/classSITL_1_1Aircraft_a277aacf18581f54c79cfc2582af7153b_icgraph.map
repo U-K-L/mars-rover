@@ -1,0 +1,11 @@
+<map id="SITL::Aircraft::filtered_servo_angle" name="SITL::Aircraft::filtered_servo_angle">
+<area shape="rect" id="node1" title=" " alt="" coords="627,95,773,139"/>
+<area shape="rect" id="node2" href="$classSITL_1_1Plane.html#a23a7248ca498b4b952d1673372689cb0" title=" " alt="" coords="427,5,578,49"/>
+<area shape="rect" id="node5" href="$classSITL_1_1JSBSim.html#a63f89f6cd963d65191bc3ef635286dc7" title=" " alt="" coords="432,125,573,169"/>
+<area shape="rect" id="node8" href="$classSITL_1_1SilentWings.html#adf4cfd61b876a48c28774c75226cce8b" title=" " alt="" coords="435,199,570,243"/>
+<area shape="rect" id="node4" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title=" " alt="" coords="206,57,378,85"/>
+<area shape="rect" id="node3" href="$classSITL_1_1Plane.html#a68de2c1dd6684fe9e83bc087d702a439" title=" " alt="" coords="222,5,362,33"/>
+<area shape="rect" id="node6" href="$classSITL_1_1JSBSim.html#ac3a7a04e8c830f9be50a8d2a953833a1" title=" " alt="" coords="209,109,375,137"/>
+<area shape="rect" id="node7" href="$classSITL_1_1JSBSim.html#afed9e8690c5a59cbb44faf5cbaac5c74" title=" " alt="" coords="5,135,158,163"/>
+<area shape="rect" id="node9" href="$classSITL_1_1SilentWings.html#af84ce567ecebd0155e2ebdaa38173ffd" title=" " alt="" coords="225,213,359,257"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAP__HAL_1_1AnalogSource.html" title=" " alt="" coords="6,135,170,163"/>
+<area shape="rect" id="node2" href="$classAnalogSource__ADS1115.html" title=" " alt="" coords="219,5,386,33"/>
+<area shape="rect" id="node3" href="$classAnalogSource__IIO.html" title=" " alt="" coords="238,57,368,85"/>
+<area shape="rect" id="node4" href="$classAnalogSource__Navio2.html" title=" " alt="" coords="226,109,380,137"/>
+<area shape="rect" id="node5" href="$classChibiOS_1_1AnalogSource.html" title=" " alt="" coords="222,161,384,189"/>
+<area shape="rect" id="node6" href="$classEmpty_1_1AnalogSource.html" title=" " alt="" coords="228,213,378,241"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1ADCSource.html" title=" " alt="" coords="226,265,379,293"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="AP_GPS_Backend" name="AP_GPS_Backend">
+<area shape="rect" id="node1" title=" " alt="" coords="629,121,763,149"/>
+<area shape="rect" id="node5" href="$classAP__GPS.html" title=" " alt="" coords="939,313,1013,341"/>
+<area shape="rect" id="node2" href="$classJitterCorrection.html" title=" " alt="" coords="284,121,396,149"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="264,54,416,82"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="6,54,165,82"/>
+<area shape="rect" id="node6" href="$structAP__GPS_1_1detect__state.html" title=" " alt="" coords="619,434,773,462"/>
+<area shape="rect" id="node7" href="$structSBP__detect__state.html" title=" " alt="" coords="276,557,404,585"/>
+<area shape="rect" id="node8" href="$structUBLOX__detect__state.html" title=" " alt="" coords="267,609,413,637"/>
+<area shape="rect" id="node9" href="$structSIRF__detect__state.html" title=" " alt="" coords="274,245,406,273"/>
+<area shape="rect" id="node10" href="$structMTK19__detect__state.html" title=" " alt="" coords="268,297,412,325"/>
+<area shape="rect" id="node11" href="$structERB__detect__state.html" title=" " alt="" coords="276,349,404,377"/>
+<area shape="rect" id="node12" href="$structSBP2__detect__state.html" title=" " alt="" coords="272,401,408,429"/>
+<area shape="rect" id="node13" href="$structNMEA__detect__state.html" title=" " alt="" coords="270,453,410,481"/>
+<area shape="rect" id="node14" href="$structMTK__detect__state.html" title=" " alt="" coords="275,505,405,533"/>
+<area shape="rect" id="node15" href="$structAP__GPS_1_1GPS__timing.html" title=" " alt="" coords="619,274,773,302"/>
+<area shape="rect" id="node16" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="620,382,772,410"/>
+<area shape="rect" id="node17" href="$classVector3.html" title=" " alt="" coords="28,453,143,481"/>
+<area shape="rect" id="node20" href="$structAP__GPS_1_1GPS__State.html" title=" " alt="" coords="266,193,414,221"/>
+<area shape="rect" id="node18" href="$structVector2.html" title=" " alt="" coords="639,486,753,514"/>
+<area shape="rect" id="node19" href="$structAP__GPS_1_1rtcm__buffer.html" title=" " alt="" coords="621,538,771,566"/>
+<area shape="rect" id="node21" href="$classLocation.html" title=" " alt="" coords="49,193,121,221"/>
+</map>

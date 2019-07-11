@@ -1,0 +1,17 @@
+<map id="AP_BoardConfig::get_board_type" name="AP_BoardConfig::get_board_type">
+<area shape="rect" id="node1" title=" " alt="" coords="965,152,1112,196"/>
+<area shape="rect" id="node2" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="281,35,474,63"/>
+<area shape="rect" id="node5" href="$classCompass.html#a766d77e1b78dc08be50ba76994c8b4ab" title=" " alt="" coords="736,59,917,103"/>
+<area shape="rect" id="node6" href="$classAP__Baro.html#a4bfd06fe28cf3a7bc6df55bc159c8dff" title=" " alt="" coords="753,278,901,322"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor.html#a8967734e82a4f472c6d8ddd8db656804" title=" " alt="" coords="759,152,895,196"/>
+<area shape="rect" id="node7" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="556,288,655,316"/>
+<area shape="rect" id="node3" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="118,47,220,75"/>
+<area shape="rect" id="node4" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,104,59,132"/>
+<area shape="rect" id="node8" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="350,288,404,316"/>
+<area shape="rect" id="node10" href="$classAP__Compass__AK8963.html#a0e8c9e0c82de409e0225fc81ed4ed6db" title=" " alt="" coords="523,84,688,128"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor.html#a9949b7e301b0d7a5f3e59385d2e8d97a" title=" " alt="" coords="537,152,673,196"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor.html#ad649def5689aecaebca16cf910d77fd8" title=" " alt="" coords="537,220,673,264"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title=" " alt="" coords="301,159,454,187"/>
+<area shape="rect" id="node13" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title=" " alt="" coords="108,159,231,187"/>
+<area shape="rect" id="node14" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="5,159,59,187"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="AP_HAL::UARTDriver::begin" name="AP_HAL::UARTDriver::begin">
+<area shape="rect" id="node1" title=" " alt="" coords="830,1017,981,1061"/>
+<area shape="rect" id="node2" href="$classAP__GPS__UBLOX.html#a16ae8ab4b0babfbc2245beb0a438ec33" title=" " alt="" coords="544,5,749,33"/>
+<area shape="rect" id="node4" href="$classAP__Beacon__Marvelmind.html#a4c08f55db7763f7fe3696882fb8badbe" title=" " alt="" coords="559,57,734,101"/>
+<area shape="rect" id="node5" href="$classAP__Beacon__Pozyx.html#af04a9586164ad91c2fb27adc8fdbcf3e" title=" " alt="" coords="566,125,727,169"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__LightWareSF40C.html#a5c2fc4063a2ca5aed46cf8906e26d5c8" title=" " alt="" coords="533,193,760,237"/>
+<area shape="rect" id="node7" href="$classAP__Proximity__RPLidarA2.html#ad311d851bb88e7649569ad3bf84dd4a9" title=" " alt="" coords="556,261,737,305"/>
+<area shape="rect" id="node8" href="$classAP__Proximity__TeraRangerTower.html#a71cb30c6fe9b3850d6a9f172c5e3550d" title=" " alt="" coords="536,329,757,373"/>
+<area shape="rect" id="node9" href="$classAP__Proximity__TeraRangerTowerEvo.html#a8e114ba589897945b890a0fd5c9bfe8b" title=" " alt="" coords="513,397,780,441"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__Benewake.html#a275bdae52bd52e622ba2bded147a2b07" title=" " alt="" coords="546,465,747,509"/>
+<area shape="rect" id="node11" href="$classAP__RangeFinder__BLPing.html#aef7fb69de3785fcbfc1ea4e41bec0601" title=" " alt="" coords="556,533,737,577"/>
+<area shape="rect" id="node12" href="$classAP__RangeFinder__LeddarOne.html#acf6c960bb1a8f051ce31c1e46d48d36b" title=" " alt="" coords="544,601,749,645"/>
+<area shape="rect" id="node13" href="$classAP__RangeFinder__LightWareSerial.html#ac59075afeebf083965fc8229c287fe98" title=" " alt="" coords="551,669,742,729"/>
+<area shape="rect" id="node14" href="$classAP__RangeFinder__MaxsonarSerialLV.html#a0b169d733d615e4ca4fd61593765553f" title=" " alt="" coords="516,753,777,797"/>
+<area shape="rect" id="node15" href="$classAP__RangeFinder__NMEA.html#a9938fac271055a5d129a2de69460ba7f" title=" " alt="" coords="558,821,735,865"/>
+<area shape="rect" id="node16" href="$classAP__RangeFinder__uLanding.html#a641710b662cb478cd98d875dd2588aa8" title=" " alt="" coords="550,889,743,933"/>
+<area shape="rect" id="node17" href="$classAP__RangeFinder__Wasp.html#a19e56f75a30bc51c4608ff72651a1abf" title=" " alt="" coords="561,957,733,1001"/>
+<area shape="rect" id="node18" href="$classAP__GPS.html#a4bdd5c70ed358b4147a58c7d09f040dd" title=" " alt="" coords="559,1025,734,1053"/>
+<area shape="rect" id="node22" href="$structGCS__MAVLINK.html#a1a4eddd46f85698c5200084589fd302d" title=" " alt="" coords="565,1077,728,1121"/>
+<area shape="rect" id="node24" href="$classAP__OpticalFlow__CXOF.html#a287a647d7b044a7a44fca46a73ba02e3" title=" " alt="" coords="566,1145,727,1189"/>
+<area shape="rect" id="node25" href="$classAP__WindVane__NMEA.html#ad974811bc59d9ced7f73da8d559cea0a" title=" " alt="" coords="558,1213,735,1241"/>
+<area shape="rect" id="node26" href="$classAP__DEVO__Telem.html#a718089a830a3916942d5399e039ad4f1" title=" " alt="" coords="295,1799,447,1827"/>
+<area shape="rect" id="node28" href="$classAP__SerialManager.html#a4f6d491b1538d6d2513af7375825f35e" title=" " alt="" coords="292,1302,450,1330"/>
+<area shape="rect" id="node30" href="$classAP__SerialManager.html#ad3edff9a0756afd0c4753bf9f1698355" title=" " alt="" coords="568,1265,726,1309"/>
+<area shape="rect" id="node31" href="$HAL__ChibiOS__Class_8cpp.html#a32dd350155f53d60b3b6287564e845d8" title=" " alt="" coords="605,1437,688,1465"/>
+<area shape="rect" id="node33" href="$classHAL__Linux.html#a9b8394eb66ea6d3d5539aaaf47c3bf80" title=" " alt="" coords="590,1489,703,1517"/>
+<area shape="rect" id="node34" href="$classHAL__Empty.html#ae8a0753f0bf4a4d00e5c771ecaae0a14" title=" " alt="" coords="587,1541,706,1569"/>
+<area shape="rect" id="node35" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title=" " alt="" coords="592,1593,701,1621"/>
+<area shape="rect" id="node36" href="$GPS__UBLOX__passthrough_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="620,1645,674,1673"/>
+<area shape="rect" id="node37" href="$UART__test_8cpp.html#a437f0b278eef26b876fd7f0e4cf85503" title=" " alt="" coords="604,1697,689,1725"/>
+<area shape="rect" id="node39" href="$structGCS__MAVLINK.html#a76ff239c882575a8255ace879a88980b" title=" " alt="" coords="278,1747,463,1775"/>
+<area shape="rect" id="node40" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title=" " alt="" coords="572,1385,721,1413"/>
+<area shape="rect" id="node42" href="$classAP__RangeFinder__Wasp.html#ab891922bce1237af842c58a48524795f" title=" " alt="" coords="564,1851,729,1895"/>
+<area shape="rect" id="node3" href="$classAP__GPS__UBLOX.html#a64d0773944721dc3cfdd0c81b31c3cf6" title=" " alt="" coords="290,5,451,33"/>
+<area shape="rect" id="node19" href="$classAP__GPS.html#a83302e8b52e5d01ae67375b3542eb460" title=" " alt="" coords="281,1025,461,1053"/>
+<area shape="rect" id="node20" href="$classAP__GPS.html#afe04427a47ab5e630cb979815abd911e" title=" " alt="" coords="104,1025,227,1053"/>
+<area shape="rect" id="node21" href="$GPS__AUTO__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,1025,53,1053"/>
+<area shape="rect" id="node23" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="289,1077,452,1121"/>
+<area shape="rect" id="node27" href="$classGCS.html#a114e9a61009d41f517a06646afe67d18" title=" " alt="" coords="102,1747,229,1775"/>
+<area shape="rect" id="node29" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="138,1302,192,1330"/>
+<area shape="rect" id="node32" href="$classHAL__ChibiOS.html#a732667c7826ffcd77727c599a2e2969a" title=" " alt="" coords="305,1437,436,1465"/>
+<area shape="rect" id="node38" href="$UART__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="344,1695,398,1723"/>
+<area shape="rect" id="node41" href="$classAP__Frsky__Telem.html#adf5f82d6eff07cf44565ca062d13a75d" title=" " alt="" coords="297,1385,444,1413"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SRV_Channels::get_output_channel_mask" name="SRV_Channels::get_output_channel_mask">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,189,101"/>
+<area shape="rect" id="node2" href="$classSRV__Channels.html#a2bce803f8a1de705be47d8cf7a46584c" title="setup the output range types of all functions" alt="" coords="237,57,398,101"/>
+<area shape="rect" id="node3" href="$classBitmask.html#ab753bfb6058f8a60e523c949802f3823" title=" " alt="" coords="474,5,593,33"/>
+<area shape="rect" id="node4" href="$classSRV__Channel.html#aadaab2dbeb62aa6f7b42eb39bf4f2430" title=" " alt="" coords="446,57,621,101"/>
+<area shape="rect" id="node7" href="$classBitmask.html#a6d942e61abc55c452b001b11dadf8a18" title=" " alt="" coords="486,125,580,153"/>
+<area shape="rect" id="node5" href="$classSRV__Channel.html#a04f5baeec785c9f696798fa4a6c7d6ce" title=" " alt="" coords="670,39,842,67"/>
+<area shape="rect" id="node6" href="$classSRV__Channel.html#aaf3193d70a486747bfbc9c6398cff261" title=" " alt="" coords="671,91,841,119"/>
+</map>

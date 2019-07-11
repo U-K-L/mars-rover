@@ -1,0 +1,43 @@
+<map id="AP_HAL::I2CDeviceManager::get_device" name="AP_HAL::I2CDeviceManager::get_device">
+<area shape="rect" id="node1" title=" " alt="" coords="979,735,1173,779"/>
+<area shape="rect" id="node2" href="$classAP__Baro.html#a4bfd06fe28cf3a7bc6df55bc159c8dff" title=" " alt="" coords="766,389,914,433"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#a8967734e82a4f472c6d8ddd8db656804" title=" " alt="" coords="772,102,908,146"/>
+<area shape="rect" id="node15" href="$classRangeFinder.html#a2d16a636e444ce916e524d1e2623d1d3" title=" " alt="" coords="769,185,911,229"/>
+<area shape="rect" id="node18" href="$structGCS__MAVLINK.html#ad7479108500f36baa60c58a4b5261f72" title=" " alt="" coords="759,253,921,297"/>
+<area shape="rect" id="node20" href="$structGCS__MAVLINK.html#a27d9f692cade4d488cac2227d125563d" title=" " alt="" coords="759,321,921,365"/>
+<area shape="rect" id="node21" href="$classToshibaLED__I2C.html#a2a0b0dbdd212e2723be9845ecb737bd6" title=" " alt="" coords="755,457,925,485"/>
+<area shape="rect" id="node22" href="$classPCA9685LED__I2C.html#a57962bfb6ef98b45a61b3854312995e3" title=" " alt="" coords="749,509,931,537"/>
+<area shape="rect" id="node23" href="$classNCP5623.html#a764df98f02679bdac817b8f1b39f383d" title=" " alt="" coords="776,561,904,589"/>
+<area shape="rect" id="node24" href="$classAP__IRLock__I2C.html#ac17dfda20ea40935b680596455ac1a0a" title=" " alt="" coords="770,613,910,641"/>
+<area shape="rect" id="node25" href="$classTSYS01.html#aeeb9f8e45c008977d298085d2d12461e" title=" " alt="" coords="792,665,888,693"/>
+<area shape="rect" id="node26" href="$classDisplay.html#a03e5ad3f86b74dd19a334e60b4224932" title=" " alt="" coords="795,717,885,745"/>
+<area shape="rect" id="node27" href="$classAP__ADC__ADS1115.html#ab9dda3a5715a514b78effc0164e6a1c9" title=" " alt="" coords="759,1181,921,1209"/>
+<area shape="rect" id="node29" href="$classOreoLED__I2C.html#a5ff96366fc35d2e9190ad4260084b82c" title=" " alt="" coords="775,821,905,849"/>
+<area shape="rect" id="node30" href="$classAP__Airspeed__DLVR.html#a7451f9b9d7518c9bbaab6f5ebdac279c" title=" " alt="" coords="757,873,923,901"/>
+<area shape="rect" id="node31" href="$classAP__Airspeed__MS4525.html#aac959768d4e8ad20d05dce4f9d809d22" title=" " alt="" coords="762,925,918,969"/>
+<area shape="rect" id="node32" href="$classLinux_1_1OpticalFlow__Onboard.html#ad2533ed83311a68c8201436f70c64713" title=" " alt="" coords="775,993,905,1037"/>
+<area shape="rect" id="node33" href="$classAP__Airspeed__SDP3X.html#a45479a37f6438a121d886eb874ea1278" title=" " alt="" coords="753,1061,927,1089"/>
+<area shape="rect" id="node34" href="$classAP__Airspeed__MS5525.html#a9e5ee7103712f80d10c650076827870d" title=" " alt="" coords="762,1113,918,1157"/>
+<area shape="rect" id="node3" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="562,583,662,611"/>
+<area shape="rect" id="node35" href="$classAP__BattMonitor.html#ac1a8593b0b20f9316f22084947bae7fe" title=" " alt="" coords="770,1233,910,1261"/>
+<area shape="rect" id="node36" href="$classAP__OpticalFlow__PX4Flow.html#a341133a794a52cb0faae7cddca4c7f79" title=" " alt="" coords="752,1285,928,1329"/>
+<area shape="rect" id="node41" href="$ICM20789_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="813,1353,867,1381"/>
+<area shape="rect" id="node4" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="350,583,404,611"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#a9949b7e301b0d7a5f3e59385d2e8d97a" title=" " alt="" coords="544,73,680,117"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor.html#ad649def5689aecaebca16cf910d77fd8" title=" " alt="" coords="544,5,680,49"/>
+<area shape="rect" id="node12" href="$classAP__Compass__AK8963.html#a0e8c9e0c82de409e0225fc81ed4ed6db" title=" " alt="" coords="529,141,695,185"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title=" " alt="" coords="301,81,454,109"/>
+<area shape="rect" id="node8" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,123,59,151"/>
+<area shape="rect" id="node9" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title=" " alt="" coords="108,45,231,73"/>
+<area shape="rect" id="node10" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="5,45,59,73"/>
+<area shape="rect" id="node13" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="281,149,474,177"/>
+<area shape="rect" id="node14" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="118,149,220,177"/>
+<area shape="rect" id="node16" href="$classRangeFinder.html#ad3e3b3a548b8da70aedd97c4be3a5b6d" title=" " alt="" coords="551,209,673,237"/>
+<area shape="rect" id="node17" href="$RFIND__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="350,209,404,237"/>
+<area shape="rect" id="node19" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="531,298,693,342"/>
+<area shape="rect" id="node28" href="$classAnalogIn__ADS1115.html#a4dbe06d5858fbcacea9da4341dd65444" title=" " alt="" coords="532,1181,692,1209"/>
+<area shape="rect" id="node37" href="$classAP__OpticalFlow__PX4Flow.html#ace20a56ea665c0b1dad76e8400593c3b" title=" " alt="" coords="524,1285,700,1329"/>
+<area shape="rect" id="node38" href="$classAP__OpticalFlow__PX4Flow.html#afa8ebf12ec7048c6073ab3eda158540b" title=" " alt="" coords="289,1285,466,1329"/>
+<area shape="rect" id="node39" href="$classOpticalFlow.html#aa4a49fae8d6a591644b494f84a02717f" title=" " alt="" coords="112,1293,227,1321"/>
+<area shape="rect" id="node40" href="$AP__OpticalFlow__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,1293,59,1321"/>
+</map>

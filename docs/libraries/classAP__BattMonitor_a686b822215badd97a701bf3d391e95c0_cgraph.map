@@ -1,0 +1,4 @@
+<map id="AP_BattMonitor::has_current" name="AP_BattMonitor::has_current">
+<area shape="rect" id="node1" title="has_current &#45; returns true if battery monitor instance provides current info" alt="" coords="6,5,149,49"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Backend.html#a7c777a6ffefabc4c241a98ddb5be1350" title="returns true if battery monitor instance provides current info" alt="" coords="198,5,372,49"/>
+</map>

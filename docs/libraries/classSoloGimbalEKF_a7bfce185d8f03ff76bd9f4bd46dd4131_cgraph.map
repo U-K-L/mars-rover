@@ -1,0 +1,10 @@
+<map id="SoloGimbalEKF::readMagData" name="SoloGimbalEKF::readMagData">
+<area shape="rect" id="node1" title=" " alt="" coords="6,109,210,137"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ab742b8c41eb0a08e79d6fbec520a87a4" title=" " alt="" coords="294,5,413,33"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a1c4fdc6a67b3cadc661ffb510e28a0d0" title=" " alt="" coords="268,57,438,85"/>
+<area shape="rect" id="node5" href="$classCompass.html#af5c3da7e49f681c1d7a0354b91eba7ba" title="return true if the compass should be used for yaw calculations" alt="" coords="273,109,434,137"/>
+<area shape="rect" id="node6" href="$classCompass.html#abe4bafbf8a3c43e9db3a7c8406449fc2" title=" " alt="" coords="259,161,448,189"/>
+<area shape="rect" id="node8" href="$classCompass.html#a6aa543c3bd5ef2e78cefa3ffcc390767" title="Return the current field as a Vector3f in milligauss." alt="" coords="286,213,421,241"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="496,5,666,33"/>
+<area shape="rect" id="node7" href="$classCompass.html#a514bab09cfbac818a417d2f989467ce6" title=" " alt="" coords="504,161,659,189"/>
+</map>

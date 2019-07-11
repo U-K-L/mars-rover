@@ -1,0 +1,22 @@
+<map id="TSYS01::init" name="TSYS01::init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,365,101,393"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a8153774ecb8d07a14cb0eeac74ce6211" title=" " alt="" coords="150,5,344,49"/>
+<area shape="rect" id="node3" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="221,73,272,101"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a9cfca3d6c720115b4c77b21b64a2b8af" title=" " alt="" coords="173,125,320,169"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="156,193,337,221"/>
+<area shape="rect" id="node6" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="191,245,303,273"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title=" " alt="" coords="174,297,320,341"/>
+<area shape="rect" id="node10" href="$classTSYS01.html#ac62f872e6c0a1e445768aa70009a481f" title=" " alt="" coords="428,395,543,423"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="156,417,337,445"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="173,469,320,513"/>
+<area shape="rect" id="node14" href="$classTSYS01.html#ad8900ae543e227c817fe265797fca34c" title=" " alt="" coords="172,537,322,565"/>
+<area shape="rect" id="node16" href="$classTSYS01.html#a7fb11e6510b8b43849c973d2f538f11e" title=" " alt="" coords="421,589,550,617"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Device.html#ab516a6ba589841ce07a5cc4ef599ac62" title=" " alt="" coords="160,641,333,685"/>
+<area shape="rect" id="node18" href="$classTSYS01.html#ac9b0b19764521622f799eb098956463f" title=" " alt="" coords="189,709,304,737"/>
+<area shape="rect" id="node7" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="457,215,514,243"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="412,267,559,311"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="627,563,800,591"/>
+<area shape="rect" id="node15" href="$classTSYS01.html#a3422caea094e031ecdd8d9333397d164" title=" " alt="" coords="392,537,579,565"/>
+<area shape="rect" id="node19" href="$classTSYS01.html#a8bef52f9dd008a2c33a71394a075a1cc" title=" " alt="" coords="415,649,556,677"/>
+<area shape="rect" id="node20" href="$classTSYS01.html#a68d06e6764c51c5adb10a6ff6136ab14" title=" " alt="" coords="416,709,555,737"/>
+</map>

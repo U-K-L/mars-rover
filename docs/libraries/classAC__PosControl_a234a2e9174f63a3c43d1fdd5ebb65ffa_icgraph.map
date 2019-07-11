@@ -1,0 +1,4 @@
+<map id="AC_PosControl::set_limit_accel_xy" name="AC_PosControl::set_limit_accel_xy">
+<area shape="rect" id="node1" title=" " alt="" coords="200,5,339,49"/>
+<area shape="rect" id="node2" href="$classAC__Loiter.html#a625fb859e5225e5938b285fb53901f6c" title="reduce response for landing" alt="" coords="5,5,152,49"/>
+</map>

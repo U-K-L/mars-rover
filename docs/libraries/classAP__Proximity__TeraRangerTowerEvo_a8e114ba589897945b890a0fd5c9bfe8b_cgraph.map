@@ -1,0 +1,11 @@
+<map id="AP_Proximity_TeraRangerTowerEvo::AP_Proximity_TeraRangerTowerEvo" name="AP_Proximity_TeraRangerTowerEvo::AP_Proximity_TeraRangerTowerEvo">
+<area shape="rect" id="node1" title=" " alt="" coords="6,107,274,151"/>
+<area shape="rect" id="node2" href="$classAP__SerialManager.html#a58cb32ebb77d9fc18e4756d0270d1970" title=" " alt="" coords="323,5,485,49"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title=" " alt="" coords="328,73,480,117"/>
+<area shape="rect" id="node6" href="$classAP__SerialManager.html#a5e363f0274897cdcf5a427d5bbe3eb51" title=" " alt="" coords="323,141,485,185"/>
+<area shape="rect" id="node8" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="349,209,459,237"/>
+<area shape="rect" id="node3" href="$classAP__SerialManager.html#a073cb2777b00ddb4695dea07acc786d9" title=" " alt="" coords="536,39,698,83"/>
+<area shape="rect" id="node4" href="$classAP__SerialManager.html#aeecba06b097b0443637b7cf5349fdf68" title=" " alt="" coords="750,39,938,83"/>
+<area shape="rect" id="node7" href="$classAP__SerialManager.html#a0b46c00a7f296e98ee118821a2481ffc" title=" " alt="" coords="534,141,701,185"/>
+<area shape="rect" id="node9" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="573,209,662,237"/>
+</map>

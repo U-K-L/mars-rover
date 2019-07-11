@@ -1,0 +1,9 @@
+<map id="Mode::get_pilot_desired_heading_and_speed" name="Mode::get_pilot_desired_heading_and_speed">
+<area shape="rect" id="node1" title=" " alt="" coords="6,111,170,155"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="462,119,570,147"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channel.html#a2410c4ad38c5b3ca13f0abcfdffbd2b1" title=" " alt="" coords="219,40,413,68"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a7be6cecc012fbd1984f4c6c19ffd6997" title=" " alt="" coords="265,92,367,120"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title=" " alt="" coords="278,144,354,172"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="297,196,335,224"/>
+<area shape="rect" id="node7" href="$classMode.html#a4b62f8ed780864334ba6b067dfc87d74" title=" " alt="" coords="235,248,397,276"/>
+</map>

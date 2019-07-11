@@ -1,0 +1,13 @@
+<map id="AP_InertialSensor_BMI160::_hardware_init" name="AP_InertialSensor_BMI160::_hardware_init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,193,188,237"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="254,5,402,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a9cfca3d6c720115b4c77b21b64a2b8af" title=" " alt="" coords="255,73,401,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="237,141,419,169"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#ab8df2848215253ccd70298be7bb52339" title=" " alt="" coords="255,193,401,237"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title=" " alt="" coords="250,261,406,305"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="251,329,405,373"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="238,397,418,425"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title=" " alt="" coords="480,261,626,305"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="467,333,640,361"/>
+<area shape="rect" id="node8" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="688,269,739,297"/>
+</map>

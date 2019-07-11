@@ -1,0 +1,16 @@
+<map id="MissionItemProtocol::send_mission_ack" name="MissionItemProtocol::send_mission_ack">
+<area shape="rect" id="node1" title=" " alt="" coords="931,175,1072,219"/>
+<area shape="rect" id="node2" href="$classMissionItemProtocol.html#a5610350178de3d189f4fa7cda9d61b1d" title=" " alt="" coords="695,5,873,49"/>
+<area shape="rect" id="node3" href="$classMissionItemProtocol.html#a9f034118a8749c649fcf3c9aec0c75a9" title=" " alt="" coords="703,73,865,117"/>
+<area shape="rect" id="node7" href="$classMissionItemProtocol.html#a36a327a6e9d0bb9ea09e77e123ead57d" title=" " alt="" coords="707,141,861,185"/>
+<area shape="rect" id="node9" href="$classMissionItemProtocol.html#a0f218f2ef1da3f5ddf4cd9c06d5e6373" title=" " alt="" coords="687,209,881,253"/>
+<area shape="rect" id="node11" href="$classMissionItemProtocol.html#acc1492c720e16c7768373029616af2da" title=" " alt="" coords="686,277,882,321"/>
+<area shape="rect" id="node13" href="$classMissionItemProtocol.html#a5755d38a2d4438d7b3f108dc4aea3aeb" title=" " alt="" coords="706,345,862,405"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#af48072aa21948d3d13cf660a744ce454" title=" " alt="" coords="467,73,629,117"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a00013e2a14c47d88af2638763d82e7d3" title=" " alt="" coords="216,209,410,253"/>
+<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,209,168,253"/>
+<area shape="rect" id="node8" href="$structGCS__MAVLINK.html#a67d79fd73d6a53e265fa102d508eab98" title=" " alt="" coords="467,141,629,185"/>
+<area shape="rect" id="node10" href="$structGCS__MAVLINK.html#a2093a0591a3db60700f254ed78dce18d" title=" " alt="" coords="467,209,629,253"/>
+<area shape="rect" id="node12" href="$structGCS__MAVLINK.html#a77d0ba68a753475e530318db583575a4" title=" " alt="" coords="467,277,629,321"/>
+<area shape="rect" id="node14" href="$structGCS__MAVLINK.html#a9592cb2ff598cfd3b0d7352e3e3df841" title=" " alt="" coords="460,349,636,393"/>
+</map>

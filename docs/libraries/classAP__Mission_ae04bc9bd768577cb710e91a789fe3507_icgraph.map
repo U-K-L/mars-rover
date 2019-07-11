@@ -1,0 +1,23 @@
+<map id="AP_Mission::complete" name="AP_Mission::complete">
+<area shape="rect" id="node1" title="complete &#45; mission is marked complete and clean&#45;up performed including calling the mission_complete_f..." alt="" coords="985,518,1138,546"/>
+<area shape="rect" id="node2" href="$classAP__Mission.html#ac79a188f81816b3ddfe045b6a0feb6d1" title=" " alt="" coords="737,262,935,290"/>
+<area shape="rect" id="node16" href="$classAP__Mission.html#a3b4234e58e34ed5c83d8c6b9ce2718c9" title=" " alt="" coords="773,518,899,546"/>
+<area shape="rect" id="node21" href="$classAP__Mission.html#ad27b4531fa652b277bd9300b60ca4493" title=" " alt="" coords="766,667,906,695"/>
+<area shape="rect" id="node3" href="$classAP__AdvancedFailsafe.html#a017a878d56457eea9bd9a59c07b92190" title=" " alt="" coords="512,194,664,238"/>
+<area shape="rect" id="node4" href="$classAP__Landing.html#a4cb652398231c274e6061aa6b211366b" title=" " alt="" coords="518,126,658,170"/>
+<area shape="rect" id="node6" href="$classAP__Mission.html#af7b8e9db68a2a858e2ecca8d57c2722e" title=" " alt="" coords="516,314,660,342"/>
+<area shape="rect" id="node8" href="$classAP__Mission.html#a05baa29469cdd5a9606903a7c6b3f3c1" title=" " alt="" coords="255,294,401,338"/>
+<area shape="rect" id="node9" href="$classAP__Mission.html#aa571ee24714d3c6a39e48fd0ede5734a" title=" " alt="" coords="241,98,415,142"/>
+<area shape="rect" id="node12" href="$classMissionTest.html#a16309b0065fe78128c95f5f8cc5f210e" title=" " alt="" coords="517,570,659,614"/>
+<area shape="rect" id="node11" href="$classMissionTest.html#aa5175c099befd271fcc279deb7e28b06" title=" " alt="" coords="216,435,440,479"/>
+<area shape="rect" id="node13" href="$structGCS__MAVLINK.html#ad4e76e7f27bc999e806416e24aa10f26" title=" " alt="" coords="507,6,669,50"/>
+<area shape="rect" id="node5" href="$classAP__Landing.html#a23d5d937afe630bfa1d3eeea5d767e4b" title=" " alt="" coords="261,214,395,258"/>
+<area shape="rect" id="node7" href="$classAP__Mission.html#a90117c1ac074049b9f4247cebdf370a5" title="start_or_resume &#45; if MIS_AUTORESTART=0 this will call resume(), otherwise it will call start()" alt="" coords="256,363,400,407"/>
+<area shape="rect" id="node10" href="$classMissionTest.html#af8b75f25f2b1c7fdd51ab19c4ee42ec8" title=" " alt="" coords="229,518,427,546"/>
+<area shape="rect" id="node14" href="$structGCS__MAVLINK.html#a00013e2a14c47d88af2638763d82e7d3" title=" " alt="" coords="231,6,425,50"/>
+<area shape="rect" id="node15" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,6,168,50"/>
+<area shape="rect" id="node17" href="$classMissionTest.html#a2161685b1b75329ff76bc4243518212d" title=" " alt="" coords="488,638,688,666"/>
+<area shape="rect" id="node20" href="$classMissionTest.html#a4b79b27fab75a4a63dc41e09a16a5442" title=" " alt="" coords="504,690,672,734"/>
+<area shape="rect" id="node18" href="$classMissionTest.html#ab2537e6e678a9468a69cd09f0296aeca" title=" " alt="" coords="266,638,390,666"/>
+<area shape="rect" id="node19" href="$AP__Mission__test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title=" " alt="" coords="63,638,110,666"/>
+</map>

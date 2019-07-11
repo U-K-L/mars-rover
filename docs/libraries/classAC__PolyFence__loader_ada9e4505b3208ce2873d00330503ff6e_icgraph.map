@@ -1,0 +1,9 @@
+<map id="AC_PolyFence_loader::boundary_valid" name="AC_PolyFence_loader::boundary_valid">
+<area shape="rect" id="node1" title=" " alt="" coords="843,65,997,109"/>
+<area shape="rect" id="node2" href="$classAP__Proximity__SITL.html#acc312044f476e2b828b069918c38fa04" title=" " alt="" coords="632,5,787,49"/>
+<area shape="rect" id="node4" href="$classAC__Fence.html#a6c275719d413b357f7ed5ec2fa96c515" title="load polygon points stored in eeprom into boundary array and perform validation. returns true if load..." alt="" coords="624,125,795,169"/>
+<area shape="rect" id="node3" href="$classAP__Proximity__SITL.html#a6d9f228a0ae41c802bda9b6aff5f00dd" title=" " alt="" coords="414,31,559,75"/>
+<area shape="rect" id="node5" href="$classAC__Fence.html#a16a70f21504356c71ddaf0ccb0821081" title=" " alt="" coords="397,125,576,169"/>
+<area shape="rect" id="node6" href="$classAC__Fence.html#a77b1b81a26b6ddbdc933bf2ce3310514" title="check_fence_polygon &#45; true if polygon fence has been newly breached" alt="" coords="182,125,349,169"/>
+<area shape="rect" id="node7" href="$classAC__Fence.html#abedc694a31751eb8ebc2d72c35cb89e7" title="check &#45; returns the fence type that has been breached (if any)" alt="" coords="6,133,133,161"/>
+</map>

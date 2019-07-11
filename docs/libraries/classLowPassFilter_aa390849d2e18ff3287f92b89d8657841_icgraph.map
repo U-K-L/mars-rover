@@ -1,0 +1,95 @@
+<map id="LowPassFilter::apply" name="LowPassFilter::apply">
+<area shape="rect" id="node1" title=" " alt="" coords="2488,1477,2632,1505"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a49643a308463775eb7f7f3d8be13a034" title=" " alt="" coords="2254,599,2439,643"/>
+<area shape="rect" id="node45" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="2271,837,2423,881"/>
+<area shape="rect" id="node47" href="$classAP__WindVane__Backend.html#aac7b73c8d9f55a93eea4292ea2005171" title=" " alt="" coords="2255,1409,2439,1453"/>
+<area shape="rect" id="node54" href="$classSITL_1_1Aircraft.html#a957912d5c288456c9423e133dc097541" title=" " alt="" coords="2261,1477,2432,1505"/>
+<area shape="rect" id="node65" href="$examples_2LowPassFilter_2LowPassFilter_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="2323,1529,2370,1557"/>
+<area shape="rect" id="node66" href="$classAC__AttitudeControl__Heli.html#ae1e17847d017cc4f71e36397df689ddb" title=" " alt="" coords="2266,1665,2427,1725"/>
+<area shape="rect" id="node68" href="$classAC__AttitudeControl__Heli.html#aef34dd1057c38a30edc419bdfc257bab" title=" " alt="" coords="2276,1581,2418,1641"/>
+<area shape="rect" id="node69" href="$classAC__PosControl.html#a476d7e02005457c2772563e41f7b9bbb" title=" " alt="" coords="2277,1017,2417,1061"/>
+<area shape="rect" id="node77" href="$classAC__PosControl.html#a625788a4c99f7dda2425b7578fe514fb" title=" " alt="" coords="2277,919,2417,963"/>
+<area shape="rect" id="node79" href="$classAP__WindVane__Backend.html#a3b272fc3c34174f37e8268daec71ba87" title=" " alt="" coords="2262,1255,2431,1299"/>
+<area shape="rect" id="node84" href="$classAP__MotorsMulticopter.html#af907aef170efec7b52312b8440986f95" title=" " alt="" coords="2268,1817,2425,1877"/>
+<area shape="rect" id="node91" href="$classAP__MotorsMulticopter.html#af61b42846811c6656d4695afd8896b1e" title=" " alt="" coords="2270,1749,2423,1793"/>
+<area shape="rect" id="node92" href="$classAP__MotorsHeli.html#a5b5a08b2aac5950f3a63119e5105b308" title=" " alt="" coords="2267,1901,2426,1945"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Backend.html#a330d2242c139a6ec3e94e0dd7379df7c" title=" " alt="" coords="1987,429,2205,473"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__L3G4200D.html#ab07f7d4df52cbab3fee7f509f50e81fc" title=" " alt="" coords="1734,633,1925,677"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__Invensensev2.html#ab4e62501692ee3a29e58758c59c832b7" title=" " alt="" coords="1720,785,1939,829"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__Invensense.html#a1a06a8d1e4db8924dcdcf9a6439dcaa9" title=" " alt="" coords="1727,89,1932,133"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor__Invensensev2.html#a3bc795a504602197b122d51c6477ead0" title=" " alt="" coords="1720,701,1939,761"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor__Invensense.html#a08417afd32023faa71679e553fc5d437" title=" " alt="" coords="1727,5,1932,65"/>
+<area shape="rect" id="node16" href="$classAP__InertialSensor__LSM9DS0.html#a9e083338c81500c744790115250d5207" title=" " alt="" coords="1731,157,1928,201"/>
+<area shape="rect" id="node19" href="$classAP__InertialSensor__LSM9DS1.html#a1db9c1ef8e9ac00326f8d86100c9f2a2" title=" " alt="" coords="1731,225,1928,269"/>
+<area shape="rect" id="node22" href="$classAP__InertialSensor__BMI160.html#a1a519a3be822e3db7a19d0d0ed21d0c6" title=" " alt="" coords="1738,293,1920,337"/>
+<area shape="rect" id="node25" href="$classAP__InertialSensor__RST.html#a2918d6ebc6df742bbd1230467fd91f92" title=" " alt="" coords="1748,361,1911,405"/>
+<area shape="rect" id="node27" href="$classAP__InertialSensor__SITL.html#a8d6b8277285c6e8b6013585f403cd588" title=" " alt="" coords="1747,429,1912,473"/>
+<area shape="rect" id="node41" href="$classAP__InertialSensor__BMI055.html#a6dbe6f1d68b5a91b8e620c5841685756" title=" " alt="" coords="1738,497,1920,541"/>
+<area shape="rect" id="node43" href="$classAP__InertialSensor__BMI088.html#acc980e77c533f281fb5013ef538166a7" title=" " alt="" coords="1738,565,1920,609"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__L3G4200D.html#a5ddc32421474ee6f544abca47a91ae02" title=" " alt="" coords="1467,633,1658,677"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Invensensev2.html#ab84dd20ba16c9dfa083abd36f9cdca03" title=" " alt="" coords="1453,747,1672,791"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Invensensev2.html#a3086048ea1829e14d7dd5e9f42d646a8" title=" " alt="" coords="1187,747,1405,791"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__Invensensev2.html#aabef6fa96d268997a2921d8e0563d34c" title=" " alt="" coords="920,747,1139,791"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor__Invensense.html#a352da0427395f10fd6a9da9ec3a498ec" title=" " alt="" coords="1460,51,1665,95"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor__Invensense.html#a645c1fd527303dde9031b31544bbce6b" title=" " alt="" coords="1194,51,1398,95"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor__Invensense.html#ad54c13370e4efffcfa2c0eece9b53239" title=" " alt="" coords="927,51,1132,95"/>
+<area shape="rect" id="node17" href="$classAP__InertialSensor__LSM9DS0.html#a517db16a43fdfa7fa31615d07b225474" title=" " alt="" coords="1464,157,1661,201"/>
+<area shape="rect" id="node18" href="$classAP__InertialSensor__LSM9DS0.html#a1fa1189f7920f61d52d526f779be3d8f" title=" " alt="" coords="1198,157,1394,201"/>
+<area shape="rect" id="node20" href="$classAP__InertialSensor__LSM9DS1.html#ad8dbb3016484df97f0a6bea9c459a59d" title=" " alt="" coords="1464,225,1661,269"/>
+<area shape="rect" id="node21" href="$classAP__InertialSensor__LSM9DS1.html#a2adca5a3291b333dc9f4938a1093224c" title=" " alt="" coords="1198,225,1394,269"/>
+<area shape="rect" id="node23" href="$classAP__InertialSensor__BMI160.html#a62d02f0977b50ee599a116e9f85d4ebc" title=" " alt="" coords="1472,293,1654,337"/>
+<area shape="rect" id="node24" href="$classAP__InertialSensor__BMI160.html#a786f5fe4d157ea0a2313c702402b58c5" title=" " alt="" coords="1205,293,1387,337"/>
+<area shape="rect" id="node26" href="$classAP__InertialSensor__RST.html#a38430e9e92c819483999835ae880c04a" title=" " alt="" coords="1481,361,1644,405"/>
+<area shape="rect" id="node28" href="$classAP__InertialSensor__SITL.html#acb53ee7c91782608c30ff3e1c5af13e6" title=" " alt="" coords="1480,429,1645,473"/>
+<area shape="rect" id="node29" href="$classAP__InertialSensor__SITL.html#ac44870551356848abea08bc23b2a3015" title=" " alt="" coords="1214,429,1378,473"/>
+<area shape="rect" id="node30" href="$classAP__InertialSensor__SITL.html#abc6d58b49a9c2dc04f884f46d948e8ed" title=" " alt="" coords="947,429,1112,473"/>
+<area shape="rect" id="node31" href="$classAP__InertialSensor.html#a8967734e82a4f472c6d8ddd8db656804" title=" " alt="" coords="736,429,872,473"/>
+<area shape="rect" id="node32" href="$classAP__InertialSensor.html#a9949b7e301b0d7a5f3e59385d2e8d97a" title=" " alt="" coords="537,361,673,405"/>
+<area shape="rect" id="node37" href="$classAP__InertialSensor.html#ad649def5689aecaebca16cf910d77fd8" title=" " alt="" coords="537,497,673,541"/>
+<area shape="rect" id="node38" href="$classAP__Compass__AK8963.html#a0e8c9e0c82de409e0225fc81ed4ed6db" title=" " alt="" coords="523,429,688,473"/>
+<area shape="rect" id="node33" href="$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title=" " alt="" coords="301,369,454,397"/>
+<area shape="rect" id="node34" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,410,59,438"/>
+<area shape="rect" id="node35" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title=" " alt="" coords="108,333,231,361"/>
+<area shape="rect" id="node36" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="5,333,59,361"/>
+<area shape="rect" id="node39" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="281,437,474,465"/>
+<area shape="rect" id="node40" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="118,437,220,465"/>
+<area shape="rect" id="node42" href="$classAP__InertialSensor__BMI055.html#a21d17eb17effa4f110bfce7ed5edfbb4" title=" " alt="" coords="1472,497,1654,541"/>
+<area shape="rect" id="node44" href="$classAP__InertialSensor__BMI088.html#a0710f2f2daabadacdff9b1dbe46d1541" title=" " alt="" coords="1472,565,1654,609"/>
+<area shape="rect" id="node46" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="1764,853,1895,881"/>
+<area shape="rect" id="node48" href="$classAP__WindVane__NMEA.html#ab0a91316dde5c29fd29e6d60f49e9692" title=" " alt="" coords="1995,1357,2197,1385"/>
+<area shape="rect" id="node51" href="$classAP__WindVane__SITL.html#a23020ebb4ad057b4e3d5426f7fd1e904" title=" " alt="" coords="2001,1409,2191,1453"/>
+<area shape="rect" id="node52" href="$classAP__WindVane__Home.html#a5e5cbcf1d08f88efde33bf9fa0492a50" title=" " alt="" coords="1997,1477,2195,1521"/>
+<area shape="rect" id="node53" href="$classAP__WindVane__Analog.html#abf5c904e8b216c4da12243a9476eeb82" title=" " alt="" coords="2018,1545,2174,1589"/>
+<area shape="rect" id="node49" href="$classAP__WindVane__NMEA.html#afd6920d88500e2a0e770bcbf075b9467" title=" " alt="" coords="1729,1383,1930,1427"/>
+<area shape="rect" id="node50" href="$classAP__WindVane__NMEA.html#a0a1150a67a8fe5ead1bd16452b75f8d2" title=" " alt="" coords="1729,1315,1930,1359"/>
+<area shape="rect" id="node55" href="$classSITL_1_1Aircraft.html#a277aacf18581f54c79cfc2582af7153b" title=" " alt="" coords="2023,1613,2169,1657"/>
+<area shape="rect" id="node64" href="$classSITL_1_1Aircraft.html#a828e9e7e940becc2e88bee5c6433a4e8" title=" " alt="" coords="2023,1681,2169,1725"/>
+<area shape="rect" id="node56" href="$classSITL_1_1JSBSim.html#a63f89f6cd963d65191bc3ef635286dc7" title=" " alt="" coords="1759,1509,1900,1553"/>
+<area shape="rect" id="node59" href="$classSITL_1_1Plane.html#a23a7248ca498b4b952d1673372689cb0" title=" " alt="" coords="1754,1697,1905,1741"/>
+<area shape="rect" id="node61" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title=" " alt="" coords="1477,1753,1649,1781"/>
+<area shape="rect" id="node62" href="$classSITL_1_1SilentWings.html#adf4cfd61b876a48c28774c75226cce8b" title=" " alt="" coords="1762,1629,1897,1673"/>
+<area shape="rect" id="node57" href="$classSITL_1_1JSBSim.html#ac3a7a04e8c830f9be50a8d2a953833a1" title=" " alt="" coords="1479,1490,1646,1518"/>
+<area shape="rect" id="node58" href="$classSITL_1_1JSBSim.html#afed9e8690c5a59cbb44faf5cbaac5c74" title=" " alt="" coords="1220,1517,1372,1545"/>
+<area shape="rect" id="node60" href="$classSITL_1_1Plane.html#a68de2c1dd6684fe9e83bc087d702a439" title=" " alt="" coords="1493,1701,1632,1729"/>
+<area shape="rect" id="node63" href="$classSITL_1_1SilentWings.html#af84ce567ecebd0155e2ebdaa38173ffd" title=" " alt="" coords="1495,1629,1630,1673"/>
+<area shape="rect" id="node67" href="$classAC__AttitudeControl__Heli.html#a5f1a3e763623f247c1cb72d8fb35645d" title=" " alt="" coords="2010,1749,2182,1793"/>
+<area shape="rect" id="node70" href="$classAC__PosControl.html#a81e8e5ca69be129b920416f9670fc5ae" title=" " alt="" coords="2015,949,2177,993"/>
+<area shape="rect" id="node72" href="$classAC__PosControl.html#ab71db0f35377ec2265517a91a0afa4a5" title="update_xy_controller &#45; run the horizontal position controller &#45; should be called at 100hz or higher" alt="" coords="2015,1017,2177,1061"/>
+<area shape="rect" id="node71" href="$classAC__PosControl.html#a4acc8cd7285895654901011106aeab6d" title=" " alt="" coords="1749,905,1910,949"/>
+<area shape="rect" id="node73" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller" alt="" coords="1765,1025,1894,1053"/>
+<area shape="rect" id="node74" href="$classAC__Loiter.html#ad73abbc1c7fcefbb9d18bac3b1fe4444" title="run the loiter controller" alt="" coords="1765,1077,1894,1105"/>
+<area shape="rect" id="node75" href="$classAC__WPNav.html#acc138e7bc6435087ab308896358de6a3" title="update_spline &#45; update spline controller" alt="" coords="1738,1129,1921,1157"/>
+<area shape="rect" id="node76" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="1736,973,1923,1001"/>
+<area shape="rect" id="node78" href="$classAC__PosControl.html#af9c555a3b07ea1420ea28e7333379941" title="update_z_controller &#45; fly to altitude in cm above home" alt="" coords="2015,881,2177,925"/>
+<area shape="rect" id="node80" href="$classAP__WindVane__SITL.html#a25d665b4f7ee1c3103fb70250d8f443c" title=" " alt="" coords="2001,1221,2191,1265"/>
+<area shape="rect" id="node81" href="$classAP__WindVane__RPM.html#a00346378e3f646fcce72f15149e89bf7" title=" " alt="" coords="2000,1289,2192,1333"/>
+<area shape="rect" id="node82" href="$classAP__WindVane__Airspeed.html#a99b638c9e5265f5256f738b6cc01ec6a" title=" " alt="" coords="2012,1085,2180,1129"/>
+<area shape="rect" id="node83" href="$classAP__WindVane__ModernDevice.html#a6efd9433a2fd4a067187af19b9ed125b" title=" " alt="" coords="1996,1153,2196,1197"/>
+<area shape="rect" id="node85" href="$classAP__MotorsMulticopter.html#ae711bfb73844f124fb762c39cd01e060" title=" " alt="" coords="2020,1821,2172,1865"/>
+<area shape="rect" id="node86" href="$classAP__MotorsMulticopter.html#a5c1f9a311308cd7a28bb800b5ef071de" title=" " alt="" coords="1753,1874,1906,1918"/>
+<area shape="rect" id="node88" href="$AP__Motors__test_8cpp.html#a1f08b35b02317dc83a8acfc5e1861364" title=" " alt="" coords="1774,1822,1884,1850"/>
+<area shape="rect" id="node87" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="1536,1882,1590,1910"/>
+<area shape="rect" id="node89" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="1515,1822,1610,1850"/>
+<area shape="rect" id="node90" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="1273,1822,1319,1850"/>
+<area shape="rect" id="node93" href="$classAP__MotorsHeli.html#ab9f72dd9a10890cdd5b284c339b5a043" title=" " alt="" coords="2019,1909,2173,1937"/>
+</map>

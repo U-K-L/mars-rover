@@ -1,0 +1,6 @@
+<map id="AC_PosControl::get_pitch" name="AC_PosControl::get_pitch">
+<area shape="rect" id="node1" title=" " alt="" coords="208,49,347,93"/>
+<area shape="rect" id="node2" href="$classAC__Circle.html#a59790f1f3ae5b8d8beb33c256f1930c2" title=" " alt="" coords="11,5,154,33"/>
+<area shape="rect" id="node3" href="$classAC__Loiter.html#a035a7e1c6016df9e22834d43194ab452" title=" " alt="" coords="12,57,154,85"/>
+<area shape="rect" id="node4" href="$classAC__WPNav.html#ac00ca93a1df9abfcf54f2c602ab9ed04" title=" " alt="" coords="6,109,160,137"/>
+</map>

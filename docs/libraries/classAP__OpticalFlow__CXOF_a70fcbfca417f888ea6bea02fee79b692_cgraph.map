@@ -1,0 +1,9 @@
+<map id="AP_OpticalFlow_CXOF::detect" name="AP_OpticalFlow_CXOF::detect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,166,123"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#aa01135941499a6cbb5fc30403fc24c65" title=" " alt="" coords="232,5,363,33"/>
+<area shape="rect" id="node3" href="$classAP__SerialManager.html#afa2d8d5e467b6c0349d9d0864866cf16" title=" " alt="" coords="431,19,590,63"/>
+<area shape="rect" id="node4" href="$classAP__SerialManager.html#a58cb32ebb77d9fc18e4756d0270d1970" title=" " alt="" coords="216,109,378,153"/>
+<area shape="rect" id="node7" href="$classAP__OpticalFlow__CXOF.html#a1a72e2b695f3e7f43361ab59220ad2b3" title="constructor" alt="" coords="213,177,381,221"/>
+<area shape="rect" id="node5" href="$classAP__SerialManager.html#a073cb2777b00ddb4695dea07acc786d9" title=" " alt="" coords="430,109,592,153"/>
+<area shape="rect" id="node6" href="$classAP__SerialManager.html#aeecba06b097b0443637b7cf5349fdf68" title=" " alt="" coords="641,109,829,153"/>
+</map>

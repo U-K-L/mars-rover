@@ -1,0 +1,4 @@
+<map id="getchar" name="getchar">
+<area shape="rect" id="node1" title="functions normally defined as macros" alt="" coords="6,5,72,33"/>
+<area shape="rect" id="node2" href="$posix_8c.html#ab11a990e4f8863a1e7736e3c1d430092" title="Get byte from a TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;get = fatfs_getc() for..." alt="" coords="120,5,170,33"/>
+</map>

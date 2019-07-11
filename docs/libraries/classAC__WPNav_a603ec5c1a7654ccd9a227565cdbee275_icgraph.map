@@ -1,0 +1,4 @@
+<map id="AC_WPNav::advance_wp_target_along_track" name="AC_WPNav::advance_wp_target_along_track">
+<area shape="rect" id="node1" title="advance_wp_target_along_track &#45; move target location along track from origin to destination" alt="" coords="241,5,415,49"/>
+<area shape="rect" id="node2" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="5,13,192,41"/>
+</map>

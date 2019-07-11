@@ -1,0 +1,8 @@
+<map id="AC_PosControl::check_for_ekf_z_reset" name="AC_PosControl::check_for_ekf_z_reset">
+<area shape="rect" id="node1" title="check for ekf position reset and adjust loiter or brake target position" alt="" coords="6,39,162,83"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__View.html#a0bbe38ea1d1c242117fd861d14b5bb6a" title=" " alt="" coords="211,5,405,49"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#add9f8e5a5f3e35c0e99ddc3af4d9090b" title="shift altitude target (positive means move altitude up)" alt="" coords="235,73,381,117"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#adf59f57a54ee7767559598a6aceea09d" title=" " alt="" coords="453,13,680,41"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="535,73,599,101"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#aa979d20c99f08a96d0f482c1dad50f78" title="freeze_ff_z &#45; used to stop the feed forward being calculated during a known discontinuity" alt="" coords="473,125,660,153"/>
+</map>

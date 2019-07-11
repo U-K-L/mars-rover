@@ -1,0 +1,4 @@
+<map id="__wrap_strerror_r" name="__wrap_strerror_r">
+<area shape="rect" id="node1" title="POSIX strerror_r() &#45; convert POSIX errno to text with user message." alt="" coords="6,5,133,33"/>
+<area shape="rect" id="node2" href="$posix_8c.html#add46ab98f32b76457852dbb872842bf2" title="POSIX strerror() &#45; convert POSIX errno to text with user message." alt="" coords="181,5,245,33"/>
+</map>

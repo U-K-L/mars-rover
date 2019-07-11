@@ -1,0 +1,12 @@
+<map id="AC_PolyFence_loader::load_point_from_eeprom" name="AC_PolyFence_loader::load_point_from_eeprom">
+<area shape="rect" id="node1" title=" " alt="" coords="844,73,1020,117"/>
+<area shape="rect" id="node2" href="$classAC__Fence.html#a9e7499c3b42f4ef5cc120bf103d17fe3" title="handler for polygon fence messages with GCS" alt="" coords="627,17,792,45"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__SITL.html#a64912db994fb73e63f21adc0fa1eb6c5" title=" " alt="" coords="637,73,782,117"/>
+<area shape="rect" id="node7" href="$classAC__Fence.html#a6c275719d413b357f7ed5ec2fa96c515" title="load polygon points stored in eeprom into boundary array and perform validation. returns true if load..." alt="" coords="624,141,795,185"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#afe1ee2ae1b71e301868876d261b42a3c" title=" " alt="" coords="405,5,568,49"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="184,5,347,49"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__SITL.html#a6d9f228a0ae41c802bda9b6aff5f00dd" title=" " alt="" coords="414,73,559,117"/>
+<area shape="rect" id="node8" href="$classAC__Fence.html#a16a70f21504356c71ddaf0ccb0821081" title=" " alt="" coords="397,141,576,185"/>
+<area shape="rect" id="node9" href="$classAC__Fence.html#a77b1b81a26b6ddbdc933bf2ce3310514" title="check_fence_polygon &#45; true if polygon fence has been newly breached" alt="" coords="182,141,349,185"/>
+<area shape="rect" id="node10" href="$classAC__Fence.html#abedc694a31751eb8ebc2d72c35cb89e7" title="check &#45; returns the fence type that has been breached (if any)" alt="" coords="6,149,133,177"/>
+</map>

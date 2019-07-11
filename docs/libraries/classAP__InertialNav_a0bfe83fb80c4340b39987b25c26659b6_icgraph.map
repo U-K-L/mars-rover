@@ -1,0 +1,15 @@
+<map id="AP_InertialNav::get_velocity_z" name="AP_InertialNav::get_velocity_z">
+<area shape="rect" id="node1" title=" " alt="" coords="645,262,781,306"/>
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a2de47ab8e5d9324a52d025485178cbb1" title="get_stopping_point_z &#45; calculates stopping point based on current position, velocity,..." alt="" coords="441,149,580,193"/>
+<area shape="rect" id="node8" href="$classAC__PosControl__Sub.html#a7a9498126d59c8286c11bbe442cf228c" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="424,227,597,271"/>
+<area shape="rect" id="node9" href="$classAC__PosControl.html#a73ba96e0c072bf80ac6c7be005ca312e" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="436,295,585,339"/>
+<area shape="rect" id="node12" href="$classAC__AutoTune.html#aff27171308f59379fbde6c68d5629b0b" title=" " alt="" coords="442,385,580,413"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#ab1a08bf0cceabbf4469535b0c9aefdcb" title="get_wp_stopping_point &#45; returns vector to stopping point based on 3D position and velocity" alt="" coords="168,5,368,49"/>
+<area shape="rect" id="node4" href="$classAC__WPNav.html#a8caabd95cf51512456cd8d81f38dbff9" title=" " alt="" coords="188,73,348,117"/>
+<area shape="rect" id="node5" href="$classAC__PosControl.html#a51caffd56dd27f42595df30f63cd1eaa" title="set_target_to_stopping_point_z &#45; sets altitude target to reasonable stopping altitude in cm above hom..." alt="" coords="198,141,338,201"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#a38519fcac3a24cf64ec7c37e90fc3e13" title=" " alt="" coords="161,225,375,253"/>
+<area shape="rect" id="node6" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title=" " alt="" coords="6,157,112,185"/>
+<area shape="rect" id="node10" href="$classAC__PosControl__Sub.html#ad8f7c6291be9be035a2faa970ecab24a" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="181,277,355,321"/>
+<area shape="rect" id="node11" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="202,345,334,373"/>
+<area shape="rect" id="node13" href="$classAC__AutoTune.html#ae1d8a3635f6d6a5b5b0170636fce56ca" title=" " alt="" coords="175,397,361,425"/>
+</map>

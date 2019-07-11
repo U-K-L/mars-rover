@@ -1,0 +1,14 @@
+<map id="AC_AttitudeControl::get_rate_pitch_pid" name="AC_AttitudeControl::get_rate_pitch_pid">
+<area shape="rect" id="node1" title=" " alt="" coords="851,175,989,219"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#a487553ac1448b6ba791d029c9cf18dac" title=" " alt="" coords="624,5,792,49"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl.html#a874d7c2f98a3ad251d9f91cc936694e2" title=" " alt="" coords="622,141,794,185"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl.html#ac6d9372593dc21ea2987ed487f4ddc23" title=" " alt="" coords="640,209,776,253"/>
+<area shape="rect" id="node10" href="$classAC__AttitudeControl.html#af828fefadbe69fe4b05db836886ffca5" title=" " alt="" coords="614,73,802,117"/>
+<area shape="rect" id="node11" href="$classAC__AttitudeControl.html#ad5f06ff5ba37d9af1afdb1ab18827a06" title=" " alt="" coords="386,302,564,346"/>
+<area shape="rect" id="node12" href="$classAC__AttitudeControl.html#af1ad60b3bcec6ab34e77248a6755da4e" title=" " alt="" coords="632,329,784,389"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Sub.html#ac2c2aeb7080b1e40eb19d005e14513b6" title=" " alt="" coords="389,73,561,117"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Multi.html#af304b91ae160b32aa4cd1de9c872b798" title=" " alt="" coords="387,5,563,49"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl.html#a18ad3ea19760b7a23f3980ca96e93c22" title=" " alt="" coords="384,197,565,241"/>
+<area shape="rect" id="node7" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="184,167,336,211"/>
+<area shape="rect" id="node8" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,175,136,203"/>
+</map>

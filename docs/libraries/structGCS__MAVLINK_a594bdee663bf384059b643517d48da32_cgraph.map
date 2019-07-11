@@ -1,0 +1,7 @@
+<map id="GCS_MAVLINK::send_heartbeat" name="GCS_MAVLINK::send_heartbeat">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,221,85"/>
+<area shape="rect" id="node2" href="$GCS__Common_8cpp.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="344,5,386,33"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a117f9a72fc1d3be064cded650cf311e8" title=" " alt="" coords="269,57,461,85"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#afd5f5c2bef34fef841acd5f90a2d59c9" title=" " alt="" coords="283,109,448,153"/>
+<area shape="rect" id="node3" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="510,5,647,33"/>
+</map>

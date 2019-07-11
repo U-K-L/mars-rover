@@ -1,0 +1,4 @@
+<map id="rmdir" name="rmdir">
+<area shape="rect" id="node1" title="POSIX delete a directory." alt="" coords="6,5,58,33"/>
+<area shape="rect" id="node2" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="107,5,210,33"/>
+</map>

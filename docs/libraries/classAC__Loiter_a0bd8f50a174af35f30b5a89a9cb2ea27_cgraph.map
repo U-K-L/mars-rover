@@ -1,0 +1,4 @@
+<map id="AC_Loiter::clear_pilot_desired_acceleration" name="AC_Loiter::clear_pilot_desired_acceleration">
+<area shape="rect" id="node1" title="clear pilot desired acceleration" alt="" coords="5,5,157,49"/>
+<area shape="rect" id="node2" href="$structVector2.html#a6b537328ae913e3e7267b539e7a4af92" title=" " alt="" coords="206,13,306,41"/>
+</map>

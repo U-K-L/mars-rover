@@ -1,0 +1,11 @@
+<map id="ChibiOS::Semaphore::check_owner" name="ChibiOS::Semaphore::check_owner">
+<area shape="rect" id="node1" title=" " alt="" coords="957,89,1104,133"/>
+<area shape="rect" id="node2" href="$classChibiOS_1_1Semaphore.html#a5d52f4d2148547be239b89941612df27" title=" " alt="" coords="762,21,910,65"/>
+<area shape="rect" id="node9" href="$classChibiOS_1_1I2CDevice.html#acda87a68781e50471e6e8c20a7ec0541" title=" " alt="" coords="766,89,906,133"/>
+<area shape="rect" id="node7" href="$classChibiOS_1_1SPIDevice.html#a2c8d77ac7a241a2e74990afdeeb0c580" title=" " alt="" coords="6,119,146,163"/>
+<area shape="rect" id="node3" href="$classChibiOS_1_1SPIDevice.html#a5a692c5abcee37232eb057fb9a639c7d" title=" " alt="" coords="574,81,714,125"/>
+<area shape="rect" id="node4" href="$classChibiOS_1_1SPIDevice.html#a5ba4080e288a615928ccdf1240fc9250" title=" " alt="" coords="384,21,525,65"/>
+<area shape="rect" id="node8" href="$classChibiOS_1_1SPIDevice.html#a983a24301ee8c22246d09bea5780f58e" title=" " alt="" coords="6,6,146,50"/>
+<area shape="rect" id="node5" href="$classChibiOS_1_1SPIDevice.html#af53fc49518ac653f3dc0f59ffde21945" title=" " alt="" coords="384,89,525,133"/>
+<area shape="rect" id="node6" href="$classChibiOS_1_1SPIDevice.html#afef902de160f1dcd385f13f4c0731ebb" title=" " alt="" coords="195,89,336,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GCS_MAVLINK::send_mission_ack" name="GCS_MAVLINK::send_mission_ack">
+<area shape="rect" id="node1" title=" " alt="" coords="685,81,917,109"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a7868048c0aaca4e2374082d15fcc85a9" title=" " alt="" coords="467,5,629,49"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a67d79fd73d6a53e265fa102d508eab98" title=" " alt="" coords="467,73,629,117"/>
+<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a9592cb2ff598cfd3b0d7352e3e3df841" title=" " alt="" coords="460,141,636,185"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a00013e2a14c47d88af2638763d82e7d3" title=" " alt="" coords="216,73,410,117"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,73,168,117"/>
+</map>

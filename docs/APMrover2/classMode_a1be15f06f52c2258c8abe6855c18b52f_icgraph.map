@@ -1,0 +1,7 @@
+<map id="Mode::set_desired_speed" name="Mode::set_desired_speed">
+<area shape="rect" id="node1" title=" " alt="" coords="481,81,655,109"/>
+<area shape="rect" id="node2" href="$classModeAuto.html#a5ff29cd3c73a2c7fd5945292766207ba" title=" " alt="" coords="256,5,411,49"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK__Rover.html#a9c7790218bc7b62800053241e76fb4bd" title=" " alt="" coords="236,73,431,117"/>
+<area shape="rect" id="node5" href="$classGCS__MAVLINK__Rover.html#a46580d8a9c126a95b84791c4f1069102" title=" " alt="" coords="251,141,416,201"/>
+<area shape="rect" id="node3" href="$classModeAuto.html#a31ef596d25ce081bc7fa4e14c7691baa" title=" " alt="" coords="5,13,187,41"/>
+</map>

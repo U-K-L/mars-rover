@@ -1,0 +1,6 @@
+<map id="GCS::get_hud_throttle" name="GCS::get_hud_throttle">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,160,85"/>
+<area shape="rect" id="node2" href="$classGCS.html#a7b54834de92fbedc24ba0e282934db9d" title=" " alt="" coords="236,5,348,33"/>
+<area shape="rect" id="node3" href="$classGCS.html#a9f093f75d5a95970e1f6b09adc775d69" title=" " alt="" coords="249,57,335,85"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a153ea3cf1e1e1d0e8d8d8753d3915091" title=" " alt="" coords="208,109,376,153"/>
+</map>

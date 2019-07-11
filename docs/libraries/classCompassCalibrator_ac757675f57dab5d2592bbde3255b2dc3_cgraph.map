@@ -1,0 +1,8 @@
+<map id="CompassCalibrator::calculate_earth_field" name="CompassCalibrator::calculate_earth_field">
+<area shape="rect" id="node1" title=" " alt="" coords="6,91,149,135"/>
+<area shape="rect" id="node2" href="$classCompassCalibrator_1_1CompassSample.html#ac58b5be8d7e666d4e3e223c23a17b127" title=" " alt="" coords="203,5,352,49"/>
+<area shape="rect" id="node3" href="$classVector3.html#a54af2cdf84d76ad47bdb4f7f43ccb7e8" title=" " alt="" coords="198,73,357,101"/>
+<area shape="rect" id="node4" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title=" " alt="" coords="223,125,331,153"/>
+<area shape="rect" id="node5" href="$classCompassCalibrator_1_1AttitudeSample.html#ac4ec48541e95b6abe1370e1238aee441" title=" " alt="" coords="206,177,349,237"/>
+<area shape="rect" id="node6" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title=" " alt="" coords="405,193,541,221"/>
+</map>

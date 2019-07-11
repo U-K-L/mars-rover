@@ -1,0 +1,14 @@
+<map id="NCP5623::hw_init" name="NCP5623::hw_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,277,133,305"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a8153774ecb8d07a14cb0eeac74ce6211" title=" " alt="" coords="182,5,376,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="204,73,353,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html#ab4866b1d5b6d1ec196328fafdc4705a8" title=" " alt="" coords="201,141,357,185"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title=" " alt="" coords="206,209,352,253"/>
+<area shape="rect" id="node7" href="$classNCP5623.html#a60b36f938a58b51bf5d9abe9051d813d" title=" " alt="" coords="653,329,768,357"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="188,329,369,357"/>
+<area shape="rect" id="node10" href="$classNCP5623.html#aa860fbfb282e48a4d2434547b099b6ee" title=" " alt="" coords="440,381,590,409"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1I2CDevice.html#a5d6a208d57d47068884af3a4fb90f1a2" title=" " alt="" coords="191,433,366,477"/>
+<area shape="rect" id="node12" href="$classNCP5623.html#aee2b455331d98e86a4755709b736f626" title=" " alt="" coords="217,501,340,529"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="424,149,605,177"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="816,321,965,365"/>
+</map>

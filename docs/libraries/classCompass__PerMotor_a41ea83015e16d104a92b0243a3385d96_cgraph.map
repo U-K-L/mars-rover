@@ -1,0 +1,15 @@
+<map id="Compass_PerMotor::scaled_output" name="Compass_PerMotor::scaled_output">
+<area shape="rect" id="node1" title=" " alt="" coords="6,221,192,265"/>
+<area shape="rect" id="node2" href="$classSRV__Channels.html#aa8ce392569ac9b773e5edd27bd3c6650" title=" " alt="" coords="259,153,400,197"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCOutput.html#af2f0ea0eb3f480a8ea0ea91597b147ae" title=" " alt="" coords="243,221,416,265"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1RCOutput.html#a8fb0c64194b1a3c0079eac61b7a3260d" title=" " alt="" coords="240,289,418,333"/>
+<area shape="rect" id="node3" href="$classSRV__Channels.html#a2bce803f8a1de705be47d8cf7a46584c" title="setup the output range types of all functions" alt="" coords="473,67,634,111"/>
+<area shape="rect" id="node9" href="$classSRV__Channels.html#a378e0022237c196e6107c9e79f340285" title=" " alt="" coords="470,157,637,201"/>
+<area shape="rect" id="node4" href="$classBitmask.html#ab753bfb6058f8a60e523c949802f3823" title=" " alt="" coords="717,5,835,33"/>
+<area shape="rect" id="node5" href="$classSRV__Channel.html#aadaab2dbeb62aa6f7b42eb39bf4f2430" title=" " alt="" coords="689,57,863,101"/>
+<area shape="rect" id="node8" href="$classBitmask.html#a6d942e61abc55c452b001b11dadf8a18" title=" " alt="" coords="729,125,823,153"/>
+<area shape="rect" id="node6" href="$classSRV__Channel.html#a04f5baeec785c9f696798fa4a6c7d6ce" title=" " alt="" coords="913,39,1085,67"/>
+<area shape="rect" id="node7" href="$classSRV__Channel.html#aaf3193d70a486747bfbc9c6398cff261" title=" " alt="" coords="913,91,1084,119"/>
+<area shape="rect" id="node10" href="$classBitmask.html#a0be34bb49dbf06972c4a16c0b12cd846" title=" " alt="" coords="729,177,823,205"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1RCOutput.html#a636fcf1b8ebc6b591a15fbc917f83f4f" title=" " alt="" coords="467,229,640,257"/>
+</map>

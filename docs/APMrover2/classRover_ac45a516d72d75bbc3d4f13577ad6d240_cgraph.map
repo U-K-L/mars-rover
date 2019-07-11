@@ -1,0 +1,11 @@
+<map id="Rover::update_wheel_encoder" name="Rover::update_wheel_encoder">
+<area shape="rect" id="node1" title=" " alt="" coords="6,211,154,255"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#ae37bbe5088b208359514ca76ec32fe6c" title=" " alt="" coords="211,5,378,49"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#ac041f1c3b8eafa1573c754f97bee00f6" title=" " alt="" coords="204,73,386,101"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="240,125,349,153"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a946f18834b2ec52fd25a2f132dabef6a" title=" " alt="" coords="215,177,375,221"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#ad99d49d65fa940300af126d50f70f87c" title=" " alt="" coords="215,245,375,289"/>
+<area shape="rect" id="node7" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a83003fbe7c2bb56901c15ddbe3cf8330" title=" " alt="" coords="215,313,375,357"/>
+<area shape="rect" id="node8" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a10b31b956e2aac908e195a9ee5fff9a6" title=" " alt="" coords="215,381,375,425"/>
+<area shape="rect" id="node9" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__WheelEncoder.html#a669afe4b5aeb4df15b3ce0442ccb762a" title=" " alt="" coords="215,449,375,493"/>
+</map>

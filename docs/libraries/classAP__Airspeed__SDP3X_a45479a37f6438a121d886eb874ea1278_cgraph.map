@@ -1,0 +1,28 @@
+<map id="AP_Airspeed_SDP3X::init" name="AP_Airspeed_SDP3X::init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,487,181,515"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a8153774ecb8d07a14cb0eeac74ce6211" title=" " alt="" coords="230,5,424,49"/>
+<area shape="rect" id="node3" href="$classAP__Airspeed__Backend.html#a03d78e02f280fca3e5ca6f920396ff8d" title=" " alt="" coords="247,73,406,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="252,141,401,185"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="236,209,417,237"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title=" " alt="" coords="254,261,400,305"/>
+<area shape="rect" id="node7" href="$classAP__Airspeed__SDP3X.html#ada274f6ff9b677f88954ccda84d502d2" title=" " alt="" coords="485,569,643,613"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="236,397,417,425"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="253,449,400,493"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="704,569,853,613"/>
+<area shape="rect" id="node11" href="$classAP__Airspeed__SDP3X.html#aeb2857ba03776e029f1fc006ccc146b8" title=" " alt="" coords="473,850,655,878"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1BetterStream.html#a8534aa004599bb81ad60f3e762791032" title=" " alt="" coords="247,329,406,373"/>
+<area shape="rect" id="node20" href="$classAP__Airspeed__Backend.html#a3122a78c7444c353c811a15e9c9c926a" title=" " alt="" coords="247,687,406,731"/>
+<area shape="rect" id="node21" href="$classAP__Airspeed__Backend.html#a95d83bf755505dbd0501931011dd9b0d" title=" " alt="" coords="247,755,406,799"/>
+<area shape="rect" id="node22" href="$classAP__Airspeed__Backend.html#a8ba642b20a91a488f22bc69a1c24ce3a" title=" " alt="" coords="247,823,406,867"/>
+<area shape="rect" id="node23" href="$classAP__HAL_1_1I2CDevice.html#a5d6a208d57d47068884af3a4fb90f1a2" title=" " alt="" coords="239,891,414,935"/>
+<area shape="rect" id="node24" href="$classAP__Airspeed__SDP3X.html#a78c91f7ed5e6623c92a2a45e1383a362" title=" " alt="" coords="248,619,406,663"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1BetterStream.html#aa730be451d385d7ba03ee9677e6d91a2" title=" " alt="" coords="485,329,643,373"/>
+<area shape="rect" id="node14" href="$print__vprintf_8cpp.html#a98e0d5bb436a207f576379beaa786040" title=" " alt="" coords="733,337,824,365"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="902,243,1061,287"/>
+<area shape="rect" id="node16" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title=" " alt="" coords="936,363,1027,391"/>
+<area shape="rect" id="node18" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title=" " alt="" coords="935,415,1028,443"/>
+<area shape="rect" id="node19" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title=" " alt="" coords="936,311,1026,339"/>
+<area shape="rect" id="node17" href="$lstrlib_8c.html#a9605f4d16ae762782f8be8b54aef0a22" title=" " alt="" coords="1109,363,1155,391"/>
+<area shape="rect" id="node25" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="509,689,619,717"/>
+<area shape="rect" id="node26" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="734,689,823,717"/>
+</map>

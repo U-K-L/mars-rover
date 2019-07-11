@@ -1,0 +1,11 @@
+<map id="libraries/SITL/SIM_Frame.h" name="libraries/SITL/SIM_Frame.h">
+<area shape="rect" id="node1" title=" " alt="" coords="188,6,315,50"/>
+<area shape="rect" id="node2" href="$SIM__Frame_8cpp.html" title=" " alt="" coords="38,99,164,143"/>
+<area shape="rect" id="node3" href="$SIM__Multicopter_8h.html" title=" " alt="" coords="188,99,315,143"/>
+<area shape="rect" id="node8" href="$SIM__Submarine_8h.html" title=" " alt="" coords="390,99,516,143"/>
+<area shape="rect" id="node4" href="$SITL__cmdline_8cpp.html" title=" " alt="" coords="155,286,313,330"/>
+<area shape="rect" id="node5" href="$SIM__Multicopter_8cpp.html" title=" " alt="" coords="239,193,365,237"/>
+<area shape="rect" id="node6" href="$SIM__QuadPlane_8h.html" title=" " alt="" coords="36,193,163,237"/>
+<area shape="rect" id="node7" href="$SIM__QuadPlane_8cpp.html" title=" " alt="" coords="4,286,131,330"/>
+<area shape="rect" id="node9" href="$SIM__Submarine_8cpp.html" title=" " alt="" coords="390,193,516,237"/>
+</map>

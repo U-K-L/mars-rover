@@ -1,0 +1,6 @@
+<map id="AP_L1_Control::nav_bearing_cd" name="AP_L1_Control::nav_bearing_cd">
+<area shape="rect" id="node1" title=" " alt="" coords="6,5,146,49"/>
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a4e136782e86e2adaaf7f0f759067dfe1" title=" " alt="" coords="195,13,296,41"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title=" " alt="" coords="344,13,424,41"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title=" " alt="" coords="472,13,552,41"/>
+</map>

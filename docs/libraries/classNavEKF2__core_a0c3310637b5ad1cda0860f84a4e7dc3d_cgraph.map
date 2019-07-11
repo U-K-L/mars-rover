@@ -1,0 +1,7 @@
+<map id="NavEKF2_core::MagDeclination" name="NavEKF2_core::MagDeclination">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,216,85"/>
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#a098be132f08bd50032c495af88551afd" title=" " alt="" coords="265,57,466,85"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a1c4fdc6a67b3cadc661ffb510e28a0d0" title=" " alt="" coords="515,5,685,33"/>
+<area shape="rect" id="node5" href="$classCompass.html#a4519009b6dc2e68c498903eb314c2a60" title=" " alt="" coords="278,109,453,137"/>
+<area shape="rect" id="node4" href="$classCompass.html#af5c3da7e49f681c1d7a0354b91eba7ba" title="return true if the compass should be used for yaw calculations" alt="" coords="520,57,680,85"/>
+</map>

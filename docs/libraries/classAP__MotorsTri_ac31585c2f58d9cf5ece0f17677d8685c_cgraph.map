@@ -1,0 +1,7 @@
+<map id="AP_MotorsTri::calc_yaw_radio_output" name="AP_MotorsTri::calc_yaw_radio_output">
+<area shape="rect" id="node1" title=" " alt="" coords="6,75,140,119"/>
+<area shape="rect" id="node2" href="$classSRV__Channel.html#a08d12bc5da50b61094e29e72fed64834" title=" " alt="" coords="198,5,389,33"/>
+<area shape="rect" id="node3" href="$classSRV__Channel.html#a7d0f8071d6ba54db1985a1515b2b3a97" title=" " alt="" coords="213,57,374,85"/>
+<area shape="rect" id="node4" href="$classSRV__Channel.html#ab4ab7b27c467ed419b9c3a36412b0fb9" title=" " alt="" coords="189,109,398,137"/>
+<area shape="rect" id="node5" href="$classSRV__Channel.html#a5884a2e91f299fec204b26178b99b3df" title=" " alt="" coords="191,161,396,189"/>
+</map>

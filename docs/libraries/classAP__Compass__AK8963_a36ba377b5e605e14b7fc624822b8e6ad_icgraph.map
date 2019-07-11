@@ -1,0 +1,11 @@
+<map id="AP_Compass_AK8963::_make_adc_sensitivity_adjustment" name="AP_Compass_AK8963::_make_adc_sensitivity_adjustment">
+<area shape="rect" id="node1" title=" " alt="" coords="1373,31,1539,91"/>
+<area shape="rect" id="node2" href="$classAP__Compass__AK8963.html#aad72266ce1554cc660d865e37fdc72d3" title=" " alt="" coords="1160,39,1325,83"/>
+<area shape="rect" id="node3" href="$classAP__Compass__AK8963.html#a3c4eeb6c32512c231c858d246d5fc560" title=" " alt="" coords="929,47,1111,75"/>
+<area shape="rect" id="node4" href="$classAP__Compass__AK8963.html#afcde08c622086b5faec26b55304e8457" title=" " alt="" coords="715,5,880,49"/>
+<area shape="rect" id="node9" href="$classAP__Compass__AK8963.html#a8900c4f1fc44dc91f1efb0a673b33c8d" title=" " alt="" coords="715,73,880,117"/>
+<area shape="rect" id="node5" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="259,14,453,42"/>
+<area shape="rect" id="node8" href="$classAP__Compass__AK8963.html#a0e8c9e0c82de409e0225fc81ed4ed6db" title=" " alt="" coords="501,35,667,79"/>
+<area shape="rect" id="node6" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="108,14,210,42"/>
+<area shape="rect" id="node7" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,14,59,42"/>
+</map>

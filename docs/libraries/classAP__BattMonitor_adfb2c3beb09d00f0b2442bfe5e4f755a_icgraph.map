@@ -1,0 +1,8 @@
+<map id="AP_BattMonitor::consumed_wh" name="AP_BattMonitor::consumed_wh">
+<area shape="rect" id="node1" title="consumed_wh &#45; returns total energy drawn since start&#45;up in watt.hours" alt="" coords="685,65,893,93"/>
+<area shape="rect" id="node2" href="$lua__generated__bindings_8cpp.html#a35b10edfa3c96cc333209ea0a7d3019f" title=" " alt="" coords="429,5,637,33"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#af61ae80fb30fc8bb0fbf7ede1e47dfb0" title=" " alt="" coords="433,57,633,101"/>
+<area shape="rect" id="node4" href="$classAP__Logger.html#a9ae837a2154a41ffd9aa69adbeb92111" title=" " alt="" coords="444,125,622,169"/>
+<area shape="rect" id="node5" href="$classAP__Logger.html#a7cd4f7f0ae4fd47dd92f2ecb5b89509f" title=" " alt="" coords="203,133,381,161"/>
+<area shape="rect" id="node6" href="$classAP__BattMonitor.html#a2275643d2998063448035e89cba6f549" title="Read the battery voltage and current for all batteries. Should be called at 10hz." alt="" coords="6,133,154,161"/>
+</map>

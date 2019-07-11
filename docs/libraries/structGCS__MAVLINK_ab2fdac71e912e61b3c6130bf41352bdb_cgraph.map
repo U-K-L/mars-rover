@@ -1,0 +1,12 @@
+<map id="GCS_MAVLINK::send_distance_sensor" name="GCS_MAVLINK::send_distance_sensor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,193,214,237"/>
+<area shape="rect" id="node2" href="$classAP__RangeFinder__Backend.html#acb4240a40844d61d3114b9f2a260754e" title=" " alt="" coords="279,5,462,49"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="316,73,425,101"/>
+<area shape="rect" id="node5" href="$classAP__RangeFinder__Backend.html#a581dc555bf71bc982ba0ce21063574f8" title=" " alt="" coords="279,125,462,169"/>
+<area shape="rect" id="node6" href="$classAP__RangeFinder__Backend.html#ab0fd7bcbd2b19332aef770b80045fd53" title=" " alt="" coords="279,193,462,237"/>
+<area shape="rect" id="node7" href="$classAP__RangeFinder__Backend.html#a9ee50edf2273437704ca0bd1f133c575" title=" " alt="" coords="279,261,462,305"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__Backend.html#a70be857a438f361f455e925362dc3640" title=" " alt="" coords="262,329,479,373"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__Backend.html#ab18f1f3fb5439ebc82721c6937ee3bc6" title=" " alt="" coords="279,397,462,441"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="596,73,684,101"/>
+<area shape="rect" id="node9" href="$classAP__RangeFinder__Backend.html#a488ad63fcb18332d82eb5047349be241" title=" " alt="" coords="528,329,752,373"/>
+</map>

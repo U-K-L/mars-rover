@@ -1,0 +1,10 @@
+<map id="SITL::Aircraft::update_dynamics" name="SITL::Aircraft::update_dynamics">
+<area shape="rect" id="node1" title=" " alt="" coords="226,169,374,213"/>
+<area shape="rect" id="node2" href="$classSITL_1_1Balloon.html#a9bf961c92a5a7fa4a2a47116e74232c9" title=" " alt="" coords="17,5,167,33"/>
+<area shape="rect" id="node3" href="$classSITL_1_1Helicopter.html#a5861ca3716cbd0be3cbfb3d7113ee511" title=" " alt="" coords="9,57,175,85"/>
+<area shape="rect" id="node4" href="$classSITL_1_1SingleCopter.html#af9dfd509cd00dfbb5d9aaafc5938b327" title=" " alt="" coords="25,109,159,153"/>
+<area shape="rect" id="node5" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title=" " alt="" coords="6,177,178,205"/>
+<area shape="rect" id="node6" href="$classSITL_1_1Plane.html#a68de2c1dd6684fe9e83bc087d702a439" title=" " alt="" coords="22,229,162,257"/>
+<area shape="rect" id="node7" href="$classSITL_1_1MultiCopter.html#a3420ce467f86d484407193d3f6e5447c" title=" " alt="" coords="26,281,158,325"/>
+<area shape="rect" id="node8" href="$classSITL_1_1Submarine.html#a831df237e7890146463c338be1b23106" title=" " alt="" coords="7,349,177,377"/>
+</map>

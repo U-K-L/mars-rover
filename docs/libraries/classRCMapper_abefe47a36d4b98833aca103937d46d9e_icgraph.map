@@ -1,0 +1,4 @@
+<map id="RCMapper::throttle" name="RCMapper::throttle">
+<area shape="rect" id="node1" title="throttle &#45; return input channel number for throttle input" alt="" coords="221,13,355,41"/>
+<area shape="rect" id="node2" href="$classSRV__Channels.html#a465e1e727a9e9897cc8a4667b95b2834" title=" " alt="" coords="5,5,174,49"/>
+</map>

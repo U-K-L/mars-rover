@@ -1,0 +1,10 @@
+<map id="AP_AHRS::Log_Write_Home_And_Origin" name="AP_AHRS::Log_Write_Home_And_Origin">
+<area shape="rect" id="node1" title=" " alt="" coords="6,75,157,119"/>
+<area shape="rect" id="node2" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="206,5,381,33"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a1c0edc87d7376462e827a694613df3b4" title=" " alt="" coords="219,57,368,85"/>
+<area shape="rect" id="node4" href="$classAP__Logger.html#ac62c839cf8b76931790297cec22305da" title=" " alt="" coords="209,109,378,137"/>
+<area shape="rect" id="node8" href="$classAP__AHRS.html#a4ffe6b0b13f7f4106740105101fed115" title=" " alt="" coords="210,161,377,189"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="442,83,576,111"/>
+<area shape="rect" id="node7" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="430,135,589,163"/>
+<area shape="rect" id="node6" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="637,83,736,111"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="AP_RSSI::scale_and_constrain_float_rssi" name="AP_RSSI::scale_and_constrain_float_rssi">
+<area shape="rect" id="node1" title=" " alt="" coords="6,49,152,93"/>
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="223,5,287,33"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="201,57,309,85"/>
+<area shape="rect" id="node10" href="$matrix__alg_8cpp.html#a4ae7bd9da0bae1b05a7c352df26008ff" title=" " alt="" coords="228,109,281,137"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title=" " alt="" coords="357,57,472,85"/>
+<area shape="rect" id="node5" href="$namespaceAP.html#afceb236ff617aaaa2b08afacd72532b0" title=" " alt="" coords="539,30,658,58"/>
+<area shape="rect" id="node6" href="$classAP__InternalError.html#ab34174ba770b976b39a18c2b23e854f2" title=" " alt="" coords="521,82,677,110"/>
+<area shape="rect" id="node7" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="725,82,837,110"/>
+<area shape="rect" id="node8" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="930,51,987,79"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="885,103,1032,147"/>
+</map>

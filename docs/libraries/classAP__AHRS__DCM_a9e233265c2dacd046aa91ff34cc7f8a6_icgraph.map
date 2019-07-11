@@ -1,0 +1,44 @@
+<map id="AP_AHRS_DCM::use_compass" name="AP_AHRS_DCM::use_compass">
+<area shape="rect" id="node1" title=" " alt="" coords="3029,86,3240,114"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title=" " alt="" coords="2611,49,2762,93"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__DCM.html#a101f2aaddcc7e97e690924d4e9d7a191" title=" " alt="" coords="2821,78,2971,122"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__NavEKF.html#a4c1d09f4fe08c39172f7e6baab40cad2" title=" " alt="" coords="2811,146,2981,190"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#aa8a135d6852e94f279c0be3c8206bfdd" title=" " alt="" coords="2393,57,2562,85"/>
+<area shape="rect" id="node4" href="$ModuleTest_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="2207,5,2254,33"/>
+<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#a7ce0035d07be995b5f45ac6c711570ce" title=" " alt="" coords="2117,57,2344,85"/>
+<area shape="rect" id="node6" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="1880,57,2069,85"/>
+<area shape="rect" id="node7" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="1705,57,1751,85"/>
+<area shape="rect" id="node10" href="$classGCS.html#a58c4990409a09826f330b3510573e2db" title=" " alt="" coords="2614,146,2760,190"/>
+<area shape="rect" id="node11" href="$classGCS.html#aacaf8dfffa2f8c3d542705a9b62206a3" title=" " alt="" coords="2394,146,2561,190"/>
+<area shape="rect" id="node12" href="$classAP__Frsky__Telem.html#acaa2ca216a6d159415e88748e48e50d7" title=" " alt="" coords="2146,145,2315,189"/>
+<area shape="rect" id="node18" href="$structGCS__MAVLINK.html#aa5be0175cd3488cff905d41913f8fd3f" title=" " alt="" coords="2141,222,2320,266"/>
+<area shape="rect" id="node13" href="$classAP__Frsky__Telem.html#a190c956e56465e105b8e81d4bdc3dd58" title=" " alt="" coords="1892,114,2057,158"/>
+<area shape="rect" id="node14" href="$classAP__Frsky__Telem.html#a9b833af29753a8113e5db32c27da7427" title=" " alt="" coords="1649,113,1807,157"/>
+<area shape="rect" id="node15" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title=" " alt="" coords="1401,121,1551,149"/>
+<area shape="rect" id="node16" href="$classAP__Frsky__Telem.html#adf5f82d6eff07cf44565ca062d13a75d" title=" " alt="" coords="1173,121,1320,149"/>
+<area shape="rect" id="node17" href="$classGCS.html#a114e9a61009d41f517a06646afe67d18" title=" " alt="" coords="970,121,1097,149"/>
+<area shape="rect" id="node19" href="$structGCS__MAVLINK.html#a30034cdbd89bcfb86392411f9b5935db" title=" " alt="" coords="1888,239,2062,283"/>
+<area shape="rect" id="node20" href="$structGCS__MAVLINK.html#ae94077536892270b4a40e5bcddb1c2f9" title=" " alt="" coords="1648,181,1808,225"/>
+<area shape="rect" id="node37" href="$structGCS__MAVLINK.html#af12f472c624f3c0735b082c982e7ec42" title=" " alt="" coords="1645,249,1811,293"/>
+<area shape="rect" id="node40" href="$structGCS__MAVLINK.html#a256bd83477e0d72b40300bf1d7207750" title=" " alt="" coords="1624,317,1832,361"/>
+<area shape="rect" id="node21" href="$structGCS__MAVLINK.html#a97b3a94ebc165ee34ee93b26e2dee23d" title=" " alt="" coords="1376,189,1576,217"/>
+<area shape="rect" id="node22" href="$classGCS.html#a07a8ce284513a8ce8336b085d0b8aadf" title=" " alt="" coords="1179,189,1314,217"/>
+<area shape="rect" id="node23" href="$classAP__BoardConfig.html#ab7d977aecbbe7090266bee755bf2cc32" title=" " alt="" coords="949,181,1117,225"/>
+<area shape="rect" id="node24" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="769,95,868,123"/>
+<area shape="rect" id="node26" href="$classAP__InertialSensor.html#a8967734e82a4f472c6d8ddd8db656804" title=" " alt="" coords="751,181,887,225"/>
+<area shape="rect" id="node36" href="$classAP__Param.html#a0c15e6322af82416e599f89db54501e6" title=" " alt="" coords="736,249,901,293"/>
+<area shape="rect" id="node25" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="578,78,632,106"/>
+<area shape="rect" id="node27" href="$classAP__Compass__AK8963.html#a0e8c9e0c82de409e0225fc81ed4ed6db" title=" " alt="" coords="523,130,688,174"/>
+<area shape="rect" id="node31" href="$classAP__InertialSensor.html#a9949b7e301b0d7a5f3e59385d2e8d97a" title=" " alt="" coords="537,198,673,242"/>
+<area shape="rect" id="node35" href="$classAP__InertialSensor.html#ad649def5689aecaebca16cf910d77fd8" title=" " alt="" coords="537,266,673,310"/>
+<area shape="rect" id="node28" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="281,138,474,166"/>
+<area shape="rect" id="node29" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="118,138,220,166"/>
+<area shape="rect" id="node30" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,165,59,193"/>
+<area shape="rect" id="node32" href="$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title=" " alt="" coords="301,206,454,234"/>
+<area shape="rect" id="node33" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title=" " alt="" coords="108,242,231,270"/>
+<area shape="rect" id="node34" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="5,242,59,270"/>
+<area shape="rect" id="node38" href="$structGCS__MAVLINK.html#ad02c83895334e008e3c2f454a616893e" title=" " alt="" coords="1165,249,1328,293"/>
+<area shape="rect" id="node39" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="952,282,1115,326"/>
+<area shape="rect" id="node41" href="$structGCS__MAVLINK.html#a29e2941413d50ab63cd70f5beadef19a" title=" " alt="" coords="1393,317,1559,361"/>
+<area shape="rect" id="node42" href="$structGCS__MAVLINK.html#abc79cdd8393234b66f2e8217a527f8f9" title=" " alt="" coords="1165,317,1328,361"/>
+</map>

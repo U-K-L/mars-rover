@@ -1,0 +1,12 @@
+<map id="RangeFinder" name="RangeFinder">
+<area shape="rect" id="node1" title=" " alt="" coords="1163,190,1261,218"/>
+<area shape="rect" id="node2" href="$classAP__SerialManager.html" title=" " alt="" coords="857,45,991,73"/>
+<area shape="rect" id="node3" href="$structAP__SerialManager_1_1UARTState.html" title=" " alt="" coords="467,11,675,39"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="216,11,368,39"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="6,11,165,39"/>
+<area shape="rect" id="node6" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="216,165,368,193"/>
+<area shape="rect" id="node7" href="$structRangeFinder_1_1RangeFinder__State.html" title=" " alt="" coords="479,185,662,229"/>
+<area shape="rect" id="node9" href="$classAP__RangeFinder__Params.html" title=" " alt="" coords="482,133,659,161"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__Backend.html" title=" " alt="" coords="833,162,1015,190"/>
+<area shape="rect" id="node8" href="$classVector3.html" title=" " alt="" coords="867,214,981,242"/>
+</map>

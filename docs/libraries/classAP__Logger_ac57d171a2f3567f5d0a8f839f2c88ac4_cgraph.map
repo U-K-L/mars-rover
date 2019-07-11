@@ -1,0 +1,20 @@
+<map id="AP_Logger::Write_Baro" name="AP_Logger::Write_Baro">
+<area shape="rect" id="node1" title=" " alt="" coords="6,237,168,265"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="236,35,370,63"/>
+<area shape="rect" id="node4" href="$namespaceAP.html#a8aec57eb0b7a79044cbc1f0ca4b75bcf" title=" " alt="" coords="491,57,565,85"/>
+<area shape="rect" id="node6" href="$classAP__Logger.html#ac84584dcdf26cb5047a70cd3104305dd" title=" " alt="" coords="222,229,384,273"/>
+<area shape="rect" id="node17" href="$classAP__Baro.html#ad56b4323cfc37bb7510e6cf319ecd7ad" title=" " alt="" coords="217,297,389,325"/>
+<area shape="rect" id="node18" href="$classAP__Baro.html#adf354fe73e210f7be030a4e4d95113d6" title=" " alt="" coords="240,373,365,401"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="479,5,577,33"/>
+<area shape="rect" id="node5" href="$classAP__Baro.html#a92b0efed71f214529da6c54d692f1d61" title=" " alt="" coords="667,57,829,85"/>
+<area shape="rect" id="node7" href="$classAP__Baro.html#afd63ca7ecadb313c2217bd9f7e6a7b42" title=" " alt="" coords="443,109,613,137"/>
+<area shape="rect" id="node9" href="$classAP__Baro.html#a79bff5f0fdc6e8f6f0f801e829179ad7" title=" " alt="" coords="446,161,610,205"/>
+<area shape="rect" id="node10" href="$classAP__Baro.html#a932c39564d42db7594dc132eb6703919" title=" " alt="" coords="453,229,603,273"/>
+<area shape="rect" id="node12" href="$classAP__Baro.html#a50ae73cce1699d88638e3dfab4ffd330" title=" " alt="" coords="452,321,604,349"/>
+<area shape="rect" id="node13" href="$classAP__Baro.html#a41b3c00624c78b883413b53fc5a81a32" title=" " alt="" coords="448,397,608,425"/>
+<area shape="rect" id="node14" href="$classAP__Baro.html#ae7be7aff322792daa05c01e4f326cc42" title=" " alt="" coords="438,473,618,501"/>
+<area shape="rect" id="node15" href="$classAP__Baro.html#a6d51aa8a0b2e283837b5eab833bd5137" title=" " alt="" coords="439,549,617,577"/>
+<area shape="rect" id="node16" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="449,601,607,629"/>
+<area shape="rect" id="node8" href="$classDerivativeFilter.html#a8641b45206ea4b901e86f67a49de6fc8" title=" " alt="" coords="673,109,823,137"/>
+<area shape="rect" id="node11" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="716,237,780,265"/>
+</map>

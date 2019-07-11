@@ -1,0 +1,6 @@
+<map id="AP_MotorsHeli_RSC::set_rotor_rpm" name="AP_MotorsHeli_RSC::set_rotor_rpm">
+<area shape="rect" id="node1" title=" " alt="" coords="209,73,362,117"/>
+<area shape="rect" id="node2" href="$classAP__MotorsHeli__Quad.html#a2cc3323dd61f30b703d706597e3eff9b" title=" " alt="" coords="8,5,158,49"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Dual.html#a9a25cbd891d2603f051ec41a0c273cb5" title=" " alt="" coords="10,73,155,117"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli__Single.html#a45219c3c695fa37c5c16875731c8076b" title=" " alt="" coords="5,141,160,185"/>
+</map>

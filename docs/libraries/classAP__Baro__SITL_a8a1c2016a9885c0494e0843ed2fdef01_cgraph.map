@@ -1,0 +1,7 @@
+<map id="AP_Baro_SITL::temperature_adjustment" name="AP_Baro_SITL::temperature_adjustment">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,195,93"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="243,5,352,33"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="256,57,339,85"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="272,109,322,137"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="401,5,490,33"/>
+</map>

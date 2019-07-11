@@ -1,0 +1,18 @@
+<map id="UUdata" name="UUdata">
+<area shape="rect" id="node1" title=" " alt="" coords="176,1011,241,1039"/>
+<area shape="rect" id="node2" href="$unionL__Umaxalign.html" title=" " alt="" coords="114,918,213,946"/>
+<area shape="rect" id="node3" href="$structUdata.html" title=" " alt="" coords="238,918,295,946"/>
+<area shape="rect" id="node4" href="$structTable.html" title=" " alt="" coords="213,421,265,449"/>
+<area shape="rect" id="node13" href="$structglobal__State.html" title=" " alt="" coords="370,587,464,615"/>
+<area shape="rect" id="node5" href="$structNode.html" title=" " alt="" coords="361,222,413,250"/>
+<area shape="rect" id="node6" href="$structlua__TValue.html" title=" " alt="" coords="567,6,653,34"/>
+<area shape="rect" id="node7" href="$unionTKey.html" title=" " alt="" coords="383,115,435,143"/>
+<area shape="rect" id="node11" href="$structUpVal.html" title=" " alt="" coords="665,169,721,197"/>
+<area shape="rect" id="node10" href="$structlua__State.html" title=" " alt="" coords="468,713,545,741"/>
+<area shape="rect" id="node16" href="$structCallInfo.html" title=" " alt="" coords="515,823,580,851"/>
+<area shape="rect" id="node8" href="$structGCObject.html" title=" " alt="" coords="51,222,129,250"/>
+<area shape="rect" id="node9" href="$unionValue.html" title=" " alt="" coords="277,823,331,851"/>
+<area shape="rect" id="node12" href="$structlua__longjmp.html" title=" " alt="" coords="495,587,587,615"/>
+<area shape="rect" id="node14" href="$structstringtable.html" title=" " alt="" coords="376,421,459,449"/>
+<area shape="rect" id="node15" href="$structTString.html" title=" " alt="" coords="439,222,503,250"/>
+</map>

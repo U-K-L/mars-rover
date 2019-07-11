@@ -1,0 +1,12 @@
+<map id="SITL::Gimbal" name="SITL::Gimbal">
+<area shape="rect" id="node1" title=" " alt="" coords="116,606,215,634"/>
+<area shape="rect" id="node2" href="$classMatrix3.html" title=" " alt="" coords="5,431,117,459"/>
+<area shape="rect" id="node3" href="$classVector3.html" title=" " alt="" coords="108,225,223,253"/>
+<area shape="rect" id="node4" href="$structSITL_1_1sitl__fdm.html" title=" " alt="" coords="343,431,445,459"/>
+<area shape="rect" id="node5" href="$classQuaternion.html" title=" " alt="" coords="254,225,340,253"/>
+<area shape="rect" id="node6" href="$structSITL_1_1float__array.html" title=" " alt="" coords="365,225,484,253"/>
+<area shape="rect" id="node7" href="$structSITL_1_1vector3f__array.html" title=" " alt="" coords="509,225,651,253"/>
+<area shape="rect" id="node8" href="$classVector3.html" title=" " alt="" coords="531,131,628,159"/>
+<area shape="rect" id="node9" title=" " alt="" coords="561,6,599,34"/>
+<area shape="rect" id="node10" href="$classLocation.html" title=" " alt="" coords="675,225,745,253"/>
+</map>

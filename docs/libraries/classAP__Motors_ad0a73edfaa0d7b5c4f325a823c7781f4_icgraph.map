@@ -1,0 +1,17 @@
+<map id="AP_Motors::add_motor_num" name="AP_Motors::add_motor_num">
+<area shape="rect" id="node1" title=" " alt="" coords="733,245,925,273"/>
+<area shape="rect" id="node2" href="$classAP__MotorsMatrix.html#a7845148fb3e5acb078d0dc121d75470b" title=" " alt="" coords="531,73,685,117"/>
+<area shape="rect" id="node10" href="$classAP__MotorsTri.html#adacd9f3694be635672054ce1accf0f1c" title=" " alt="" coords="545,141,671,169"/>
+<area shape="rect" id="node11" href="$classAP__MotorsCoax.html#af766071641562a325694443bc58a84f9" title=" " alt="" coords="537,193,679,221"/>
+<area shape="rect" id="node12" href="$classAP__MotorsSingle.html#a3bb4cd64c62c263562b6b6468e8c35d9" title=" " alt="" coords="534,245,682,273"/>
+<area shape="rect" id="node13" href="$classAP__MotorsHeli__Quad.html#a60c6d97a61975ec1ebccb8f717071977" title=" " alt="" coords="533,297,683,341"/>
+<area shape="rect" id="node14" href="$classAP__MotorsHeli__Dual.html#af9f3d3cb5c7d59106219ad51e02df7a9" title=" " alt="" coords="535,365,681,409"/>
+<area shape="rect" id="node15" href="$classAP__MotorsHeli__Single.html#a018454351a5f35b808c933e3cab29a04" title=" " alt="" coords="531,433,685,477"/>
+<area shape="rect" id="node3" href="$classAP__Motors6DOF.html#ac454275ad3ea3fc58279921e7fccd487" title=" " alt="" coords="324,5,476,49"/>
+<area shape="rect" id="node5" href="$classAP__MotorsMatrix.html#acee5f69304786deff28075ae14eb6a46" title=" " alt="" coords="323,73,477,117"/>
+<area shape="rect" id="node6" href="$classAP__MotorsMatrix.html#add4cc7528ad5a337f58ec38a64156bd4" title=" " alt="" coords="318,141,482,185"/>
+<area shape="rect" id="node4" href="$classAP__Motors6DOF.html#af9f238b776db93043513ef422c80559d" title=" " alt="" coords="107,5,269,49"/>
+<area shape="rect" id="node7" href="$classAP__MotorsMatrix.html#a74999b8c2bdb8a6c9a139e4d4a742679" title=" " alt="" coords="114,118,262,146"/>
+<area shape="rect" id="node9" href="$classAP__MotorsMatrix.html#ad608ef0a8298cd204251d4374a2699c4" title=" " alt="" coords="107,170,269,214"/>
+<area shape="rect" id="node8" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,118,59,146"/>
+</map>

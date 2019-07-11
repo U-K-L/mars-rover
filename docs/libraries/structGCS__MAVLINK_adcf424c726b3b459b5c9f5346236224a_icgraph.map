@@ -1,0 +1,9 @@
+<map id="GCS_MAVLINK::send_banner" name="GCS_MAVLINK::send_banner">
+<area shape="rect" id="node1" title=" " alt="" coords="909,46,1110,74"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#aeb2afa7acf64a184d17a81270de4d054" title=" " alt="" coords="667,7,861,51"/>
+<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a45f2a7f8ba45e6d161ba4d6971e3fd66" title=" " alt="" coords="453,73,616,117"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a29e2941413d50ab63cd70f5beadef19a" title=" " alt="" coords="451,5,618,49"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#abc79cdd8393234b66f2e8217a527f8f9" title=" " alt="" coords="228,5,391,49"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,39,168,83"/>
+<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#a5c5ff4ed407fd9d381c0a985e649db32" title=" " alt="" coords="216,73,403,117"/>
+</map>

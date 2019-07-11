@@ -1,0 +1,6 @@
+<map id="AP_GPS::inject_data" name="AP_GPS::inject_data">
+<area shape="rect" id="node1" title=" " alt="" coords="5,47,152,75"/>
+<area shape="rect" id="node2" href="$classAP__GPS__Backend.html#a1d0f842ede7aff19b688f948d8d9231b" title=" " alt="" coords="200,47,406,75"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#ab0193c7791fd95eb2bfbfd6597bdf6d8" title=" " alt="" coords="454,5,613,49"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="454,73,613,117"/>
+</map>

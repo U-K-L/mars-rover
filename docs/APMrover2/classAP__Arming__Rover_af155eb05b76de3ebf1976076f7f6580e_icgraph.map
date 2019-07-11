@@ -1,0 +1,7 @@
+<map id="AP_Arming_Rover::arm" name="AP_Arming_Rover::arm">
+<area shape="rect" id="node1" title=" " alt="" coords="448,55,610,83"/>
+<area shape="rect" id="node2" href="$classRover.html#a34cf7d06f8f26c791bda383a0f35532b" title=" " alt="" coords="234,13,385,57"/>
+<area shape="rect" id="node4" href="$classRover.html#af59dd9bfb73e334cc06a666532eb525f" title=" " alt="" coords="219,81,400,125"/>
+<area shape="rect" id="node3" href="$classGCS__MAVLINK__Rover.html#a46580d8a9c126a95b84791c4f1069102" title=" " alt="" coords="5,5,171,65"/>
+<area shape="rect" id="node5" href="$classRover.html#a6578ee76e373ab207951dff1ffd93d0d" title=" " alt="" coords="24,89,152,117"/>
+</map>

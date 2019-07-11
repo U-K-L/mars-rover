@@ -1,0 +1,9 @@
+<map id="AP_HAL::SPIDevice::register_periodic_callback" name="AP_HAL::SPIDevice::register_periodic_callback">
+<area shape="rect" id="node1" title=" " alt="" coords="723,73,898,117"/>
+<area shape="rect" id="node2" href="$classAP__OpticalFlow__Pixart.html#aea9f11acda2429444b7726d70f1ec947" title=" " alt="" coords="497,5,655,49"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__LSM9DS1.html#a2adca5a3291b333dc9f4938a1093224c" title=" " alt="" coords="478,73,674,117"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__RST.html#a38430e9e92c819483999835ae880c04a" title=" " alt="" coords="495,141,657,185"/>
+<area shape="rect" id="node3" href="$classAP__OpticalFlow__Pixart.html#a6253ec95aba683e6c08149ac3ba8b8db" title=" " alt="" coords="272,5,430,49"/>
+<area shape="rect" id="node4" href="$classOpticalFlow.html#aa4a49fae8d6a591644b494f84a02717f" title=" " alt="" coords="108,13,223,41"/>
+<area shape="rect" id="node5" href="$AP__OpticalFlow__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,13,59,41"/>
+</map>

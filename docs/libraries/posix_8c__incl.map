@@ -1,0 +1,11 @@
+<map id="libraries/AP_HAL_ChibiOS/hwdef/common/posix.c" name="libraries/AP_HAL_ChibiOS/hwdef/common/posix.c">
+<area shape="rect" id="node1" title="POSIX wrapper for FatFS." alt="" coords="17,6,196,50"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,99,69,127"/>
+<area shape="rect" id="node3" href="$posix_8h.html" title=" " alt="" coords="64,177,127,205"/>
+<area shape="rect" id="node6" href="$stdio_8h.html" title=" " alt="" coords="156,99,216,127"/>
+<area shape="rect" id="node4" href="$board_8h.html" title=" " alt="" coords="63,254,128,282"/>
+<area shape="rect" id="node5" title=" " alt="" coords="62,331,129,359"/>
+<area shape="rect" id="node7" title=" " alt="" coords="152,177,221,205"/>
+<area shape="rect" id="node8" title=" " alt="" coords="245,177,309,205"/>
+<area shape="rect" id="node9" title=" " alt="" coords="334,177,401,205"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="AC_PosControl::get_max_speed_xy" name="AC_PosControl::get_max_speed_xy">
+<area shape="rect" id="node1" title=" " alt="" coords="733,163,872,207"/>
+<area shape="rect" id="node2" href="$classAC__WPNav.html#aa1a3da70925cc9327222d2923807ec21" title="advance_spline_target_along_track &#45; move target location along track from origin to destination" alt="" coords="269,5,462,49"/>
+<area shape="rect" id="node4" href="$classAC__WPNav.html#a603ec5c1a7654ccd9a227565cdbee275" title="advance_wp_target_along_track &#45; move target location along track from origin to destination" alt="" coords="510,65,685,109"/>
+<area shape="rect" id="node6" href="$classAC__Circle.html#a158b85e4c80f553ccce4250565a3b23f" title=" " alt="" coords="510,261,685,289"/>
+<area shape="rect" id="node9" href="$classAC__WPNav.html#a2036d6ad0d72ba04c425a0a68553209b" title="calculate_wp_leash_length &#45; calculates track speed, acceleration and leash lengths for waypoint contr..." alt="" coords="521,133,674,177"/>
+<area shape="rect" id="node13" href="$classAC__WPNav.html#a0e91b64e0b97a76cbe20478ac438ab1b" title=" " alt="" coords="516,338,679,382"/>
+<area shape="rect" id="node10" href="$classAC__WPNav.html#aa218844a5ba6f88bf67ae4a8f188f962" title=" " alt="" coords="274,193,456,237"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#acc138e7bc6435087ab308896358de6a3" title="update_spline &#45; update spline controller" alt="" coords="22,13,205,41"/>
+<area shape="rect" id="node5" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="20,103,207,131"/>
+<area shape="rect" id="node7" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title=" " alt="" coords="312,313,418,341"/>
+<area shape="rect" id="node8" href="$classAC__Circle.html#a7a8197f509233c0c0cf7a7a4de3999df" title="set_circle_rate &#45; set circle rate in degrees per second" alt="" coords="297,261,434,289"/>
+<area shape="rect" id="node12" href="$classAC__WPNav.html#a508f2bfaf76856a1a6e137cb697fe315" title=" " alt="" coords="286,125,445,169"/>
+<area shape="rect" id="node11" href="$classAC__WPNav.html#a38519fcac3a24cf64ec7c37e90fc3e13" title=" " alt="" coords="6,201,220,229"/>
+<area shape="rect" id="node14" href="$classAC__WPNav.html#a8caabd95cf51512456cd8d81f38dbff9" title=" " alt="" coords="285,365,445,409"/>
+</map>

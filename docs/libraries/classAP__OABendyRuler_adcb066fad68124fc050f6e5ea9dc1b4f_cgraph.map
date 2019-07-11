@@ -1,0 +1,11 @@
+<map id="AP_OABendyRuler::calc_margin_from_circular_fence" name="AP_OABendyRuler::calc_margin_from_circular_fence">
+<area shape="rect" id="node1" title=" " alt="" coords="6,169,200,213"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ad7eb5eb7d80cfbcb69839b497bff7a46" title=" " alt="" coords="291,5,370,33"/>
+<area shape="rect" id="node3" href="$classAC__Fence.html#a564e4d513a44df29b5bc6b0424aeedf8" title=" " alt="" coords="461,31,632,59"/>
+<area shape="rect" id="node4" href="$classAC__Fence.html#a1c191248ef154bb17da4795498b2fc03" title="get_enabled_fences &#45; returns bitmask of enabled fences" alt="" coords="248,109,413,153"/>
+<area shape="rect" id="node5" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="294,177,367,205"/>
+<area shape="rect" id="node7" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="256,229,406,257"/>
+<area shape="rect" id="node8" href="$classAC__Fence.html#abaabec220755185cbb63ad9c86c05029" title="get_radius &#45; returns the fence radius in meters" alt="" coords="254,281,408,309"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="306,333,356,361"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="462,177,632,205"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AC_HELI_PID::get_leaky_i" name="AC_HELI_PID::get_leaky_i">
+<area shape="rect" id="node1" title="get_leaky_i &#45; replacement for get_i but output is leaded at leak_rate" alt="" coords="5,5,187,33"/>
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="235,5,299,33"/>
+</map>

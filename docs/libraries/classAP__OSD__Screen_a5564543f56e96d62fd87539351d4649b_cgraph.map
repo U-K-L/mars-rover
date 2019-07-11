@@ -1,0 +1,7 @@
+<map id="AP_OSD_Screen::draw_hdop" name="AP_OSD_Screen::draw_hdop">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,205,85"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="305,5,373,33"/>
+<area shape="rect" id="node4" href="$classAP__GPS.html#a7694bd90008b38bf507a902340b39b2d" title=" " alt="" coords="270,57,408,85"/>
+<area shape="rect" id="node5" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="254,109,424,137"/>
+<area shape="rect" id="node3" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="473,5,634,33"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AC_PosControl::get_lean_angle_max_cd" name="AC_PosControl::get_lean_angle_max_cd">
+<area shape="rect" id="node1" title="get_lean_angle_max_cd &#45; returns the maximum lean angle the autopilot may request" alt="" coords="6,27,154,71"/>
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="239,5,303,33"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl.html#ac71e87097ca470583c0d8f32ead23f21" title=" " alt="" coords="203,57,338,101"/>
+</map>

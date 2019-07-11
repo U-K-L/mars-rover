@@ -1,0 +1,10 @@
+<map id="AP_Mount::handle_mount_control" name="AP_Mount::handle_mount_control">
+<area shape="rect" id="node1" title="Control the mount (depends on the previously set mount configuration)" alt="" coords="6,54,181,98"/>
+<area shape="rect" id="node2" href="$classAP__Mount__Backend.html#abd17e21d4786ce35e6cefcab86253c2f" title=" " alt="" coords="230,54,421,98"/>
+<area shape="rect" id="node3" href="$classAP__Mount__Backend.html#a2c05c2c449c8b03c1dc215ba30b4f98a" title=" " alt="" coords="470,62,660,90"/>
+<area shape="rect" id="node4" href="$classAP__Mount.html#a4510126670698c1b0b2d2066049ac28e" title=" " alt="" coords="925,91,1075,119"/>
+<area shape="rect" id="node5" href="$classAP__Mount.html#a82a1a9ffb9d880f646071092769ec46d" title=" " alt="" coords="718,31,868,59"/>
+<area shape="rect" id="node6" href="$classAP__Mount__Backend.html#aef242e856237c58d2cb6ae0cf0568017" title=" " alt="" coords="709,151,877,195"/>
+<area shape="rect" id="node8" href="$classAP__Mount__Backend.html#a30fd52e4d6a08c6b314ad634b9c4e21a" title=" " alt="" coords="709,83,877,127"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="967,159,1033,187"/>
+</map>

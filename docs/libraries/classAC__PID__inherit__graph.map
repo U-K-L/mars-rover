@@ -1,0 +1,4 @@
+<map id="AC_PID" name="AC_PID">
+<area shape="rect" id="node1" title="Copter PID control class." alt="" coords="23,6,92,34"/>
+<area shape="rect" id="node2" href="$classAC__HELI__PID.html" title="Heli PID control class." alt="" coords="4,83,109,111"/>
+</map>

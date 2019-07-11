@@ -1,0 +1,5 @@
+<map id="AP_InertialSensor::set_accel_peak_hold" name="AP_InertialSensor::set_accel_peak_hold">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,152,49"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="200,13,309,41"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="358,13,447,41"/>
+</map>

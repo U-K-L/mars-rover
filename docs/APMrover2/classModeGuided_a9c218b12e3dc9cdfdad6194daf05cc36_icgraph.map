@@ -1,0 +1,6 @@
+<map id="ModeGuided::set_desired_heading_and_speed" name="ModeGuided::set_desired_heading_and_speed">
+<area shape="rect" id="node1" title=" " alt="" coords="454,39,628,83"/>
+<area shape="rect" id="node2" href="$classGCS__MAVLINK__Rover.html#a47165039f13699b9ebffd14252708171" title=" " alt="" coords="229,5,395,49"/>
+<area shape="rect" id="node3" href="$classModeGuided.html#aaa1ed068282c03f05a3b7a3c58daee56" title=" " alt="" coords="219,73,405,117"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK__Rover.html#a46580d8a9c126a95b84791c4f1069102" title=" " alt="" coords="5,65,171,125"/>
+</map>

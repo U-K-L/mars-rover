@@ -1,0 +1,7 @@
+<map id="AP_OSD_Screen::draw_current" name="AP_OSD_Screen::draw_current">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,167,101"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="275,13,362,41"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a280ff28558f03d85c6090321287bdd77" title="current_amps &#45; returns the instantaneous current draw in amperes" alt="" coords="217,65,420,93"/>
+<area shape="rect" id="node5" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="234,117,404,145"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="470,5,610,49"/>
+</map>

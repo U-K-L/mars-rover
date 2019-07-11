@@ -1,0 +1,9 @@
+<map id="AP_Arming_Rover::update_soft_armed" name="AP_Arming_Rover::update_soft_armed">
+<area shape="rect" id="node1" title=" " alt="" coords="6,155,186,199"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a1f79cc2bff40a44454c576cbc2c2528a" title=" " alt="" coords="239,5,393,49"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title=" " alt="" coords="240,73,392,101"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title=" " alt="" coords="245,125,387,169"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="274,193,358,221"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Logger.html#ada8328cee0a4d5e6b64a235a5d2f273b" title=" " alt="" coords="235,245,397,289"/>
+<area shape="rect" id="node7" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="239,313,393,357"/>
+</map>

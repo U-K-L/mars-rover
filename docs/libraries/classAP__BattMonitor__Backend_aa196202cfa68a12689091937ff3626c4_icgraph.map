@@ -1,0 +1,7 @@
+<map id="AP_BattMonitor_Backend::update_failsafes" name="AP_BattMonitor_Backend::update_failsafes">
+<area shape="rect" id="node1" title=" " alt="" coords="430,39,604,83"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor.html#a852d4774b0d491b3c919ec596ea30be5" title=" " alt="" coords="215,5,372,49"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__Backend.html#a4790fd2898721603736dd03129d13cdf" title=" " alt="" coords="206,73,380,117"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a2275643d2998063448035e89cba6f549" title="Read the battery voltage and current for all batteries. Should be called at 10hz." alt="" coords="7,13,156,41"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor.html#a0467d3e60c408aa830e1d483200372c5" title=" " alt="" coords="5,73,157,117"/>
+</map>

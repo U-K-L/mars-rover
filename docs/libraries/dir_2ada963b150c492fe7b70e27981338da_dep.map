@@ -1,0 +1,11 @@
+<map id="libraries/AP_Beacon/examples" name="libraries/AP_Beacon/examples">
+<area shape="rect" id="node2" href="dir_0eb33578cf118c3bb41eee44c4866661.html" title="AP_Marvelmind_test" alt="" coords="37,64,181,112"/>
+<area shape="rect" id="node3" href="dir_1cbc10423b2512b31103883361e0123b.html" title="AP_HAL" alt="" coords="37,160,109,208"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000031_000061.html" title="1" alt="" coords="93,138,100,154"/>
+<area shape="rect" id="node4" href="dir_498c8457c5f0ddd4ec603971505dced8.html" title="AP_HAL_ChibiOS" alt="" coords="9,256,137,304"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000031_000062.html" title="1" alt="" coords="108,238,115,254"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000061_000062.html" title="6" alt="" coords="69,229,76,245"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000062_000061.html" title="37" alt="" coords="67,219,81,235"/>
+<area shape="rect" id="clust2" href="dir_2ada963b150c492fe7b70e27981338da.html" alt="" coords="27,53,295,123"/>
+<area shape="rect" id="clust1" href="dir_7ec2074a02ae13fc9cf25e76bb4c2f79.html" title="AP_Beacon" alt="" coords="16,16,305,133"/>
+</map>

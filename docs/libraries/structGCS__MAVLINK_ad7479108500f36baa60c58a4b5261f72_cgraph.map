@@ -1,0 +1,11 @@
+<map id="GCS_MAVLINK::handle_device_op_read" name="GCS_MAVLINK::handle_device_op_read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,193,168,237"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a8153774ecb8d07a14cb0eeac74ce6211" title=" " alt="" coords="216,5,410,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDeviceManager.html#a84c4a9ff2ae0cdaa9a0bc8a3f0939893" title=" " alt="" coords="216,73,411,117"/>
+<area shape="rect" id="node4" href="$eedump_8c.html#af09cfed2397fc1aeb1391db9b46ed605" title=" " alt="" coords="294,141,333,169"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a9cfca3d6c720115b4c77b21b64a2b8af" title=" " alt="" coords="240,193,387,237"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="223,261,404,289"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="236,313,391,357"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="223,381,404,409"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="459,321,632,349"/>
+</map>

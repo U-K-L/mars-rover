@@ -1,0 +1,6 @@
+<map id="AP_MotorsHeli_RSC::get_governor_output" name="AP_MotorsHeli_RSC::get_governor_output">
+<area shape="rect" id="node1" title=" " alt="" coords="209,73,362,117"/>
+<area shape="rect" id="node2" href="$classAP__MotorsHeli__Quad.html#adbde5360591dda92ad8d472635332908" title=" " alt="" coords="7,5,159,49"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Single.html#a34b07bec1de2cff4c28ab0abe9c44b32" title=" " alt="" coords="5,73,160,117"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli__Dual.html#ad42ad723323022b9afb1e996bc5832cf" title=" " alt="" coords="7,141,159,185"/>
+</map>

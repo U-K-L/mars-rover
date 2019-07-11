@@ -1,0 +1,12 @@
+<map id="ModeAuto::verify_loiter_time" name="ModeAuto::verify_loiter_time">
+<area shape="rect" id="node1" title=" " alt="" coords="6,75,196,103"/>
+<area shape="rect" id="node2" href="$classModeAuto.html#a4715765c3b0cc0ec5ade3df9a673c57b" title=" " alt="" coords="246,75,421,103"/>
+<area shape="rect" id="node8" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="554,10,596,38"/>
+<area shape="rect" id="node9" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classGCS.html#a9866f3484283db744409e40719cef765" title=" " alt="" coords="517,166,632,194"/>
+<area shape="rect" id="node3" href="$classModeAuto.html#a1e5ee0c0ba4e4e7c46506db0c6384682" title=" " alt="" coords="470,62,679,90"/>
+<area shape="rect" id="node10" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="549,114,600,142"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__WPNav.html#acde2c25f75578f39ab8c84dfcaec4afd" title=" " alt="" coords="985,10,1205,38"/>
+<area shape="rect" id="node5" href="$classModeRTL.html#a9ea71c3331787dfe8cb0d73629499e98" title=" " alt="" coords="728,35,936,63"/>
+<area shape="rect" id="node6" href="$classMode.html#a9f21551874f70af04b63cb7f18526c5a" title=" " alt="" coords="741,87,923,115"/>
+<area shape="rect" id="node7" href="$classModeGuided.html#aa52b5762a3918a5e17d7f6c46d4bb19c" title=" " alt="" coords="755,139,909,183"/>
+</map>

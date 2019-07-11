@@ -1,0 +1,12 @@
+<map id="AP_Avoidance::get_vector_perpendicular" name="AP_Avoidance::get_vector_perpendicular">
+<area shape="rect" id="node1" title=" " alt="" coords="6,127,184,171"/>
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a861802533d7f8a91efc39425ac9c724f" title=" " alt="" coords="263,5,425,33"/>
+<area shape="rect" id="node3" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="289,57,399,85"/>
+<area shape="rect" id="node4" href="$classLocation.html#af597420e2ec20fc794ca3d5447fd36ba" title=" " alt="" coords="515,161,696,189"/>
+<area shape="rect" id="node7" href="$classVector3.html#aadf732329f2fa584629151e8cb891707" title=" " alt="" coords="286,161,402,189"/>
+<area shape="rect" id="node8" href="$classVector3.html#a9b147a862a1b86ed2e5b735d19da3da1" title=" " alt="" coords="278,213,410,241"/>
+<area shape="rect" id="node9" href="$classAP__Avoidance.html#a7e6442cef2d0cf4f1e6708d12335a2d2" title=" " alt="" coords="232,265,456,293"/>
+<area shape="rect" id="node5" href="$classLocation.html#aa23d345c5562140fb21682f9cc0cc247" title=" " alt="" coords="755,153,888,197"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="936,161,986,189"/>
+<area shape="rect" id="node10" href="$classVector3.html#ae4fb36d45f22d997205330c951b2406e" title=" " alt="" coords="504,265,707,293"/>
+</map>

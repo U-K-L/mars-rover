@@ -1,0 +1,28 @@
+<map id="SRV_Channels::set_output_scaled" name="SRV_Channels::set_output_scaled">
+<area shape="rect" id="node1" title=" " alt="" coords="957,230,1139,274"/>
+<area shape="rect" id="node2" href="$classAP__MotorsMulticopter.html#aa257b38145c98531f69e438af3158489" title=" " alt="" coords="744,26,898,70"/>
+<area shape="rect" id="node9" href="$classAP__MotorsMatrixTS.html#a9da18d99c3a1abdaac078d539ab2a99e" title=" " alt="" coords="747,94,895,138"/>
+<area shape="rect" id="node10" href="$classAP__MotorsTailsitter.html#ad8afd6b59eb811bdded6a17bbdec806d" title=" " alt="" coords="753,162,889,206"/>
+<area shape="rect" id="node11" href="$classAP__Landing__Deepstall.html#aa518e1d049391f63af62d1374f4ee817" title=" " alt="" coords="743,230,900,274"/>
+<area shape="rect" id="node15" href="$classAP__Motors.html#a51384f220b671edba943b329dfa1bc7b" title=" " alt="" coords="329,255,471,299"/>
+<area shape="rect" id="node20" href="$classAP__Winch__Servo.html#a5db642455038eef25c55e62176492ab1" title=" " alt="" coords="734,418,908,446"/>
+<area shape="rect" id="node21" href="$classAP__MotorsHeli__RSC.html#a15973f14ea1331c8def95e6cde3ad1db" title=" " alt="" coords="745,350,898,394"/>
+<area shape="rect" id="node3" href="$classAP__MotorsMulticopter.html#ae711bfb73844f124fb762c39cd01e060" title=" " alt="" coords="530,26,683,70"/>
+<area shape="rect" id="node4" href="$classAP__MotorsMulticopter.html#a5c1f9a311308cd7a28bb800b5ef071de" title=" " alt="" coords="324,57,476,101"/>
+<area shape="rect" id="node6" href="$AP__Motors__test_8cpp.html#a1f08b35b02317dc83a8acfc5e1861364" title=" " alt="" coords="345,5,455,33"/>
+<area shape="rect" id="node5" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="160,65,214,93"/>
+<area shape="rect" id="node7" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="139,5,234,33"/>
+<area shape="rect" id="node8" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,5,53,33"/>
+<area shape="rect" id="node12" href="$classAP__Landing.html#ab2d71a947b43a822f9b76a29ac4cf901" title=" " alt="" coords="532,230,681,274"/>
+<area shape="rect" id="node13" href="$classAP__Landing__Deepstall.html#ab9fd65ed1d3a6b21c83f61845ebcd92e" title=" " alt="" coords="528,162,685,206"/>
+<area shape="rect" id="node14" href="$classAP__Landing.html#aa04ce62e6126784003d606619b2c74f1" title=" " alt="" coords="322,170,478,198"/>
+<area shape="rect" id="node16" href="$classAP__MotorsHeli__Quad.html#abbe404fba9d5d0d11bfe7e2b8b126341" title=" " alt="" coords="112,391,262,435"/>
+<area shape="rect" id="node17" href="$classAP__MotorsSingle.html#a5c93cf6a62207bdbefc88b59f150d2fb" title=" " alt="" coords="102,255,271,299"/>
+<area shape="rect" id="node18" href="$classAP__MotorsCoax.html#a461cbe86173b8360279491ac5aeacac7" title=" " alt="" coords="105,187,268,231"/>
+<area shape="rect" id="node19" href="$classAP__MotorsHeli__Single.html#abe1905fd5d97f5ef2fb16410766bbc90" title=" " alt="" coords="109,323,264,367"/>
+<area shape="rect" id="node22" href="$classAP__MotorsHeli__RSC.html#ab23a1aebfd83a9e76acf076a2f15841b" title=" " alt="" coords="530,387,683,431"/>
+<area shape="rect" id="node23" href="$classAP__MotorsHeli__Quad.html#ae50f9c4e57d21a0b2a52a9faa049c3e1" title=" " alt="" coords="321,391,479,435"/>
+<area shape="rect" id="node24" href="$classAP__MotorsHeli__Dual.html#a45912c55dd1eb49676cea2096daab6a7" title=" " alt="" coords="321,459,479,503"/>
+<area shape="rect" id="node26" href="$classAP__MotorsHeli__Single.html#ac19ec15e0d8e3a3142762f6e1e1c0812" title=" " alt="" coords="321,323,479,367"/>
+<area shape="rect" id="node25" href="$classAP__MotorsHeli__Dual.html#a406dcfd65f5929be7cd53e1597b07784" title=" " alt="" coords="114,459,259,503"/>
+</map>

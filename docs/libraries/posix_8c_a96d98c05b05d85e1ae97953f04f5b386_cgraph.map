@@ -1,0 +1,9 @@
+<map id="new_file_descriptor" name="new_file_descriptor">
+<area shape="rect" id="node1" title="Allocate a POSIX FILE descriptor. NOT POSIX." alt="" coords="5,57,141,85"/>
+<area shape="rect" id="node2" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="191,5,244,33"/>
+<area shape="rect" id="node4" href="$malloc_8c.html#a62b7798461bd461da64c5f9d35feddf7" title=" " alt="" coords="190,57,245,85"/>
+<area shape="rect" id="node7" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="195,109,239,137"/>
+<area shape="rect" id="node3" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="297,5,351,33"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="294,57,354,85"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="403,57,498,85"/>
+</map>

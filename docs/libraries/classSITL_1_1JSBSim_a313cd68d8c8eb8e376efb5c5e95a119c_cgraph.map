@@ -1,0 +1,13 @@
+<map id="SITL::JSBSim::expect" name="SITL::JSBSim::expect">
+<area shape="rect" id="node1" title=" " alt="" coords="6,161,157,189"/>
+<area shape="rect" id="node2" href="$posix_8c.html#af32a16ad2dd9e48482f8f790db7dbbd2" title="POSIX read count bytes from *buf to fileno fd." alt="" coords="207,134,255,162"/>
+<area shape="rect" id="node9" href="$posix_8c.html#abb39b21888372e95ad3e5c59b166f5c8" title="POSIX Write count bytes from *buf to fileno fd." alt="" coords="206,186,255,214"/>
+<area shape="rect" id="node3" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="456,55,576,83"/>
+<area shape="rect" id="node5" href="$posix_8c.html#ab11a990e4f8863a1e7736e3c1d430092" title="Get byte from a TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;get = fatfs_getc() for..." alt="" coords="331,5,381,33"/>
+<area shape="rect" id="node6" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="304,159,408,187"/>
+<area shape="rect" id="node8" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="624,263,728,291"/>
+<area shape="rect" id="node4" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="649,107,703,135"/>
+<area shape="rect" id="node7" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="490,159,542,187"/>
+<area shape="rect" id="node10" href="$posix_8c.html#abe6299d5823dd023e610aaa619735a3f" title="Put a byte to TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;put = fatfs_outc() for F..." alt="" coords="331,263,381,291"/>
+<area shape="rect" id="node11" href="$posix_8c.html#a90d998e82aa4f903a1570c0c48aeae59" title="Private FatFs function called by fputc() to put a byte from file stream NOT POSIX open() assigns stre..." alt="" coords="476,263,556,291"/>
+</map>

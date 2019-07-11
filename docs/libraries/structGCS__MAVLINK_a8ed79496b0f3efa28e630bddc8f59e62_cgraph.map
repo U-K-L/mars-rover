@@ -1,0 +1,13 @@
+<map id="GCS_MAVLINK::send_autopilot_version" name="GCS_MAVLINK::send_autopilot_version">
+<area shape="rect" id="node1" title=" " alt="" coords="6,87,215,131"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#a47655f5b6fe937b02c57d7c314ca3587" title=" " alt="" coords="307,37,410,65"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#aabad4b34ae619e84f2f10deb9ee1caca" title=" " alt="" coords="264,153,453,181"/>
+<area shape="rect" id="node3" href="$classAP__FWVersion.html#abd31a08cd5c241001054449ab72b8c74" title=" " alt="" coords="514,5,697,33"/>
+<area shape="rect" id="node5" href="$namespaceAP.html#aa01135941499a6cbb5fc30403fc24c65" title=" " alt="" coords="540,57,671,85"/>
+<area shape="rect" id="node7" href="$classAP__SerialManager.html#aeec52d0317706a561feba321569f09a9" title=" " alt="" coords="526,109,685,153"/>
+<area shape="rect" id="node8" href="$structGCS__MAVLINK.html#a085f9cede300d1fd4b58aa8b1719274f" title=" " alt="" coords="502,177,709,221"/>
+<area shape="rect" id="node9" href="$classAP__AdvancedFailsafe.html#ac1cf01bebffa6a670fa28f10e4a81746" title=" " alt="" coords="529,245,682,289"/>
+<area shape="rect" id="node10" href="$namespaceAP.html#ae87744fcd7073579dee4ddbf9d32239e" title=" " alt="" coords="570,313,641,341"/>
+<area shape="rect" id="node6" href="$classAP__SerialManager.html#afa2d8d5e467b6c0349d9d0864866cf16" title=" " alt="" coords="759,49,918,93"/>
+<area shape="rect" id="node11" href="$classAP__Rally.html#a65322fc251296376f6d07ac772afffbe" title=" " alt="" coords="757,313,920,341"/>
+</map>

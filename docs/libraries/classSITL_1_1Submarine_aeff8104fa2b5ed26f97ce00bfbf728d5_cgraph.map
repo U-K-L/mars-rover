@@ -1,0 +1,5 @@
+<map id="SITL::Submarine::calculate_forces" name="SITL::Submarine::calculate_forces">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,187,83"/>
+<area shape="rect" id="node2" href="$classSITL_1_1Submarine.html#afd02c473978d9ba3420ef870804b5b40" title="Calculate buoyancy force of the frame." alt="" coords="235,5,416,49"/>
+<area shape="rect" id="node3" href="$classSITL_1_1Submarine.html#a54fe1dd82013ebdc2d0e5fc4f93fad6d" title="Calculate drag force against body." alt="" coords="235,73,416,117"/>
+</map>

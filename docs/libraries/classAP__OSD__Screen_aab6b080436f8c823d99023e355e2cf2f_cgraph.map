@@ -1,0 +1,9 @@
+<map id="AP_OSD_Screen::draw_sats" name="AP_OSD_Screen::draw_sats">
+<area shape="rect" id="node1" title=" " alt="" coords="6,83,199,111"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="299,5,367,33"/>
+<area shape="rect" id="node4" href="$classAP__GPS.html#a5f6209342aaccbfacf35e844fc1d4f51" title=" " alt="" coords="263,57,403,85"/>
+<area shape="rect" id="node5" href="$classAP__GPS.html#ac22b61d2e6cf0b6ff647173ea336de01" title="Query GPS status." alt="" coords="274,109,392,137"/>
+<area shape="rect" id="node7" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="248,161,418,189"/>
+<area shape="rect" id="node3" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="467,5,629,33"/>
+<area shape="rect" id="node6" href="$classAP__GPS.html#a23a9fce42abaf8f53d5a3f64c84461e7" title=" " alt="" coords="489,109,607,137"/>
+</map>

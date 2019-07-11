@@ -1,0 +1,9 @@
+<map id="AP_BattMonitor_Analog::read" name="AP_BattMonitor_Analog::read">
+<area shape="rect" id="node1" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="6,107,170,151"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogSource.html#add563a28e58fdd4af48ed983bbbecec8" title=" " alt="" coords="220,5,383,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1AnalogSource.html#a97f02eb815fd2f568df7b927d6f6b559" title=" " alt="" coords="220,73,383,117"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__Analog.html#af999d244a878a1b4a163d5d0cadf16d2" title="returns true if battery monitor provides current info" alt="" coords="220,141,383,185"/>
+<area shape="rect" id="node6" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="242,209,361,237"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor__Params.html#a401e9b141c1337d938290611e33d8e29" title=" " alt="" coords="432,141,600,185"/>
+<area shape="rect" id="node7" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="467,209,565,237"/>
+</map>

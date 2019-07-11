@@ -1,0 +1,4 @@
+<map id="Compass::set_voltage" name="Compass::set_voltage">
+<area shape="rect" id="node1" title="Set the battery voltage for per&#45;motor compensation." alt="" coords="6,13,159,41"/>
+<area shape="rect" id="node2" href="$classCompass__PerMotor.html#a55421c220f5d5c7e3aa75d63615410e3" title=" " alt="" coords="208,5,373,49"/>
+</map>

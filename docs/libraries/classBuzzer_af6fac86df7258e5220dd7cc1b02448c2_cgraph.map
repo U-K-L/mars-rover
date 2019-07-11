@@ -1,0 +1,8 @@
+<map id="Buzzer::init" name="Buzzer::init">
+<area shape="rect" id="node1" title="init &#45; initialise the buzzer" alt="" coords="6,83,93,111"/>
+<area shape="rect" id="node2" href="$classAP__Notify.html#a614784311fa6927b0c221f409a10c327" title=" " alt="" coords="142,5,325,33"/>
+<area shape="rect" id="node3" href="$classAP__Notify.html#a79c6af680fc36a143868d95c34e0612e" title=" " alt="" coords="150,57,317,85"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title=" " alt="" coords="147,109,319,137"/>
+<area shape="rect" id="node5" href="$classBuzzer.html#a7febd0198541a90c55bae1fd5db8aa0a" title="on &#45; turns the buzzer on or off" alt="" coords="191,161,276,189"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title=" " alt="" coords="374,161,522,189"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="AC_WPNav::set_spline_origin_and_destination" name="AC_WPNav::set_spline_origin_and_destination">
+<area shape="rect" id="node1" title=" " alt="" coords="5,297,168,341"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="253,5,363,33"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#a681bb19be59376ce06748eaa2e9e97bb" title=" " alt="" coords="229,57,387,85"/>
+<area shape="rect" id="node5" href="$classAC__PosControl.html#ad710a5c02d32ec52944b73e1b6b5e721" title="accessors for reporting" alt="" coords="238,109,378,153"/>
+<area shape="rect" id="node6" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="253,177,363,205"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#a455f7b1102bc8e80f18ff80dc415d06d" title="spline protected functions" alt="" coords="217,229,399,273"/>
+<area shape="rect" id="node8" href="$classAC__WPNav.html#a4bbed458f180899ecffd17e508ddf408" title="calc_slow_down_distance &#45; calculates distance before waypoint that target point should begin to slow&#45;..." alt="" coords="229,297,387,341"/>
+<area shape="rect" id="node9" href="$classAC__PosControl.html#a28b7014e97398ba553beb4b1fbf03134" title=" " alt="" coords="238,365,378,409"/>
+<area shape="rect" id="node10" href="$classAC__WPNav.html#a89a2d6885b96dd09bab36ccda16a6dce" title=" " alt="" coords="226,433,390,477"/>
+<area shape="rect" id="node12" href="$classAC__PosControl.html#ad70a79da0c5dcde97ccf848b03e7356a" title="set_pos_target in cm from home" alt="" coords="239,501,377,545"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title=" " alt="" coords="270,569,346,597"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="289,621,327,649"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="472,5,560,33"/>
+<area shape="rect" id="node11" href="$classAP__InertialNav.html#ac47da3c171cdcaabb4bc3a2749762461" title=" " alt="" coords="448,433,584,477"/>
+</map>

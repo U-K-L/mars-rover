@@ -1,0 +1,6 @@
+<map id="AP_BattMonitor_SMBus" name="AP_BattMonitor_SMBus">
+<area shape="rect" id="node1" title=" " alt="" coords="107,83,271,111"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__SMBus__Maxell.html" title=" " alt="" coords="4,161,168,205"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__SMBus__Solo.html" title=" " alt="" coords="194,169,392,197"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Backend.html" title=" " alt="" coords="102,6,276,34"/>
+</map>

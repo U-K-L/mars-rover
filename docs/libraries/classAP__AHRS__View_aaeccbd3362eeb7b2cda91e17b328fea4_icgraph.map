@@ -1,0 +1,5 @@
+<map id="AP_AHRS_View::get_rotation_body_to_ned" name="AP_AHRS_View::get_rotation_body_to_ned">
+<area shape="rect" id="node1" title=" " alt="" coords="211,71,408,115"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#ad2bc0648cdbb5c9b40bb40de2eb649fc" title=" " alt="" coords="6,5,162,81"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl.html#a9ecacc87c18ae007560914d04fc3ba0d" title=" " alt="" coords="6,105,162,181"/>
+</map>

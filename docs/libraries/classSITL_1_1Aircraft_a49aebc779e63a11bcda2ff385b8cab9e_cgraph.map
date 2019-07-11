@@ -1,0 +1,4 @@
+<map id="SITL::Aircraft::get_attitude" name="SITL::Aircraft::get_attitude">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,131,49"/>
+<area shape="rect" id="node2" href="$classQuaternion.html#a5ee01ee833114be6181887d0dcfb33b1" title=" " alt="" coords="179,5,352,49"/>
+</map>

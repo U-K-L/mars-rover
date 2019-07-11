@@ -1,0 +1,20 @@
+<map id="AP_AHRS_DCM::estimate_wind" name="AP_AHRS_DCM::estimate_wind">
+<area shape="rect" id="node1" title=" " alt="" coords="5,139,219,167"/>
+<area shape="rect" id="node2" href="$classMatrix3.html#ab6d6b6878afcc36bb9444fbcea061b48" title=" " alt="" coords="313,5,409,33"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="307,57,416,85"/>
+<area shape="rect" id="node5" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="306,109,416,137"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a47ea335b3b317f0c5e54320f59d5ca8a" title=" " alt="" coords="267,161,456,205"/>
+<area shape="rect" id="node9" href="$classAP__Airspeed.html#a02885c320f3cedbc08c02bc8894aba04" title=" " alt="" coords="270,229,453,257"/>
+<area shape="rect" id="node10" href="$classAP__AHRS.html#a64786b58a1607ee420ed4f0696c755b6" title=" " alt="" coords="273,281,449,309"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="544,57,632,85"/>
+<area shape="rect" id="node7" href="$classAP__Airspeed.html#a1f93ae84c30efc1375765b835004e7a9" title=" " alt="" coords="513,169,663,197"/>
+<area shape="rect" id="node8" href="$classAP__Airspeed.html#a86b49520d90ba23d15fb79614605e522" title=" " alt="" coords="724,169,878,197"/>
+<area shape="rect" id="node11" href="$namespaceAP.html#a8aec57eb0b7a79044cbc1f0ca4b75bcf" title=" " alt="" coords="551,265,625,293"/>
+<area shape="rect" id="node13" href="$classAP__Baro.html#a0115c37618652051c1f6efd072fcc74b" title=" " alt="" coords="504,409,672,437"/>
+<area shape="rect" id="node12" href="$classAP__Baro.html#a92b0efed71f214529da6c54d692f1d61" title=" " alt="" coords="721,250,882,278"/>
+<area shape="rect" id="node14" href="$classAP__Baro.html#a50ae73cce1699d88638e3dfab4ffd330" title=" " alt="" coords="726,326,877,354"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="931,409,995,437"/>
+<area shape="rect" id="node16" href="$classAP__Baro.html#a932c39564d42db7594dc132eb6703919" title=" " alt="" coords="727,430,876,474"/>
+<area shape="rect" id="node17" href="$classAP__Baro.html#a41b3c00624c78b883413b53fc5a81a32" title=" " alt="" coords="721,522,881,550"/>
+<area shape="rect" id="node18" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="760,574,843,602"/>
+</map>

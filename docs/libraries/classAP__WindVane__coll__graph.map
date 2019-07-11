@@ -1,0 +1,7 @@
+<map id="AP_WindVane" name="AP_WindVane">
+<area shape="rect" id="node1" title=" " alt="" coords="206,102,313,130"/>
+<area shape="rect" id="node3" href="$classAP__WindVane__Backend.html" title=" " alt="" coords="99,227,265,255"/>
+<area shape="rect" id="node2" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="184,7,336,35"/>
+<area shape="rect" id="node4" href="$classLowPassFilter.html" title=" " alt="" coords="5,102,157,130"/>
+<area shape="rect" id="node5" href="$classDigitalLPF.html" title=" " alt="" coords="16,7,147,35"/>
+</map>

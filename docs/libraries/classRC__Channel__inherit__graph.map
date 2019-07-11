@@ -1,0 +1,5 @@
+<map id="RC_Channel" name="RC_Channel">
+<area shape="rect" id="node1" title="Object managing one RC channel." alt="" coords="123,6,220,34"/>
+<area shape="rect" id="node2" href="$classRC__Channel__Example.html" title=" " alt="" coords="4,83,160,111"/>
+<area shape="rect" id="node3" href="$classRC__Channel__PIDTest.html" title=" " alt="" coords="185,83,336,111"/>
+</map>

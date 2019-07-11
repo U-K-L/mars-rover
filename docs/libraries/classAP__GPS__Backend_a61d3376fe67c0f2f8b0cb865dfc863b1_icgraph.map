@@ -1,0 +1,8 @@
+<map id="AP_GPS_Backend::make_gps_time" name="AP_GPS_Backend::make_gps_time">
+<area shape="rect" id="node1" title=" " alt="" coords="646,65,820,109"/>
+<area shape="rect" id="node2" href="$classAP__GPS__NMEA.html#ab82936a41e41786f03aea079978de6bc" title=" " alt="" coords="435,5,597,49"/>
+<area shape="rect" id="node5" href="$classAP__GPS__MTK.html#a5916efb3175415f9a48ceb0666b82621" title=" " alt="" coords="444,73,588,101"/>
+<area shape="rect" id="node6" href="$classAP__GPS__MTK19.html#a77c2ca89491ee459c738db096e0ab666" title=" " alt="" coords="436,125,596,153"/>
+<area shape="rect" id="node3" href="$classAP__GPS__NMEA.html#a955545b788a23ec083d91b961391429b" title=" " alt="" coords="208,13,387,41"/>
+<area shape="rect" id="node4" href="$classAP__GPS__NMEA.html#a8c5c59212662fd5f6db86d6aa2050415" title=" " alt="" coords="5,13,160,41"/>
+</map>

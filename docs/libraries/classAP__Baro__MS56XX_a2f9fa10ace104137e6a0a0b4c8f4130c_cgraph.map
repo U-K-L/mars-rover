@@ -1,0 +1,28 @@
+<map id="AP_Baro_MS56XX::_init" name="AP_Baro_MS56XX::_init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,455,173,483"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a9cfca3d6c720115b4c77b21b64a2b8af" title=" " alt="" coords="240,5,387,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="223,73,404,101"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="505,151,617,179"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title=" " alt="" coords="240,229,386,273"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="717,413,891,441"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="240,537,387,581"/>
+<area shape="rect" id="node10" href="$classAP__Baro__MS56XX.html#a69cb6716c705cc2df8c4d37e95b886f8" title=" " alt="" coords="225,349,401,393"/>
+<area shape="rect" id="node13" href="$classAP__Baro__MS56XX.html#a494378afab26087a53bc37def0df2950" title=" " alt="" coords="225,417,401,461"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="223,605,404,633"/>
+<area shape="rect" id="node15" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="288,657,339,685"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1Device.html#a89acf29a7bec6f86dee6a38c264eeeb0" title=" " alt="" coords="222,709,405,737"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Device.html#ac1e44ef4f5af25dd5652f71b2727a162" title=" " alt="" coords="240,761,387,805"/>
+<area shape="rect" id="node18" href="$classAP__Baro.html#a2679b96d8c843053af9c658ff3efad73" title=" " alt="" coords="226,177,400,205"/>
+<area shape="rect" id="node19" href="$classAP__Baro.html#ad0ac1e4c24c86973a0ebd43abb351ee7" title=" " alt="" coords="247,829,380,857"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1Device.html#ab516a6ba589841ce07a5cc4ef599ac62" title=" " alt="" coords="227,881,400,925"/>
+<area shape="rect" id="node21" href="$classAP__Baro__MS56XX.html#a5d88be68c0df4f9aa14b7c4e60f1b897" title=" " alt="" coords="224,485,403,513"/>
+<area shape="rect" id="node5" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="775,182,833,210"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="730,114,878,158"/>
+<area shape="rect" id="node11" href="$classAP__Baro__MS56XX.html#af5051fb5f63cb1b5ed64510b77fb2d1d" title=" " alt="" coords="473,349,649,393"/>
+<area shape="rect" id="node12" href="$crc_8cpp.html#ad45c7bdcc8f4ffddd2b648c534459d89" title=" " alt="" coords="525,417,597,445"/>
+<area shape="rect" id="node22" href="$classAP__Baro__MS56XX.html#a7bb536520a94483d01a9a000281ca6fb" title=" " alt="" coords="459,521,664,549"/>
+<area shape="rect" id="node23" href="$classAP__Baro__MS56XX.html#a3fbe5997c7b2934b8bec33f8d3d92760" title=" " alt="" coords="466,573,657,617"/>
+<area shape="rect" id="node24" href="$classAP__Baro__Backend.html#adf46bf795e1e13967264596cf4faadd7" title=" " alt="" coords="454,641,669,669"/>
+<area shape="rect" id="node25" href="$classAP__Baro.html#a0f2f5b99445cb04a204cbf48819d82c0" title=" " alt="" coords="737,662,871,706"/>
+<area shape="rect" id="node26" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="772,610,836,638"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="AP_Proximity_Backend::set_status" name="AP_Proximity_Backend::set_status">
+<area shape="rect" id="node1" title=" " alt="" coords="269,227,430,271"/>
+<area shape="rect" id="node2" href="$classAP__Proximity__MAV.html#ad30b28183ff81fa1f107b06045633219" title=" " alt="" coords="21,5,206,33"/>
+<area shape="rect" id="node3" href="$classAP__Proximity__RangeFinder.html#a4662aa96bde386a3bb0f43b6a8c95008" title=" " alt="" coords="20,57,206,101"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__MorseSITL.html#a37f04ddd8256309aa84118ec5de97c09" title=" " alt="" coords="26,125,200,169"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__TeraRangerTowerEvo.html#a15ee3084c3514de3c2a917b1feb0e47f" title=" " alt="" coords="6,193,220,237"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__SITL.html#a6d9f228a0ae41c802bda9b6aff5f00dd" title=" " alt="" coords="41,261,186,305"/>
+<area shape="rect" id="node7" href="$classAP__Proximity__LightWareSF40C.html#ad07c8775f2bfddc5bcb84736a157d1a8" title=" " alt="" coords="13,329,214,373"/>
+<area shape="rect" id="node8" href="$classAP__Proximity__TeraRangerTower.html#ad9077f0662c50480013c3bf8f2d6c526" title=" " alt="" coords="6,397,220,441"/>
+<area shape="rect" id="node9" href="$classAP__Proximity__RPLidarA2.html#a1be65ea5dc6fcc4790bdca6c0d704ee8" title=" " alt="" coords="27,465,200,509"/>
+</map>

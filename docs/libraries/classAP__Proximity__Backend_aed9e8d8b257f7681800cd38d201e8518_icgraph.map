@@ -1,0 +1,18 @@
+<map id="AP_Proximity_Backend::convert_angle_to_sector" name="AP_Proximity_Backend::convert_angle_to_sector">
+<area shape="rect" id="node1" title=" " alt="" coords="798,141,973,185"/>
+<area shape="rect" id="node2" href="$classAP__Proximity__Backend.html#a4f3315d0c30faf3d51040a1357c37c75" title=" " alt="" coords="557,5,726,49"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__RPLidarA2.html#a386bb0ee595ccdb99c8f575c94c5bd8e" title=" " alt="" coords="555,73,728,117"/>
+<area shape="rect" id="node8" href="$classAP__Proximity__LightWareSF40C.html#abdfa9a489fc3ae7cf5f5a90f57e3fb15" title=" " alt="" coords="541,141,742,185"/>
+<area shape="rect" id="node11" href="$classAP__Proximity__TeraRangerTowerEvo.html#adf1c301431d17119849a11a474c62303" title=" " alt="" coords="534,209,748,253"/>
+<area shape="rect" id="node14" href="$classAP__Proximity__TeraRangerTower.html#a7fb456e5844e9cf8bf5b9d65fe9ab002" title=" " alt="" coords="534,277,748,321"/>
+<area shape="rect" id="node3" href="$classAP__Proximity.html#a91032111a2bf83a8b857c81b326b30a6" title=" " alt="" coords="281,5,474,49"/>
+<area shape="rect" id="node4" href="$classAP__Proximity.html#ab8b3e35e5434c2fd898c176f1701d3ad" title=" " alt="" coords="17,5,210,49"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__RPLidarA2.html#ad0a0a5cef56f41a5d56c699499acd419" title=" " alt="" coords="291,73,464,117"/>
+<area shape="rect" id="node7" href="$classAP__Proximity__RPLidarA2.html#a1be65ea5dc6fcc4790bdca6c0d704ee8" title=" " alt="" coords="27,73,200,117"/>
+<area shape="rect" id="node9" href="$classAP__Proximity__LightWareSF40C.html#acd3fdb4403be2163ea93f83087aa1192" title=" " alt="" coords="277,141,478,185"/>
+<area shape="rect" id="node10" href="$classAP__Proximity__LightWareSF40C.html#ad07c8775f2bfddc5bcb84736a157d1a8" title=" " alt="" coords="13,141,214,185"/>
+<area shape="rect" id="node12" href="$classAP__Proximity__TeraRangerTowerEvo.html#a967672707ceb78237d280b1db897677c" title=" " alt="" coords="270,209,484,253"/>
+<area shape="rect" id="node13" href="$classAP__Proximity__TeraRangerTowerEvo.html#a15ee3084c3514de3c2a917b1feb0e47f" title=" " alt="" coords="6,209,220,253"/>
+<area shape="rect" id="node15" href="$classAP__Proximity__TeraRangerTower.html#a7bfd87e7263a2c84440d032a77efd798" title=" " alt="" coords="270,277,484,321"/>
+<area shape="rect" id="node16" href="$classAP__Proximity__TeraRangerTower.html#ad9077f0662c50480013c3bf8f2d6c526" title=" " alt="" coords="6,277,220,321"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AP_Motors::rc_write_angle" name="AP_Motors::rc_write_angle">
+<area shape="rect" id="node1" title=" " alt="" coords="224,107,365,151"/>
+<area shape="rect" id="node2" href="$classAP__MotorsHeli__Quad.html#abbe404fba9d5d0d11bfe7e2b8b126341" title=" " alt="" coords="16,5,166,49"/>
+<area shape="rect" id="node3" href="$classAP__MotorsSingle.html#a5c93cf6a62207bdbefc88b59f150d2fb" title=" " alt="" coords="6,73,175,117"/>
+<area shape="rect" id="node4" href="$classAP__MotorsCoax.html#a461cbe86173b8360279491ac5aeacac7" title=" " alt="" coords="9,141,172,185"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli__Single.html#abe1905fd5d97f5ef2fb16410766bbc90" title=" " alt="" coords="13,209,168,253"/>
+</map>

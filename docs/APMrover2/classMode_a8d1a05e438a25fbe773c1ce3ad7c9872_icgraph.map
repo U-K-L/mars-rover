@@ -1,0 +1,10 @@
+<map id="Mode::set_desired_heading_and_speed" name="Mode::set_desired_heading_and_speed">
+<area shape="rect" id="node1" title=" " alt="" coords="694,39,880,83"/>
+<area shape="rect" id="node2" href="$classModeAuto.html#a5835fe9317c0c084e252b9243be61356" title=" " alt="" coords="478,5,637,49"/>
+<area shape="rect" id="node5" href="$classModeGuided.html#a9c218b12e3dc9cdfdad6194daf05cc36" title=" " alt="" coords="470,73,644,117"/>
+<area shape="rect" id="node3" href="$classModeAuto.html#a3fe48a8ffd0df2ed3a6bb5f42f8a33b9" title=" " alt="" coords="249,5,407,49"/>
+<area shape="rect" id="node4" href="$classModeAuto.html#a31ef596d25ce081bc7fa4e14c7691baa" title=" " alt="" coords="5,13,187,41"/>
+<area shape="rect" id="node6" href="$classGCS__MAVLINK__Rover.html#a47165039f13699b9ebffd14252708171" title=" " alt="" coords="245,73,411,117"/>
+<area shape="rect" id="node7" href="$classModeGuided.html#aaa1ed068282c03f05a3b7a3c58daee56" title=" " alt="" coords="235,141,421,185"/>
+<area shape="rect" id="node8" href="$classGCS__MAVLINK__Rover.html#a46580d8a9c126a95b84791c4f1069102" title=" " alt="" coords="13,133,179,193"/>
+</map>

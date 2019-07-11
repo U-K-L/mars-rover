@@ -1,0 +1,11 @@
+<map id="AC_Fence::check_fence_alt_max" name="AC_Fence::check_fence_alt_max">
+<area shape="rect" id="node1" title="check_fence_alt_max &#45; true if alt fence has been newly breached" alt="" coords="6,117,173,161"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="274,5,347,33"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a6573f5db06887fb66661ecb18e03ec3f" title=" " alt="" coords="231,57,391,101"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="279,125,343,153"/>
+<area shape="rect" id="node6" href="$classAC__Fence.html#a501071ae142ab3cf07ffa27b5e926d76" title="record_breach &#45; update breach bitmask, time and count" alt="" coords="222,177,400,205"/>
+<area shape="rect" id="node9" href="$classAC__Fence.html#abffb87707643347f6bde6a085f5fec2a" title="clear_breach &#45; update breach bitmask, time and count" alt="" coords="226,229,395,257"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="448,5,618,33"/>
+<area shape="rect" id="node7" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="479,177,588,205"/>
+<area shape="rect" id="node8" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="668,177,756,205"/>
+</map>

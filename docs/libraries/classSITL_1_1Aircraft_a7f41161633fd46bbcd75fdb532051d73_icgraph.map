@@ -1,0 +1,9 @@
+<map id="SITL::Aircraft::extrapolate_sensors" name="SITL::Aircraft::extrapolate_sensors">
+<area shape="rect" id="node1" title=" " alt="" coords="435,91,608,135"/>
+<area shape="rect" id="node2" href="$classSITL_1_1SilentWings.html#af788d867cf1f31f8ab5e2b56481b03f4" title=" " alt="" coords="227,5,362,49"/>
+<area shape="rect" id="node4" href="$classSITL_1_1XPlane.html#ab30e1d12c7ebc3699a29f3442804a68b" title=" " alt="" coords="203,73,386,101"/>
+<area shape="rect" id="node6" href="$classSITL_1_1Morse.html#a381539ed75b618b9bbb385b6b25404a2" title=" " alt="" coords="224,125,366,153"/>
+<area shape="rect" id="node7" href="$classSITL_1_1FlightAxis.html#a1b7209da1f1098805bda30d19481b5d6" title=" " alt="" coords="213,177,376,205"/>
+<area shape="rect" id="node3" href="$classSITL_1_1SilentWings.html#af84ce567ecebd0155e2ebdaa38173ffd" title=" " alt="" coords="13,5,147,49"/>
+<area shape="rect" id="node5" href="$classSITL_1_1XPlane.html#aa13273aaac6270460b9de08d86113e99" title=" " alt="" coords="6,73,154,101"/>
+</map>

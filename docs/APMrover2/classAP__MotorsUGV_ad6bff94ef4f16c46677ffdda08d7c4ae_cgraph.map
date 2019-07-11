@@ -1,0 +1,7 @@
+<map id="AP_MotorsUGV::setup_pwm_type" name="AP_MotorsUGV::setup_pwm_type">
+<area shape="rect" id="node1" title=" " alt="" coords="6,107,162,151"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#aa8ed20a48e6ffe0cb62e87fb9fa2f772" title=" " alt="" coords="217,5,399,49"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#acab9e1aba9fcbde6e598169af5b3181f" title=" " alt="" coords="218,73,398,117"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1RCOutput.html#a7a28c0cef38387b867f1f5141a702daf" title=" " alt="" coords="226,141,390,185"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1RCOutput.html#ae7903398aa18e2472dd34081e626dcb7" title=" " alt="" coords="211,209,405,237"/>
+</map>

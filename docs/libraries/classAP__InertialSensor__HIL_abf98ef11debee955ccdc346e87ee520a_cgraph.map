@@ -1,0 +1,12 @@
+<map id="AP_InertialSensor_HIL::detect" name="AP_InertialSensor_HIL::detect">
+<area shape="rect" id="node1" title=" " alt="" coords="6,53,162,97"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__HIL.html#a9acde39917b18c364e43399f5265480a" title=" " alt="" coords="211,18,376,62"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__HIL.html#a4b07d4eaf8ae80cb603617a33843afca" title=" " alt="" coords="215,86,372,130"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#aa112654466199fa7ba51b2471fefdbd7" title=" " alt="" coords="424,86,560,130"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor.html#a17706ae4e3ef55200ee8b1e5c4ead7ec" title=" " alt="" coords="424,18,560,62"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor.html#af26d20af4d59052beb786e684fdd4e65" title=" " alt="" coords="424,154,560,198"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="608,34,720,62"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="631,94,697,122"/>
+<area shape="rect" id="node6" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="813,5,870,33"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="768,57,915,101"/>
+</map>

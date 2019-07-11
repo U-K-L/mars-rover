@@ -1,0 +1,8 @@
+<map id="Linux::RCOutput_PCA9685::reset_all_channels" name="Linux::RCOutput_PCA9685::reset_all_channels">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,190,169"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="254,5,402,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="237,73,419,101"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="254,125,402,169"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="254,193,402,237"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="238,261,418,289"/>
+</map>

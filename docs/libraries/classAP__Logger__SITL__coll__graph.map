@@ -1,0 +1,39 @@
+<map id="AP_Logger_SITL" name="AP_Logger_SITL">
+<area shape="rect" id="node1" title=" " alt="" coords="772,390,895,418"/>
+<area shape="rect" id="node2" href="$classAP__Logger__Block.html" title=" " alt="" coords="341,390,469,418"/>
+<area shape="rect" id="node3" href="$classAP__Logger__Backend.html" title=" " alt="" coords="8,237,155,265"/>
+<area shape="rect" id="node4" href="$classAP__Logger.html" title=" " alt="" coords="1483,1557,1571,1585"/>
+<area shape="rect" id="node34" href="$classLoggerMessageWriter.html" title=" " alt="" coords="329,237,481,265"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html" title="MAVLink transport control class." alt="" coords="1172,1099,1287,1127"/>
+<area shape="rect" id="node6" title=" " alt="" coords="768,1089,898,1117"/>
+<area shape="rect" id="node7" title=" " alt="" coords="799,1146,868,1174"/>
+<area shape="rect" id="node8" href="$classStorageAccess.html" title=" " alt="" coords="350,1239,461,1267"/>
+<area shape="rect" id="node20" href="$classAP__Param.html" title=" " alt="" coords="790,1373,876,1401"/>
+<area shape="rect" id="node9" href="$classJitterCorrection.html" title=" " alt="" coords="777,729,889,757"/>
+<area shape="rect" id="node10" href="$classObjectBuffer.html" title=" " alt="" coords="522,642,723,686"/>
+<area shape="rect" id="node11" href="$classByteBuffer.html" title=" " alt="" coords="40,618,123,646"/>
+<area shape="rect" id="node12" href="$classObjectBuffer.html" title=" " alt="" coords="522,549,723,593"/>
+<area shape="rect" id="node21" href="$classObjectBuffer.html" title=" " alt="" coords="315,1291,496,1335"/>
+<area shape="rect" id="node13" href="$structAP__Param_1_1ParamToken.html" title=" " alt="" coords="749,494,917,522"/>
+<area shape="rect" id="node33" href="$classLoggerMessageWriter__DFLogStart.html" title=" " alt="" coords="1153,330,1305,374"/>
+<area shape="rect" id="node14" href="$structGCS__MAVLINK_1_1stream__entries.html" title=" " alt="" coords="752,781,915,825"/>
+<area shape="rect" id="node15" href="$classMAVLink__routing.html" title=" " alt="" coords="772,849,894,877"/>
+<area shape="rect" id="node16" href="$structMAVLink__routing_1_1route.html" title=" " alt="" coords="325,849,485,877"/>
+<area shape="rect" id="node17" href="$structGCS__MAVLINK_1_1deferred__message__t.html" title=" " alt="" coords="747,901,919,945"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="758,969,909,997"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="326,969,485,997"/>
+<area shape="rect" id="node25" href="$structAP__Param_1_1param__override.html" title=" " alt="" coords="1136,1458,1323,1486"/>
+<area shape="rect" id="node22" href="$structAP__Param_1_1Info.html" title=" " alt="" coords="348,1427,463,1455"/>
+<area shape="rect" id="node23" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,1479,158,1507"/>
+<area shape="rect" id="node24" href="$structAP__Param_1_1param__defaults__struct.html" title=" " alt="" coords="313,1359,498,1403"/>
+<area shape="rect" id="node26" href="$classBitmask.html" title=" " alt="" coords="324,1147,487,1175"/>
+<area shape="rect" id="node28" href="$structGCS__MAVLINK_1_1deferred__message__bucket__t.html" title=" " alt="" coords="747,1021,919,1065"/>
+<area shape="rect" id="node27" href="$classLocation.html" title=" " alt="" coords="797,611,869,639"/>
+<area shape="rect" id="node29" href="$structLogStructure.html" title=" " alt="" coords="1180,1582,1278,1610"/>
+<area shape="rect" id="node30" href="$structUnitStructure.html" title=" " alt="" coords="1180,1634,1279,1662"/>
+<area shape="rect" id="node31" href="$structMultiplierStructure.html" title=" " alt="" coords="1165,1686,1294,1714"/>
+<area shape="rect" id="node32" href="$structAP__Logger_1_1log__write__fmt.html" title=" " alt="" coords="1142,1778,1317,1806"/>
+<area shape="rect" id="node35" href="$classLoggerMessageWriter__WriteSysInfo.html" title=" " alt="" coords="757,134,909,178"/>
+<area shape="rect" id="node36" href="$classLoggerMessageWriter__WriteEntireMission.html" title=" " alt="" coords="757,202,909,246"/>
+<area shape="rect" id="node37" href="$classLoggerMessageWriter__WriteAllRallyPoints.html" title=" " alt="" coords="757,270,909,314"/>
+</map>

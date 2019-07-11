@@ -1,0 +1,4 @@
+<map id="AC_Fence::get_safe_alt_max" name="AC_Fence::get_safe_alt_max">
+<area shape="rect" id="node1" title="get_safe_alt &#45; returns maximum safe altitude (i.e. alt_max &#45; margin)" alt="" coords="243,5,386,49"/>
+<area shape="rect" id="node2" href="$classAC__Avoid.html#a348c8cc6d8b28e21813bf08586f3306a" title=" " alt="" coords="5,13,195,41"/>
+</map>

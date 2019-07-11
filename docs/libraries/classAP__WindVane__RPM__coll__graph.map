@@ -1,0 +1,8 @@
+<map id="AP_WindVane_RPM" name="AP_WindVane_RPM">
+<area shape="rect" id="node1" title=" " alt="" coords="347,337,491,365"/>
+<area shape="rect" id="node2" href="$classAP__WindVane__Backend.html" title=" " alt="" coords="295,226,461,254"/>
+<area shape="rect" id="node5" href="$classAP__WindVane.html" title=" " alt="" coords="128,337,235,365"/>
+<area shape="rect" id="node3" href="$classLowPassFilter.html" title=" " alt="" coords="302,99,455,127"/>
+<area shape="rect" id="node4" href="$classDigitalLPF.html" title=" " alt="" coords="313,6,444,34"/>
+<area shape="rect" id="node6" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,226,157,254"/>
+</map>

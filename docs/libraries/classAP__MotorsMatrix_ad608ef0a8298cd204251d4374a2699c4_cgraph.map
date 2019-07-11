@@ -1,0 +1,54 @@
+<map id="AP_MotorsMatrix::set_frame_class_and_type" name="AP_MotorsMatrix::set_frame_class_and_type">
+<area shape="rect" id="node1" title=" " alt="" coords="5,510,168,554"/>
+<area shape="rect" id="node2" href="$classAP__Motors.html#a67a133570ae075a874c6522b23c5261b" title=" " alt="" coords="232,458,365,486"/>
+<area shape="rect" id="node3" href="$classAP__MotorsMatrix.html#add4cc7528ad5a337f58ec38a64156bd4" title=" " alt="" coords="217,510,380,554"/>
+<area shape="rect" id="node47" href="$classAP__MotorsMatrix.html#a1249a38e99dc59f13e7305ba94319f76" title=" " alt="" coords="224,625,373,669"/>
+<area shape="rect" id="node4" href="$classAP__MotorsMatrix.html#a586b776b1ea64bb0590a50997d17dcb1" title=" " alt="" coords="436,442,612,486"/>
+<area shape="rect" id="node5" href="$classAP__MotorsMatrix.html#a96211b4b9a24e1abc125892780815b32" title=" " alt="" coords="447,510,601,554"/>
+<area shape="rect" id="node6" href="$classAP__MotorsMatrix.html#a7845148fb3e5acb078d0dc121d75470b" title=" " alt="" coords="447,578,601,622"/>
+<area shape="rect" id="node45" href="$classAP__MotorsMatrix.html#a9a8a1478be4206233f70886a860f00e0" title=" " alt="" coords="430,374,618,418"/>
+<area shape="rect" id="node7" href="$classAP__Motors.html#ad0a73edfaa0d7b5c4f325a823c7781f4" title=" " alt="" coords="668,535,860,563"/>
+<area shape="rect" id="node8" href="$classSRV__Channels.html#acab9e1aba9fcbde6e598169af5b3181f" title=" " alt="" coords="911,629,1091,673"/>
+<area shape="rect" id="node9" href="$classSRV__Channels.html#a97577ca02c12e3b851cd5d563d32b640" title=" " alt="" coords="918,561,1085,605"/>
+<area shape="rect" id="node26" href="$classSRV__Channels.html#aa8ce392569ac9b773e5edd27bd3c6650" title=" " alt="" coords="931,493,1072,537"/>
+<area shape="rect" id="node27" href="$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="980,441,1022,469"/>
+<area shape="rect" id="node29" href="$classGCS.html#a9866f3484283db744409e40719cef765" title=" " alt="" coords="944,389,1059,417"/>
+<area shape="rect" id="node10" href="$classSRV__Channels.html#a2bce803f8a1de705be47d8cf7a46584c" title="setup the output range types of all functions" alt="" coords="1145,681,1306,725"/>
+<area shape="rect" id="node16" href="$classSRV__Channels.html#a378e0022237c196e6107c9e79f340285" title=" " alt="" coords="1142,493,1309,537"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1BetterStream.html#a8534aa004599bb81ad60f3e762791032" title=" " alt="" coords="1146,561,1305,605"/>
+<area shape="rect" id="node12" href="$classSRV__Channel.html#aadaab2dbeb62aa6f7b42eb39bf4f2430" title=" " alt="" coords="1358,741,1533,785"/>
+<area shape="rect" id="node15" href="$classBitmask.html#a6d942e61abc55c452b001b11dadf8a18" title=" " alt="" coords="1398,631,1492,659"/>
+<area shape="rect" id="node11" href="$classBitmask.html#ab753bfb6058f8a60e523c949802f3823" title=" " alt="" coords="1386,689,1505,717"/>
+<area shape="rect" id="node13" href="$classSRV__Channel.html#a04f5baeec785c9f696798fa4a6c7d6ce" title=" " alt="" coords="1590,722,1762,750"/>
+<area shape="rect" id="node14" href="$classSRV__Channel.html#aaf3193d70a486747bfbc9c6398cff261" title=" " alt="" coords="1591,774,1761,802"/>
+<area shape="rect" id="node17" href="$classBitmask.html#a0be34bb49dbf06972c4a16c0b12cd846" title=" " alt="" coords="1398,505,1493,533"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1BetterStream.html#aa730be451d385d7ba03ee9677e6d91a2" title=" " alt="" coords="1366,559,1525,603"/>
+<area shape="rect" id="node20" href="$print__vprintf_8cpp.html#a98e0d5bb436a207f576379beaa786040" title=" " alt="" coords="1631,553,1721,581"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="1822,458,1981,502"/>
+<area shape="rect" id="node22" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title=" " alt="" coords="1856,526,1947,554"/>
+<area shape="rect" id="node24" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title=" " alt="" coords="1855,578,1948,606"/>
+<area shape="rect" id="node25" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title=" " alt="" coords="1856,630,1946,658"/>
+<area shape="rect" id="node23" href="$lstrlib_8c.html#a9605f4d16ae762782f8be8b54aef0a22" title=" " alt="" coords="2054,578,2100,606"/>
+<area shape="rect" id="node28" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="1157,441,1294,469"/>
+<area shape="rect" id="node30" href="$classGCS.html#a96bea5f4a8234593db645ec80adb36f4" title=" " alt="" coords="1164,389,1286,417"/>
+<area shape="rect" id="node31" href="$classAP__HAL_1_1Util.html#ac57ef0a9815cd597ad5cab5d6c31c6c8" title=" " alt="" coords="1367,453,1524,481"/>
+<area shape="rect" id="node33" href="$classGCS.html#a313e604179053ea42415b1c9289f13cd" title=" " alt="" coords="1370,246,1521,274"/>
+<area shape="rect" id="node42" href="$structGCS__MAVLINK.html#acad5b4ab40c7b7486392f07193ce4190" title=" " alt="" coords="1597,402,1755,446"/>
+<area shape="rect" id="node43" href="$structGCS__MAVLINK.html#af948c4a65f98679941885e2c7cc12ac5" title=" " alt="" coords="1585,6,1767,50"/>
+<area shape="rect" id="node32" href="$classBufferPrinter.html#a4eb1dfae7fe1012905c34af6683401b2" title=" " alt="" coords="1610,470,1742,498"/>
+<area shape="rect" id="node34" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="1589,350,1763,378"/>
+<area shape="rect" id="node35" href="$classAP__Logger.html#ab72f6a6fdb1a23d793e37725f68b98c2" title=" " alt="" coords="1582,74,1770,102"/>
+<area shape="rect" id="node36" href="$classAP__Frsky__Telem.html#aef21b9f33af863589feda48a23877380" title=" " alt="" coords="1593,126,1759,170"/>
+<area shape="rect" id="node38" href="$classAP__Notify.html#a0264facb8d3b5c35a7cff0171acdabd0" title=" " alt="" coords="1592,194,1760,222"/>
+<area shape="rect" id="node39" href="$classAP__Notify.html#a0f38b9b4be211e200675dd048c81f500" title=" " alt="" coords="1603,246,1749,274"/>
+<area shape="rect" id="node44" href="$classGCS.html#a824e538eff6cbf7c9074840600fbf6ff" title=" " alt="" coords="1594,298,1758,326"/>
+<area shape="rect" id="node37" href="$classObjectArray.html#aec1630ad862991767b30ae80a71a26ea" title=" " alt="" coords="1819,134,1984,162"/>
+<area shape="rect" id="node40" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="1847,246,1956,274"/>
+<area shape="rect" id="node41" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="2033,246,2122,274"/>
+<area shape="rect" id="node46" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="732,382,796,410"/>
+<area shape="rect" id="node48" href="$classAP__Motors.html#a3d84a895c644d34e7fe78d7301ccf534" title=" " alt="" coords="443,679,605,707"/>
+<area shape="rect" id="node49" href="$classAP__Motors.html#ad49597b2238eada981aee164f6de0ab1" title=" " alt="" coords="675,637,853,665"/>
+<area shape="rect" id="node51" href="$classAP__HAL_1_1RCOutput.html#ae7903398aa18e2472dd34081e626dcb7" title=" " alt="" coords="667,757,861,785"/>
+<area shape="rect" id="node52" href="$classAP__HAL_1_1RCOutput.html#a7a28c0cef38387b867f1f5141a702daf" title=" " alt="" coords="682,689,846,733"/>
+<area shape="rect" id="node50" href="$classSRV__Channels.html#aa8ed20a48e6ffe0cb62e87fb9fa2f772" title=" " alt="" coords="910,697,1093,741"/>
+</map>

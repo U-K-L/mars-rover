@@ -1,0 +1,11 @@
+<map id="AP_GPS::detect_state" name="AP_GPS::detect_state">
+<area shape="rect" id="node1" title=" " alt="" coords="320,187,475,215"/>
+<area shape="rect" id="node2" href="$structSBP__detect__state.html" title=" " alt="" coords="15,5,143,33"/>
+<area shape="rect" id="node3" href="$structUBLOX__detect__state.html" title=" " alt="" coords="5,57,152,85"/>
+<area shape="rect" id="node4" href="$structSIRF__detect__state.html" title=" " alt="" coords="13,109,145,137"/>
+<area shape="rect" id="node5" href="$structMTK19__detect__state.html" title=" " alt="" coords="6,161,151,189"/>
+<area shape="rect" id="node6" href="$structERB__detect__state.html" title=" " alt="" coords="14,213,143,241"/>
+<area shape="rect" id="node7" href="$structSBP2__detect__state.html" title=" " alt="" coords="11,265,146,293"/>
+<area shape="rect" id="node8" href="$structNMEA__detect__state.html" title=" " alt="" coords="9,317,149,345"/>
+<area shape="rect" id="node9" href="$structMTK__detect__state.html" title=" " alt="" coords="14,369,143,397"/>
+</map>

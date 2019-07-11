@@ -1,0 +1,18 @@
+<map id="HALSITL::Storage::_timer_tick" name="HALSITL::Storage::_timer_tick">
+<area shape="rect" id="node1" title=" " alt="" coords="6,205,143,249"/>
+<area shape="rect" id="node2" href="$classBitmask.html#a81b4f1275d5aab09865353379f805b3a" title=" " alt="" coords="205,57,318,85"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="207,109,316,137"/>
+<area shape="rect" id="node5" href="$classBitmask.html#a0be34bb49dbf06972c4a16c0b12cd846" title=" " alt="" coords="214,161,309,189"/>
+<area shape="rect" id="node6" href="$posix_8c.html#af4a94d1a050fafb23798dd6bcdac74f0" title="POSIX seek to file position." alt="" coords="235,213,288,241"/>
+<area shape="rect" id="node12" href="$posix_8c.html#abb39b21888372e95ad3e5c59b166f5c8" title="POSIX Write count bytes from *buf to fileno fd." alt="" coords="237,314,286,342"/>
+<area shape="rect" id="node15" href="$classBitmask.html#a55ccc426e20a9bf4d5e9fc7a593985e8" title=" " alt="" coords="379,470,485,498"/>
+<area shape="rect" id="node16" href="$classHALSITL_1_1Storage.html#a7a69f49e41763b43b68b70fadeaad586" title=" " alt="" coords="193,375,330,419"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="388,5,476,33"/>
+<area shape="rect" id="node7" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="380,161,484,189"/>
+<area shape="rect" id="node9" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="727,135,780,163"/>
+<area shape="rect" id="node8" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="567,109,620,137"/>
+<area shape="rect" id="node10" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="533,213,653,241"/>
+<area shape="rect" id="node11" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="702,366,805,394"/>
+<area shape="rect" id="node13" href="$posix_8c.html#abe6299d5823dd023e610aaa619735a3f" title="Put a byte to TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;put = fatfs_outc() for F..." alt="" coords="407,366,457,394"/>
+<area shape="rect" id="node14" href="$posix_8c.html#a90d998e82aa4f903a1570c0c48aeae59" title="Private FatFs function called by fputc() to put a byte from file stream NOT POSIX open() assigns stre..." alt="" coords="554,366,633,394"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="_sig_fpe" name="_sig_fpe">
+<area shape="rect" id="node1" title=" " alt="" coords="5,570,77,598"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a24f9cd058786148b09bbf37ddbe310bb" title=" " alt="" coords="125,562,277,606"/>
+<area shape="rect" id="node3" href="$posix_8c.html#a5f9f3a5b6a7ddcc72c521d70d0f677db" title="Display struct stat, from POSIX stat(0 or fstat(), in ASCII. NOT POSIX." alt="" coords="337,57,380,85"/>
+<area shape="rect" id="node7" href="$stdio_8h.html#a37c1e8ce8a2b411fa666dc33972a2cec" title=" " alt="" coords="326,802,391,830"/>
+<area shape="rect" id="node8" href="$posix_8c.html#adcb60598073f6f9cbb0091ef6768fa5c" title="POSIX Open a file with integer mode flags." alt="" coords="333,466,384,494"/>
+<area shape="rect" id="node21" href="$posix_8c.html#af32a16ad2dd9e48482f8f790db7dbbd2" title="POSIX read count bytes from *buf to fileno fd." alt="" coords="335,750,383,778"/>
+<area shape="rect" id="node23" href="$posix_8c.html#abb39b21888372e95ad3e5c59b166f5c8" title="POSIX Write count bytes from *buf to fileno fd." alt="" coords="334,363,383,391"/>
+<area shape="rect" id="node25" href="$posix_8c.html#a8877deace0c63591fee0cc9c94d249d3" title="POSIX Close a file with fileno handel." alt="" coords="332,647,385,675"/>
+<area shape="rect" id="node4" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="792,258,896,286"/>
+<area shape="rect" id="node5" href="$posix_8c.html#a429fb62120654af9991d381961ab0c0d" title="Convert FatFs file date and time to POSIX epoch seconds. NOT POSIX." alt="" coords="448,5,568,33"/>
+<area shape="rect" id="node6" href="$posix_8c.html#a1d22cb8941388656918f4e1b16061cd9" title=" " alt="" coords="626,5,742,33"/>
+<area shape="rect" id="node9" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="817,597,871,625"/>
+<area shape="rect" id="node10" href="$posix_8c.html#a96d98c05b05d85e1ae97953f04f5b386" title="Allocate a POSIX FILE descriptor. NOT POSIX." alt="" coords="440,466,576,494"/>
+<area shape="rect" id="node16" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="624,622,744,650"/>
+<area shape="rect" id="node17" href="$posix_8c.html#a9d5502ebc4eba38ea5ef6ca4ba71bc02" title="Free POSIX fileno FILE descriptor. NOT POSIX." alt="" coords="441,518,575,546"/>
+<area shape="rect" id="node18" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="456,622,560,650"/>
+<area shape="rect" id="node19" href="$posix_8c.html#a90d998e82aa4f903a1570c0c48aeae59" title="Private FatFs function called by fputc() to put a byte from file stream NOT POSIX open() assigns stre..." alt="" coords="644,206,724,234"/>
+<area shape="rect" id="node20" href="$posix_8c.html#a479c82c9a415915568fb1e799bc545c9" title="Formt SD card." alt="" coords="644,310,724,338"/>
+<area shape="rect" id="node11" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="658,518,710,546"/>
+<area shape="rect" id="node12" href="$malloc_8c.html#a62b7798461bd461da64c5f9d35feddf7" title=" " alt="" coords="656,362,712,390"/>
+<area shape="rect" id="node15" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="662,466,706,494"/>
+<area shape="rect" id="node13" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="814,362,874,390"/>
+<area shape="rect" id="node14" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="944,362,1040,390"/>
+<area shape="rect" id="node22" href="$posix_8c.html#ab11a990e4f8863a1e7736e3c1d430092" title="Get byte from a TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;get = fatfs_getc() for..." alt="" coords="483,929,533,957"/>
+<area shape="rect" id="node24" href="$posix_8c.html#abe6299d5823dd023e610aaa619735a3f" title="Put a byte to TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;put = fatfs_outc() for F..." alt="" coords="483,159,533,187"/>
+</map>

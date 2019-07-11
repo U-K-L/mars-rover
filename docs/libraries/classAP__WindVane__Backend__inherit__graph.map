@@ -1,0 +1,10 @@
+<map id="AP_WindVane_Backend" name="AP_WindVane_Backend">
+<area shape="rect" id="node1" title=" " alt="" coords="6,161,173,189"/>
+<area shape="rect" id="node2" href="$classAP__WindVane__Airspeed.html" title=" " alt="" coords="238,5,405,33"/>
+<area shape="rect" id="node3" href="$classAP__WindVane__Analog.html" title=" " alt="" coords="243,57,399,85"/>
+<area shape="rect" id="node4" href="$classAP__WindVane__Home.html" title=" " alt="" coords="246,109,396,137"/>
+<area shape="rect" id="node5" href="$classAP__WindVane__ModernDevice.html" title=" " alt="" coords="221,161,422,189"/>
+<area shape="rect" id="node6" href="$classAP__WindVane__NMEA.html" title=" " alt="" coords="245,213,398,241"/>
+<area shape="rect" id="node7" href="$classAP__WindVane__RPM.html" title=" " alt="" coords="249,265,393,293"/>
+<area shape="rect" id="node8" href="$classAP__WindVane__SITL.html" title=" " alt="" coords="250,317,393,345"/>
+</map>

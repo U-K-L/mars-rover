@@ -1,0 +1,7 @@
+<map id="GCS_MAVLINK::should_zero_rc_outputs_on_reboot" name="GCS_MAVLINK::should_zero_rc_outputs_on_reboot">
+<area shape="rect" id="node1" title=" " alt="" coords="854,5,1016,65"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a2c41f461a8bc8bddbb7ed30ce2a1f135" title=" " alt="" coords="643,13,805,57"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a29e2941413d50ab63cd70f5beadef19a" title=" " alt="" coords="427,13,594,57"/>
+<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#abc79cdd8393234b66f2e8217a527f8f9" title=" " alt="" coords="216,13,379,57"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,13,168,57"/>
+</map>

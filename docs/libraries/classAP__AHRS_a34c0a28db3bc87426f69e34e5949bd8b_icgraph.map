@@ -1,0 +1,11 @@
+<map id="AP_AHRS::update_trig" name="AP_AHRS::update_trig">
+<area shape="rect" id="node1" title=" " alt="" coords="893,135,1051,163"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#aa8a135d6852e94f279c0be3c8206bfdd" title=" " alt="" coords="646,57,815,85"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title=" " alt="" coords="339,109,568,137"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title=" " alt="" coords="616,161,845,189"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__NavEKF.html#a5924a6c3f6301730272f01350eac6233" title=" " alt="" coords="618,213,843,241"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a7ce0035d07be995b5f45ac6c711570ce" title=" " alt="" coords="340,5,567,33"/>
+<area shape="rect" id="node6" href="$ModuleTest_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="430,57,477,85"/>
+<area shape="rect" id="node4" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="102,135,290,163"/>
+<area shape="rect" id="node5" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,135,53,163"/>
+</map>

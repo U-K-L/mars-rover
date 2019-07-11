@@ -1,0 +1,7 @@
+<map id="SITL::Vicon::Vicon" name="SITL::Vicon::Vicon">
+<area shape="rect" id="node1" title=" " alt="" coords="5,61,136,89"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="184,34,296,62"/>
+<area shape="rect" id="node5" href="$GCS__MAVLink_8h.html#a17ee8d1ce05b7d160ccc6a78b92b774f" title=" " alt="" coords="189,86,291,114"/>
+<area shape="rect" id="node3" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="389,5,446,33"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="344,57,491,101"/>
+</map>

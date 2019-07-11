@@ -1,0 +1,11 @@
+<map id="MAVLink_routing::handle_heartbeat" name="MAVLink_routing::handle_heartbeat">
+<area shape="rect" id="node1" title=" " alt="" coords="6,95,175,139"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#acad5b4ab40c7b7486392f07193ce4190" title=" " alt="" coords="227,5,384,49"/>
+<area shape="rect" id="node3" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title=" " alt="" coords="237,73,374,101"/>
+<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a4f0bacad6b801524e0a56fdfca58619d" title=" " alt="" coords="224,125,386,169"/>
+<area shape="rect" id="node9" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="280,193,331,221"/>
+<area shape="rect" id="node4" href="$GCS__MAVLink_8h.html#a17ee8d1ce05b7d160ccc6a78b92b774f" title=" " alt="" coords="463,13,566,41"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html#ab0193c7791fd95eb2bfbfd6597bdf6d8" title=" " alt="" coords="435,65,594,109"/>
+<area shape="rect" id="node7" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="460,133,569,161"/>
+<area shape="rect" id="node8" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="644,133,732,161"/>
+</map>

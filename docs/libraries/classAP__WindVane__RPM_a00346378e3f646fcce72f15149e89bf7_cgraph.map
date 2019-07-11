@@ -1,0 +1,12 @@
+<map id="AP_WindVane_RPM::update_speed" name="AP_WindVane_RPM::update_speed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,197,145"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ad5986df034b9156395fea23c11cb2210" title=" " alt="" coords="296,5,365,33"/>
+<area shape="rect" id="node3" href="$classAP__RPM.html#ae7cb8baddb7aa17faa7a074f79c13096" title=" " alt="" coords="464,31,627,59"/>
+<area shape="rect" id="node4" href="$classAP__RPM.html#a6222178dcb331b70cbf292cbba8fd8eb" title=" " alt="" coords="264,109,397,137"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a8b6f71a42818d74fd8bfe348108942fa" title=" " alt="" coords="286,161,375,189"/>
+<area shape="rect" id="node7" href="$classAP__WindVane__Backend.html#a3b272fc3c34174f37e8268daec71ba87" title=" " alt="" coords="246,213,415,257"/>
+<area shape="rect" id="node5" href="$classAP__RPM.html#a9c5715bbd3d39c3b66960e411644457d" title=" " alt="" coords="482,109,609,137"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="504,161,587,189"/>
+<area shape="rect" id="node9" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title=" " alt="" coords="480,213,610,257"/>
+<area shape="rect" id="node10" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="473,281,618,309"/>
+</map>

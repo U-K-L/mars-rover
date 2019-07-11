@@ -1,0 +1,154 @@
+<map id="libraries/AP_Logger/AP_Logger.cpp" name="libraries/AP_Logger/AP_Logger.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="7031,6,7168,50"/>
+<area shape="rect" id="node2" href="$AP__Logger_8h.html" title=" " alt="" coords="4423,99,4520,127"/>
+<area shape="rect" id="node134" href="$AP__Logger__Backend_8h.html" title=" " alt="" coords="4848,254,5006,282"/>
+<area shape="rect" id="node135" href="$AP__Logger__File_8h.html" title=" " alt="" coords="4960,99,5088,127"/>
+<area shape="rect" id="node136" href="$AP__Logger__SITL_8h.html" title=" " alt="" coords="4801,99,4935,127"/>
+<area shape="rect" id="node138" href="$AP__Logger__DataFlash_8h.html" title=" " alt="" coords="8532,254,8699,282"/>
+<area shape="rect" id="node139" href="$AP__Logger__MAVLink_8h.html" title=" " alt="" coords="7937,177,8095,205"/>
+<area shape="rect" id="node104" href="$AP__InternalError_8h.html" title=" " alt="" coords="8640,766,8782,810"/>
+<area shape="rect" id="node140" href="$GCS_8h.html" title="Interface definition for the various Ground Control System." alt="" coords="7023,99,7176,127"/>
+<area shape="rect" id="node149" href="$stdio_8h.html" title=" " alt="" coords="9151,961,9211,989"/>
+<area shape="rect" id="node3" href="$AP__HAL_8h.html" title=" " alt="" coords="5300,1123,5438,1151"/>
+<area shape="rect" id="node26" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries." alt="" coords="1737,1510,1932,1538"/>
+<area shape="rect" id="node34" href="$AP__Param_8h.html" title="A system for managing and storing variables that are of general interest to the system." alt="" coords="6156,961,6320,989"/>
+<area shape="rect" id="node41" href="$AP__InertialSensor_8h.html" title=" " alt="" coords="3538,579,3688,623"/>
+<area shape="rect" id="node67" href="$AP__AHRS_8h.html" title=" " alt="" coords="6292,331,6452,359"/>
+<area shape="rect" id="node93" href="$AP__Mission_8h.html" title="Handles the MAVLINK command mission stack. Reads and writes mission to storage." alt="" coords="5113,681,5290,709"/>
+<area shape="rect" id="node96" href="$AP__RPM_8h.html" title=" " alt="" coords="3739,774,3884,802"/>
+<area shape="rect" id="node91" href="$LogStructure_8h.html" title=" " alt="" coords="7221,587,7400,615"/>
+<area shape="rect" id="node97" href="$AP__Motors_8h.html" title=" " alt="" coords="1445,177,1614,205"/>
+<area shape="rect" id="node130" href="$AP__Rally_8h.html" title="Handles rally point storage and retrieval." alt="" coords="2018,681,2163,709"/>
+<area shape="rect" id="node75" href="$AP__Beacon_8h.html" title=" " alt="" coords="3138,681,3315,709"/>
+<area shape="rect" id="node131" href="$AP__Proximity_8h.html" title=" " alt="" coords="4641,494,4836,522"/>
+<area shape="rect" id="node132" href="$AP__InertialSensor__Backend_8h.html" title=" " alt="" coords="3629,486,3811,530"/>
+<area shape="rect" id="node4" title=" " alt="" coords="7876,1587,7940,1615"/>
+<area shape="rect" id="node133" href="$LoggerMessageWriter_8h.html" title=" " alt="" coords="4611,177,4772,205"/>
+<area shape="rect" id="node5" href="$AP__HAL__Namespace_8h.html" title=" " alt="" coords="4330,1510,4491,1538"/>
+<area shape="rect" id="node9" href="$AP__HAL__Boards_8h.html" title=" " alt="" coords="5835,1510,5967,1538"/>
+<area shape="rect" id="node10" href="$AP__HAL__Macros_8h.html" title=" " alt="" coords="5834,1433,5968,1461"/>
+<area shape="rect" id="node11" href="$AP__HAL__Main_8h.html" title=" " alt="" coords="5166,1201,5284,1229"/>
+<area shape="rect" id="node23" href="$UARTDriver_8h.html" title=" " alt="" coords="4727,1355,4830,1383"/>
+<area shape="rect" id="node13" href="$AnalogIn_8h.html" title=" " alt="" coords="4618,1355,4702,1383"/>
+<area shape="rect" id="node22" href="$Storage_8h.html" title=" " alt="" coords="5418,1355,5496,1383"/>
+<area shape="rect" id="node15" href="$GPIO_8h.html" title=" " alt="" coords="5503,1433,5568,1461"/>
+<area shape="rect" id="node16" href="$RCInput_8h.html" title=" " alt="" coords="4461,1355,4542,1383"/>
+<area shape="rect" id="node17" href="$RCOutput_8h.html" title=" " alt="" coords="5302,1355,5394,1383"/>
+<area shape="rect" id="node30" href="$Scheduler_8h.html" title=" " alt="" coords="5126,1433,5218,1461"/>
+<area shape="rect" id="node31" href="$Semaphores_8h.html" title=" " alt="" coords="3869,1433,3976,1461"/>
+<area shape="rect" id="node32" href="$Util_8h.html" title=" " alt="" coords="5377,1433,5428,1461"/>
+<area shape="rect" id="node29" href="$AP__HAL_2OpticalFlow_8h.html" title=" " alt="" coords="5177,1355,5279,1383"/>
+<area shape="rect" id="node33" href="$Flash_8h.html" title=" " alt="" coords="5694,1433,5759,1461"/>
+<area shape="rect" id="node24" href="$BetterStream_8h.html" title=" " alt="" coords="4153,1433,4298,1461"/>
+<area shape="rect" id="node12" href="$HAL_8h.html" title=" " alt="" coords="5103,1278,5160,1306"/>
+<area shape="rect" id="node28" href="$system_8h.html" title=" " alt="" coords="5724,1355,5799,1383"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3748,1587,3812,1615"/>
+<area shape="rect" id="node7" href="$functor_8h.html" title=" " alt="" coords="4358,1587,4463,1615"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2453,1665,2536,1693"/>
+<area shape="rect" id="node18" href="$SPIDevice_8h.html" title=" " alt="" coords="4906,1355,5000,1383"/>
+<area shape="rect" id="node14" title=" " alt="" coords="4924,1510,5002,1538"/>
+<area shape="rect" id="node19" href="$Device_8h.html" title=" " alt="" coords="4574,1433,4647,1461"/>
+<area shape="rect" id="node20" href="$OwnPtr_8h.html" title=" " alt="" coords="5242,1433,5352,1461"/>
+<area shape="rect" id="node21" title=" " alt="" coords="5265,1510,5330,1538"/>
+<area shape="rect" id="node25" title=" " alt="" coords="5359,1510,5428,1538"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1803,1587,1866,1615"/>
+<area shape="rect" id="node35" title=" " alt="" coords="8339,1046,8407,1074"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2610,1123,2667,1151"/>
+<area shape="rect" id="node37" href="$RingBuffer_8h.html" title=" " alt="" coords="7878,1046,8060,1074"/>
+<area shape="rect" id="node39" href="$StorageManager_8h.html" title=" " alt="" coords="5508,1046,5742,1074"/>
+<area shape="rect" id="node40" title=" " alt="" coords="3173,1123,3230,1151"/>
+<area shape="rect" id="node38" title=" " alt="" coords="7878,1123,7938,1151"/>
+<area shape="rect" id="node42" href="$AP__AccelCal_8h.html" title=" " alt="" coords="5454,681,5644,709"/>
+<area shape="rect" id="node48" href="$AP__Math_8h.html" title=" " alt="" coords="2283,867,2428,895"/>
+<area shape="rect" id="node63" href="$LowPassFilter2p_8h.html" title="A class to implement a second order low pass filter." alt="" coords="2177,774,2340,802"/>
+<area shape="rect" id="node64" href="$LowPassFilter_8h.html" title="A class to implement a low pass filter without losing precision even for int types the downside being..." alt="" coords="2910,774,3058,802"/>
+<area shape="rect" id="node66" href="$NotchFilter_8h.html" title=" " alt="" coords="3185,774,3314,802"/>
+<area shape="rect" id="node43" href="$GCS__MAVLink_8h.html" title="One size fits all header for MAVLink integration." alt="" coords="7219,867,7432,895"/>
+<area shape="rect" id="node47" href="$AccelCalibrator_8h.html" title=" " alt="" coords="3542,774,3663,802"/>
+<area shape="rect" id="node44" title=" " alt="" coords="7451,953,7618,997"/>
+<area shape="rect" id="node45" title=" " alt="" coords="7092,953,7234,997"/>
+<area shape="rect" id="node46" title=" " alt="" coords="7258,953,7427,997"/>
+<area shape="rect" id="node61" href="$vectorN_8h.html" title=" " alt="" coords="3665,1046,3802,1074"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2850,961,2902,989"/>
+<area shape="rect" id="node50" href="$definitions_8h.html" title=" " alt="" coords="2701,1046,2792,1074"/>
+<area shape="rect" id="node51" href="$crc_8h.html" title=" " alt="" coords="2926,961,2975,989"/>
+<area shape="rect" id="node52" href="$matrix3_8h.html" title=" " alt="" coords="2499,961,2575,989"/>
+<area shape="rect" id="node56" href="$polygon_8h.html" title=" " alt="" coords="2294,961,2372,989"/>
+<area shape="rect" id="node57" href="$quaternion_8h.html" title=" " alt="" coords="2192,1046,2287,1074"/>
+<area shape="rect" id="node54" href="$rotations_8h.html" title=" " alt="" coords="2390,1123,2474,1151"/>
+<area shape="rect" id="node55" href="$vector2_8h.html" title=" " alt="" coords="2499,1046,2575,1074"/>
+<area shape="rect" id="node53" href="$vector3_8h.html" title=" " alt="" coords="2601,1046,2676,1074"/>
+<area shape="rect" id="node59" href="$spline5_8h.html" title=" " alt="" coords="2701,961,2776,989"/>
+<area shape="rect" id="node60" href="$location_8h.html" title=" " alt="" coords="2600,961,2678,989"/>
+<area shape="rect" id="node58" title=" " alt="" coords="3428,1201,3490,1229"/>
+<area shape="rect" id="node62" href="$matrixN_8h.html" title=" " alt="" coords="3766,1123,3844,1151"/>
+<area shape="rect" id="node65" href="$FilterClass_8h.html" title="A pure virtual interface class." alt="" coords="4183,961,4278,989"/>
+<area shape="rect" id="node68" href="$AP__Compass_8h.html" title=" " alt="" coords="5842,587,6040,615"/>
+<area shape="rect" id="node74" href="$AP__Airspeed_8h.html" title=" " alt="" coords="6576,774,6767,802"/>
+<area shape="rect" id="node70" href="$Location_8h.html" title=" " alt="" coords="2416,774,2582,802"/>
+<area shape="rect" id="node77" href="$AP__AHRS__DCM_8h.html" title=" " alt="" coords="6358,409,6490,437"/>
+<area shape="rect" id="node78" href="$AP__AHRS__NavEKF_8h.html" title=" " alt="" coords="6829,409,6979,437"/>
+<area shape="rect" id="node69" href="$AP__Declination_8h.html" title=" " alt="" coords="2744,681,2962,709"/>
+<area shape="rect" id="node71" href="$CompassCalibrator_8h.html" title=" " alt="" coords="3441,681,3586,709"/>
+<area shape="rect" id="node72" href="$AP__Compass__Backend_8h.html" title=" " alt="" coords="6046,681,6218,709"/>
+<area shape="rect" id="node73" href="$Compass__PerMotor_8h.html" title=" " alt="" coords="3610,681,3760,709"/>
+<area shape="rect" id="node76" href="$AP__SerialManager_8h.html" title=" " alt="" coords="7248,766,7403,810"/>
+<area shape="rect" id="node79" href="$SITL_8h.html" title=" " alt="" coords="8121,587,8212,615"/>
+<area shape="rect" id="node86" href="$AP__NavEKF2_8h.html" title=" " alt="" coords="6941,494,7142,522"/>
+<area shape="rect" id="node92" href="$AP__NavEKF3_8h.html" title=" " alt="" coords="6636,494,6836,522"/>
+<area shape="rect" id="node87" href="$AP__Nav__Common_8h.html" title=" " alt="" coords="6824,587,7046,615"/>
+<area shape="rect" id="node80" href="$SIM__Sprayer_8h.html" title=" " alt="" coords="8541,867,8651,895"/>
+<area shape="rect" id="node82" href="$SIM__Gripper__Servo_8h.html" title=" " alt="" coords="8725,867,8875,895"/>
+<area shape="rect" id="node83" href="$SIM__Gripper__EPM_8h.html" title=" " alt="" coords="8899,867,9043,895"/>
+<area shape="rect" id="node84" href="$SIM__Parachute_8h.html" title=" " alt="" coords="8441,774,8564,802"/>
+<area shape="rect" id="node85" href="$SIM__Precland_8h.html" title=" " alt="" coords="5314,681,5430,709"/>
+<area shape="rect" id="node81" href="$SITL__Input_8h.html" title=" " alt="" coords="8650,961,8747,989"/>
+<area shape="rect" id="node88" href="$AP__RangeFinder_8h.html" title="Catch&#45;all header that defines all supported RangeFinder classes." alt="" coords="6459,587,6698,615"/>
+<area shape="rect" id="node89" href="$RangeFinder_8h.html" title=" " alt="" coords="6760,681,6868,709"/>
+<area shape="rect" id="node90" href="$AP__RangeFinder__Params_8h.html" title=" " alt="" coords="5271,774,5459,802"/>
+<area shape="rect" id="node94" href="$AP__Vehicle_8h.html" title=" " alt="" coords="5793,774,5964,802"/>
+<area shape="rect" id="node95" href="$AP__Vehicle__Type_8h.html" title=" " alt="" coords="5862,867,5999,895"/>
+<area shape="rect" id="node98" href="$AP__Motors__Class_8h.html" title=" " alt="" coords="1896,494,2035,522"/>
+<area shape="rect" id="node115" href="$AP__MotorsMulticopter_8h.html" title="Motor control class for Multicopters." alt="" coords="1716,409,1879,437"/>
+<area shape="rect" id="node116" href="$AP__MotorsMatrix_8h.html" title="Motor control class for Matrixcopters." alt="" coords="714,331,848,359"/>
+<area shape="rect" id="node118" href="$AP__MotorsTri_8h.html" title="Motor control class for Tricopters." alt="" coords="1829,331,1942,359"/>
+<area shape="rect" id="node119" href="$AP__MotorsHeli__Single_8h.html" title="Motor control class for traditional heli." alt="" coords="1275,331,1440,359"/>
+<area shape="rect" id="node123" href="$AP__MotorsHeli__Dual_8h.html" title="Motor control class for dual heli (tandem or transverse)" alt="" coords="534,331,690,359"/>
+<area shape="rect" id="node124" href="$AP__MotorsHeli__Quad_8h.html" title="Motor control class collective pitch quad helicopter (such as stingray)" alt="" coords="889,331,1050,359"/>
+<area shape="rect" id="node125" href="$AP__MotorsSingle_8h.html" title="Motor and Servo control class for Singlecopters." alt="" coords="1618,331,1752,359"/>
+<area shape="rect" id="node126" href="$AP__MotorsCoax_8h.html" title="Motor and Servo control class for Co&#45;axial helicopters with two motors and two flaps." alt="" coords="1465,331,1594,359"/>
+<area shape="rect" id="node127" href="$AP__MotorsTailsitter_8h.html" title="Motor control class for tailsitters and bicopters." alt="" coords="1967,331,2112,359"/>
+<area shape="rect" id="node128" href="$AP__Motors6DOF_8h.html" title="Motor control class for ROVs with direct control over 6DOF (or fewer) in movement." alt="" coords="607,254,739,282"/>
+<area shape="rect" id="node129" href="$AP__MotorsMatrixTS_8h.html" title="Motor control class for tailsitters with multicopter motor configurations." alt="" coords="815,254,966,282"/>
+<area shape="rect" id="node99" href="$AP__Notify_8h.html" title=" " alt="" coords="6395,681,6548,709"/>
+<area shape="rect" id="node101" href="$SRV__Channel_8h.html" title=" " alt="" coords="2211,587,2415,615"/>
+<area shape="rect" id="node109" href="$Filter_8h.html" title=" " alt="" coords="4218,681,4312,709"/>
+<area shape="rect" id="node100" href="$NotifyDevice_8h.html" title=" " alt="" coords="6395,774,6502,802"/>
+<area shape="rect" id="node102" href="$AP__RCMapper_8h.html" title=" " alt="" coords="6327,867,6542,895"/>
+<area shape="rect" id="node103" href="$Bitmask_8h.html" title=" " alt="" coords="8389,681,8552,709"/>
+<area shape="rect" id="node105" href="$AP__Volz__Protocol_8h.html" title=" " alt="" coords="5669,673,5819,717"/>
+<area shape="rect" id="node106" href="$AP__RobotisServo_8h.html" title=" " alt="" coords="4967,859,5115,903"/>
+<area shape="rect" id="node107" href="$AP__SBusOut_8h.html" title=" " alt="" coords="5190,867,5383,895"/>
+<area shape="rect" id="node108" href="$AP__BLHeli_8h.html" title=" " alt="" coords="3223,1046,3387,1074"/>
+<area shape="rect" id="node110" href="$AverageFilter_8h.html" title="A class to provide the average of a number of samples." alt="" coords="4257,774,4367,802"/>
+<area shape="rect" id="node112" href="$DerivativeFilter_8h.html" title=" " alt="" coords="4061,774,4182,802"/>
+<area shape="rect" id="node111" href="$FilterWithBuffer_8h.html" title="A filter with a buffer. This is implemented separately to the base Filter class to get around restric..." alt="" coords="4070,867,4194,895"/>
+<area shape="rect" id="node113" href="$ModeFilter_8h.html" title="A class to apply a mode filter which is basically picking the median value from the last x samples th..." alt="" coords="4391,774,4486,802"/>
+<area shape="rect" id="node114" href="$Butter_8h.html" title=" " alt="" coords="4623,867,4690,895"/>
+<area shape="rect" id="node117" href="$RC__Channel_8h.html" title="RC_Channel manager, with EEPROM&#45;backed storage of constants." alt="" coords="1126,587,1314,615"/>
+<area shape="rect" id="node120" href="$AP__MotorsHeli_8h.html" title="Motor control class for Traditional Heli." alt="" coords="1310,409,1431,437"/>
+<area shape="rect" id="node121" href="$AP__MotorsHeli__RSC_8h.html" title=" " alt="" coords="1006,494,1162,522"/>
+<area shape="rect" id="node122" href="$AP__MotorsHeli__Swash_8h.html" title="Swashplate Library for traditional heli." alt="" coords="1021,774,1190,802"/>
+<area shape="rect" id="node137" href="$AP__Logger__Block_8h.html" title=" " alt="" coords="4899,177,5038,205"/>
+<area shape="rect" id="node141" href="$MAVLink__routing_8h.html" title="handle routing of MAVLink packets by sysid/componentid" alt="" coords="5483,774,5615,802"/>
+<area shape="rect" id="node142" href="$AP__Avoidance_8h.html" title=" " alt="" coords="6786,177,6995,205"/>
+<area shape="rect" id="node145" href="$AP__Frsky__Telem_8h.html" title=" " alt="" coords="7678,579,7860,623"/>
+<area shape="rect" id="node146" href="$AP__AdvancedFailsafe_8h.html" title=" " alt="" coords="6064,579,6231,623"/>
+<area shape="rect" id="node147" href="$JitterCorrection_8h.html" title=" " alt="" coords="7221,177,7400,205"/>
+<area shape="rect" id="node148" href="$AP__Devo__Telem_8h.html" title=" " alt="" coords="7576,673,7756,717"/>
+<area shape="rect" id="node143" href="$AP__ADSB_8h.html" title=" " alt="" coords="6811,254,6970,282"/>
+<area shape="rect" id="node144" href="$AP__Buffer_8h.html" title="fifo (queue) buffer template class" alt="" coords="8901,1278,9056,1306"/>
+<area shape="rect" id="node150" href="$posix_8h.html" title=" " alt="" coords="9203,1046,9266,1074"/>
+<area shape="rect" id="node151" href="$board_8h.html" title=" " alt="" coords="9202,1123,9267,1151"/>
+<area shape="rect" id="node152" title=" " alt="" coords="9202,1201,9270,1229"/>
+</map>

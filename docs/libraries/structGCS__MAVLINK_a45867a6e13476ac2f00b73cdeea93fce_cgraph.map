@@ -1,0 +1,16 @@
+<map id="GCS_MAVLINK::send_proximity" name="GCS_MAVLINK::send_proximity">
+<area shape="rect" id="node1" title=" " alt="" coords="6,187,218,215"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#a8b4b4424addfab0bbe9a7290107af2d7" title=" " alt="" coords="313,5,413,33"/>
+<area shape="rect" id="node3" href="$classAP__Proximity.html#a9a5196c465fcce6e3a0c38b77b2f4d28" title=" " alt="" coords="509,31,697,59"/>
+<area shape="rect" id="node4" href="$classAP__Proximity.html#a5828d33a5e6873d29c01d0ea377bad3a" title=" " alt="" coords="278,109,448,137"/>
+<area shape="rect" id="node5" href="$classAP__Proximity.html#aea4d7efc1060984c34896eeff8e82d4d" title=" " alt="" coords="269,161,456,189"/>
+<area shape="rect" id="node7" href="$classAP__Proximity.html#a2e5b5c46464c7b30d83d7f6adbda7775" title=" " alt="" coords="507,213,698,241"/>
+<area shape="rect" id="node9" href="$classAP__Proximity.html#acd6596edd8f65dea41aa89730343f9a3" title=" " alt="" coords="266,265,459,309"/>
+<area shape="rect" id="node11" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="308,333,417,361"/>
+<area shape="rect" id="node13" href="$classAP__Proximity.html#a9feaf5dbfcd60e26d0f7b807592414f3" title=" " alt="" coords="273,385,452,429"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__Backend.html#aa8f21e798da47e93e734b9672ed6ab38" title=" " alt="" coords="522,145,683,189"/>
+<area shape="rect" id="node8" href="$classAP__Proximity__Backend.html#a95642cf035b9219ee43efdd32d568e8f" title=" " alt="" coords="746,235,907,279"/>
+<area shape="rect" id="node10" href="$classAP__Proximity__Backend.html#a48928e9c0e50bf4bfe83f5e21655e5bb" title=" " alt="" coords="515,265,691,309"/>
+<area shape="rect" id="node12" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="558,333,647,361"/>
+<area shape="rect" id="node14" href="$classAP__Proximity__Backend.html#a08f8590a129e8db6c731ddcdd6e37fe6" title=" " alt="" coords="522,385,683,429"/>
+</map>

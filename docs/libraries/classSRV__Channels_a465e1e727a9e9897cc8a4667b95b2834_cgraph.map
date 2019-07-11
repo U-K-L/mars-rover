@@ -1,0 +1,19 @@
+<map id="SRV_Channels::upgrade_parameters" name="SRV_Channels::upgrade_parameters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,174,213"/>
+<area shape="rect" id="node2" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="282,5,321,33"/>
+<area shape="rect" id="node4" href="$classRC__Channels.html#a305bdcb535ed4055e86125c65bc6ba0c" title=" " alt="" coords="222,57,381,85"/>
+<area shape="rect" id="node5" href="$classAP__Param.html#a857c14c819b6d550957d0f9c56c379d0" title=" " alt="" coords="231,109,371,153"/>
+<area shape="rect" id="node14" href="$classRCMapper.html#acda249daca389819714744098367e7d2" title="roll &#45; return input channel number for roll / aileron input" alt="" coords="246,177,357,205"/>
+<area shape="rect" id="node15" href="$classRCMapper.html#ac4f16f445a12f375d2db825107fb6cca" title="pitch &#45; return input channel number for pitch / elevator input" alt="" coords="241,229,362,257"/>
+<area shape="rect" id="node16" href="$classRCMapper.html#abefe47a36d4b98833aca103937d46d9e" title="throttle &#45; return input channel number for throttle input" alt="" coords="234,281,368,309"/>
+<area shape="rect" id="node17" href="$classRCMapper.html#aa3928094f00c755938d9daa02596aad8" title="yaw &#45; return input channel number for yaw / rudder input" alt="" coords="243,333,360,361"/>
+<area shape="rect" id="node3" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="430,5,621,33"/>
+<area shape="rect" id="node6" href="$classAP__Param.html#a0d927132804c19fa222b1fcb871e7009" title=" " alt="" coords="456,61,595,89"/>
+<area shape="rect" id="node7" href="$classAP__Param.html#aa416fb587f072ed8d8039168d122ecb4" title=" " alt="" coords="465,165,586,193"/>
+<area shape="rect" id="node9" href="$classStorageAccess.html#abb169f592c849f2158a48615c8dee90a" title=" " alt="" coords="675,45,821,89"/>
+<area shape="rect" id="node13" href="$classAP__Param.html#a2e66d023b56a62888747cbfaaef729d9" title=" " alt="" coords="673,269,823,297"/>
+<area shape="rect" id="node8" href="$classStorageAccess.html#aa810ebbc83bfc0986aa6c13f76d08eaf" title=" " alt="" coords="677,113,819,141"/>
+<area shape="rect" id="node11" href="$classAP__Param.html#a292ed97cd29eb839a301d85690d125bd" title=" " alt="" coords="886,190,1026,218"/>
+<area shape="rect" id="node12" href="$classAP__Param.html#aa2a6f6980713f1055fbee50f67082296" title=" " alt="" coords="670,217,826,245"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title=" " alt="" coords="876,45,1036,89"/>
+</map>

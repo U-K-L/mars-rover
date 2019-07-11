@@ -1,0 +1,4 @@
+<map id="AC_PosControl::get_alt_target" name="AC_PosControl::get_alt_target">
+<area shape="rect" id="node1" title="get_alt_target &#45; get desired altitude (in cm above home) from loiter or wp controller which should be..." alt="" coords="184,5,323,49"/>
+<area shape="rect" id="node2" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller" alt="" coords="6,13,135,41"/>
+</map>

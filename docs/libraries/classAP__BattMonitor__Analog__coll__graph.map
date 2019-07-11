@@ -1,0 +1,10 @@
+<map id="AP_BattMonitor_Analog" name="AP_BattMonitor_Analog">
+<area shape="rect" id="node1" title=" " alt="" coords="92,321,255,349"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Backend.html" title=" " alt="" coords="213,211,387,239"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html" title=" " alt="" coords="377,321,492,349"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__Params.html" title=" " alt="" coords="439,110,607,138"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="532,7,684,35"/>
+<area shape="rect" id="node6" href="$structAP__BattMonitor_1_1BattMonitor__State.html" title=" " alt="" coords="222,102,412,146"/>
+<area shape="rect" id="node7" href="$structAP__BattMonitor_1_1cells.html" title=" " alt="" coords="243,7,391,35"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1AnalogSource.html" title=" " alt="" coords="5,211,168,239"/>
+</map>

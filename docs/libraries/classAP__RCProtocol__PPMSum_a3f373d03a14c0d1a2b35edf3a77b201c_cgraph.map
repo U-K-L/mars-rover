@@ -1,0 +1,7 @@
+<map id="AP_RCProtocol_PPMSum::process_pulse" name="AP_RCProtocol_PPMSum::process_pulse">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,184,67"/>
+<area shape="rect" id="node2" href="$classAP__RCProtocol__Backend.html#a07a0cb46703f289db379e832dad921a0" title=" " alt="" coords="233,23,407,67"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="456,5,502,33"/>
+<area shape="rect" id="node4" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="459,57,498,85"/>
+<area shape="rect" id="node5" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="550,57,741,85"/>
+</map>

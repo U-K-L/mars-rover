@@ -1,0 +1,23 @@
+<map id="Matrix3::to_euler312" name="Matrix3::to_euler312">
+<area shape="rect" id="node1" title=" " alt="" coords="1806,153,1949,181"/>
+<area shape="rect" id="node2" href="$classQuaternion.html#a963639e8deb83530a05c6a7d1b4c8ce9" title=" " alt="" coords="1585,125,1757,153"/>
+<area shape="rect" id="node16" href="$classSITL_1_1Gimbal.html#a54f32945de787791f9c234ec0976ee6d" title=" " alt="" coords="1597,181,1744,209"/>
+<area shape="rect" id="node3" href="$classNavEKF2__core.html#a287480377dbd133d4ac1c0bc9606a7f0" title=" " alt="" coords="1336,65,1536,93"/>
+<area shape="rect" id="node11" href="$classNavEKF3__core.html#a8804c6d0e9bfc1f0fee35bbb76bc7d90" title=" " alt="" coords="1336,125,1536,153"/>
+<area shape="rect" id="node4" href="$classNavEKF2__core.html#aa0f6cd840e93e0233f056c88ce45ef85" title=" " alt="" coords="1065,5,1287,33"/>
+<area shape="rect" id="node10" href="$classNavEKF2__core.html#aff31047fa71772bca7ce574617ede0f6" title=" " alt="" coords="1077,57,1275,101"/>
+<area shape="rect" id="node5" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title=" " alt="" coords="824,65,1016,93"/>
+<area shape="rect" id="node6" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title=" " alt="" coords="617,66,775,94"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title=" " alt="" coords="339,67,568,95"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="102,94,290,122"/>
+<area shape="rect" id="node9" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,94,53,122"/>
+<area shape="rect" id="node12" href="$classNavEKF3__core.html#a800d407d377e6532d563c68cc3c731d8" title=" " alt="" coords="1065,125,1287,153"/>
+<area shape="rect" id="node13" href="$classNavEKF3__core.html#a2a7fae9e0bf2ce6fc2f9b3918dc168d3" title=" " alt="" coords="824,123,1016,151"/>
+<area shape="rect" id="node14" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title=" " alt="" coords="617,121,775,149"/>
+<area shape="rect" id="node15" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title=" " alt="" coords="339,121,568,149"/>
+<area shape="rect" id="node17" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title=" " alt="" coords="1361,177,1511,221"/>
+<area shape="rect" id="node18" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title=" " alt="" coords="1101,177,1251,221"/>
+<area shape="rect" id="node19" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title=" " alt="" coords="845,177,995,221"/>
+<area shape="rect" id="node20" href="$classHALSITL_1_1Scheduler.html#a332cd2e17889c12f84b469eaf9f24fc8" title=" " alt="" coords="621,177,771,221"/>
+<area shape="rect" id="node21" href="$classHALSITL_1_1Scheduler.html#a8b298eda68e2de4c5c082f02dda3abd9" title=" " alt="" coords="382,177,525,221"/>
+</map>

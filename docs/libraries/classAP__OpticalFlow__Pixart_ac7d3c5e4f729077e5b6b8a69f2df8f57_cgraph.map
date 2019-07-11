@@ -1,0 +1,6 @@
+<map id="AP_OpticalFlow_Pixart::motion_burst" name="AP_OpticalFlow_Pixart::motion_burst">
+<area shape="rect" id="node1" title=" " alt="" coords="5,73,163,117"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#ad5839d4deb725e38ed568e8516ed43fe" title=" " alt="" coords="212,5,358,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDevice.html#a57f3011db8365847b675246cbd0ccc7f" title=" " alt="" coords="211,73,360,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="212,141,359,185"/>
+</map>

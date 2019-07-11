@@ -1,0 +1,8 @@
+<map id="GCS_MAVLINK::handle_vision_position_delta" name="GCS_MAVLINK::handle_vision_position_delta">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,168,81"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#a838cb6b095e282a91f90f8e39c9ef8e8" title=" " alt="" coords="259,17,373,45"/>
+<area shape="rect" id="node4" href="$classAP__VisualOdom.html#ab2ff3d0aeff412358c99fb0281fbad5f" title=" " alt="" coords="217,73,415,101"/>
+<area shape="rect" id="node3" href="$classAP__VisualOdom.html#a852f44cd09d9fed4e34fff47ac34202c" title=" " alt="" coords="481,5,626,49"/>
+<area shape="rect" id="node5" href="$classAP__VisualOdom.html#aa5ad5b7fda6008ca7278e97c43e84d46" title=" " alt="" coords="466,73,640,101"/>
+<area shape="rect" id="node6" href="$classAP__VisualOdom__Backend.html#ab1460aedaa2a246466a97ab309fdd86b" title=" " alt="" coords="464,125,642,169"/>
+</map>

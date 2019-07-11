@@ -1,0 +1,6 @@
+<map id="AC_PosControl::check_for_ekf_xy_reset" name="AC_PosControl::check_for_ekf_xy_reset">
+<area shape="rect" id="node1" title="check for ekf position reset and adjust loiter or brake target position" alt="" coords="6,39,162,83"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__View.html#a663e45e8c023eac92493b0f5d46dc982" title=" " alt="" coords="211,5,405,49"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#a0a3dc64da9e355dea10959cb41e6aa8b" title="shift position target target in x, y axis" alt="" coords="235,73,381,117"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a6675330f8813ab0c2feacc36e43aeae5" title=" " alt="" coords="454,5,644,49"/>
+</map>

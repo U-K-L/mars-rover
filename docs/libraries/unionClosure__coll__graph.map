@@ -1,0 +1,20 @@
+<map id="Closure" name="Closure">
+<area shape="rect" id="node1" title=" " alt="" coords="728,723,795,751"/>
+<area shape="rect" id="node2" href="$structCClosure.html" title=" " alt="" coords="74,629,149,657"/>
+<area shape="rect" id="node3" href="$structlua__TValue.html" title=" " alt="" coords="584,6,671,34"/>
+<area shape="rect" id="node5" href="$structUpVal.html" title=" " alt="" coords="665,237,721,265"/>
+<area shape="rect" id="node4" href="$structlua__State.html" title=" " alt="" coords="218,429,296,457"/>
+<area shape="rect" id="node7" href="$structglobal__State.html" title=" " alt="" coords="478,629,572,657"/>
+<area shape="rect" id="node11" href="$structNode.html" title=" " alt="" coords="797,237,849,265"/>
+<area shape="rect" id="node12" href="$unionTKey.html" title=" " alt="" coords="748,101,800,129"/>
+<area shape="rect" id="node10" href="$structTable.html" title=" " alt="" coords="563,429,615,457"/>
+<area shape="rect" id="node14" href="$structCallInfo.html" title=" " alt="" coords="175,629,240,657"/>
+<area shape="rect" id="node16" href="$structProto.html" title=" " alt="" coords="1149,629,1201,657"/>
+<area shape="rect" id="node15" href="$structLClosure.html" title=" " alt="" coords="1033,429,1108,457"/>
+<area shape="rect" id="node6" href="$structlua__longjmp.html" title=" " alt="" coords="211,237,303,265"/>
+<area shape="rect" id="node8" href="$structstringtable.html" title=" " alt="" coords="725,429,808,457"/>
+<area shape="rect" id="node9" href="$structTString.html" title=" " alt="" coords="1131,237,1195,265"/>
+<area shape="rect" id="node17" href="$structLocVar.html" title=" " alt="" coords="1131,429,1193,457"/>
+<area shape="rect" id="node18" href="$structUpvaldesc.html" title=" " alt="" coords="1309,429,1392,457"/>
+<area shape="rect" id="node13" href="$structGCObject.html" title=" " alt="" coords="511,237,589,265"/>
+</map>

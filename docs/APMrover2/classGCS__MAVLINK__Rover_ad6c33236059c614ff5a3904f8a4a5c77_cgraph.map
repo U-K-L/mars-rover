@@ -1,0 +1,5 @@
+<map id="GCS_MAVLINK_Rover::handle_rc_channels_override" name="GCS_MAVLINK_Rover::handle_rc_channels_override">
+<area shape="rect" id="node1" title=" " alt="" coords="6,27,202,71"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="277,5,387,33"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$structGCS__MAVLINK.html#a8f3d2fd6bb03efc6d955a7304d8d541a" title=" " alt="" coords="251,57,413,101"/>
+</map>

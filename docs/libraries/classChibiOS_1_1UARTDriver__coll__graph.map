@@ -1,0 +1,9 @@
+<map id="ChibiOS::UARTDriver" name="ChibiOS::UARTDriver">
+<area shape="rect" id="node1" title=" " alt="" coords="206,211,356,239"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="8,94,159,122"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="5,6,163,34"/>
+<area shape="rect" id="node4" href="$classByteBuffer.html" title=" " alt="" coords="184,94,267,122"/>
+<area shape="rect" id="node5" href="$classChibiOS_1_1Semaphore.html" title=" " alt="" coords="292,94,439,122"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html" title=" " alt="" coords="291,6,439,34"/>
+<area shape="rect" id="node7" href="$structChibiOS_1_1UARTDriver_1_1SerialDef.html" title=" " alt="" coords="462,86,612,130"/>
+</map>

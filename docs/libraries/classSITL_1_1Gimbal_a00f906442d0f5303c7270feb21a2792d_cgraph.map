@@ -1,0 +1,11 @@
+<map id="SITL::Gimbal::send_report" name="SITL::Gimbal::send_report">
+<area shape="rect" id="node1" title=" " alt="" coords="6,127,141,171"/>
+<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="225,5,335,33"/>
+<area shape="rect" id="node4" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="255,57,305,85"/>
+<area shape="rect" id="node5" href="$classSITL_1_1Gimbal.html#a716a5459aff6214ac4558549e18f5b54" title=" " alt="" coords="190,109,370,137"/>
+<area shape="rect" id="node6" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="230,161,330,189"/>
+<area shape="rect" id="node7" href="$classSITL_1_1Gimbal.html#ac3f827f9cec7c787e98b6300aac5deba" title=" " alt="" coords="193,213,367,241"/>
+<area shape="rect" id="node8" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="220,265,340,293"/>
+<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="424,5,512,33"/>
+<area shape="rect" id="node9" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="419,265,517,293"/>
+</map>

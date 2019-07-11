@@ -1,0 +1,11 @@
+<map id="AP_BoardConfig::get_sdcard_slowdown" name="AP_BoardConfig::get_sdcard_slowdown">
+<area shape="rect" id="node1" title=" " alt="" coords="864,73,1011,117"/>
+<area shape="rect" id="node2" href="$sdcard_8h.html#a147e40b0cb08c475b78f95e075c864c0" title=" " alt="" coords="730,81,816,109"/>
+<area shape="rect" id="node3" href="$sdcard_8h.html#a371c77bda8c1d5311661e439c44a123c" title=" " alt="" coords="587,81,682,109"/>
+<area shape="rect" id="node4" href="$classChibiOS_1_1Scheduler.html#a647c96ea634818117072ecd1cc6b73b3" title=" " alt="" coords="400,5,539,49"/>
+<area shape="rect" id="node6" href="$classChibiOS_1_1Storage.html#a20e5423b235396a62e2fa32d84d38339" title=" " alt="" coords="403,73,536,117"/>
+<area shape="rect" id="node7" href="$classChibiOS_1_1Storage.html#adf6fc2369946746d00bb2a7f86410258" title=" " alt="" coords="216,102,349,146"/>
+<area shape="rect" id="node5" href="$classChibiOS_1_1Scheduler.html#a241ba4fe05070acba40af09beb5d65fc" title=" " alt="" coords="213,5,352,49"/>
+<area shape="rect" id="node8" href="$classChibiOS_1_1Storage.html#ae76140ed51f4776b809d05006f84e515" title=" " alt="" coords="6,67,165,111"/>
+<area shape="rect" id="node9" href="$classChibiOS_1_1Storage.html#ac03700f2503573f43d8377fd2dd2c56f" title=" " alt="" coords="5,135,166,179"/>
+</map>

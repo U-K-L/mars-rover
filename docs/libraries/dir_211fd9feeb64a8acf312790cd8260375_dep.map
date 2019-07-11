@@ -1,0 +1,13 @@
+<map id="libraries/Filter/examples" name="libraries/Filter/examples">
+<area shape="rect" id="node2" href="dir_cc88768f2cc458abe159ae96b13aa942.html" title="Derivative" alt="" coords="405,64,485,112"/>
+<area shape="rect" id="node6" href="dir_1cbc10423b2512b31103883361e0123b.html" title="AP_HAL" alt="" coords="253,160,325,208"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000204_000061.html" title="1" alt="" coords="342,161,349,177"/>
+<area shape="rect" id="node3" href="dir_55cfcda18e091bc12809bea9d048df83.html" title="Filter" alt="" coords="309,64,381,112"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000205_000061.html" title="1" alt="" coords="316,141,323,157"/>
+<area shape="rect" id="node4" href="dir_e94facd91dc148f57dca24ffef2d8800.html" title="LowPassFilter" alt="" coords="181,64,285,112"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000206_000061.html" title="1" alt="" coords="270,132,277,148"/>
+<area shape="rect" id="node5" href="dir_c90d296ee2ef6f8df1f63d9b6d7f0574.html" title="LowPassFilter2p" alt="" coords="37,64,156,112"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000207_000061.html" title="1" alt="" coords="235,147,243,163"/>
+<area shape="rect" id="clust2" href="dir_211fd9feeb64a8acf312790cd8260375.html" alt="" coords="27,53,599,123"/>
+<area shape="rect" id="clust1" href="dir_a7fc19be35497a7ff9f517e98edaea32.html" title="Filter" alt="" coords="16,16,609,133"/>
+</map>

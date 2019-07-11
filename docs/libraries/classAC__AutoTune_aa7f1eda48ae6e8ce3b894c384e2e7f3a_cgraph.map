@@ -1,0 +1,16 @@
+<map id="AC_AutoTune::get_poshold_attitude" name="AC_AutoTune::get_poshold_attitude">
+<area shape="rect" id="node1" title=" " alt="" coords="6,117,191,161"/>
+<area shape="rect" id="node2" href="$classAC__AutoTune.html#a90b77f0d28b916581018e37d5b0258e7" title=" " alt="" coords="241,34,420,62"/>
+<area shape="rect" id="node6" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title=" " alt="" coords="263,86,399,130"/>
+<area shape="rect" id="node7" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="276,154,386,182"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="277,206,385,234"/>
+<area shape="rect" id="node3" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="501,5,574,33"/>
+<area shape="rect" id="node5" href="$classAP__InertialNav.html#a47e166a499a049c13c8beb0c6544434b" title=" " alt="" coords="469,57,605,101"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="654,5,824,33"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title=" " alt="" coords="480,206,595,234"/>
+<area shape="rect" id="node10" href="$namespaceAP.html#afceb236ff617aaaa2b08afacd72532b0" title=" " alt="" coords="679,179,798,207"/>
+<area shape="rect" id="node11" href="$classAP__InternalError.html#ab34174ba770b976b39a18c2b23e854f2" title=" " alt="" coords="661,231,817,259"/>
+<area shape="rect" id="node12" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="872,231,984,259"/>
+<area shape="rect" id="node13" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="1077,201,1134,229"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="1032,253,1179,297"/>
+</map>

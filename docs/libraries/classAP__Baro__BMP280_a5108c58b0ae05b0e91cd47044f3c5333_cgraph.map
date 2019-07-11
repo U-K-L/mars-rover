@@ -1,0 +1,12 @@
+<map id="AP_Baro_BMP280::_timer" name="AP_Baro_BMP280::_timer">
+<area shape="rect" id="node1" title=" " alt="" coords="6,115,184,143"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="249,5,404,49"/>
+<area shape="rect" id="node4" href="$classAP__Baro__BMP280.html#a56cdd94cac7969046faa606e8138f9cd" title=" " alt="" coords="232,73,421,117"/>
+<area shape="rect" id="node5" href="$classAP__Baro__BMP280.html#af3f52e8bb34f2a2dbc7a1b6ee4f328e0" title=" " alt="" coords="232,141,421,185"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#a81202d89062b62f93bf8d13fa30a86d0" title=" " alt="" coords="245,209,408,253"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="491,13,664,41"/>
+<area shape="rect" id="node6" href="$classAP__Baro__Backend.html#adf46bf795e1e13967264596cf4faadd7" title=" " alt="" coords="470,149,685,177"/>
+<area shape="rect" id="node7" href="$classAP__Baro.html#a0f2f5b99445cb04a204cbf48819d82c0" title=" " alt="" coords="733,111,867,155"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="768,179,832,207"/>
+<area shape="rect" id="node10" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="552,217,603,245"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="AP_AHRS_DCM::use_compass" name="AP_AHRS_DCM::use_compass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,216,215"/>
+<area shape="rect" id="node2" href="$classCompass.html#af5c3da7e49f681c1d7a0354b91eba7ba" title="return true if the compass should be used for yaw calculations" alt="" coords="277,5,438,33"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#ae20f3554e3d1dece3b1af1195ed5db81" title=" " alt="" coords="264,57,451,85"/>
+<area shape="rect" id="node4" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="510,83,578,111"/>
+<area shape="rect" id="node6" href="$classAP__GPS.html#ae7f097588dd863d4624f6fec1509e0e6" title=" " alt="" coords="274,161,441,189"/>
+<area shape="rect" id="node7" href="$main_8c.html#a9d87237c8a191a7bb92fc78770e62592" title=" " alt="" coords="333,213,382,241"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a4e136782e86e2adaaf7f0f759067dfe1" title=" " alt="" coords="307,265,408,293"/>
+<area shape="rect" id="node13" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="302,317,412,345"/>
+<area shape="rect" id="node14" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="303,369,412,397"/>
+<area shape="rect" id="node5" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="638,83,799,111"/>
+<area shape="rect" id="node8" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="514,213,574,241"/>
+<area shape="rect" id="node9" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="671,213,766,241"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title=" " alt="" coords="504,265,584,293"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title=" " alt="" coords="679,265,759,293"/>
+<area shape="rect" id="node15" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="500,369,588,397"/>
+</map>

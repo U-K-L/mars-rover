@@ -1,0 +1,10 @@
+<map id="Compass::_setup_earth_field" name="Compass::_setup_earth_field">
+<area shape="rect" id="node1" title=" " alt="" coords="939,73,1101,117"/>
+<area shape="rect" id="node2" href="$classAP__Compass__HIL.html#a54036d8a8354e8484db9f1ca33af9572" title=" " alt="" coords="730,5,886,49"/>
+<area shape="rect" id="node7" href="$classAP__Compass__SITL.html#aacc264a1f9b35187b6832313059af7df" title=" " alt="" coords="726,73,890,117"/>
+<area shape="rect" id="node8" href="$classCompass.html#a30a8fa22b1e7ee8eec8143732d40716d" title=" " alt="" coords="746,141,870,169"/>
+<area shape="rect" id="node3" href="$classAP__Compass__HIL.html#af9fccad707f6720c8e26de4d358938d7" title=" " alt="" coords="502,13,677,41"/>
+<area shape="rect" id="node4" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="259,13,453,41"/>
+<area shape="rect" id="node5" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="108,13,210,41"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,13,59,41"/>
+</map>

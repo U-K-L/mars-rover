@@ -1,0 +1,12 @@
+<map id="AP_OADijkstra::create_polygon_fence_with_margin" name="AP_OADijkstra::create_polygon_fence_with_margin">
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,200,239"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ad7eb5eb7d80cfbcb69839b497bff7a46" title=" " alt="" coords="295,5,374,33"/>
+<area shape="rect" id="node3" href="$classAC__Fence.html#a564e4d513a44df29b5bc6b0424aeedf8" title=" " alt="" coords="469,31,640,59"/>
+<area shape="rect" id="node4" href="$classAC__Fence.html#a0eefb89a0f2fb36d4786e20386d42d26" title="returns pointer to array of polygon points and num_points is filled in with the total number" alt="" coords="248,109,421,153"/>
+<area shape="rect" id="node5" href="$structVector2.html#a5b404e32377ce01e7ef2039151faaf08" title=" " alt="" coords="276,177,393,205"/>
+<area shape="rect" id="node6" href="$structVector2.html#ace2a626eaa79412e2946216e9c3e63c6" title=" " alt="" coords="269,229,401,257"/>
+<area shape="rect" id="node7" href="$structVector2.html#a671d712528ea3b2cc21fd4616eea8f98" title=" " alt="" coords="280,281,390,309"/>
+<area shape="rect" id="node8" href="$polygon_8cpp.html#a69c7755ab39f2ede645c4542b3aed07c" title=" " alt="" coords="275,333,395,361"/>
+<area shape="rect" id="node10" href="$classAC__Fence.html#aaefeeba0ed30754455ca3c242d1de732" title="return system time of last update to the boundary (allows external detection of boundary changes)" alt="" coords="248,385,421,429"/>
+<area shape="rect" id="node9" href="$polygon_8cpp.html#a296ad0a1a7b2ee7ce09a49163781d7d7" title=" " alt="" coords="489,333,620,361"/>
+</map>

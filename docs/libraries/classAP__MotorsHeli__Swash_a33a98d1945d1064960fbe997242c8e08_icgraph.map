@@ -1,0 +1,15 @@
+<map id="AP_MotorsHeli_Swash::get_swash_type" name="AP_MotorsHeli_Swash::get_swash_type">
+<area shape="rect" id="node1" title=" " alt="" coords="208,379,366,423"/>
+<area shape="rect" id="node2" href="$classAP__MotorsHeli__Dual.html#a4380bb41aaac0afd7326a3c8f192e212" title=" " alt="" coords="10,5,155,49"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Single.html#a94c15e632150a22191e234e951a8e9cb" title=" " alt="" coords="5,73,160,117"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli__Dual.html#af9f3d3cb5c7d59106219ad51e02df7a9" title=" " alt="" coords="10,141,155,185"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli__Single.html#a018454351a5f35b808c933e3cab29a04" title=" " alt="" coords="5,209,160,253"/>
+<area shape="rect" id="node6" href="$classAP__MotorsHeli__Single.html#a7be196cb13761dc47480224bc1b51115" title=" " alt="" coords="5,277,160,321"/>
+<area shape="rect" id="node7" href="$classAP__MotorsHeli__Dual.html#a79cf1328b1d8a2be75b8a3440e9a5800" title=" " alt="" coords="10,345,155,389"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli__Single.html#abe1905fd5d97f5ef2fb16410766bbc90" title=" " alt="" coords="5,413,160,457"/>
+<area shape="rect" id="node9" href="$classAP__MotorsHeli__Dual.html#a406dcfd65f5929be7cd53e1597b07784" title=" " alt="" coords="10,481,155,525"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli__Dual.html#a5853566dac21ec39ddfdcf0898c09723" title=" " alt="" coords="10,549,155,593"/>
+<area shape="rect" id="node11" href="$classAP__MotorsHeli__Single.html#a3a46691da820ffb3555bcf207127d372" title=" " alt="" coords="5,617,160,661"/>
+<area shape="rect" id="node12" href="$classAP__MotorsHeli__Single.html#a54ccb51f6ac963c50ba729ec458c356d" title=" " alt="" coords="5,685,160,729"/>
+<area shape="rect" id="node13" href="$classAP__MotorsHeli__Dual.html#aa02b6d52fbd392d8e50c6feb79fef768" title=" " alt="" coords="10,753,155,797"/>
+</map>

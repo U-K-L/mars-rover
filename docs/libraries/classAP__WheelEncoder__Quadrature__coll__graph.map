@@ -1,0 +1,9 @@
+<map id="AP_WheelEncoder_Quadrature" name="AP_WheelEncoder_Quadrature">
+<area shape="rect" id="node1" title=" " alt="" coords="670,225,878,253"/>
+<area shape="rect" id="node2" href="$classAP__WheelEncoder__Backend.html" title=" " alt="" coords="488,123,681,151"/>
+<area shape="rect" id="node3" href="$classAP__WheelEncoder.html" title=" " alt="" coords="326,225,460,253"/>
+<area shape="rect" id="node4" href="$structAP__WheelEncoder_1_1WheelEncoder__State.html" title=" " alt="" coords="44,6,272,50"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="60,123,212,151"/>
+<area shape="rect" id="node6" href="$classVector3.html" title=" " alt="" coords="349,123,464,151"/>
+<area shape="rect" id="node7" href="$structAP__WheelEncoder__Quadrature_1_1IrqState.html" title=" " alt="" coords="706,115,914,159"/>
+</map>

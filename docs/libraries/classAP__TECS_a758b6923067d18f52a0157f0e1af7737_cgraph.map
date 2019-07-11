@@ -1,0 +1,11 @@
+<map id="AP_TECS::_update_throttle_without_airspeed" name="AP_TECS::_update_throttle_without_airspeed">
+<area shape="rect" id="node1" title=" " alt="" coords="6,35,192,79"/>
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a8a1988bb283c488c86b329be18271fbf" title=" " alt="" coords="241,5,402,49"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="267,73,375,101"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title=" " alt="" coords="451,73,565,101"/>
+<area shape="rect" id="node5" href="$namespaceAP.html#afceb236ff617aaaa2b08afacd72532b0" title=" " alt="" coords="633,46,751,74"/>
+<area shape="rect" id="node6" href="$classAP__InternalError.html#ab34174ba770b976b39a18c2b23e854f2" title=" " alt="" coords="614,98,770,126"/>
+<area shape="rect" id="node7" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="819,98,931,126"/>
+<area shape="rect" id="node8" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="1023,67,1081,95"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="978,119,1126,163"/>
+</map>

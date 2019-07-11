@@ -1,0 +1,9 @@
+<map id="ChibiOS::SoftSigReader::attach_capture_timer" name="ChibiOS::SoftSigReader::attach_capture_timer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,171,101"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#a14c1d65e9a151cbb7fc3f5ce8a17e420" title=" " alt="" coords="219,5,397,33"/>
+<area shape="rect" id="node6" href="$classChibiOS_1_1SoftSigReader.html#a18b71a4584c7925ed5343263368f3bf8" title=" " alt="" coords="225,57,391,101"/>
+<area shape="rect" id="node7" href="$stm32__util_8c.html#a7d2fc28458ff9b5ee658718a0a50959f" title=" " alt="" coords="230,125,386,169"/>
+<area shape="rect" id="node3" href="$malloc_8c.html#a62b7798461bd461da64c5f9d35feddf7" title=" " alt="" coords="446,5,501,33"/>
+<area shape="rect" id="node4" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="550,5,610,33"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="659,5,754,33"/>
+</map>

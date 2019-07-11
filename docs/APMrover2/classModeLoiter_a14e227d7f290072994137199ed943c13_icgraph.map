@@ -1,0 +1,5 @@
+<map id="ModeLoiter::get_desired_location" name="ModeLoiter::get_desired_location">
+<area shape="rect" id="node1" title=" " alt="" coords="437,5,603,49"/>
+<area shape="rect" id="node2" href="$classModeAuto.html#a8fc8f1c6b4602a7cbb8218a4beba1d1d" title=" " alt="" coords="6,5,165,49"/>
+<area shape="rect" id="node3" href="$classModeGuided.html#a0808f689fd58bb4ef73c306fa2f8d273" title=" " alt="" coords="214,34,389,78"/>
+</map>

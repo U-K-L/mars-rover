@@ -1,0 +1,8 @@
+<map id="AP_MotorsHeli::reset_swash_servo" name="AP_MotorsHeli::reset_swash_servo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,152,71"/>
+<area shape="rect" id="node2" href="$classSRV__Channels.html#adba039e2df3bb2c744f8b8590581827f" title=" " alt="" coords="201,5,380,33"/>
+<area shape="rect" id="node4" href="$classSRV__Channels.html#aa2626631db73931bb32210314aed1c65" title=" " alt="" coords="200,57,382,101"/>
+<area shape="rect" id="node3" href="$classSRV__Channel.html#a04f5baeec785c9f696798fa4a6c7d6ce" title=" " alt="" coords="447,5,619,33"/>
+<area shape="rect" id="node5" href="$classSRV__Channel.html#ab99bb118995cf764cba10744af7ebeb9" title=" " alt="" coords="431,61,635,89"/>
+<area shape="rect" id="node6" href="$classSRV__Channel.html#a268845f19faa97236e44c73464a262ca" title=" " alt="" coords="429,113,637,141"/>
+</map>

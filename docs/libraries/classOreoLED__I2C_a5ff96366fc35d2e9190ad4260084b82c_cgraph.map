@@ -1,0 +1,14 @@
+<map id="OreoLED_I2C::init" name="OreoLED_I2C::init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,81,135,109"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a8153774ecb8d07a14cb0eeac74ce6211" title=" " alt="" coords="184,5,378,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDevice.html#a5d6a208d57d47068884af3a4fb90f1a2" title=" " alt="" coords="194,73,369,117"/>
+<area shape="rect" id="node4" href="$classOreoLED__I2C.html#acb6d0aa835de3eef02e99968a20266cc" title=" " alt="" coords="205,141,358,185"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="457,70,567,98"/>
+<area shape="rect" id="node7" href="$classOreoLED__I2C.html#ab4295ff6dfda88c7306b6b715806bbb8" title=" " alt="" coords="427,174,597,202"/>
+<area shape="rect" id="node11" href="$classOreoLED__I2C.html#a07a97b8c1351bc5c8b0a18935e110d0b" title=" " alt="" coords="661,226,837,254"/>
+<area shape="rect" id="node8" href="$classOreoLED__I2C.html#a29faed383f01f67c17ca7a2c62c4163a" title=" " alt="" coords="646,166,853,194"/>
+<area shape="rect" id="node6" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="705,70,794,98"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#a081c1465451027e9f23def7904ea7c20" title=" " alt="" coords="903,218,1049,262"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="902,150,1050,194"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title=" " alt="" coords="903,286,1049,330"/>
+</map>

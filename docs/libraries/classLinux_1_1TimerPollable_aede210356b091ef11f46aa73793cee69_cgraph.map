@@ -1,0 +1,12 @@
+<map id="Linux::TimerPollable::setup_timer" name="Linux::TimerPollable::setup_timer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,147,124"/>
+<area shape="rect" id="node2" href="$classLinux_1_1TimerPollable.html#ab4fdb7c8fdea2b648bbcd11a8efb787f" title=" " alt="" coords="195,49,336,93"/>
+<area shape="rect" id="node3" href="$posix_8c.html#a8877deace0c63591fee0cc9c94d249d3" title="POSIX Close a file with fileno handel." alt="" coords="239,117,292,145"/>
+<area shape="rect" id="node4" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="568,117,688,145"/>
+<area shape="rect" id="node5" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="736,65,789,93"/>
+<area shape="rect" id="node6" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="400,65,504,93"/>
+<area shape="rect" id="node8" href="$posix_8c.html#a9d5502ebc4eba38ea5ef6ca4ba71bc02" title="Free POSIX fileno FILE descriptor. NOT POSIX." alt="" coords="385,169,519,197"/>
+<area shape="rect" id="node10" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="400,221,504,249"/>
+<area shape="rect" id="node7" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="602,65,654,93"/>
+<area shape="rect" id="node9" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="606,221,650,249"/>
+</map>

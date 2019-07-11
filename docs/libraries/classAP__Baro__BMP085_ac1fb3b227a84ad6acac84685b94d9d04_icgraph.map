@@ -1,0 +1,9 @@
+<map id="AP_Baro_BMP085::_cmd_read_pressure" name="AP_Baro_BMP085::_cmd_read_pressure">
+<area shape="rect" id="node1" title=" " alt="" coords="1115,5,1288,49"/>
+<area shape="rect" id="node2" href="$classAP__Baro__BMP085.html#aaa475de8a84bd818e577ae7f3c1e2d29" title=" " alt="" coords="888,13,1066,41"/>
+<area shape="rect" id="node3" href="$classAP__Baro__BMP085.html#a6af0febe3d222fc0092346475e516c68" title=" " alt="" coords="675,13,840,41"/>
+<area shape="rect" id="node4" href="$classAP__Baro__BMP085.html#a69c38a5c48eee9438899195eb66cbaaf" title=" " alt="" coords="451,13,626,41"/>
+<area shape="rect" id="node5" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="106,13,206,41"/>
+<area shape="rect" id="node7" href="$classAP__Baro.html#a4bfd06fe28cf3a7bc6df55bc159c8dff" title=" " alt="" coords="254,34,402,78"/>
+<area shape="rect" id="node6" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,13,59,41"/>
+</map>

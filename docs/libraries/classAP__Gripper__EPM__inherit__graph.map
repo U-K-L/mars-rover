@@ -1,0 +1,4 @@
+<map id="AP_Gripper_EPM" name="AP_Gripper_EPM">
+<area shape="rect" id="node1" title="Class to manage the EPM_CargoGripper." alt="" coords="16,83,143,111"/>
+<area shape="rect" id="node2" href="$classAP__Gripper__Backend.html" title=" " alt="" coords="5,6,155,34"/>
+</map>

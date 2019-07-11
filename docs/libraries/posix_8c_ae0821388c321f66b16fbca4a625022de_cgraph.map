@@ -1,0 +1,4 @@
+<map id="fileno_to_stream" name="fileno_to_stream">
+<area shape="rect" id="node1" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="5,5,125,33"/>
+<area shape="rect" id="node2" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="173,5,227,33"/>
+</map>

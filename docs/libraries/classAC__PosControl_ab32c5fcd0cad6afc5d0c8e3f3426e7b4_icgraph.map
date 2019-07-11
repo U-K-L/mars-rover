@@ -1,0 +1,6 @@
+<map id="AC_PosControl::set_leash_length_xy" name="AC_PosControl::set_leash_length_xy">
+<area shape="rect" id="node1" title="set the horizontal leash length" alt="" coords="395,35,533,79"/>
+<area shape="rect" id="node2" href="$classAC__Loiter.html#a5a2f3d8bb29a6cf03ea900e24dae2b75" title=" " alt="" coords="184,5,347,49"/>
+<area shape="rect" id="node4" href="$classAC__Loiter.html#a223b900f1c94d4b24b1a8941f52d79ca" title="initialize&#39;s position and feed&#45;forward velocity from current pos and velocity" alt="" coords="192,73,339,101"/>
+<area shape="rect" id="node3" href="$classAC__Loiter.html#ad73abbc1c7fcefbb9d18bac3b1fe4444" title="run the loiter controller" alt="" coords="6,13,135,41"/>
+</map>

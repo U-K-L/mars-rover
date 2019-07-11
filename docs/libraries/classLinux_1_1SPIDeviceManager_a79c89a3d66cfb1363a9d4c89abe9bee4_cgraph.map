@@ -1,0 +1,10 @@
+<map id="Linux::SPIDeviceManager::get_device" name="Linux::SPIDeviceManager::get_device">
+<area shape="rect" id="node1" title=" " alt="" coords="6,49,181,93"/>
+<area shape="rect" id="node2" href="$classLinux_1_1SPIDeviceManager.html#a6d5b34fab783f464c4b1db44f7a11e49" title=" " alt="" coords="230,49,405,93"/>
+<area shape="rect" id="node3" href="$classLinux_1_1SPIBus.html#a347b2eef05c77bc33f7e94923b8facd7" title=" " alt="" coords="454,57,596,85"/>
+<area shape="rect" id="node4" href="$stdio_8h.html#a37c1e8ce8a2b411fa666dc33972a2cec" title=" " alt="" coords="669,5,734,33"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="645,57,757,85"/>
+<area shape="rect" id="node8" href="$posix_8c.html#add46ab98f32b76457852dbb872842bf2" title="POSIX strerror() &#45; convert POSIX errno to text with user message." alt="" coords="669,109,733,137"/>
+<area shape="rect" id="node6" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="850,27,907,55"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="805,79,952,123"/>
+</map>

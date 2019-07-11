@@ -1,0 +1,8 @@
+<map id="AP_MotorsUGV::add_omni_motor_num" name="AP_MotorsUGV::add_omni_motor_num">
+<area shape="rect" id="node1" title=" " alt="" coords="5,141,187,185"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#acab9e1aba9fcbde6e598169af5b3181f" title=" " alt="" coords="235,5,415,49"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#a97577ca02c12e3b851cd5d563d32b640" title=" " alt="" coords="242,73,409,117"/>
+<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#aa8ce392569ac9b773e5edd27bd3c6650" title=" " alt="" coords="255,141,396,185"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="304,209,346,237"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classGCS.html#a9866f3484283db744409e40719cef765" title=" " alt="" coords="268,261,383,289"/>
+</map>

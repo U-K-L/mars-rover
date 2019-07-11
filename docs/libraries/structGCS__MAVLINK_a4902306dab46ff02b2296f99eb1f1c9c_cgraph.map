@@ -1,0 +1,15 @@
+<map id="GCS_MAVLINK::send_message" name="GCS_MAVLINK::send_message">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,219,153"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a557b471724d4f126458757e0c4f54e78" title=" " alt="" coords="266,57,467,101"/>
+<area shape="rect" id="node12" href="$structGCS__MAVLINK.html#a829fb3ed239c473047e2fa3cd58306c5" title=" " alt="" coords="268,125,466,153"/>
+<area shape="rect" id="node13" href="$classBitmask.html#a6d942e61abc55c452b001b11dadf8a18" title=" " alt="" coords="320,177,414,205"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="543,5,652,33"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#acaf8e34bd827814a1b8ccf8907fcfb36" title=" " alt="" coords="515,57,680,101"/>
+<area shape="rect" id="node9" href="$structGCS__MAVLINK.html#af5cc5372dac2a9433762f913e6b077de" title=" " alt="" coords="515,125,680,169"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="757,5,846,33"/>
+<area shape="rect" id="node6" href="$classStorageAccess.html#aa810ebbc83bfc0986aa6c13f76d08eaf" title=" " alt="" coords="730,125,872,153"/>
+<area shape="rect" id="node7" href="$classStorageAccess.html#abb169f592c849f2158a48615c8dee90a" title=" " alt="" coords="729,57,874,101"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title=" " alt="" coords="924,57,1084,101"/>
+<area shape="rect" id="node10" href="$classStorageAccess.html#a926243785eeb37f394e3abb352715186" title=" " alt="" coords="728,177,875,221"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Storage.html#a9de79ab93ea4374bd3d1583e28620d2e" title=" " alt="" coords="923,177,1085,221"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="AP_HAL::I2CDevice::register_periodic_callback" name="AP_HAL::I2CDevice::register_periodic_callback">
+<area shape="rect" id="node1" title=" " alt="" coords="971,581,1146,625"/>
+<area shape="rect" id="node2" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a1771b238615845f371cd4536e3bbe680" title=" " alt="" coords="721,333,922,377"/>
+<area shape="rect" id="node7" href="$classNCP5623.html#a764df98f02679bdac817b8f1b39f383d" title=" " alt="" coords="757,57,885,85"/>
+<area shape="rect" id="node8" href="$classPCA9685LED__I2C.html#a57962bfb6ef98b45a61b3854312995e3" title=" " alt="" coords="731,109,912,137"/>
+<area shape="rect" id="node9" href="$classToshibaLED__I2C.html#a2a0b0dbdd212e2723be9845ecb737bd6" title=" " alt="" coords="736,161,906,189"/>
+<area shape="rect" id="node10" href="$classAP__ADC__ADS1115.html#ab9dda3a5715a514b78effc0164e6a1c9" title=" " alt="" coords="741,213,902,241"/>
+<area shape="rect" id="node12" href="$classAP__Baro__ICM20789.html#a238e5cd7bf2ef592564e04b114521724" title=" " alt="" coords="737,5,905,33"/>
+<area shape="rect" id="node16" href="$classAP__RangeFinder__VL53L0X.html#a9bfdf8ae014422adc21f93b7d4218a04" title=" " alt="" coords="728,469,914,513"/>
+<area shape="rect" id="node18" href="$classAP__RangeFinder__LightWareI2C.html#a4ecab260116f4b01a5e0853b3830736a" title=" " alt="" coords="726,829,917,873"/>
+<area shape="rect" id="node20" href="$classAP__RangeFinder__TeraRangerI2C.html#a5b992ef1c6ca7b3915a54a78683e78d7" title=" " alt="" coords="721,897,922,941"/>
+<area shape="rect" id="node22" href="$classOreoLED__I2C.html#a5ff96366fc35d2e9190ad4260084b82c" title=" " alt="" coords="757,537,886,565"/>
+<area shape="rect" id="node23" href="$classAP__Airspeed__DLVR.html#a7451f9b9d7518c9bbaab6f5ebdac279c" title=" " alt="" coords="739,589,904,617"/>
+<area shape="rect" id="node24" href="$classAP__Airspeed__MS4525.html#aac959768d4e8ad20d05dce4f9d809d22" title=" " alt="" coords="743,641,899,685"/>
+<area shape="rect" id="node25" href="$classAP__Airspeed__SDP3X.html#a45479a37f6438a121d886eb874ea1278" title=" " alt="" coords="734,709,909,737"/>
+<area shape="rect" id="node26" href="$classAP__Airspeed__MS5525.html#a9e5ee7103712f80d10c650076827870d" title=" " alt="" coords="743,761,899,805"/>
+<area shape="rect" id="node27" href="$classAP__RangeFinder__PulsedLightLRF.html#a1fe58514ce7282108e5aea8800c2451d" title=" " alt="" coords="721,1033,922,1077"/>
+<area shape="rect" id="node29" href="$classAP__RangeFinder__Benewake__TFMiniPlus.html#ad47ddc2d559ad96f7652dfee49e45ecd" title=" " alt="" coords="725,265,918,309"/>
+<area shape="rect" id="node31" href="$classAP__BattMonitor__SMBus.html#a195dc4f09ed250e4a01ea73f75091d51" title=" " alt="" coords="739,965,904,1009"/>
+<area shape="rect" id="node32" href="$classAP__RangeFinder__VL53L1X.html#aa3a2666e05e882690b533dd99c975024" title=" " alt="" coords="728,401,914,445"/>
+<area shape="rect" id="node34" href="$classAP__AK8963__BusDriver__HALDevice.html#a52ab1b05d640b7add9b6e657544ee920" title=" " alt="" coords="741,1101,901,1161"/>
+<area shape="rect" id="node35" href="$classAP__AK09916__BusDriver__HALDevice.html#a0fd6bdeddfc7fbe11e46ea16734f95dd" title=" " alt="" coords="738,1185,905,1245"/>
+<area shape="rect" id="node36" href="$classAP__InertialSensor__L3G4200D.html#a5ddc32421474ee6f544abca47a91ae02" title=" " alt="" coords="726,1269,917,1313"/>
+<area shape="rect" id="node3" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a593ef1c1af2d9a8834bc14e58e6e4c3d" title=" " alt="" coords="470,333,671,377"/>
+<area shape="rect" id="node4" href="$classRangeFinder.html#a2d16a636e444ce916e524d1e2623d1d3" title=" " alt="" coords="278,469,420,513"/>
+<area shape="rect" id="node5" href="$classRangeFinder.html#ad3e3b3a548b8da70aedd97c4be3a5b6d" title=" " alt="" coords="107,477,229,505"/>
+<area shape="rect" id="node6" href="$RFIND__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,477,59,505"/>
+<area shape="rect" id="node11" href="$classAnalogIn__ADS1115.html#a4dbe06d5858fbcacea9da4341dd65444" title=" " alt="" coords="490,213,651,241"/>
+<area shape="rect" id="node13" href="$classAP__Baro__ICM20789.html#a2e0e725561f9b022d67f24f025433395" title=" " alt="" coords="478,5,663,33"/>
+<area shape="rect" id="node14" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="300,5,399,33"/>
+<area shape="rect" id="node15" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="141,5,195,33"/>
+<area shape="rect" id="node17" href="$classAP__RangeFinder__VL53L0X.html#aee87f0704b1531571f9d645f7a3a7dac" title=" " alt="" coords="478,469,664,513"/>
+<area shape="rect" id="node19" href="$classAP__RangeFinder__LightWareI2C.html#ac030c8c3031fdcaa07b9bdc4339eebcf" title=" " alt="" coords="475,582,666,626"/>
+<area shape="rect" id="node21" href="$classAP__RangeFinder__TeraRangerI2C.html#ad28f77c84fedf832d83fc1c2e8b58f34" title=" " alt="" coords="470,739,671,783"/>
+<area shape="rect" id="node28" href="$classAP__RangeFinder__PulsedLightLRF.html#a2aeacfda0df6a03af187c5cf1d45ffe6" title=" " alt="" coords="470,987,671,1031"/>
+<area shape="rect" id="node30" href="$classAP__RangeFinder__Benewake__TFMiniPlus.html#a6e225501502559c73fde741cfcc5b14d" title=" " alt="" coords="474,265,667,309"/>
+<area shape="rect" id="node33" href="$classAP__RangeFinder__VL53L1X.html#a5b63daf9926d05b8249e0a4b87e3b1b3" title=" " alt="" coords="478,401,664,445"/>
+</map>

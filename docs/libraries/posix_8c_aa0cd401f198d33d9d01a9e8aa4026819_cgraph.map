@@ -1,0 +1,10 @@
+<map id="rewind" name="rewind">
+<area shape="rect" id="node1" title="POSIX rewind file to the beginning." alt="" coords="6,47,66,75"/>
+<area shape="rect" id="node2" href="$posix_8c.html#a5e25775bd8597f839a28125b616bd241" title="POSIX seek to file possition." alt="" coords="115,47,168,75"/>
+<area shape="rect" id="node3" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="637,98,691,126"/>
+<area shape="rect" id="node4" href="$posix_8c.html#af4a94d1a050fafb23798dd6bcdac74f0" title="POSIX seek to file position." alt="" coords="216,125,269,153"/>
+<area shape="rect" id="node5" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="317,98,422,126"/>
+<area shape="rect" id="node6" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="503,46,556,74"/>
+<area shape="rect" id="node7" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="469,150,589,178"/>
+<area shape="rect" id="node8" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="318,254,421,282"/>
+</map>

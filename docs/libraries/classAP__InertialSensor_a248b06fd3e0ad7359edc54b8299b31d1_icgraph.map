@@ -1,0 +1,11 @@
+<map id="AP_InertialSensor::get_gyro_health" name="AP_InertialSensor::get_gyro_health">
+<area shape="rect" id="node1" title=" " alt="" coords="616,75,752,119"/>
+<area shape="rect" id="node2" href="$INS__generic_8cpp.html#a176571c2fafdc1ba62438a006aa33f23" title=" " alt="" coords="419,5,488,33"/>
+<area shape="rect" id="node4" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title=" " alt="" coords="339,57,568,85"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title=" " alt="" coords="339,109,568,137"/>
+<area shape="rect" id="node8" href="$classAP__Logger.html#a518c90e49178bd9d23bb80ac96c4c77a" title=" " alt="" coords="374,161,532,205"/>
+<area shape="rect" id="node3" href="$INS__generic_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title=" " alt="" coords="173,5,219,33"/>
+<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="102,83,290,111"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,83,53,111"/>
+<area shape="rect" id="node9" href="$classAP__Logger.html#a91b34c89ab9e6d9ab6a35626adb0ff70" title=" " alt="" coords="117,169,275,197"/>
+</map>

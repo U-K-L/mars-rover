@@ -1,0 +1,33 @@
+<map id="Rover::gcs_failsafe_check" name="Rover::gcs_failsafe_check">
+<area shape="rect" id="node1" title=" " alt="" coords="6,406,141,450"/>
+<area shape="rect" id="node2" href="$classRover.html#acda484bf8853dc17d7956fd4db568650" title=" " alt="" coords="189,453,341,481"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="435,362,485,390"/>
+<area shape="rect" id="node4" href="$classRover.html#aa49315d8344d41618e6b6abfc459e89c" title=" " alt="" coords="641,177,727,205"/>
+<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classGCS.html#a9866f3484283db744409e40719cef765" title=" " alt="" coords="626,765,742,793"/>
+<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channels.html#a3dd4b82ba0b130b51ab4db4829975378" title=" " alt="" coords="390,570,530,614"/>
+<area shape="rect" id="node7" href="$classRover.html#afcdd0e7bf49c770f3bab460482df5134" title=" " alt="" coords="399,466,521,494"/>
+<area shape="rect" id="node8" href="$classMode.html#a3e5c3a5a842021ff17e70b0a65461af3" title=" " alt="" coords="638,229,730,257"/>
+<area shape="rect" id="node19" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="642,281,726,309"/>
+<area shape="rect" id="node20" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Logger.html#a5f47086952bb5e841d979491e6dd562f" title=" " alt="" coords="602,333,766,361"/>
+<area shape="rect" id="node21" href="$classMode.html#ac0d6e9936093df1f64ae3722405f6384" title=" " alt="" coords="849,385,997,413"/>
+<area shape="rect" id="node22" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAC__Fence.html#a32ddec2d811a21b723c83fca515a2004" title=" " alt="" coords="587,489,781,533"/>
+<area shape="rect" id="node23" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Camera.html#af06fd226c451a1a96a10c5194dfcc2b6" title=" " alt="" coords="579,557,789,585"/>
+<area shape="rect" id="node24" href="$classMode.html#acc347b62c670471bde37a38b28d53601" title=" " alt="" coords="643,609,725,637"/>
+<area shape="rect" id="node26" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Logger.html#a4682ceac8976f087de3b0704b34d208b" title=" " alt="" coords="600,661,768,689"/>
+<area shape="rect" id="node27" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classGCS.html#a49e7272eb586b48b04d970d13ef3d95f" title=" " alt="" coords="610,713,758,741"/>
+<area shape="rect" id="node28" href="$classRover.html#af39c095722ccd8c5dd3ccb187852f02d" title=" " alt="" coords="616,437,752,465"/>
+<area shape="rect" id="node9" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="846,5,1000,49"/>
+<area shape="rect" id="node10" href="$classRover.html#af202d295a4f603e08d3c8cadce0bc98d" title=" " alt="" coords="844,73,1001,101"/>
+<area shape="rect" id="node13" href="$classMode.html#ae5a240ec7efe2623eb88c68beda58a99" title=" " alt="" coords="841,125,1004,153"/>
+<area shape="rect" id="node14" href="$classMode.html#a877262e51b58f132cb52c5977bf13c51" title=" " alt="" coords="842,177,1004,205"/>
+<area shape="rect" id="node15" href="$classMode.html#a6594030a202f6ec5918b427b8a5717e4" title=" " alt="" coords="873,229,973,257"/>
+<area shape="rect" id="node16" href="$classMode.html#a1733ae28c2e308db5fca2dd79f477ddb" title=" " alt="" coords="853,281,992,309"/>
+<area shape="rect" id="node18" href="$classSailboat.html#a8541aa08ff963b7802bcc2792ee0887d" title=" " alt="" coords="854,333,992,361"/>
+<area shape="rect" id="node11" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#a5b4f593794f7c47d8b13ded289291a85" title=" " alt="" coords="1057,47,1252,75"/>
+<area shape="rect" id="node12" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title=" " alt="" coords="1079,99,1230,127"/>
+<area shape="rect" id="node17" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__WPNav.html#a6f090d47863c1715392b91197397e1e8" title=" " alt="" coords="1066,281,1243,309"/>
+<area shape="rect" id="node25" href="$classMode.html#a469e59fc883ef9744f57377209a4036c" title=" " alt="" coords="878,609,968,637"/>
+<area shape="rect" id="node29" href="$classMode.html#aaf3fe35de08bf5fb5922462877b3a6e0" title=" " alt="" coords="838,437,1008,465"/>
+<area shape="rect" id="node30" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Notify.html#a6933d62a710817a9f6ae4ba03634eae9" title=" " alt="" coords="852,489,993,533"/>
+<area shape="rect" id="node31" href="$classMode.html#a52eef3a6d70dcea8ca666a2dce4f35d5" title=" " alt="" coords="871,557,974,585"/>
+</map>

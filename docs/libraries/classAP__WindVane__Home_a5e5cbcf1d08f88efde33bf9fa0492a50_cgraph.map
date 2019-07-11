@@ -1,0 +1,13 @@
+<map id="AP_WindVane_Home::update_direction" name="AP_WindVane_Home::update_direction">
+<area shape="rect" id="node1" title=" " alt="" coords="6,101,204,145"/>
+<area shape="rect" id="node2" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="326,5,365,33"/>
+<area shape="rect" id="node4" href="$classRC__Channels.html#a305bdcb535ed4055e86125c65bc6ba0c" title=" " alt="" coords="266,57,425,85"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title=" " alt="" coords="546,109,616,137"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="313,161,378,189"/>
+<area shape="rect" id="node8" href="$classAP__WindVane__Backend.html#aac7b73c8d9f55a93eea4292ea2005171" title=" " alt="" coords="253,213,437,257"/>
+<area shape="rect" id="node3" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="486,5,677,33"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title=" " alt="" coords="725,109,803,137"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="540,161,623,189"/>
+<area shape="rect" id="node10" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title=" " alt="" coords="516,213,646,257"/>
+<area shape="rect" id="node11" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="509,281,654,309"/>
+</map>

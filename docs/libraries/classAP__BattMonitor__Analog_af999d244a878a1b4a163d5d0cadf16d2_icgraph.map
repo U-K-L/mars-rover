@@ -1,0 +1,5 @@
+<map id="AP_BattMonitor_Analog::has_current" name="AP_BattMonitor_Analog::has_current">
+<area shape="rect" id="node1" title="returns true if battery monitor provides current info" alt="" coords="222,39,386,83"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Analog.html#a777e31694e0436363ec7ddae69bdb679" title="returns true if battery monitor provides consumed energy info" alt="" coords="6,5,173,49"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__Analog.html#ad25bd84c3aebc99e11a62a3caf26576b" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="8,73,171,117"/>
+</map>

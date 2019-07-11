@@ -1,0 +1,8 @@
+<map id="libraries/AP_HAL/system.h" name="libraries/AP_HAL/system.h">
+<area shape="rect" id="node1" title=" " alt="" coords="59,6,239,34"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,161,69,189"/>
+<area shape="rect" id="node3" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries." alt="" coords="52,83,247,111"/>
+<area shape="rect" id="node5" href="$AP__HAL__Macros_8h.html" title=" " alt="" coords="271,83,405,111"/>
+<area shape="rect" id="node4" title=" " alt="" coords="118,161,180,189"/>
+<area shape="rect" id="node6" href="$AP__HAL__Boards_8h.html" title=" " alt="" coords="245,161,432,189"/>
+</map>

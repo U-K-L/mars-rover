@@ -1,0 +1,23 @@
+<map id="AC_Fence::check_destination_within_fence" name="AC_Fence::check_destination_within_fence">
+<area shape="rect" id="node1" title=" " alt="" coords="6,273,205,317"/>
+<area shape="rect" id="node2" href="$classAC__Fence.html#a1c191248ef154bb17da4795498b2fc03" title="get_enabled_fences &#45; returns bitmask of enabled fences" alt="" coords="253,93,419,137"/>
+<area shape="rect" id="node3" href="$classLocation.html#a0b8a5317ad6b631a7a82c52b258fec1f" title="get altitude in desired frame" alt="" coords="264,161,408,189"/>
+<area shape="rect" id="node9" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="514,242,587,270"/>
+<area shape="rect" id="node12" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="476,294,626,322"/>
+<area shape="rect" id="node13" href="$classLocation.html#a9e973101205763fabc1c9e65ec3ae41d" title=" " alt="" coords="259,383,413,411"/>
+<area shape="rect" id="node18" href="$classLocation.html#abb7c08d16b0da0de7ac8929f3503cac3" title=" " alt="" coords="265,213,407,257"/>
+<area shape="rect" id="node19" href="$classAC__PolyFence__loader.html#ab892e291bfb2d345fbff450aa7cc2ca5" title=" " alt="" coords="259,447,413,491"/>
+<area shape="rect" id="node4" href="$classLocation.html#ab43fd82a0442d101e6e2554e43e606b9" title=" " alt="" coords="484,190,618,218"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="495,34,607,62"/>
+<area shape="rect" id="node8" href="$classLocation.html#a9553b50f057b38e4b622dbf5daa981dc" title=" " alt="" coords="470,86,631,114"/>
+<area shape="rect" id="node11" href="$classAP__AHRS.html#a4ffe6b0b13f7f4106740105101fed115" title=" " alt="" coords="467,138,634,166"/>
+<area shape="rect" id="node6" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="739,5,797,33"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="694,57,842,101"/>
+<area shape="rect" id="node10" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="683,242,853,270"/>
+<area shape="rect" id="node14" href="$classLocation.html#aa23d345c5562140fb21682f9cc0cc247" title=" " alt="" coords="484,398,617,442"/>
+<area shape="rect" id="node16" href="$AP__Math_8h.html#a45fe9f81332c93a04d1fdbcf0bc89c29" title=" " alt="" coords="525,346,577,374"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="743,406,793,434"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="749,346,787,374"/>
+<area shape="rect" id="node20" href="$polygon_8cpp.html#a69c7755ab39f2ede645c4542b3aed07c" title=" " alt="" coords="491,466,611,494"/>
+<area shape="rect" id="node21" href="$polygon_8cpp.html#a296ad0a1a7b2ee7ce09a49163781d7d7" title=" " alt="" coords="702,466,834,494"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DiscoLED::hw_set_rgb" name="DiscoLED::hw_set_rgb">
+<area shape="rect" id="node1" title=" " alt="" coords="6,47,162,75"/>
+<area shape="rect" id="node2" href="$classLinux_1_1PWM__Sysfs__Base.html#a498c10f6b0197ec9ac2f8e5e40dbdb4b" title=" " alt="" coords="210,5,382,49"/>
+<area shape="rect" id="node3" href="$classLinux_1_1Led__Sysfs.html#a0df51a6c28e641a0e9c34eceebebbe76" title=" " alt="" coords="222,73,370,117"/>
+</map>

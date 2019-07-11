@@ -1,0 +1,17 @@
+<map id="AP_InertialSensor_SITL::gyro_drift" name="AP_InertialSensor_SITL::gyro_drift">
+<area shape="rect" id="node1" title=" " alt="" coords="1774,73,1938,117"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__SITL.html#a884efe3040d8e915376390a36d778398" title=" " alt="" coords="1560,73,1725,117"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__SITL.html#acb53ee7c91782608c30ff3e1c5af13e6" title=" " alt="" coords="1347,73,1512,117"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__SITL.html#ac44870551356848abea08bc23b2a3015" title=" " alt="" coords="1134,73,1298,117"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__SITL.html#abc6d58b49a9c2dc04f884f46d948e8ed" title=" " alt="" coords="920,73,1085,117"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#a8967734e82a4f472c6d8ddd8db656804" title=" " alt="" coords="736,73,872,117"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#a9949b7e301b0d7a5f3e59385d2e8d97a" title=" " alt="" coords="537,5,673,49"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor.html#ad649def5689aecaebca16cf910d77fd8" title=" " alt="" coords="537,73,673,117"/>
+<area shape="rect" id="node13" href="$classAP__Compass__AK8963.html#a0e8c9e0c82de409e0225fc81ed4ed6db" title=" " alt="" coords="523,141,688,185"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title=" " alt="" coords="301,15,454,43"/>
+<area shape="rect" id="node9" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,118,59,146"/>
+<area shape="rect" id="node10" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title=" " alt="" coords="108,15,231,43"/>
+<area shape="rect" id="node11" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="5,15,59,43"/>
+<area shape="rect" id="node14" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="281,147,474,175"/>
+<area shape="rect" id="node15" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="118,143,220,171"/>
+</map>

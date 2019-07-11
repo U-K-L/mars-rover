@@ -1,0 +1,10 @@
+<map id="AP_Invensense_AuxiliaryBusSlave::_set_passthrough" name="AP_Invensense_AuxiliaryBusSlave::_set_passthrough">
+<area shape="rect" id="node1" title=" " alt="" coords="6,65,202,109"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Invensense.html#a06dbf9b0eab84d31dbba20ed8acd5d3e" title=" " alt="" coords="251,5,456,49"/>
+<area shape="rect" id="node3" href="$classAuxiliaryBus.html#a7d513f164a0edd7971f187e79ba931b2" title=" " alt="" coords="264,73,443,101"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__Invensense.html#ab650abe4789bb0eef9a4c34812e5603e" title=" " alt="" coords="251,125,456,169"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title=" " alt="" coords="505,125,661,169"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title=" " alt="" coords="723,94,869,138"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="709,162,883,190"/>
+<area shape="rect" id="node7" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="931,102,981,130"/>
+</map>

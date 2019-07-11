@@ -1,0 +1,7 @@
+<map id="GCS_MAVLINK::handle_mission_clear_all" name="GCS_MAVLINK::handle_mission_clear_all">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,168,93"/>
+<area shape="rect" id="node2" href="$GCS__Common_8cpp.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="311,5,353,33"/>
+<area shape="rect" id="node4" href="$classGCS.html#aed6a0f9e19a4077461d2eafee723e8b0" title=" " alt="" coords="225,57,439,85"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a7c0c74e4cc6b27ce2dd6caa0f7cd8a3e" title=" " alt="" coords="216,109,448,137"/>
+<area shape="rect" id="node3" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="497,5,634,33"/>
+</map>

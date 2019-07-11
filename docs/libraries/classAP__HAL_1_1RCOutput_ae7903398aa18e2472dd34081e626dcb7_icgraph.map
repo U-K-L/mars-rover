@@ -1,0 +1,28 @@
+<map id="AP_HAL::RCOutput::set_freq" name="AP_HAL::RCOutput::set_freq">
+<area shape="rect" id="node1" title=" " alt="" coords="819,513,1013,541"/>
+<area shape="rect" id="node2" href="$examples_2RCOutput2_2RCOutput_8cpp.html#a8e79a9cf7365493ca210e2da151a8839" title=" " alt="" coords="647,65,697,93"/>
+<area shape="rect" id="node5" href="$classRCOutputRGBLed.html#a404002f4a7b7bfc3b5062fc0930ea22d" title=" " alt="" coords="594,257,750,301"/>
+<area shape="rect" id="node7" href="$classAP__Motors.html#a3d84a895c644d34e7fe78d7301ccf534" title=" " alt="" coords="591,423,753,451"/>
+<area shape="rect" id="node19" href="$classAP__IOMCU__FW.html#a1a711e065227a9bee8bee196b61b6124" title=" " alt="" coords="574,513,770,541"/>
+<area shape="rect" id="node22" href="$classAP__IOMCU__FW.html#a8f3c970237284e3faf453ed78c7aeaed" title=" " alt="" coords="594,565,750,609"/>
+<area shape="rect" id="node23" href="$classSRV__Channels.html#addf30e258552ee7761e0a0d45b613017" title=" " alt="" coords="594,633,750,677"/>
+<area shape="rect" id="node26" href="$classRC__UART.html#a224db5129a0131061b659e7873532d4f" title=" " alt="" coords="611,701,733,729"/>
+<area shape="rect" id="node3" href="$classMenu__Commands.html#a816be5305b658bb7ec972c1990fa9576" title=" " alt="" coords="322,5,521,33"/>
+<area shape="rect" id="node4" href="$classMenu__Commands.html#a197e4e276f4ed9110f934210ab9a2aec" title=" " alt="" coords="336,57,507,101"/>
+<area shape="rect" id="node6" href="$classRCOutputRGBLedOff.html#a6572290758ce733896987f2c256a7fa5" title=" " alt="" coords="343,125,500,169"/>
+<area shape="rect" id="node8" href="$classAP__MotorsMatrix.html#a1249a38e99dc59f13e7305ba94319f76" title=" " alt="" coords="347,193,496,237"/>
+<area shape="rect" id="node12" href="$classAP__MotorsTri.html#a8ed8dcfaa80acd0f3a2f1341bd5a5a8f" title=" " alt="" coords="318,261,524,289"/>
+<area shape="rect" id="node14" href="$classAP__MotorsHeli__Quad.html#a13a5d8ff0ad2b869711c8bbac440067d" title=" " alt="" coords="346,313,496,357"/>
+<area shape="rect" id="node15" href="$classAP__MotorsSingle.html#a369660804b9993572860955615b55ea7" title=" " alt="" coords="347,381,496,425"/>
+<area shape="rect" id="node16" href="$classAP__MotorsCoax.html#a4c9604f1f24f8b65890ea29d392f6ba5" title=" " alt="" coords="350,449,493,493"/>
+<area shape="rect" id="node17" href="$classAP__MotorsHeli__Single.html#a54ccb51f6ac963c50ba729ec458c356d" title=" " alt="" coords="344,517,499,561"/>
+<area shape="rect" id="node18" href="$classAP__MotorsHeli__Dual.html#aa02b6d52fbd392d8e50c6feb79fef768" title=" " alt="" coords="349,585,494,629"/>
+<area shape="rect" id="node9" href="$classAP__MotorsMatrix.html#a74999b8c2bdb8a6c9a139e4d4a742679" title=" " alt="" coords="114,115,262,143"/>
+<area shape="rect" id="node11" href="$classAP__MotorsMatrix.html#ad608ef0a8298cd204251d4374a2699c4" title=" " alt="" coords="107,167,269,211"/>
+<area shape="rect" id="node10" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,175,59,203"/>
+<area shape="rect" id="node13" href="$classAP__MotorsTri.html#adacd9f3694be635672054ce1accf0f1c" title=" " alt="" coords="125,287,251,315"/>
+<area shape="rect" id="node20" href="$classAP__IOMCU__FW.html#aa6e97452785d6ade70465f15a87978f4" title=" " alt="" coords="338,653,505,681"/>
+<area shape="rect" id="node21" href="$iofirmware_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="165,653,211,681"/>
+<area shape="rect" id="node24" href="$classAP__MotorsTailsitter.html#a765e7a3e8418c35116d55303c8b33841" title=" " alt="" coords="353,705,489,749"/>
+<area shape="rect" id="node25" href="$classAP__MotorsTailsitter.html#af6880d9390932408918bd151a090f7cb" title="Constructor." alt="" coords="116,705,260,749"/>
+</map>

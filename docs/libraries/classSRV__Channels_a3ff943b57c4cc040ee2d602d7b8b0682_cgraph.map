@@ -1,0 +1,5 @@
+<map id="SRV_Channels::setup_failsafe_trim_all_non_motors" name="SRV_Channels::setup_failsafe_trim_all_non_motors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,19,157,79"/>
+<area shape="rect" id="node2" href="$classSRV__Channel.html#a20a2ee9dab8a0aa6db2bc85f2961ae4a" title=" " alt="" coords="206,5,370,33"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1RCOutput.html#abdfe5bfe23f5f9287677a708a2a7788f" title=" " alt="" coords="206,57,370,101"/>
+</map>

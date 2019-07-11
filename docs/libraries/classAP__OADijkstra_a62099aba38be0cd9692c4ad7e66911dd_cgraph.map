@@ -1,0 +1,6 @@
+<map id="AP_OADijkstra::check_polygon_fence_updated" name="AP_OADijkstra::check_polygon_fence_updated">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,176,93"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ad7eb5eb7d80cfbcb69839b497bff7a46" title=" " alt="" coords="271,5,350,33"/>
+<area shape="rect" id="node3" href="$classAC__Fence.html#a564e4d513a44df29b5bc6b0424aeedf8" title=" " alt="" coords="445,31,616,59"/>
+<area shape="rect" id="node4" href="$classAC__Fence.html#aaefeeba0ed30754455ca3c242d1de732" title="return system time of last update to the boundary (allows external detection of boundary changes)" alt="" coords="224,109,397,153"/>
+</map>

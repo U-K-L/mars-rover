@@ -1,0 +1,4 @@
+<map id="AC_WPNav::get_wp_destination" name="AC_WPNav::get_wp_destination">
+<area shape="rect" id="node1" title="get_wp_destination waypoint using position vector (distance from ekf origin in cm)" alt="" coords="270,5,485,33"/>
+<area shape="rect" id="node2" href="$classAC__WPNav.html#a101eb281000cd1393947c1b8792446b6" title=" " alt="" coords="6,5,221,33"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AC_Fence::handle_msg" name="AC_Fence::handle_msg">
+<area shape="rect" id="node1" title="handler for polygon fence messages with GCS" alt="" coords="427,13,592,41"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#afe1ee2ae1b71e301868876d261b42a3c" title=" " alt="" coords="216,5,379,49"/>
+<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,5,168,49"/>
+</map>

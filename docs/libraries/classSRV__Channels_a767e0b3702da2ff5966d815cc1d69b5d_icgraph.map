@@ -1,0 +1,6 @@
+<map id="SRV_Channels::move_servo" name="SRV_Channels::move_servo">
+<area shape="rect" id="node1" title=" " alt="" coords="443,35,595,79"/>
+<area shape="rect" id="node2" href="$classAP__Mount__Servo.html#aa03d61822081680668287a8519d658fd" title="move_servo &#45; moves servo with the given id to the specified angle. all angles are in degrees * 10" alt="" coords="229,5,395,49"/>
+<area shape="rect" id="node4" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity" alt="" coords="241,73,383,101"/>
+<area shape="rect" id="node3" href="$classAP__Mount__Servo.html#a4e46d4c891b157986810f9fba8eb69c6" title=" " alt="" coords="6,13,180,41"/>
+</map>

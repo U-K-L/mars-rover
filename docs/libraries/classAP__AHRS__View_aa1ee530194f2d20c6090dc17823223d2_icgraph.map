@@ -1,0 +1,19 @@
+<map id="AP_AHRS_View::get_gyro" name="AP_AHRS_View::get_gyro">
+<area shape="rect" id="node1" title=" " alt="" coords="869,630,1048,658"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#a7b9cf8568575052931b43054717b4f87" title=" " alt="" coords="664,291,800,351"/>
+<area shape="rect" id="node4" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="199,371,351,415"/>
+<area shape="rect" id="node14" href="$classAC__AutoTune.html#a7ccfcee7d7984b48fc4027c804d1a76e" title=" " alt="" coords="650,579,814,623"/>
+<area shape="rect" id="node15" href="$classAC__AttitudeControl__Heli.html#a3265956995cc26998ae6e816e37d974f" title=" " alt="" coords="659,647,805,723"/>
+<area shape="rect" id="node16" href="$classAC__AttitudeControl__Heli.html#a3741c5f0deabfef2c6889171b5c4a217" title=" " alt="" coords="428,692,580,752"/>
+<area shape="rect" id="node17" href="$classAC__AttitudeControl.html#ad5f06ff5ba37d9af1afdb1ab18827a06" title=" " alt="" coords="643,799,821,843"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl.html#a2115e6e5df7db5798f73423d5d2a5149" title=" " alt="" coords="430,443,578,503"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl.html#af0e7aef643e29d1f1af2a9cd1945d426" title=" " alt="" coords="414,39,594,99"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl.html#aa111691a6822ceea4c70c434ee6d38e7" title=" " alt="" coords="436,207,572,267"/>
+<area shape="rect" id="node10" href="$classAC__AttitudeControl.html#a49cd1e5d7c1a3550080c9ccca6ce8da8" title=" " alt="" coords="429,291,579,351"/>
+<area shape="rect" id="node11" href="$classAC__AttitudeControl.html#aa534dbef87d61ff598744ffa60782bbc" title=" " alt="" coords="436,375,572,419"/>
+<area shape="rect" id="node12" href="$classAC__AttitudeControl.html#a2ca277e7c4a5ac2980814673aae2d037" title=" " alt="" coords="436,123,572,183"/>
+<area shape="rect" id="node5" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,183,136,211"/>
+<area shape="rect" id="node7" href="$classAC__AttitudeControl__Heli.html#a96317d64d32a0d29202c4f443bd06076" title=" " alt="" coords="184,39,365,99"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl__Heli.html#a8720532877383f5bc054862f88e64dfe" title=" " alt="" coords="192,207,357,267"/>
+<area shape="rect" id="node13" href="$classAC__AttitudeControl__Heli.html#aa78e07c940c43aa150caf3c52cf76809" title=" " alt="" coords="206,123,343,183"/>
+</map>

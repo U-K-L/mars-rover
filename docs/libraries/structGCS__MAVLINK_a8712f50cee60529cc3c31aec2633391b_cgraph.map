@@ -1,0 +1,26 @@
+<map id="GCS_MAVLINK::send_text" name="GCS_MAVLINK::send_text">
+<area shape="rect" id="node1" title=" " alt="" coords="6,202,186,230"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a9f865aa584f4a3bae9946a80367d658e" title=" " alt="" coords="234,202,422,230"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Util.html#ac57ef0a9815cd597ad5cab5d6c31c6c8" title=" " alt="" coords="470,150,626,178"/>
+<area shape="rect" id="node11" href="$GCS__Common_8cpp.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="527,202,569,230"/>
+<area shape="rect" id="node13" href="$classGCS.html#a313e604179053ea42415b1c9289f13cd" title=" " alt="" coords="472,426,624,454"/>
+<area shape="rect" id="node4" href="$print__vprintf_8cpp.html#a98e0d5bb436a207f576379beaa786040" title=" " alt="" coords="724,98,815,126"/>
+<area shape="rect" id="node10" href="$classBufferPrinter.html#a4eb1dfae7fe1012905c34af6683401b2" title=" " alt="" coords="704,150,835,178"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="915,5,1074,49"/>
+<area shape="rect" id="node6" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title=" " alt="" coords="949,73,1040,101"/>
+<area shape="rect" id="node8" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title=" " alt="" coords="948,125,1041,153"/>
+<area shape="rect" id="node9" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title=" " alt="" coords="950,177,1040,205"/>
+<area shape="rect" id="node7" href="$lstrlib_8c.html#a9605f4d16ae762782f8be8b54aef0a22" title=" " alt="" coords="1148,125,1194,153"/>
+<area shape="rect" id="node12" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="701,202,838,230"/>
+<area shape="rect" id="node14" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="682,254,857,282"/>
+<area shape="rect" id="node15" href="$classAP__Logger.html#ab72f6a6fdb1a23d793e37725f68b98c2" title=" " alt="" coords="675,306,863,334"/>
+<area shape="rect" id="node16" href="$classAP__Frsky__Telem.html#aef21b9f33af863589feda48a23877380" title=" " alt="" coords="686,358,853,402"/>
+<area shape="rect" id="node18" href="$classAP__Notify.html#a0264facb8d3b5c35a7cff0171acdabd0" title=" " alt="" coords="686,426,853,454"/>
+<area shape="rect" id="node19" href="$classAP__Notify.html#a0f38b9b4be211e200675dd048c81f500" title=" " alt="" coords="696,478,842,506"/>
+<area shape="rect" id="node22" href="$structGCS__MAVLINK.html#acad5b4ab40c7b7486392f07193ce4190" title=" " alt="" coords="691,530,848,574"/>
+<area shape="rect" id="node23" href="$structGCS__MAVLINK.html#af948c4a65f98679941885e2c7cc12ac5" title=" " alt="" coords="679,598,860,642"/>
+<area shape="rect" id="node24" href="$classGCS.html#a824e538eff6cbf7c9074840600fbf6ff" title=" " alt="" coords="687,666,852,694"/>
+<area shape="rect" id="node17" href="$classObjectArray.html#aec1630ad862991767b30ae80a71a26ea" title=" " alt="" coords="912,366,1077,394"/>
+<area shape="rect" id="node20" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="940,478,1049,506"/>
+<area shape="rect" id="node21" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="1126,478,1215,506"/>
+</map>

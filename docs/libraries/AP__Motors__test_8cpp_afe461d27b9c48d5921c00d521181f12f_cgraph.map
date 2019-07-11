@@ -1,0 +1,85 @@
+<map id="loop" name="loop">
+<area shape="rect" id="node1" title=" " alt="" coords="6,278,53,306"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1BetterStream.html#a8534aa004599bb81ad60f3e762791032" title=" " alt="" coords="326,239,485,283"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1BetterStream.html#afb6a4e5c487187fe31387e834b784213" title=" " alt="" coords="102,179,261,223"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="332,146,479,190"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1BetterStream.html#a65082ecb994170fc6d2a7ff2bcc301a7" title=" " alt="" coords="102,299,261,343"/>
+<area shape="rect" id="node13" href="$AP__Motors__test_8cpp.html#a57a49546fb6c5b2c9b423caa333e82b1" title=" " alt="" coords="120,367,243,395"/>
+<area shape="rect" id="node31" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="134,686,229,714"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#aa730be451d385d7ba03ee9677e6d91a2" title=" " alt="" coords="574,187,733,231"/>
+<area shape="rect" id="node4" href="$print__vprintf_8cpp.html#a98e0d5bb436a207f576379beaa786040" title=" " alt="" coords="869,118,960,146"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="1098,110,1257,154"/>
+<area shape="rect" id="node6" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title=" " alt="" coords="1132,58,1223,86"/>
+<area shape="rect" id="node8" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title=" " alt="" coords="1131,178,1224,206"/>
+<area shape="rect" id="node9" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title=" " alt="" coords="1132,6,1222,34"/>
+<area shape="rect" id="node7" href="$lstrlib_8c.html#a9605f4d16ae762782f8be8b54aef0a22" title=" " alt="" coords="1410,58,1456,86"/>
+<area shape="rect" id="node14" href="$classAP__Motors.html#a67a133570ae075a874c6522b23c5261b" title=" " alt="" coords="1111,453,1244,481"/>
+<area shape="rect" id="node15" href="$classAP__MotorsMatrix.html#ade65c39bf87d5cb1583a60ea5872ec85" title=" " alt="" coords="321,359,489,403"/>
+<area shape="rect" id="node16" href="$classAP__Motors.html#aaa7607c19a1ce444330aee972dd925ef" title=" " alt="" coords="583,367,724,395"/>
+<area shape="rect" id="node17" href="$classSRV__Channels.html#acab9e1aba9fcbde6e598169af5b3181f" title=" " alt="" coords="825,359,1005,403"/>
+<area shape="rect" id="node18" href="$classSRV__Channels.html#a6ec155ae75e3d22a0de00e21e5b330a9" title=" " alt="" coords="806,255,1023,283"/>
+<area shape="rect" id="node19" href="$classSRV__Channels.html#a378e0022237c196e6107c9e79f340285" title=" " alt="" coords="1094,359,1261,403"/>
+<area shape="rect" id="node21" href="$classSRV__Channel.html#ac3aad9644438d9f8250effcb21858ef3" title=" " alt="" coords="1072,230,1283,258"/>
+<area shape="rect" id="node22" href="$classSRV__Channel.html#ac9074968b671d4de259ecd24a27fc8cd" title="map a function to a servo channel and output it" alt="" coords="1092,282,1263,310"/>
+<area shape="rect" id="node20" href="$classBitmask.html#a0be34bb49dbf06972c4a16c0b12cd846" title=" " alt="" coords="1386,498,1481,526"/>
+<area shape="rect" id="node23" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="1414,222,1453,250"/>
+<area shape="rect" id="node25" href="$classRC__Channels.html#a305bdcb535ed4055e86125c65bc6ba0c" title=" " alt="" coords="1354,274,1513,302"/>
+<area shape="rect" id="node26" href="$classSRV__Channels.html#a454f9457263a9359f80228890569b894" title=" " alt="" coords="1337,326,1530,370"/>
+<area shape="rect" id="node27" href="$classRC__Channel.html#a903c74361c5318f0af90b66ca83a79b3" title=" " alt="" coords="1338,394,1528,422"/>
+<area shape="rect" id="node28" href="$classRC__Channel.html#a35dd43d363695269b38277306426f883" title=" " alt="" coords="1344,446,1523,474"/>
+<area shape="rect" id="node29" href="$classRC__Channel.html#a920880dabca273739028f585f017d7b9" title=" " alt="" coords="1335,118,1532,146"/>
+<area shape="rect" id="node30" href="$classAP__HAL_1_1RCOutput.html#ade771f122696035c1e831ccc63a33893" title=" " alt="" coords="1346,170,1521,198"/>
+<area shape="rect" id="node24" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="1584,222,1776,250"/>
+<area shape="rect" id="node32" href="$classSRV__Channels.html#a650fab39dbed7c6ce33747c34e66a208" title=" " alt="" coords="310,926,501,954"/>
+<area shape="rect" id="node33" href="$classAP__Motors.html#a45f727989d07e54b640ad76d908a6941" title=" " alt="" coords="321,1030,490,1058"/>
+<area shape="rect" id="node34" href="$classSRV__Channels.html#ad4306fcdcf8ba30daa7c0bf62072ca2a" title="Should be called after the the servo functions have been initialized." alt="" coords="325,806,485,850"/>
+<area shape="rect" id="node43" href="$classAP__Motors.html#a6d8205956720e8f6afb1d2c403f66b64" title=" " alt="" coords="336,530,474,558"/>
+<area shape="rect" id="node44" href="$classAP__Motors.html#a81b4dce8b2b85b5e7042f7ccb6744afc" title=" " alt="" coords="331,582,479,610"/>
+<area shape="rect" id="node45" href="$classAP__Motors.html#aeffa3aa472e13049df93f68ea7c2994b" title=" " alt="" coords="334,634,477,662"/>
+<area shape="rect" id="node46" href="$classAP__Motors.html#a56d079ad89f5a4d2cacf014c8958a527" title=" " alt="" coords="325,686,486,714"/>
+<area shape="rect" id="node47" href="$classAP__Motors.html#af87a4e7d9e1713db3d4b8c16f9b3a797" title=" " alt="" coords="324,738,487,782"/>
+<area shape="rect" id="node48" href="$AP__Motors__test_8cpp.html#a1f08b35b02317dc83a8acfc5e1861364" title=" " alt="" coords="350,978,460,1006"/>
+<area shape="rect" id="node83" href="$classAP__HAL_1_1RCOutput.html#a636fcf1b8ebc6b591a15fbc917f83f4f" title=" " alt="" coords="319,874,492,902"/>
+<area shape="rect" id="node35" href="$classAP__HAL_1_1RCOutput.html#a2318a007e93f70762ba8c09b05329104" title=" " alt="" coords="571,837,736,881"/>
+<area shape="rect" id="node36" href="$classSRV__Channels.html#a2bce803f8a1de705be47d8cf7a46584c" title="setup the output range types of all functions" alt="" coords="573,605,734,649"/>
+<area shape="rect" id="node42" href="$classAP__HAL_1_1RCOutput.html#a0fc4c7ada47c531c6efda29c92257002" title=" " alt="" coords="549,785,757,813"/>
+<area shape="rect" id="node37" href="$classBitmask.html#ab753bfb6058f8a60e523c949802f3823" title=" " alt="" coords="855,582,974,610"/>
+<area shape="rect" id="node38" href="$classSRV__Channel.html#aadaab2dbeb62aa6f7b42eb39bf4f2430" title=" " alt="" coords="827,634,1002,678"/>
+<area shape="rect" id="node41" href="$classBitmask.html#a6d942e61abc55c452b001b11dadf8a18" title=" " alt="" coords="868,530,962,558"/>
+<area shape="rect" id="node39" href="$classSRV__Channel.html#a04f5baeec785c9f696798fa4a6c7d6ce" title=" " alt="" coords="1091,623,1263,651"/>
+<area shape="rect" id="node40" href="$classSRV__Channel.html#aaf3193d70a486747bfbc9c6398cff261" title=" " alt="" coords="1092,571,1263,599"/>
+<area shape="rect" id="node49" href="$classAP__MotorsMulticopter.html#ae711bfb73844f124fb762c39cd01e060" title=" " alt="" coords="577,1090,730,1134"/>
+<area shape="rect" id="node50" href="$classAP__MotorsMulticopter.html#af61b42846811c6656d4695afd8896b1e" title=" " alt="" coords="838,719,991,763"/>
+<area shape="rect" id="node54" href="$classAP__MotorsMulticopter.html#af907aef170efec7b52312b8440986f95" title=" " alt="" coords="836,883,993,943"/>
+<area shape="rect" id="node67" href="$classAP__MotorsMulticopter.html#a5f8d52cbd1cd93c53f81767a3ad3d3bf" title=" " alt="" coords="838,1265,991,1309"/>
+<area shape="rect" id="node78" href="$classAP__Motors.html#a617a5bb4ec5549a934f0ece9200872a7" title=" " alt="" coords="826,1123,1003,1167"/>
+<area shape="rect" id="node79" href="$classAP__MotorsMulticopter.html#abea2f7f648045f53f31eab0fc26a3ad8" title=" " alt="" coords="838,1191,991,1235"/>
+<area shape="rect" id="node80" href="$classAP__MotorsMulticopter.html#a6e3827ec17473d440fb74a551110c714" title=" " alt="" coords="838,1333,991,1377"/>
+<area shape="rect" id="node81" href="$classAP__MotorsMulticopter.html#aa257b38145c98531f69e438af3158489" title=" " alt="" coords="838,1055,992,1099"/>
+<area shape="rect" id="node51" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="1105,779,1250,807"/>
+<area shape="rect" id="node52" href="$classLowPassFilter.html#a34bc75aa770bc6cc0facee3b43a05bec" title=" " alt="" coords="1368,983,1499,1011"/>
+<area shape="rect" id="node53" href="$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title=" " alt="" coords="1106,727,1248,755"/>
+<area shape="rect" id="node55" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="1390,1121,1477,1149"/>
+<area shape="rect" id="node57" href="$classAP__BattMonitor.html#a961c49d6b7d257a6025de2426deb2484" title=" " alt="" coords="1095,831,1260,875"/>
+<area shape="rect" id="node59" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="1655,899,1705,927"/>
+<area shape="rect" id="node60" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="1379,1173,1487,1201"/>
+<area shape="rect" id="node56" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="1610,1109,1750,1153"/>
+<area shape="rect" id="node58" href="$classAP__BattMonitor__Backend.html#af9eec1915087283406a427bb9d3a963c" title=" " alt="" coords="1345,831,1522,875"/>
+<area shape="rect" id="node61" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title=" " alt="" coords="1623,1177,1737,1205"/>
+<area shape="rect" id="node62" href="$namespaceAP.html#afceb236ff617aaaa2b08afacd72532b0" title=" " alt="" coords="1843,1150,1962,1178"/>
+<area shape="rect" id="node63" href="$classAP__InternalError.html#ab34174ba770b976b39a18c2b23e854f2" title=" " alt="" coords="1825,1202,1981,1230"/>
+<area shape="rect" id="node64" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="2029,1202,2141,1230"/>
+<area shape="rect" id="node65" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="2234,1171,2291,1199"/>
+<area shape="rect" id="node66" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="2189,1223,2336,1267"/>
+<area shape="rect" id="node68" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="1410,1609,1456,1637"/>
+<area shape="rect" id="node69" href="$classAP__Motors.html#a7ba8503cfea374e85ff327dbe892f786" title=" " alt="" coords="1097,1173,1258,1201"/>
+<area shape="rect" id="node70" href="$classAP__MotorsMulticopter.html#a19f40d1fe87f44055e2ee89b9470d11c" title=" " alt="" coords="1097,1327,1257,1387"/>
+<area shape="rect" id="node74" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="1401,1557,1465,1585"/>
+<area shape="rect" id="node71" href="$classAP__BattMonitor.html#a686b822215badd97a701bf3d391e95c0" title="has_current &#45; returns true if battery monitor instance provides current info" alt="" coords="1362,1489,1505,1533"/>
+<area shape="rect" id="node73" href="$classAP__BattMonitor.html#a2e32e89d09935d78b7ab8b50b4b81174" title=" " alt="" coords="1363,1421,1504,1465"/>
+<area shape="rect" id="node75" href="$classAP__BattMonitor.html#a280ff28558f03d85c6090321287bdd77" title="current_amps &#45; returns the instantaneous current draw in amperes" alt="" coords="1332,1225,1535,1253"/>
+<area shape="rect" id="node76" href="$classAP__BattMonitor.html#a03394a700753687bbb87632743cc2bb3" title="voltage &#45; returns battery voltage in millivolts" alt="" coords="1351,1277,1516,1305"/>
+<area shape="rect" id="node77" href="$classAP__MotorsMulticopter.html#ae4566b45318c5e48ff5f2855cab35919" title=" " alt="" coords="1357,1329,1510,1373"/>
+<area shape="rect" id="node72" href="$classAP__BattMonitor__Backend.html#a7c777a6ffefabc4c241a98ddb5be1350" title="returns true if battery monitor instance provides current info" alt="" coords="1593,1489,1767,1533"/>
+<area shape="rect" id="node82" href="$classSRV__Channels.html#a61d6f8b037aa79f789a11e872f50e220" title=" " alt="" coords="1086,1053,1268,1097"/>
+</map>

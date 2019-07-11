@@ -1,0 +1,5 @@
+<map id="AP_AHRS_DCM::wind_estimate" name="AP_AHRS_DCM::wind_estimate">
+<area shape="rect" id="node1" title=" " alt="" coords="474,13,688,41"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a5f28b4c332a397764657c26fc5edd035" title=" " alt="" coords="251,5,426,49"/>
+<area shape="rect" id="node3" href="$classAP__OSD__Screen.html#a4df989d28855c82766ac6a64928d667c" title=" " alt="" coords="6,13,202,41"/>
+</map>

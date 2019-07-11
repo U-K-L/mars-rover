@@ -1,0 +1,6 @@
+<map id="OreoLED_I2C::boot_leds" name="OreoLED_I2C::boot_leds">
+<area shape="rect" id="node1" title=" " alt="" coords="6,47,176,75"/>
+<area shape="rect" id="node2" href="$classOreoLED__I2C.html#a29faed383f01f67c17ca7a2c62c4163a" title=" " alt="" coords="224,47,432,75"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a081c1465451027e9f23def7904ea7c20" title=" " alt="" coords="482,5,628,49"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="480,73,629,117"/>
+</map>

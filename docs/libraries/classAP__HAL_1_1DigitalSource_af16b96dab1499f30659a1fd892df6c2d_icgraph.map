@@ -1,0 +1,42 @@
+<map id="AP_HAL::DigitalSource::mode" name="AP_HAL::DigitalSource::mode">
+<area shape="rect" id="node1" title=" " alt="" coords="1488,419,1648,463"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__BMI160.html#ae7727eb583f2b0d7403b6e4dd40197e0" title=" " alt="" coords="1240,5,1422,49"/>
+<area shape="rect" id="node4" href="$classAP__Baro__BMP085.html#a6af0febe3d222fc0092346475e516c68" title=" " alt="" coords="1248,73,1413,101"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__Invensensev2.html#af6e9fd6c4ef8583c2efeec2d1c324e12" title=" " alt="" coords="1221,125,1440,169"/>
+<area shape="rect" id="node21" href="$classAP__InertialSensor__Invensense.html#aa1f73d88f390dc33a024e74d418fcdbb" title=" " alt="" coords="1228,193,1433,237"/>
+<area shape="rect" id="node23" href="$classAP__InertialSensor__LSM9DS1.html#a5074cb707fdcd87bef71570e3ae28dea" title=" " alt="" coords="1232,261,1429,305"/>
+<area shape="rect" id="node25" href="$classAP__InertialSensor__LSM9DS0.html#a62227996a40da07a9733ace45b6b0c71" title=" " alt="" coords="1232,329,1429,373"/>
+<area shape="rect" id="node27" href="$classLinux_1_1CameraSensor__Mt9v117.html#a670cb690c11f5b6cbd61db4b40e07574" title=" " alt="" coords="1252,449,1410,493"/>
+<area shape="rect" id="node29" href="$classDiscreteRGBLed.html#a496120d486b4af0b90e30fc6b79832ad" title=" " alt="" coords="1246,517,1416,545"/>
+<area shape="rect" id="node30" href="$classLinux_1_1RCOutput__PCA9685.html#a3dd80dc4c212369c788655a337afa18e" title=" " alt="" coords="1238,569,1423,613"/>
+<area shape="rect" id="node31" href="$classAP__Compass__LSM303D.html#a8a56627c6487fbc701c4865f48e3edf4" title=" " alt="" coords="979,397,1149,441"/>
+<area shape="rect" id="node33" href="$classLinux_1_1RCInput__RPI.html#ac34587203d7c12cc5108df789b9479ce" title=" " alt="" coords="1261,637,1400,681"/>
+<area shape="rect" id="node34" href="$classLinux_1_1SPIDevice.html#acbdde2e0e470c7eb2794a6efe727b1db" title=" " alt="" coords="1234,705,1427,733"/>
+<area shape="rect" id="node35" href="$GPIOTest_8cpp.html#aaaf9a61ce8f7b81f01a998d6690fa243" title=" " alt="" coords="1275,757,1387,785"/>
+<area shape="rect" id="node38" href="$GPIOTest_8cpp.html#a865a1031a902ba4cdd4b1b9031939cd8" title=" " alt="" coords="1271,825,1391,853"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__BMI160.html#a786f5fe4d157ea0a2313c702402b58c5" title=" " alt="" coords="973,5,1155,49"/>
+<area shape="rect" id="node5" href="$classAP__Baro__BMP085.html#a69c38a5c48eee9438899195eb66cbaaf" title=" " alt="" coords="977,73,1151,101"/>
+<area shape="rect" id="node6" href="$classAP__Baro.html#a4bfd06fe28cf3a7bc6df55bc159c8dff" title=" " alt="" coords="747,95,895,139"/>
+<area shape="rect" id="node7" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="556,74,655,102"/>
+<area shape="rect" id="node8" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="350,74,404,102"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__Invensensev2.html#ad53b8716bfefc867bfb3d453312708d1" title=" " alt="" coords="955,125,1173,169"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor.html#a8967734e82a4f472c6d8ddd8db656804" title=" " alt="" coords="753,261,889,305"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor.html#a9949b7e301b0d7a5f3e59385d2e8d97a" title=" " alt="" coords="537,194,673,238"/>
+<area shape="rect" id="node17" href="$classAP__InertialSensor.html#ad649def5689aecaebca16cf910d77fd8" title=" " alt="" coords="537,330,673,374"/>
+<area shape="rect" id="node18" href="$classAP__Compass__AK8963.html#a0e8c9e0c82de409e0225fc81ed4ed6db" title=" " alt="" coords="523,262,688,306"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title=" " alt="" coords="301,202,454,230"/>
+<area shape="rect" id="node14" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,261,59,289"/>
+<area shape="rect" id="node15" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title=" " alt="" coords="108,183,231,211"/>
+<area shape="rect" id="node16" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title=" " alt="" coords="5,183,59,211"/>
+<area shape="rect" id="node19" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="281,287,474,315"/>
+<area shape="rect" id="node20" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="118,287,220,315"/>
+<area shape="rect" id="node22" href="$classAP__InertialSensor__Invensense.html#a8097ce7e76464929d323cfc339ed4ac4" title=" " alt="" coords="962,193,1166,237"/>
+<area shape="rect" id="node24" href="$classAP__InertialSensor__LSM9DS1.html#a3386e4a8a70178a7fe93f8f7c537d50b" title=" " alt="" coords="966,261,1162,305"/>
+<area shape="rect" id="node26" href="$classAP__InertialSensor__LSM9DS0.html#a47ae2f91f700f8d46b7f6de80ac77eab" title=" " alt="" coords="966,329,1162,373"/>
+<area shape="rect" id="node28" href="$classLinux_1_1CameraSensor__Mt9v117.html#a4ca64405fd0ece45d76b844a14eb2f5f" title=" " alt="" coords="976,465,1152,525"/>
+<area shape="rect" id="node32" href="$classAP__Compass__LSM303D.html#a1633f14eb14b05dd82600ce9cc7827ec" title=" " alt="" coords="737,395,906,439"/>
+<area shape="rect" id="node36" href="$classMenuCommands.html#ab97bad97421a00be4e3cbeac2025ad26" title=" " alt="" coords="986,681,1142,725"/>
+<area shape="rect" id="node37" href="$classMenuCommands.html#af2f117fe69798ce05ef750b9ab49ef41" title=" " alt="" coords="986,749,1142,793"/>
+<area shape="rect" id="node39" href="$classMenuCommands.html#afa6d3a1a995a54eb412c25988fbe0fba" title=" " alt="" coords="986,817,1142,861"/>
+<area shape="rect" id="node40" href="$classMenuCommands.html#a1d7748272d4fc032e7a1a0d6dd85c8f2" title=" " alt="" coords="986,885,1142,929"/>
+</map>

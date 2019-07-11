@@ -1,0 +1,8 @@
+<map id="AP_Avoidance::handle_avoidance_local" name="AP_Avoidance::handle_avoidance_local">
+<area shape="rect" id="node1" title=" " alt="" coords="6,79,162,123"/>
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a861802533d7f8a91efc39425ac9c724f" title=" " alt="" coords="211,5,373,33"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="237,57,347,85"/>
+<area shape="rect" id="node5" href="$classAP__Avoidance.html#a62f68591dac6c045fdebba96eb133219" title=" " alt="" coords="214,109,370,153"/>
+<area shape="rect" id="node6" href="$classAP__Avoidance.html#a6630711893a0f70c63c0a4faaf51b5ea" title=" " alt="" coords="214,177,370,221"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="422,57,511,85"/>
+</map>

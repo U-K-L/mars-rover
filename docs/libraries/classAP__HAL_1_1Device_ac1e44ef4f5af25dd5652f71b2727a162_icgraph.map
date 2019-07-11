@@ -1,0 +1,27 @@
+<map id="AP_HAL::Device::get_bus_address" name="AP_HAL::Device::get_bus_address">
+<area shape="rect" id="node1" title=" " alt="" coords="1197,242,1344,286"/>
+<area shape="rect" id="node2" href="$classAP__Baro__LPS2XH.html#a5ce073fa2021cf979fceeb4a28974281" title=" " alt="" coords="971,86,1141,130"/>
+<area shape="rect" id="node6" href="$classAP__Baro__KellerLD.html#a6f7c4e59c8260e188689eed557a04d58" title=" " alt="" coords="973,167,1139,195"/>
+<area shape="rect" id="node9" href="$classAP__Baro__MS56XX.html#a2f9fa10ace104137e6a0a0b4c8f4130c" title=" " alt="" coords="973,219,1139,247"/>
+<area shape="rect" id="node11" href="$classAP__Baro__ICM20789.html#a73e4be171d4e35a49fd375f5aaabe342" title=" " alt="" coords="970,11,1142,55"/>
+<area shape="rect" id="node14" href="$classAP__Compass__IST8308.html#a58d7d320cef74856326a30048b8f9f36" title=" " alt="" coords="976,339,1136,383"/>
+<area shape="rect" id="node20" href="$classAP__Compass__IST8310.html#a58e4620d77a0d55d8b73fdd01a5f6cca" title=" " alt="" coords="976,407,1136,451"/>
+<area shape="rect" id="node22" href="$classAP__Compass__RM3100.html#a9c61c8075d4fe7111b4f4b5d55786ba7" title=" " alt="" coords="963,479,1149,507"/>
+<area shape="rect" id="node24" href="$classAP__Compass__QMC5883L.html#ab9bfbc6e35c505a30635a0854e089816" title=" " alt="" coords="967,271,1145,315"/>
+<area shape="rect" id="node3" href="$classAP__Baro__LPS2XH.html#aaae9261b471bf02990556a4ed016f57d" title=" " alt="" coords="507,57,682,101"/>
+<area shape="rect" id="node4" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="306,125,406,153"/>
+<area shape="rect" id="node5" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="132,125,186,153"/>
+<area shape="rect" id="node7" href="$classAP__Baro__KellerLD.html#aba415891be0779268ce2e84a4deea0aa" title=" " alt="" coords="738,167,913,195"/>
+<area shape="rect" id="node8" href="$classAP__Baro.html#a4bfd06fe28cf3a7bc6df55bc159c8dff" title=" " alt="" coords="521,177,669,221"/>
+<area shape="rect" id="node10" href="$classAP__Baro__MS56XX.html#ad4e1780fe0c684f594cc93ec96a9c876" title=" " alt="" coords="737,219,913,247"/>
+<area shape="rect" id="node12" href="$classAP__Baro__ICM20789.html#a238e5cd7bf2ef592564e04b114521724" title=" " alt="" coords="741,13,909,41"/>
+<area shape="rect" id="node13" href="$classAP__Baro__ICM20789.html#a2e0e725561f9b022d67f24f025433395" title=" " alt="" coords="502,5,687,33"/>
+<area shape="rect" id="node15" href="$classAP__Compass__IST8308.html#a363d0b94f0293a29a51baa34245d0d32" title=" " alt="" coords="745,339,906,383"/>
+<area shape="rect" id="node16" href="$classCompass.html#a766d77e1b78dc08be50ba76994c8b4ab" title=" " alt="" coords="504,347,685,391"/>
+<area shape="rect" id="node17" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="259,355,453,383"/>
+<area shape="rect" id="node18" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="108,355,210,383"/>
+<area shape="rect" id="node19" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,355,59,383"/>
+<area shape="rect" id="node21" href="$classAP__Compass__IST8310.html#a6f6f86e57c602b84d7cef10c814f77e5" title=" " alt="" coords="745,407,906,451"/>
+<area shape="rect" id="node23" href="$classAP__Compass__RM3100.html#a4b224bdfed78a3162c837170151da6d4" title=" " alt="" coords="741,475,909,519"/>
+<area shape="rect" id="node25" href="$classAP__Compass__QMC5883L.html#abd73fb24d1b79b0e669393eec4335731" title=" " alt="" coords="736,271,915,315"/>
+</map>

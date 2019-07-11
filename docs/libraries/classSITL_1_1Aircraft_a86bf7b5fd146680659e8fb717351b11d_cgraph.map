@@ -1,0 +1,6 @@
+<map id="SITL::Aircraft::update_mag_field_bf" name="SITL::Aircraft::update_mag_field_bf">
+<area shape="rect" id="node1" title=" " alt="" coords="5,65,152,109"/>
+<area shape="rect" id="node2" href="$classAP__Declination.html#ae44aad89279ed8436901a2533353bbea" title=" " alt="" coords="200,5,339,49"/>
+<area shape="rect" id="node3" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title=" " alt="" coords="201,73,337,101"/>
+<area shape="rect" id="node4" href="$classMatrix3.html#aa964ba5be20b0fb821685cc065156f56" title=" " alt="" coords="200,125,339,153"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="AP_BoardConfig::board_init_safety" name="AP_BoardConfig::board_init_safety">
+<area shape="rect" id="node1" title=" " alt="" coords="6,507,168,551"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#aa33de8bfb64bde7ebdcbdb9668a24838" title=" " alt="" coords="216,335,411,379"/>
+<area shape="rect" id="node4" href="$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="292,403,334,431"/>
+<area shape="rect" id="node6" href="$classGCS.html#a9866f3484283db744409e40719cef765" title=" " alt="" coords="256,455,371,483"/>
+<area shape="rect" id="node28" href="$classAP__HAL_1_1RCOutput.html#afb075a7e5438b6f0bae228e0b6be0cc2" title=" " alt="" coords="225,507,401,551"/>
+<area shape="rect" id="node29" href="$classAP__HAL_1_1RCOutput.html#af1625f683d791c5c843fed2a6cefde3f" title=" " alt="" coords="225,575,401,619"/>
+<area shape="rect" id="node30" href="$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title=" " alt="" coords="242,643,384,687"/>
+<area shape="rect" id="node31" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="240,711,387,755"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Util.html#a19cbaa06e0e8804d1669deacf5ad6081" title=" " alt="" coords="459,335,653,379"/>
+<area shape="rect" id="node5" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="488,403,624,431"/>
+<area shape="rect" id="node7" href="$classGCS.html#a96bea5f4a8234593db645ec80adb36f4" title=" " alt="" coords="495,455,617,483"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Util.html#ac57ef0a9815cd597ad5cab5d6c31c6c8" title=" " alt="" coords="702,138,858,166"/>
+<area shape="rect" id="node16" href="$classGCS.html#a313e604179053ea42415b1c9289f13cd" title=" " alt="" coords="704,414,856,442"/>
+<area shape="rect" id="node25" href="$structGCS__MAVLINK.html#acad5b4ab40c7b7486392f07193ce4190" title=" " alt="" coords="923,518,1080,562"/>
+<area shape="rect" id="node26" href="$structGCS__MAVLINK.html#af948c4a65f98679941885e2c7cc12ac5" title=" " alt="" coords="911,586,1092,630"/>
+<area shape="rect" id="node9" href="$print__vprintf_8cpp.html#a98e0d5bb436a207f576379beaa786040" title=" " alt="" coords="956,86,1047,114"/>
+<area shape="rect" id="node15" href="$classBufferPrinter.html#a4eb1dfae7fe1012905c34af6683401b2" title=" " alt="" coords="936,138,1067,166"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="1147,109,1306,153"/>
+<area shape="rect" id="node11" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title=" " alt="" coords="1181,177,1272,205"/>
+<area shape="rect" id="node13" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title=" " alt="" coords="1180,5,1273,33"/>
+<area shape="rect" id="node14" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title=" " alt="" coords="1182,57,1272,85"/>
+<area shape="rect" id="node12" href="$lstrlib_8c.html#a9605f4d16ae762782f8be8b54aef0a22" title=" " alt="" coords="1380,57,1426,85"/>
+<area shape="rect" id="node17" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="914,190,1089,218"/>
+<area shape="rect" id="node18" href="$classAP__Logger.html#ab72f6a6fdb1a23d793e37725f68b98c2" title=" " alt="" coords="907,242,1095,270"/>
+<area shape="rect" id="node19" href="$classAP__Frsky__Telem.html#aef21b9f33af863589feda48a23877380" title=" " alt="" coords="918,294,1085,338"/>
+<area shape="rect" id="node21" href="$classAP__Notify.html#a0264facb8d3b5c35a7cff0171acdabd0" title=" " alt="" coords="918,362,1085,390"/>
+<area shape="rect" id="node22" href="$classAP__Notify.html#a0f38b9b4be211e200675dd048c81f500" title=" " alt="" coords="928,414,1074,442"/>
+<area shape="rect" id="node27" href="$classGCS.html#a824e538eff6cbf7c9074840600fbf6ff" title=" " alt="" coords="919,466,1084,494"/>
+<area shape="rect" id="node20" href="$classObjectArray.html#aec1630ad862991767b30ae80a71a26ea" title=" " alt="" coords="1144,302,1309,330"/>
+<area shape="rect" id="node23" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="1172,414,1281,442"/>
+<area shape="rect" id="node24" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="1358,414,1447,442"/>
+</map>

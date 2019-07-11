@@ -1,0 +1,15 @@
+<map id="AP_InertialSensor_Invensense::_set_filter_register" name="AP_InertialSensor_Invensense::_set_filter_register">
+<area shape="rect" id="node1" title=" " alt="" coords="6,227,210,271"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Backend.html#a29e519cced3bfad17ea64096f89796d9" title=" " alt="" coords="267,5,455,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a1a5cc08a6d02761ffb62e2a46aab11e3" title=" " alt="" coords="270,73,452,101"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__Backend.html#aba5c50456f2ea49e61bc19db28c5c953" title=" " alt="" coords="267,125,455,169"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__Backend.html#a1f9bb62b4f5d960f7cbcf5ba35d5429c" title=" " alt="" coords="267,193,455,237"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__Backend.html#a40dbf6236deae79c47cacf34ebcd4607" title=" " alt="" coords="267,261,455,305"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Backend.html#a4e8481fcb30844a5b360d1b3e2b04fec" title=" " alt="" coords="267,329,455,389"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Backend.html#aa062da96d32f4e7f8edb95323fb7f81e" title=" " alt="" coords="267,413,455,473"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__Invensense.html#ab650abe4789bb0eef9a4c34812e5603e" title=" " alt="" coords="259,497,464,541"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title=" " alt="" coords="513,497,669,541"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title=" " alt="" coords="731,466,877,510"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="717,534,891,562"/>
+<area shape="rect" id="node12" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="939,474,989,502"/>
+</map>

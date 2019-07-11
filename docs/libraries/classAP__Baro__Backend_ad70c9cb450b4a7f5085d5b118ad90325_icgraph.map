@@ -1,0 +1,17 @@
+<map id="AP_Baro_Backend::_copy_to_frontend" name="AP_Baro_Backend::_copy_to_frontend">
+<area shape="rect" id="node1" title=" " alt="" coords="526,309,703,353"/>
+<area shape="rect" id="node2" href="$classAP__Baro__MS56XX.html#aa2bb35da04fd956c76ec0fc651cd774c" title=" " alt="" coords="238,5,477,33"/>
+<area shape="rect" id="node4" href="$classAP__Baro__MS56XX.html#af8635c47c73956a5ce4469f081968322" title=" " alt="" coords="238,57,476,85"/>
+<area shape="rect" id="node5" href="$classAP__Baro__MS56XX.html#a059118db2bee1a2a01915252e9080d24" title=" " alt="" coords="238,109,477,137"/>
+<area shape="rect" id="node6" href="$classAP__Baro__MS56XX.html#a8198808f755e156e6c1c3cc042a6ca8c" title=" " alt="" coords="238,161,477,189"/>
+<area shape="rect" id="node7" href="$classAP__Baro__HIL.html#a5ba71261adfba08fffd28a846d44f776" title=" " alt="" coords="282,213,433,241"/>
+<area shape="rect" id="node8" href="$classAP__Baro__SITL.html#a6d8b378858c35cf79aa58a7872508696" title=" " alt="" coords="278,265,437,293"/>
+<area shape="rect" id="node9" href="$classAP__Baro__ICM20789.html#a7f7b1e8c0a7e9dc0c31f265449fe877d" title=" " alt="" coords="261,317,453,345"/>
+<area shape="rect" id="node10" href="$classAP__Baro__BMP085.html#ac2fc438ae21a041252d80bda243c5522" title=" " alt="" coords="267,369,448,397"/>
+<area shape="rect" id="node11" href="$classAP__Baro__DPS280.html#a8e1dd608780ca995b1038f1c5821260f" title=" " alt="" coords="267,421,447,449"/>
+<area shape="rect" id="node12" href="$classAP__Baro__BMP280.html#afc710e99d2c36f6cf72fe2a3adaacc21" title=" " alt="" coords="267,473,448,501"/>
+<area shape="rect" id="node13" href="$classAP__Baro__FBM320.html#aeed4b3ae52c8b1868c170f369bb8bac1" title=" " alt="" coords="267,525,448,553"/>
+<area shape="rect" id="node14" href="$classAP__Baro__LPS2XH.html#a46ab067e0ed785a17b9472d082e41fae" title=" " alt="" coords="267,577,448,605"/>
+<area shape="rect" id="node15" href="$classAP__Baro__KellerLD.html#a96cf71637255c93f4b5e5e99d9f6a7fb" title=" " alt="" coords="267,629,448,657"/>
+<area shape="rect" id="node3" href="$classAP__Baro__MS56XX.html#aad8d2072efca2202da60340cd658c1c9" title=" " alt="" coords="6,83,189,111"/>
+</map>

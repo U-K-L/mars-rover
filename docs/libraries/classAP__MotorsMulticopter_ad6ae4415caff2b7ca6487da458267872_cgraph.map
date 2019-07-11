@@ -1,0 +1,8 @@
+<map id="AP_MotorsMulticopter::AP_MotorsMulticopter" name="AP_MotorsMulticopter::AP_MotorsMulticopter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,94,165,138"/>
+<area shape="rect" id="node2" href="$classAP__Param.html#a5f6dcfce1c0a79cf5bd81283e22f3201" title=" " alt="" coords="214,26,383,70"/>
+<area shape="rect" id="node5" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title=" " alt="" coords="234,94,364,138"/>
+<area shape="rect" id="node6" href="$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title=" " alt="" coords="228,162,370,190"/>
+<area shape="rect" id="node3" href="$classAP__Param.html#acd4b14f793c37f162e298761d2155ca6" title=" " alt="" coords="437,5,587,33"/>
+<area shape="rect" id="node4" href="$classAP__Param.html#a7535a9b529dae326dcebb6be33dbbe9a" title=" " alt="" coords="432,57,592,101"/>
+</map>

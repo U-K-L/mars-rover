@@ -1,0 +1,8 @@
+<map id="NavEKF2_core::resetGyroBias" name="NavEKF2_core::resetGyroBias">
+<area shape="rect" id="node1" title=" " alt="" coords="6,109,210,137"/>
+<area shape="rect" id="node2" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="298,5,398,33"/>
+<area shape="rect" id="node3" href="$classNavEKF2__core.html#a42ca3d8e52811f1a3460eb1963c78f05" title=" " alt="" coords="259,57,437,85"/>
+<area shape="rect" id="node4" href="$classNavEKF2__core.html#a20dd1484149045a51fccc508f22dac6f" title=" " alt="" coords="262,109,434,137"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="329,161,367,189"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="315,213,381,241"/>
+</map>

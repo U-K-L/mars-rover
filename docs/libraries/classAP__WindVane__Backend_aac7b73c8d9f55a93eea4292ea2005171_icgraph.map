@@ -1,0 +1,9 @@
+<map id="AP_WindVane_Backend::direction_update_frontend" name="AP_WindVane_Backend::direction_update_frontend">
+<area shape="rect" id="node1" title=" " alt="" coords="507,133,691,177"/>
+<area shape="rect" id="node2" href="$classAP__WindVane__NMEA.html#ab0a91316dde5c29fd29e6d60f49e9692" title=" " alt="" coords="257,46,458,74"/>
+<area shape="rect" id="node5" href="$classAP__WindVane__SITL.html#a23020ebb4ad057b4e3d5426f7fd1e904" title=" " alt="" coords="262,98,453,142"/>
+<area shape="rect" id="node6" href="$classAP__WindVane__Home.html#a5e5cbcf1d08f88efde33bf9fa0492a50" title=" " alt="" coords="258,166,456,210"/>
+<area shape="rect" id="node7" href="$classAP__WindVane__Analog.html#abf5c904e8b216c4da12243a9476eeb82" title=" " alt="" coords="279,234,435,278"/>
+<area shape="rect" id="node3" href="$classAP__WindVane__NMEA.html#afd6920d88500e2a0e770bcbf075b9467" title=" " alt="" coords="6,5,207,49"/>
+<area shape="rect" id="node4" href="$classAP__WindVane__NMEA.html#a0a1150a67a8fe5ead1bd16452b75f8d2" title=" " alt="" coords="6,73,207,117"/>
+</map>

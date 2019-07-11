@@ -1,0 +1,13 @@
+<map id="GCS_MAVLINK::update_signing_timestamp" name="GCS_MAVLINK::update_signing_timestamp">
+<area shape="rect" id="node1" title=" " alt="" coords="6,57,170,101"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a557b471724d4f126458757e0c4f54e78" title=" " alt="" coords="218,57,419,101"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="495,5,604,33"/>
+<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#acaf8e34bd827814a1b8ccf8907fcfb36" title=" " alt="" coords="467,57,632,101"/>
+<area shape="rect" id="node9" href="$structGCS__MAVLINK.html#af5cc5372dac2a9433762f913e6b077de" title=" " alt="" coords="467,125,632,169"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="709,5,798,33"/>
+<area shape="rect" id="node6" href="$classStorageAccess.html#aa810ebbc83bfc0986aa6c13f76d08eaf" title=" " alt="" coords="682,125,824,153"/>
+<area shape="rect" id="node7" href="$classStorageAccess.html#abb169f592c849f2158a48615c8dee90a" title=" " alt="" coords="681,57,826,101"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title=" " alt="" coords="876,57,1036,101"/>
+<area shape="rect" id="node10" href="$classStorageAccess.html#a926243785eeb37f394e3abb352715186" title=" " alt="" coords="680,177,827,221"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Storage.html#a9de79ab93ea4374bd3d1583e28620d2e" title=" " alt="" coords="875,177,1037,221"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NavEKF2::getQuaternionBodyToNED" name="NavEKF2::getQuaternionBodyToNED">
+<area shape="rect" id="node1" title=" " alt="" coords="6,73,207,117"/>
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#acc4ce4806b93582176bca24cc7cf70de" title=" " alt="" coords="257,38,444,82"/>
+<area shape="rect" id="node5" href="$classQuaternion.html#a5ee01ee833114be6181887d0dcfb33b1" title=" " alt="" coords="264,106,437,150"/>
+<area shape="rect" id="node3" href="$classQuaternion.html#a765626a23ca350f7f92b3169d68f9973" title=" " alt="" coords="533,5,672,49"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a637256339762e4ef51c5b7ee607e273b" title=" " alt="" coords="493,73,712,117"/>
+</map>

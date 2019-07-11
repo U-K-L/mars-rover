@@ -1,0 +1,5 @@
+<map id="AP_Compass_LSM303D::_register_read" name="AP_Compass_LSM303D::_register_read">
+<area shape="rect" id="node1" title=" " alt="" coords="6,5,175,49"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="224,5,379,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="427,13,600,41"/>
+</map>

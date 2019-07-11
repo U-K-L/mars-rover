@@ -1,0 +1,5 @@
+<map id="SRV_Channels::enable_aux_servos" name="SRV_Channels::enable_aux_servos">
+<area shape="rect" id="node1" title="Should be called after the the servo functions have been initialized." alt="" coords="245,5,405,49"/>
+<area shape="rect" id="node2" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="102,13,197,41"/>
+<area shape="rect" id="node3" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,13,53,41"/>
+</map>

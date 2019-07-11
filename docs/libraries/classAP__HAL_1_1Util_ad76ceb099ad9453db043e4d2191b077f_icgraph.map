@@ -1,0 +1,10 @@
+<map id="AP_HAL::Util::set_imu_temp" name="AP_HAL::Util::set_imu_temp">
+<area shape="rect" id="node1" title=" " alt="" coords="742,115,932,143"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Backend.html#a3bbac820413cf7a473a47c6acc4d79c8" title=" " alt="" coords="505,107,693,151"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__BMI055.html#a6dbe6f1d68b5a91b8e620c5841685756" title=" " alt="" coords="256,5,438,49"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__BMI088.html#acc980e77c533f281fb5013ef538166a7" title=" " alt="" coords="256,73,438,117"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Invensensev2.html#a2e467d3f4040fc8208279d07f1c88947" title=" " alt="" coords="237,141,456,185"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Invensense.html#a247c35c3a991df3b0d40725108fd1763" title=" " alt="" coords="244,209,449,253"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__BMI055.html#a21d17eb17effa4f110bfce7ed5edfbb4" title=" " alt="" coords="6,5,188,49"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__BMI088.html#a0710f2f2daabadacdff9b1dbe46d1541" title=" " alt="" coords="6,73,188,117"/>
+</map>

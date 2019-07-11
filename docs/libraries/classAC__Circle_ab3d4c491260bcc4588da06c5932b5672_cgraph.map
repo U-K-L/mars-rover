@@ -1,0 +1,6 @@
+<map id="AC_Circle::get_bearing_to_target" name="AC_Circle::get_bearing_to_target">
+<area shape="rect" id="node1" title="get bearing to target in centi&#45;degrees" alt="" coords="6,27,165,71"/>
+<area shape="rect" id="node2" href="$classAC__PosControl.html#ab33dd8e54019220f6ca3c93f0f02dafd" title="get_bearing_to_target &#45; get bearing to target position in centi&#45;degrees" alt="" coords="213,27,352,71"/>
+<area shape="rect" id="node3" href="$location_8cpp.html#aa9fbe250e8d427c907fb7875b4e128a2" title=" " alt="" coords="411,5,525,33"/>
+<area shape="rect" id="node4" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title=" " alt="" coords="400,57,536,101"/>
+</map>

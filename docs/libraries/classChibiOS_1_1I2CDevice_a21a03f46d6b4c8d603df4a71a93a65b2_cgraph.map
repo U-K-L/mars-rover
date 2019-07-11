@@ -1,0 +1,17 @@
+<map id="ChibiOS::I2CDevice::_transfer" name="ChibiOS::I2CDevice::_transfer">
+<area shape="rect" id="node1" title=" " alt="" coords="6,186,146,230"/>
+<area shape="rect" id="node2" href="$classChibiOS_1_1DeviceBus.html#a479b9906ae9f6fc2461b1f0b240dc27f" title=" " alt="" coords="216,66,363,110"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="264,134,314,162"/>
+<area shape="rect" id="node10" href="$classChibiOS_1_1DeviceBus.html#a9cfb645fb170b85b11b6a87463a6ccf9" title=" " alt="" coords="217,186,362,230"/>
+<area shape="rect" id="node13" href="$classChibiOS_1_1I2CBus.html#a0bae064bcf2539888a94b2310e453f90" title=" " alt="" coords="197,254,382,282"/>
+<area shape="rect" id="node14" href="$classChibiOS_1_1I2CBus.html#a2170a7c8dc425809db682bed380abd4f" title=" " alt="" coords="196,306,383,334"/>
+<area shape="rect" id="node3" href="$bouncebuffer_8c.html#a3cca1b350e36a2bce542509487befabd" title=" " alt="" coords="432,26,605,54"/>
+<area shape="rect" id="node8" href="$bouncebuffer_8c.html#a072582dd5b5016a9070b37e0f90792b5" title=" " alt="" coords="449,78,588,122"/>
+<area shape="rect" id="node4" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="702,5,746,33"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#ad68ab3fab5b0d5f5fef166919b258742" title=" " alt="" coords="654,109,794,137"/>
+<area shape="rect" id="node7" href="$malloc_8c.html#a0ec75ec3773e0053f3d233b785b7f3c2" title=" " alt="" coords="677,57,771,85"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="843,83,938,111"/>
+<area shape="rect" id="node11" href="$bouncebuffer_8c.html#ad785cb4541d513b49dc873e68f3c975a" title=" " alt="" coords="433,225,604,253"/>
+<area shape="rect" id="node12" href="$bouncebuffer_8c.html#ab385884007330f8119627dcb2a3623ed" title=" " alt="" coords="450,157,587,201"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="445,298,592,342"/>
+</map>

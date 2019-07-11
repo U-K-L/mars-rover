@@ -1,0 +1,64 @@
+<map id="libraries/AP_Compass/AP_Compass_LSM303D.h" name="libraries/AP_Compass/AP_Compass_LSM303D.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1906,6,2091,50"/>
+<area shape="rect" id="node2" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries." alt="" coords="555,966,749,994"/>
+<area shape="rect" id="node5" href="$AP__HAL_8h.html" title=" " alt="" coords="1224,579,1361,607"/>
+<area shape="rect" id="node20" href="$Device_8h.html" title=" " alt="" coords="2141,889,2213,917"/>
+<area shape="rect" id="node33" href="$AP__Math_8h.html" title=" " alt="" coords="2444,347,2589,375"/>
+<area shape="rect" id="node53" href="$AP__Compass_8h.html" title=" " alt="" coords="2438,99,2551,127"/>
+<area shape="rect" id="node61" href="$AP__Compass__Backend_8h.html" title=" " alt="" coords="2955,177,3127,205"/>
+<area shape="rect" id="node3" title=" " alt="" coords="508,1043,572,1071"/>
+<area shape="rect" id="node4" title=" " alt="" coords="620,1043,683,1071"/>
+<area shape="rect" id="node6" href="$AP__HAL__Namespace_8h.html" title=" " alt="" coords="1444,966,1605,994"/>
+<area shape="rect" id="node10" href="$AP__HAL__Boards_8h.html" title=" " alt="" coords="296,966,428,994"/>
+<area shape="rect" id="node11" href="$AP__HAL__Macros_8h.html" title=" " alt="" coords="347,889,481,917"/>
+<area shape="rect" id="node12" href="$AP__HAL__Main_8h.html" title=" " alt="" coords="1407,657,1525,685"/>
+<area shape="rect" id="node24" href="$UARTDriver_8h.html" title=" " alt="" coords="1352,811,1455,839"/>
+<area shape="rect" id="node14" href="$AnalogIn_8h.html" title=" " alt="" coords="1931,889,2015,917"/>
+<area shape="rect" id="node23" href="$Storage_8h.html" title=" " alt="" coords="1134,811,1212,839"/>
+<area shape="rect" id="node16" href="$GPIO_8h.html" title=" " alt="" coords="1044,811,1109,839"/>
+<area shape="rect" id="node17" href="$RCInput_8h.html" title=" " alt="" coords="1979,811,2060,839"/>
+<area shape="rect" id="node18" href="$RCOutput_8h.html" title=" " alt="" coords="1237,811,1328,839"/>
+<area shape="rect" id="node29" href="$Scheduler_8h.html" title=" " alt="" coords="557,889,648,917"/>
+<area shape="rect" id="node30" href="$Semaphores_8h.html" title=" " alt="" coords="1563,889,1671,917"/>
+<area shape="rect" id="node31" href="$Util_8h.html" title=" " alt="" coords="1183,889,1235,917"/>
+<area shape="rect" id="node28" href="$AP__HAL_2OpticalFlow_8h.html" title=" " alt="" coords="1531,811,1632,839"/>
+<area shape="rect" id="node32" href="$Flash_8h.html" title=" " alt="" coords="925,889,989,917"/>
+<area shape="rect" id="node25" href="$BetterStream_8h.html" title=" " alt="" coords="1014,889,1159,917"/>
+<area shape="rect" id="node13" href="$HAL_8h.html" title=" " alt="" coords="1413,734,1471,762"/>
+<area shape="rect" id="node27" href="$system_8h.html" title=" " alt="" coords="648,811,723,839"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2269,1043,2333,1071"/>
+<area shape="rect" id="node8" href="$functor_8h.html" title=" " alt="" coords="2072,1043,2177,1071"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2535,1121,2617,1149"/>
+<area shape="rect" id="node19" href="$SPIDevice_8h.html" title=" " alt="" coords="1758,811,1852,839"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2162,966,2240,994"/>
+<area shape="rect" id="node21" href="$OwnPtr_8h.html" title=" " alt="" coords="1746,889,1856,917"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1769,966,1833,994"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1109,966,1179,994"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2501,579,2557,607"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2234,425,2285,453"/>
+<area shape="rect" id="node36" href="$AP__Param_8h.html" title="A system for managing and storing variables that are of general interest to the system." alt="" coords="1795,425,1959,453"/>
+<area shape="rect" id="node42" href="$definitions_8h.html" title=" " alt="" coords="2288,502,2380,530"/>
+<area shape="rect" id="node43" href="$crc_8h.html" title=" " alt="" coords="2310,425,2359,453"/>
+<area shape="rect" id="node44" href="$matrix3_8h.html" title=" " alt="" coords="2710,425,2785,453"/>
+<area shape="rect" id="node48" href="$polygon_8h.html" title=" " alt="" coords="2555,425,2633,453"/>
+<area shape="rect" id="node49" href="$quaternion_8h.html" title=" " alt="" coords="2384,425,2479,453"/>
+<area shape="rect" id="node46" href="$rotations_8h.html" title=" " alt="" coords="2756,579,2839,607"/>
+<area shape="rect" id="node47" href="$vector2_8h.html" title=" " alt="" coords="2622,502,2697,530"/>
+<area shape="rect" id="node45" href="$vector3_8h.html" title=" " alt="" coords="2722,502,2797,530"/>
+<area shape="rect" id="node51" href="$spline5_8h.html" title=" " alt="" coords="2085,425,2160,453"/>
+<area shape="rect" id="node52" href="$location_8h.html" title=" " alt="" coords="2861,425,2939,453"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1942,502,2009,530"/>
+<area shape="rect" id="node38" href="$RingBuffer_8h.html" title=" " alt="" coords="195,502,377,530"/>
+<area shape="rect" id="node40" href="$StorageManager_8h.html" title=" " alt="" coords="1632,502,1865,530"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2146,579,2203,607"/>
+<area shape="rect" id="node39" title=" " alt="" coords="256,579,316,607"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2405,502,2467,530"/>
+<area shape="rect" id="node54" href="$AP__Declination_8h.html" title=" " alt="" coords="2712,177,2929,205"/>
+<area shape="rect" id="node56" href="$GCS__MAVLink_8h.html" title="One size fits all header for MAVLink integration." alt="" coords="1983,177,2196,205"/>
+<area shape="rect" id="node60" href="$CompassCalibrator_8h.html" title=" " alt="" coords="2440,262,2585,290"/>
+<area shape="rect" id="node62" href="$Compass__PerMotor_8h.html" title=" " alt="" coords="2488,177,2637,205"/>
+<area shape="rect" id="node55" href="$Location_8h.html" title=" " alt="" coords="2725,262,2891,290"/>
+<area shape="rect" id="node57" title=" " alt="" coords="2198,254,2364,298"/>
+<area shape="rect" id="node58" title=" " alt="" coords="1839,254,1980,298"/>
+<area shape="rect" id="node59" title=" " alt="" coords="2005,254,2173,298"/>
+</map>

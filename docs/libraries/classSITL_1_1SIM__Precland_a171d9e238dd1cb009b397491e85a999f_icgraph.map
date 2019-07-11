@@ -1,0 +1,6 @@
+<map id="SITL::SIM_Precland::get_target_position" name="SITL::SIM_Precland::get_target_position">
+<area shape="rect" id="node1" title=" " alt="" coords="446,31,588,75"/>
+<area shape="rect" id="node2" href="$classAP__IRLock__SITL.html#abca163c4da533c8221c9c6595ba94f9b" title=" " alt="" coords="217,13,389,41"/>
+<area shape="rect" id="node4" href="$classAC__PrecLand__SITL.html#a3409dc788d7252796503ccd906e1ee91" title=" " alt="" coords="209,65,397,93"/>
+<area shape="rect" id="node3" href="$classAC__PrecLand__IRLock.html#a527deb084eab47e840f8575085394b71" title=" " alt="" coords="6,5,159,49"/>
+</map>

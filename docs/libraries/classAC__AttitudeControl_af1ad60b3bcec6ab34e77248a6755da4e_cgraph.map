@@ -1,0 +1,7 @@
+<map id="AC_AttitudeControl::reset_rate_controller_I_terms" name="AC_AttitudeControl::reset_rate_controller_I_terms">
+<area shape="rect" id="node1" title=" " alt="" coords="6,87,157,147"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#ad300b51e0777495496adddd1770ee920" title=" " alt="" coords="207,5,342,49"/>
+<area shape="rect" id="node3" href="$classAC__PID.html#aeee26e2bec3de02355b307b2b40ddbaa" title=" " alt="" coords="216,73,334,101"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl.html#a9e10a37d28eeb3d6476ec087b3bac3df" title=" " alt="" coords="205,125,344,169"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl.html#a9e430ac947e0924fdc83280a4ed552bf" title=" " alt="" coords="207,193,342,237"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AP_MotorsHeli_RSC::calculate_desired_throttle" name="AP_MotorsHeli_RSC::calculate_desired_throttle">
+<area shape="rect" id="node1" title=" " alt="" coords="619,73,792,117"/>
+<area shape="rect" id="node2" href="$classAP__MotorsHeli__RSC.html#ab23a1aebfd83a9e76acf076a2f15841b" title=" " alt="" coords="417,73,570,117"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Dual.html#a45912c55dd1eb49676cea2096daab6a7" title=" " alt="" coords="209,5,367,49"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli__Quad.html#ae50f9c4e57d21a0b2a52a9faa049c3e1" title=" " alt="" coords="209,73,367,117"/>
+<area shape="rect" id="node7" href="$classAP__MotorsHeli__Single.html#ac19ec15e0d8e3a3142762f6e1e1c0812" title=" " alt="" coords="209,141,367,185"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli__Dual.html#a406dcfd65f5929be7cd53e1597b07784" title=" " alt="" coords="10,5,155,49"/>
+<area shape="rect" id="node6" href="$classAP__MotorsHeli__Quad.html#abbe404fba9d5d0d11bfe7e2b8b126341" title=" " alt="" coords="8,73,158,117"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli__Single.html#abe1905fd5d97f5ef2fb16410766bbc90" title=" " alt="" coords="5,141,160,185"/>
+</map>

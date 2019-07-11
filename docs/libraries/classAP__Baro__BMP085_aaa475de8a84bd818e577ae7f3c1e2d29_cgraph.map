@@ -1,0 +1,22 @@
+<map id="AP_Baro_BMP085::_timer" name="AP_Baro_BMP085::_timer">
+<area shape="rect" id="node1" title=" " alt="" coords="6,183,184,211"/>
+<area shape="rect" id="node2" href="$classAP__Baro__BMP085.html#ae3c2ff16de4fb49447fcab3db3a9d3c4" title=" " alt="" coords="252,5,426,49"/>
+<area shape="rect" id="node6" href="$classAP__Baro__BMP085.html#a5eaad67076700e2cfcd6db49ae399bf4" title=" " alt="" coords="233,277,445,305"/>
+<area shape="rect" id="node10" href="$classAP__Baro__BMP085.html#a430b610d8995dd5d437f576283586f75" title=" " alt="" coords="251,209,426,253"/>
+<area shape="rect" id="node11" href="$classAP__Baro__BMP085.html#af1a7ac73fabe4f05f293aac89d488bee" title=" " alt="" coords="238,345,439,373"/>
+<area shape="rect" id="node16" href="$classAP__Baro__BMP085.html#a4372090c972c219aaa33469bab02421c" title=" " alt="" coords="252,73,425,117"/>
+<area shape="rect" id="node20" href="$classAP__Baro__BMP085.html#ac1fb3b227a84ad6acac84685b94d9d04" title=" " alt="" coords="252,141,425,185"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1DigitalSource.html#a6d155c0e1088e7b045b075c34bc2a13e" title=" " alt="" coords="522,5,681,49"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="547,81,656,109"/>
+<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="800,81,888,109"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="524,269,679,313"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#ab8df2848215253ccd70298be7bb52339" title=" " alt="" coords="528,201,674,245"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="757,239,931,267"/>
+<area shape="rect" id="node12" href="$classAP__Baro__Backend.html#adf46bf795e1e13967264596cf4faadd7" title=" " alt="" coords="494,405,709,433"/>
+<area shape="rect" id="node15" href="$classAverageIntegralFilter.html#a65320d5fb00373066cce8a9806a8bbd7" title=" " alt="" coords="529,337,674,381"/>
+<area shape="rect" id="node13" href="$classAP__Baro.html#a0f2f5b99445cb04a204cbf48819d82c0" title=" " alt="" coords="777,426,911,470"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="812,374,876,402"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title=" " alt="" coords="523,133,679,177"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title=" " alt="" coords="771,133,917,177"/>
+<area shape="rect" id="node19" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="979,141,1029,169"/>
+</map>

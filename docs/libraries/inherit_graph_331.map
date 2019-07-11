@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAP__Proximity__Backend.html" title=" " alt="" coords="5,187,166,215"/>
+<area shape="rect" id="node2" href="$classAP__Proximity__LightWareSF40C.html" title=" " alt="" coords="227,5,437,33"/>
+<area shape="rect" id="node3" href="$classAP__Proximity__MAV.html" title=" " alt="" coords="264,57,400,85"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__MorseSITL.html" title=" " alt="" coords="245,109,419,137"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__RangeFinder.html" title=" " alt="" coords="239,161,425,189"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__RPLidarA2.html" title="&lt; for UARTDriver" alt="" coords="245,213,419,241"/>
+<area shape="rect" id="node7" href="$classAP__Proximity__SITL.html" title=" " alt="" coords="264,265,400,293"/>
+<area shape="rect" id="node8" href="$classAP__Proximity__TeraRangerTower.html" title=" " alt="" coords="225,317,439,345"/>
+<area shape="rect" id="node9" href="$classAP__Proximity__TeraRangerTowerEvo.html" title=" " alt="" coords="214,369,450,397"/>
+</map>

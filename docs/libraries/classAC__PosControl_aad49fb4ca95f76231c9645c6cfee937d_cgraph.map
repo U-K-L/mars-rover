@@ -1,0 +1,4 @@
+<map id="AC_PosControl::set_alt_target_to_current_alt" name="AC_PosControl::set_alt_target_to_current_alt">
+<area shape="rect" id="node1" title="set_alt_target_to_current_alt &#45; set altitude target to current altitude" alt="" coords="5,5,179,49"/>
+<area shape="rect" id="node2" href="$classAP__InertialNav.html#ac47da3c171cdcaabb4bc3a2749762461" title=" " alt="" coords="227,5,363,49"/>
+</map>

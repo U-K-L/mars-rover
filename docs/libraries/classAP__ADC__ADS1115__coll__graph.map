@@ -1,0 +1,10 @@
+<map id="AP_ADC_ADS1115" name="AP_ADC_ADS1115">
+<area shape="rect" id="node1" title=" " alt="" coords="46,475,183,503"/>
+<area shape="rect" id="node2" href="$structadc__report__s.html" title=" " alt="" coords="5,374,104,402"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1OwnPtr.html" title=" " alt="" coords="129,366,281,410"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDevice.html" title=" " alt="" coords="135,273,276,301"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html" title=" " alt="" coords="145,193,265,221"/>
+<area shape="rect" id="node6" href="$structAP__HAL_1_1Device_1_1checkreg.html" title=" " alt="" coords="49,99,231,127"/>
+<area shape="rect" id="node7" href="$unionAP__HAL_1_1Device_1_1DeviceId.html" title=" " alt="" coords="255,99,435,127"/>
+<area shape="rect" id="node8" href="$structAP__HAL_1_1Device_1_1DeviceStructure.html" title=" " alt="" coords="234,6,456,34"/>
+</map>

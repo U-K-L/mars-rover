@@ -1,0 +1,7 @@
+<map id="AP_MotorsHeli" name="AP_MotorsHeli">
+<area shape="rect" id="node1" title=" " alt="" coords="194,83,304,111"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Dual.html" title=" " alt="" coords="5,161,149,189"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli__Quad.html" title=" " alt="" coords="174,161,324,189"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli__Single.html" title=" " alt="" coords="348,161,503,189"/>
+<area shape="rect" id="node2" href="$classAP__Motors.html" title=" " alt="" coords="206,6,292,34"/>
+</map>

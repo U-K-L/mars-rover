@@ -1,0 +1,42 @@
+<map id="AP_Mount_SToRM32_serial::update" name="AP_Mount_SToRM32_serial::update">
+<area shape="rect" id="node1" title=" " alt="" coords="6,675,194,719"/>
+<area shape="rect" id="node2" href="$classAP__Mount__SToRM32__serial.html#a509ce7608cc57e2db87e0532a1fdb8dd" title=" " alt="" coords="254,141,442,185"/>
+<area shape="rect" id="node7" href="$classAP__Mount__Backend.html#aadf3190a68ed164faf80c803696cee60" title=" " alt="" coords="243,362,453,390"/>
+<area shape="rect" id="node9" href="$classAP__Mount__Backend.html#ab4be0d28626c019ba59dc179f728c9c9" title=" " alt="" coords="252,471,444,515"/>
+<area shape="rect" id="node24" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="314,642,382,670"/>
+<area shape="rect" id="node26" href="$classAP__Mount__Backend.html#a4277879b4b95abe393ab963a527dc82d" title=" " alt="" coords="261,717,435,761"/>
+<area shape="rect" id="node34" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="541,881,651,909"/>
+<area shape="rect" id="node36" href="$classAP__Mount__SToRM32__serial.html#ababded27cd3d3782818fdbe4cd87928c" title=" " alt="" coords="254,1001,442,1045"/>
+<area shape="rect" id="node38" href="$classAP__Mount__SToRM32__serial.html#a99b1ca746a149d5bd5d9a710e82d1ee5" title=" " alt="" coords="254,865,442,909"/>
+<area shape="rect" id="node40" href="$classAP__Mount__SToRM32__serial.html#a005eeca12d24e45d5448adee09a1049d" title=" " alt="" coords="254,933,442,977"/>
+<area shape="rect" id="node6" href="$classAP__Mount__SToRM32__serial.html#a8c5f988e087c68adfa4d41454f0b1532" title=" " alt="" coords="502,209,690,253"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#afb6a4e5c487187fe31387e834b784213" title=" " alt="" coords="517,5,675,49"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1BetterStream.html#a65082ecb994170fc6d2a7ff2bcc301a7" title=" " alt="" coords="517,73,675,117"/>
+<area shape="rect" id="node5" href="$classAP__Mount__SToRM32__serial.html#ac0353f0e3462a934c83c6929e6869c91" title=" " alt="" coords="502,141,690,185"/>
+<area shape="rect" id="node8" href="$classAP__Mount.html#a82a1a9ffb9d880f646071092769ec46d" title=" " alt="" coords="521,277,671,305"/>
+<area shape="rect" id="node10" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="805,538,843,566"/>
+<area shape="rect" id="node12" href="$classRC__Channels.html#a305bdcb535ed4055e86125c65bc6ba0c" title=" " alt="" coords="517,329,675,357"/>
+<area shape="rect" id="node13" href="$classAP__Mount__Backend.html#ae99c80a4e6c5f5979d548ee3ad7e6f39" title=" " alt="" coords="509,381,683,425"/>
+<area shape="rect" id="node22" href="$classRC__Channel.html#a35dd43d363695269b38277306426f883" title=" " alt="" coords="507,449,685,477"/>
+<area shape="rect" id="node23" href="$classAP__Mount__Backend.html#a6baf10bfedf725fca546267d8da093b0" title=" " alt="" coords="505,501,687,545"/>
+<area shape="rect" id="node11" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="958,538,1149,566"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="770,389,878,417"/>
+<area shape="rect" id="node21" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="791,449,857,477"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title=" " alt="" coords="996,389,1111,417"/>
+<area shape="rect" id="node16" href="$namespaceAP.html#afceb236ff617aaaa2b08afacd72532b0" title=" " alt="" coords="1217,362,1335,390"/>
+<area shape="rect" id="node17" href="$classAP__InternalError.html#ab34174ba770b976b39a18c2b23e854f2" title=" " alt="" coords="1198,414,1354,442"/>
+<area shape="rect" id="node18" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="1403,414,1515,442"/>
+<area shape="rect" id="node19" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="1607,383,1665,411"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="1562,435,1710,479"/>
+<area shape="rect" id="node25" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="515,621,677,649"/>
+<area shape="rect" id="node27" href="$AP__Math_8h.html#a45fe9f81332c93a04d1fdbcf0bc89c29" title=" " alt="" coords="570,777,622,805"/>
+<area shape="rect" id="node29" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="546,829,646,857"/>
+<area shape="rect" id="node30" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title=" " alt="" coords="561,673,631,701"/>
+<area shape="rect" id="node32" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="560,725,632,753"/>
+<area shape="rect" id="node28" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="805,777,843,805"/>
+<area shape="rect" id="node31" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title=" " alt="" coords="785,673,863,701"/>
+<area shape="rect" id="node33" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="739,725,909,753"/>
+<area shape="rect" id="node35" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="780,881,868,909"/>
+<area shape="rect" id="node37" href="$classAP__HAL_1_1BetterStream.html#ab0193c7791fd95eb2bfbfd6597bdf6d8" title=" " alt="" coords="517,1001,675,1045"/>
+<area shape="rect" id="node39" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="517,933,675,977"/>
+</map>

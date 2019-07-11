@@ -1,0 +1,11 @@
+<map id="AP_AHRS_NavEKF::getLastYawResetAngle" name="AP_AHRS_NavEKF::getLastYawResetAngle">
+<area shape="rect" id="node1" title=" " alt="" coords="6,73,223,117"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="273,17,471,45"/>
+<area shape="rect" id="node4" href="$classNavEKF2.html#a8470dd161b8e2335fad044f47f8b4863" title=" " alt="" coords="277,73,467,117"/>
+<area shape="rect" id="node8" href="$classNavEKF3.html#a0dfa237b7b3cf14f0f99eb91fe539cea" title=" " alt="" coords="277,141,467,185"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="520,5,709,49"/>
+<area shape="rect" id="node5" href="$classNavEKF2__core.html#a8480eb7507c26eb02fa8eb290263ea6e" title=" " alt="" coords="521,73,709,117"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title=" " alt="" coords="580,141,650,169"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title=" " alt="" coords="757,141,835,169"/>
+<area shape="rect" id="node9" href="$classNavEKF3__core.html#a48263af5835a86691625db1a0a27364e" title=" " alt="" coords="521,193,709,237"/>
+</map>

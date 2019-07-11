@@ -1,0 +1,15 @@
+<map id="Linux::RCOutput_AeroIO::init" name="Linux::RCOutput_AeroIO::init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,159,175,203"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDeviceManager.html#a84c4a9ff2ae0cdaa9a0bc8a3f0939893" title=" " alt="" coords="224,5,419,49"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="265,73,377,101"/>
+<area shape="rect" id="node6" href="$classLinux_1_1RCOutput__AeroIO.html#a13b2e1b06d6375d1f54a12bf54ec79ba" title=" " alt="" coords="237,125,406,169"/>
+<area shape="rect" id="node7" href="$classLinux_1_1RCOutput__AeroIO.html#ac8a38fde0b14bc4f038e2fe2ce37bc26" title=" " alt="" coords="237,193,406,237"/>
+<area shape="rect" id="node13" href="$classLinux_1_1RCOutput__AeroIO.html#ae3690e60988e51ba858d25b0262f5cc6" title=" " alt="" coords="237,261,406,305"/>
+<area shape="rect" id="node8" href="$classLinux_1_1RCOutput__AeroIO.html#af2acf35f44d06d9da38fec58ed4b9573" title=" " alt="" coords="467,261,637,305"/>
+<area shape="rect" id="node4" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="523,43,581,71"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="478,95,626,139"/>
+<area shape="rect" id="node9" href="$classLinux_1_1RCOutput__AeroIO.html#a44a078ac9018e83a27e13f4daab6c28c" title=" " alt="" coords="686,226,855,270"/>
+<area shape="rect" id="node12" href="$classLinux_1_1RCOutput__AeroIO.html#a2d3cab3872cb7b848aeb8befd859056d" title=" " alt="" coords="686,294,855,338"/>
+<area shape="rect" id="node10" href="$sparse-endian_8h.html#afeadfffc79afb9d2c017f0921b187204" title=" " alt="" coords="956,207,1025,235"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="904,259,1077,287"/>
+</map>

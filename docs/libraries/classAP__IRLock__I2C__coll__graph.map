@@ -1,0 +1,11 @@
+<map id="AP_IRLock_I2C" name="AP_IRLock_I2C">
+<area shape="rect" id="node1" title=" " alt="" coords="314,395,429,423"/>
+<area shape="rect" id="node2" href="$classIRLock.html" title=" " alt="" coords="258,294,320,322"/>
+<area shape="rect" id="node3" href="$structIRLock_1_1irlock__target__info.html" title=" " alt="" coords="5,193,176,221"/>
+<area shape="rect" id="node4" href="$structIRLock_1_1AP__IRLock__Flags.html" title=" " alt="" coords="201,193,377,221"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1OwnPtr.html" title=" " alt="" coords="356,286,508,330"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html" title=" " alt="" coords="402,193,523,221"/>
+<area shape="rect" id="node7" href="$structAP__HAL_1_1Device_1_1checkreg.html" title=" " alt="" coords="305,99,487,127"/>
+<area shape="rect" id="node8" href="$unionAP__HAL_1_1Device_1_1DeviceId.html" title=" " alt="" coords="511,99,691,127"/>
+<area shape="rect" id="node9" href="$structAP__HAL_1_1Device_1_1DeviceStructure.html" title=" " alt="" coords="490,6,712,34"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AC_Sprayer::running" name="AC_Sprayer::running">
+<area shape="rect" id="node1" title="running &#45; returns true if spraying is currently permitted" alt="" coords="198,5,344,33"/>
+<area shape="rect" id="node2" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity" alt="" coords="6,5,148,33"/>
+</map>

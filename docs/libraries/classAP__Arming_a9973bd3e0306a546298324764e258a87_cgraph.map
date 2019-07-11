@@ -1,0 +1,11 @@
+<map id="AP_Arming::ins_gyros_consistent" name="AP_Arming::ins_gyros_consistent">
+<area shape="rect" id="node1" title=" " alt="" coords="6,163,159,207"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a4a421a821c8e43665a66501624522b9d" title=" " alt="" coords="208,5,344,49"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a8ca4ae8fdc18ff0d78f8dea93759cc93" title=" " alt="" coords="208,73,344,117"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="221,141,331,169"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#a714dc332f1f664de77df912220525653" title=" " alt="" coords="208,193,344,237"/>
+<area shape="rect" id="node8" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="221,261,331,289"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="243,313,309,341"/>
+<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="416,129,504,157"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#adab0e15f297d55a8436b607627db0e5f" title=" " alt="" coords="392,205,528,249"/>
+</map>

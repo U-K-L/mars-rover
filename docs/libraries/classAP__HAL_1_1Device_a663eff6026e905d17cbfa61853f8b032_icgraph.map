@@ -1,0 +1,17 @@
+<map id="AP_HAL::Device::change_bus_id" name="AP_HAL::Device::change_bus_id">
+<area shape="rect" id="node1" title=" " alt="" coords="521,311,693,355"/>
+<area shape="rect" id="node2" href="$classCompass.html#a32fb8b55b7ee1c439e7c42ce2c02f5eb" title=" " alt="" coords="299,243,445,287"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a1440cc6cbea5982753fbff7d28cceae2" title=" " alt="" coords="299,311,445,355"/>
+<area shape="rect" id="node13" href="$classAuxiliaryBus.html#a43edc6bf5c7b0925df1eeced67f2dd33" title=" " alt="" coords="273,625,471,653"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__BMI055.html#a21d17eb17effa4f110bfce7ed5edfbb4" title=" " alt="" coords="24,5,206,49"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__BMI088.html#a0710f2f2daabadacdff9b1dbe46d1541" title=" " alt="" coords="24,73,206,117"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__BMI160.html#a786f5fe4d157ea0a2313c702402b58c5" title=" " alt="" coords="24,141,206,185"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Invensense.html#ad54c13370e4efffcfa2c0eece9b53239" title=" " alt="" coords="12,209,217,253"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Invensensev2.html#aabef6fa96d268997a2921d8e0563d34c" title=" " alt="" coords="5,277,224,321"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__L3G4200D.html#a5ddc32421474ee6f544abca47a91ae02" title=" " alt="" coords="19,345,210,389"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__LSM9DS0.html#a1fa1189f7920f61d52d526f779be3d8f" title=" " alt="" coords="16,413,213,457"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor__LSM9DS1.html#a2adca5a3291b333dc9f4938a1093224c" title=" " alt="" coords="16,481,213,525"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor__RST.html#a38430e9e92c819483999835ae880c04a" title=" " alt="" coords="33,549,196,593"/>
+<area shape="rect" id="node14" href="$classAP__AK8963__BusDriver__Auxiliary.html#a03265a879d254687a1c48afadc2fd620" title=" " alt="" coords="23,617,206,661"/>
+<area shape="rect" id="node15" href="$classAP__AK09916__BusDriver__Auxiliary.html#a73363e2a5a27727c2e2d377cc09c5345" title=" " alt="" coords="23,685,206,729"/>
+</map>

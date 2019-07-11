@@ -1,0 +1,4 @@
+<map id="AP_InertialSensor_Backend::_gyro_notch_attenuation_dB" name="AP_InertialSensor_Backend::_gyro_notch_attenuation_dB">
+<area shape="rect" id="node1" title=" " alt="" coords="6,5,205,49"/>
+<area shape="rect" id="node2" href="$classNotchFilterParams.html#a21f638f8c2c6fb84506466424e5a417d" title=" " alt="" coords="253,5,392,49"/>
+</map>

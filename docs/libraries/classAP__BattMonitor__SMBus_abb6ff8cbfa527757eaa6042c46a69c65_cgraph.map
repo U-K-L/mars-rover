@@ -1,0 +1,8 @@
+<map id="AP_BattMonitor_SMBus::read_remaining_capacity" name="AP_BattMonitor_SMBus::read_remaining_capacity">
+<area shape="rect" id="node1" title=" " alt="" coords="6,69,184,113"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor__SMBus.html#ac10f1791a37bbf796c42729b7540503d" title=" " alt="" coords="232,38,397,82"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="290,106,340,134"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="451,5,605,49"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor__SMBus.html#a2c925254f4b6953855c088faa0cd7421" title="get_PEC &#45; calculate packet error correction code of buffer" alt="" coords="445,73,611,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="659,13,832,41"/>
+</map>

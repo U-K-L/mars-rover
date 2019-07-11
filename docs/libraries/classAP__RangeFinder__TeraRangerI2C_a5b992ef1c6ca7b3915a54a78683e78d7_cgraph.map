@@ -1,0 +1,17 @@
+<map id="AP_RangeFinder_TeraRangerI2C::init" name="AP_RangeFinder_TeraRangerI2C::init">
+<area shape="rect" id="node1" title=" " alt="" coords="6,279,207,323"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="283,5,432,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="267,73,448,101"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title=" " alt="" coords="284,125,430,169"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="280,193,435,237"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="267,261,448,289"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__TeraRangerI2C.html#a064603f6550ff3a0900bbdb1391518c1" title=" " alt="" coords="508,297,708,341"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="284,485,431,529"/>
+<area shape="rect" id="node11" href="$classAP__RangeFinder__TeraRangerI2C.html#aaee77c207b645fd7c85076b07a65c4d2" title=" " alt="" coords="508,433,708,477"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1I2CDevice.html#a5d6a208d57d47068884af3a4fb90f1a2" title=" " alt="" coords="270,553,445,597"/>
+<area shape="rect" id="node14" href="$classAP__RangeFinder__TeraRangerI2C.html#ae86aa6e930033fce575194cc45a5a76b" title=" " alt="" coords="257,365,458,409"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="521,201,695,229"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="758,335,906,379"/>
+<area shape="rect" id="node12" href="$crc_8cpp.html#a9854916652a9bd6e9db046706bc313b1" title=" " alt="" coords="796,441,868,469"/>
+<area shape="rect" id="node15" href="$classAP__RangeFinder__TeraRangerI2C.html#a874f650beab8beb14bc74044c4353613" title=" " alt="" coords="508,365,708,409"/>
+</map>

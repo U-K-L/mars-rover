@@ -1,0 +1,12 @@
+<map id="Linux::SPIDevice::SPIDevice" name="Linux::SPIDevice::SPIDevice">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,198,195"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a5f5d708368bd4779f30377409b56bbca" title=" " alt="" coords="256,5,402,49"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#afb5df3da326300740856c48d338d4cf2" title=" " alt="" coords="256,73,402,117"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a4e8955091af056240f447b68b76725bb" title=" " alt="" coords="246,141,413,169"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="273,193,385,221"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1DigitalSource.html#af16b96dab1499f30659a1fd892df6c2d" title=" " alt="" coords="250,245,409,289"/>
+<area shape="rect" id="node9" href="$classLinux_1_1SPIDevice.html#aadc7d96ed514195b30875f499ee98ab5" title=" " alt="" coords="264,313,394,357"/>
+<area shape="rect" id="node6" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="513,163,570,191"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="468,215,615,259"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1DigitalSource.html#a43392c05a7dae030a78dd1c4800bf5fe" title=" " alt="" coords="462,313,621,357"/>
+</map>

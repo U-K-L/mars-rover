@@ -1,0 +1,10 @@
+<map id="Rover::set_home" name="Rover::set_home">
+<area shape="rect" id="node1" title=" " alt="" coords="667,65,789,93"/>
+<area shape="rect" id="node2" href="$classModeAuto.html#a866d096f0b2d651e62d270fef03d1a45" title=" " alt="" coords="235,5,405,33"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK__Rover.html#a450def0c670e246ac881c6ad0aac6970" title=" " alt="" coords="453,57,619,101"/>
+<area shape="rect" id="node5" href="$classRover.html#ad45993c4b970c37110a9762e867accf5" title=" " alt="" coords="465,125,607,169"/>
+<area shape="rect" id="node3" href="$classModeAuto.html#a31ef596d25ce081bc7fa4e14c7691baa" title=" " alt="" coords="5,5,187,33"/>
+<area shape="rect" id="node6" href="$classGCS__MAVLINK__Rover.html#a149f7d1cff5a58ce92af38211d0e2661" title=" " alt="" coords="237,57,403,117"/>
+<area shape="rect" id="node7" href="$classRC__Channel__Rover.html#abeef07ee78896cacb25340467bd6255d" title=" " alt="" coords="239,141,401,185"/>
+<area shape="rect" id="node8" href="$classRover.html#a92f3479869a8d896ecc3c2b59b49e879" title=" " alt="" coords="251,209,389,237"/>
+</map>

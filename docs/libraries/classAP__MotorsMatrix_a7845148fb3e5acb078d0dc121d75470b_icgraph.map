@@ -1,0 +1,10 @@
+<map id="AP_MotorsMatrix::add_motor_raw" name="AP_MotorsMatrix::add_motor_raw">
+<area shape="rect" id="node1" title=" " alt="" coords="531,73,685,117"/>
+<area shape="rect" id="node2" href="$classAP__MotorsMatrix.html#acee5f69304786deff28075ae14eb6a46" title=" " alt="" coords="323,5,477,49"/>
+<area shape="rect" id="node3" href="$classAP__Motors6DOF.html#ac454275ad3ea3fc58279921e7fccd487" title=" " alt="" coords="324,73,476,117"/>
+<area shape="rect" id="node5" href="$classAP__MotorsMatrix.html#add4cc7528ad5a337f58ec38a64156bd4" title=" " alt="" coords="318,141,482,185"/>
+<area shape="rect" id="node4" href="$classAP__Motors6DOF.html#af9f238b776db93043513ef422c80559d" title=" " alt="" coords="107,73,269,117"/>
+<area shape="rect" id="node6" href="$classAP__MotorsMatrix.html#a74999b8c2bdb8a6c9a139e4d4a742679" title=" " alt="" coords="114,145,262,173"/>
+<area shape="rect" id="node8" href="$classAP__MotorsMatrix.html#ad608ef0a8298cd204251d4374a2699c4" title=" " alt="" coords="107,197,269,241"/>
+<area shape="rect" id="node7" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,145,59,173"/>
+</map>

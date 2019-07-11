@@ -1,0 +1,8 @@
+<map id="AP_Baro_BMP085::update" name="AP_Baro_BMP085::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,47,187,75"/>
+<area shape="rect" id="node2" href="$classAverageIntegralFilter.html#a0c45f745a0421db537a8fd1bf2662018" title=" " alt="" coords="252,5,396,49"/>
+<area shape="rect" id="node3" href="$classAP__Baro__Backend.html#ad70c9cb450b4a7f5085d5b118ad90325" title=" " alt="" coords="236,73,412,117"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="461,54,571,82"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title=" " alt="" coords="480,106,552,134"/>
+<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="620,54,708,82"/>
+</map>

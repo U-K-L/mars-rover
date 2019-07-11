@@ -1,0 +1,6 @@
+<map id="Mode::calc_steering_from_turn_rate" name="Mode::calc_steering_from_turn_rate">
+<area shape="rect" id="node1" title=" " alt="" coords="6,89,146,133"/>
+<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#ade9d46b8ff306d77945ddac014a8260a" title=" " alt="" coords="222,5,364,65"/>
+<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#a1fc75455078aaf1f936c483013f96a2b" title=" " alt="" coords="214,89,373,133"/>
+<area shape="rect" id="node4" href="$classAP__MotorsUGV.html#ad962f64af80f94519b7e5de9f2973046" title=" " alt="" coords="195,157,391,185"/>
+</map>

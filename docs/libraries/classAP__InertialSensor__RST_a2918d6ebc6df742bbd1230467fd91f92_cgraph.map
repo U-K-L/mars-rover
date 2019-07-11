@@ -1,0 +1,45 @@
+<map id="AP_InertialSensor_RST::accel_measure" name="AP_InertialSensor_RST::accel_measure">
+<area shape="rect" id="node1" title=" " alt="" coords="5,73,168,117"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="248,5,403,49"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__Backend.html#a12e2c1d206fcd62c683165312c836a50" title=" " alt="" coords="231,73,419,117"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__Backend.html#a330d2242c139a6ec3e94e0dd7379df7c" title=" " alt="" coords="216,402,434,446"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="491,13,664,41"/>
+<area shape="rect" id="node5" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title=" " alt="" coords="523,73,631,101"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Backend.html#a0fde9f55a743b5934bb3f2cc2b092113" title=" " alt="" coords="483,261,671,305"/>
+<area shape="rect" id="node20" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="748,381,882,409"/>
+<area shape="rect" id="node22" href="$classAP__InertialSensor.html#a49643a308463775eb7f7f3d8be13a034" title=" " alt="" coords="485,499,670,543"/>
+<area shape="rect" id="node25" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="527,567,627,595"/>
+<area shape="rect" id="node26" href="$classLowPassFilter2p.html#a98a931a77f5b12f13ecb84fd57a4b7d4" title=" " alt="" coords="498,619,657,647"/>
+<area shape="rect" id="node27" href="$classVector3.html#a938ff6c07ddb4789f64e2c1709a590b5" title=" " alt="" coords="521,671,634,699"/>
+<area shape="rect" id="node28" href="$classVector3.html#a2e1770149004689c856b0b88000b45b5" title=" " alt="" coords="525,723,630,751"/>
+<area shape="rect" id="node29" href="$classLowPassFilter2p.html#af1bb2eb09cd16b94660d8187ffb7d99b" title=" " alt="" coords="499,125,656,153"/>
+<area shape="rect" id="node30" href="$classAP__InertialSensor.html#ab6c1ac320a391b320ddaa5ad27265b53" title=" " alt="" coords="972,330,1119,374"/>
+<area shape="rect" id="node31" href="$classAP__InertialSensor_1_1BatchSampler.html#a148e06c547599b1bd793e0fb502471bb" title=" " alt="" coords="505,177,650,237"/>
+<area shape="rect" id="node32" href="$classAP__InertialSensor__Backend.html#abe00e62fca0f50f131f66731a3472034" title=" " alt="" coords="483,431,671,475"/>
+<area shape="rect" id="node8" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="755,174,874,202"/>
+<area shape="rect" id="node10" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="789,226,840,254"/>
+<area shape="rect" id="node11" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="1449,338,1559,366"/>
+<area shape="rect" id="node13" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="761,122,869,150"/>
+<area shape="rect" id="node9" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="996,174,1095,202"/>
+<area shape="rect" id="node12" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="1658,338,1747,366"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title=" " alt="" coords="988,122,1103,150"/>
+<area shape="rect" id="node15" href="$namespaceAP.html#afceb236ff617aaaa2b08afacd72532b0" title=" " alt="" coords="1221,149,1339,177"/>
+<area shape="rect" id="node16" href="$classAP__InternalError.html#ab34174ba770b976b39a18c2b23e854f2" title=" " alt="" coords="1202,97,1358,125"/>
+<area shape="rect" id="node17" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="1448,97,1560,125"/>
+<area shape="rect" id="node18" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="1674,127,1731,155"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="1629,59,1776,103"/>
+<area shape="rect" id="node21" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="996,398,1095,426"/>
+<area shape="rect" id="node23" href="$classAP__InertialSensor__Backend.html#a86d773e553328d1874cc8bfac1a22b10" title=" " alt="" coords="721,809,909,853"/>
+<area shape="rect" id="node24" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="742,757,887,785"/>
+<area shape="rect" id="node33" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="958,541,1133,569"/>
+<area shape="rect" id="node34" href="$classAP__InertialSensor__Backend.html#a70d36c4864a42b4c505aa1c92390d1eb" title=" " alt="" coords="721,485,909,529"/>
+<area shape="rect" id="node41" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="735,433,894,461"/>
+<area shape="rect" id="node42" href="$classAP__InertialSensor_1_1BatchSampler.html#aefbdf51fbd0c335bd8ffebd406664aef" title=" " alt="" coords="740,605,889,665"/>
+<area shape="rect" id="node43" href="$classAP__InertialSensor_1_1BatchSampler.html#a12a456e9c327e1033ea476016c725cfd" title=" " alt="" coords="737,689,892,733"/>
+<area shape="rect" id="node35" href="$classAP__Logger.html#a8bed25359bc401b7d00def25bd8173b9" title=" " alt="" coords="965,485,1125,513"/>
+<area shape="rect" id="node36" href="$classAP__Logger.html#ae4fe1337d154fa1508237f006d9f0a82" title=" " alt="" coords="1212,407,1348,451"/>
+<area shape="rect" id="node37" href="$classAP__Logger.html#af5b52fbea289c0b3267417f7ba3b619f" title=" " alt="" coords="1204,527,1356,571"/>
+<area shape="rect" id="node40" href="$classAP__Logger.html#a3af6ee4664cc4b54ad6990a7eed7f766" title=" " alt="" coords="1182,475,1378,503"/>
+<area shape="rect" id="node38" href="$classAP__HAL_1_1Util.html#a0321a03bc467b55d887de4587750b599" title=" " alt="" coords="1427,561,1581,605"/>
+<area shape="rect" id="node39" href="$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="1427,493,1581,537"/>
+</map>

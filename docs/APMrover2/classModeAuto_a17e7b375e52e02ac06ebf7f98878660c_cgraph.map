@@ -1,0 +1,6 @@
+<map id="ModeAuto::get_distance_to_destination" name="ModeAuto::get_distance_to_destination">
+<area shape="rect" id="node1" title=" " alt="" coords="5,65,171,109"/>
+<area shape="rect" id="node2" href="$classModeRTL.html#a76483f10d210b7829f6eed8b5b9fcc9d" title=" " alt="" coords="228,5,391,49"/>
+<area shape="rect" id="node3" href="$classModeLoiter.html#a7f3b456ca6125619c43f92c7c4a7f12d" title=" " alt="" coords="448,95,619,139"/>
+<area shape="rect" id="node4" href="$classModeGuided.html#a499c6683ef911ab3d683bf30a0724a53" title=" " alt="" coords="219,125,400,169"/>
+</map>

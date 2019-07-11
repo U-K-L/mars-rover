@@ -1,0 +1,10 @@
+<map id="AC_PosControl::sqrt_controller" name="AC_PosControl::sqrt_controller">
+<area shape="rect" id="node1" title="Proportional controller with piecewise sqrt sections to constrain second derivative." alt="" coords="6,101,149,145"/>
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="204,5,268,33"/>
+<area shape="rect" id="node3" href="$main_8c.html#a9d87237c8a191a7bb92fc78770e62592" title=" " alt="" coords="211,57,261,85"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="334,134,373,162"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#a45fe9f81332c93a04d1fdbcf0bc89c29" title=" " alt="" coords="210,161,262,189"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title=" " alt="" coords="198,213,274,241"/>
+<area shape="rect" id="node4" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="323,57,383,85"/>
+<area shape="rect" id="node5" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="432,57,528,85"/>
+</map>

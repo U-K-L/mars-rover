@@ -1,0 +1,5 @@
+<map id="MissionItemProtocol_Waypoints::max_items" name="MissionItemProtocol_Waypoints::max_items">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,168,49"/>
+<area shape="rect" id="node2" href="$classAP__Mission.html#a8da65cb025ac03d381635653634450ab" title="num_commands_max &#45; returns maximum number of commands that can be stored" alt="" coords="217,13,447,41"/>
+<area shape="rect" id="node3" href="$classStorageAccess.html#aa810ebbc83bfc0986aa6c13f76d08eaf" title=" " alt="" coords="497,13,639,41"/>
+</map>

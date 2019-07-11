@@ -1,0 +1,20 @@
+<map id="AC_AttitudeControl::relax_attitude_controllers" name="AC_AttitudeControl::relax_attitude_controllers">
+<area shape="rect" id="node1" title=" " alt="" coords="6,293,184,337"/>
+<area shape="rect" id="node2" href="$classAP__AHRS__View.html#a627d00a7a0f2e9ecf60b09e08b748839" title=" " alt="" coords="232,34,411,78"/>
+<area shape="rect" id="node4" href="$classQuaternion.html#a16eda13811dc1ec519adf9b5c1b1eb7c" title=" " alt="" coords="250,106,393,134"/>
+<area shape="rect" id="node9" href="$classQuaternion.html#a872dcfe279bd5ba36a67ce90014dc187" title=" " alt="" coords="250,158,392,186"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__View.html#aa1ee530194f2d20c6090dc17823223d2" title=" " alt="" coords="232,210,411,238"/>
+<area shape="rect" id="node11" href="$classAC__AttitudeControl.html#aff1c8dfa418bf13fa324791a2ebe226e" title=" " alt="" coords="241,262,402,306"/>
+<area shape="rect" id="node13" href="$classAC__AttitudeControl.html#ad300b51e0777495496adddd1770ee920" title=" " alt="" coords="482,322,617,366"/>
+<area shape="rect" id="node14" href="$classAC__PID.html#a2fd30f6413ff1b18c387542450e15bb3" title=" " alt="" coords="252,569,391,597"/>
+<area shape="rect" id="node15" href="$classAC__AttitudeControl.html#a9e10a37d28eeb3d6476ec087b3bac3df" title=" " alt="" coords="480,442,619,486"/>
+<area shape="rect" id="node16" href="$classAC__AttitudeControl.html#a9e430ac947e0924fdc83280a4ed552bf" title=" " alt="" coords="482,510,617,554"/>
+<area shape="rect" id="node17" href="$classAC__AttitudeControl.html#af1ad60b3bcec6ab34e77248a6755da4e" title=" " alt="" coords="246,382,397,442"/>
+<area shape="rect" id="node3" href="$classQuaternion.html#a5ee01ee833114be6181887d0dcfb33b1" title=" " alt="" coords="463,5,636,49"/>
+<area shape="rect" id="node5" href="$classQuaternion.html#ad5eb201474aade27db5131c2c07d2088" title=" " alt="" coords="462,73,637,101"/>
+<area shape="rect" id="node6" href="$classQuaternion.html#a436fa63d58deadc491409c02b3e67fb1" title=" " alt="" coords="474,125,624,169"/>
+<area shape="rect" id="node8" href="$classQuaternion.html#a34f2a4db4c8ddf33540cb307fa929b72" title=" " alt="" coords="459,193,640,221"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a3370ada2588e54722319d65e00d8545c" title=" " alt="" coords="689,133,767,161"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="517,270,581,298"/>
+<area shape="rect" id="node18" href="$classAC__PID.html#aeee26e2bec3de02355b307b2b40ddbaa" title=" " alt="" coords="490,390,608,418"/>
+</map>

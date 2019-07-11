@@ -1,0 +1,7 @@
+<map id="GCS_MAVLINK::send_mount_status" name="GCS_MAVLINK::send_mount_status">
+<area shape="rect" id="node1" title=" " alt="" coords="6,27,202,71"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#aa6f0d760efc796d0ad5345d3acc377b8" title=" " alt="" coords="292,5,375,33"/>
+<area shape="rect" id="node4" href="$classAP__Mount.html#a415edaa4d8df1d4b17e3bcd49f96ea11" title="Return mount status information." alt="" coords="251,57,416,101"/>
+<area shape="rect" id="node3" href="$classAP__Mount.html#ada9f06597fc74ef3740e88131ed5dc67" title=" " alt="" coords="468,5,638,33"/>
+<area shape="rect" id="node5" href="$classAP__Mount__Backend.html#a064a6771e3c6d49bc87cf99716478699" title=" " alt="" coords="464,57,643,101"/>
+</map>

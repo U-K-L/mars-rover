@@ -1,0 +1,5 @@
+<map id="AP_BattMonitor::consumed_mah" name="AP_BattMonitor::consumed_mah">
+<area shape="rect" id="node1" title=" " alt="" coords="409,29,626,57"/>
+<area shape="rect" id="node2" href="$classAP__BattMonitor.html#a852d4774b0d491b3c919ec596ea30be5" title=" " alt="" coords="203,21,360,65"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a2275643d2998063448035e89cba6f549" title="Read the battery voltage and current for all batteries. Should be called at 10hz." alt="" coords="6,29,154,57"/>
+</map>

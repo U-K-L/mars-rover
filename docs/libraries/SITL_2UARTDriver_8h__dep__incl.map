@@ -1,0 +1,11 @@
+<map id="libraries/AP_HAL_SITL/UARTDriver.h" name="libraries/AP_HAL_SITL/UARTDriver.h">
+<area shape="rect" id="node1" title=" " alt="" coords="657,6,815,50"/>
+<area shape="rect" id="node2" href="$AP__HAL__SITL__Private_8h.html" title=" " alt="" coords="5,99,176,143"/>
+<area shape="rect" id="node3" href="$HAL__SITL__Class_8cpp.html" title=" " alt="" coords="201,99,359,143"/>
+<area shape="rect" id="node4" href="$SITL_2Scheduler_8cpp.html" title=" " alt="" coords="383,99,541,143"/>
+<area shape="rect" id="node5" href="$SITL__cmdline_8cpp.html" title=" " alt="" coords="566,99,724,143"/>
+<area shape="rect" id="node6" href="$sitl__gps_8cpp.html" title=" " alt="" coords="749,99,907,143"/>
+<area shape="rect" id="node7" href="$SITL__State_8cpp.html" title=" " alt="" coords="931,99,1089,143"/>
+<area shape="rect" id="node8" href="$UART__utils_8cpp.html" title=" " alt="" coords="1114,99,1272,143"/>
+<area shape="rect" id="node9" href="$AP__HAL__SITL_2UARTDriver_8cpp.html" title=" " alt="" coords="1297,99,1455,143"/>
+</map>

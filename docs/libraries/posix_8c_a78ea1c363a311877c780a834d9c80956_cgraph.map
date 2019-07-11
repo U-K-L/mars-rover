@@ -1,0 +1,8 @@
+<map id="fsync" name="fsync">
+<area shape="rect" id="node1" title=" " alt="" coords="6,62,58,90"/>
+<area shape="rect" id="node2" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="259,35,379,63"/>
+<area shape="rect" id="node3" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="427,62,480,90"/>
+<area shape="rect" id="node4" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="106,87,211,115"/>
+<area shape="rect" id="node6" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="107,139,210,167"/>
+<area shape="rect" id="node5" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="292,87,345,115"/>
+</map>

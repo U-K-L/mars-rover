@@ -1,0 +1,16 @@
+<map id="AP_MotorsUGV::have_skid_steering" name="AP_MotorsUGV::have_skid_steering">
+<area shape="rect" id="node1" title=" " alt="" coords="632,201,784,245"/>
+<area shape="rect" id="node2" href="$classAP__MotorsUGV.html#ab02978771c0241b8823dc616a2121f19" title=" " alt="" coords="420,29,578,57"/>
+<area shape="rect" id="node6" href="$classRover.html#a378313a186394e0a06a4c1eb5661a5f6" title=" " alt="" coords="414,81,583,109"/>
+<area shape="rect" id="node7" href="$classAP__MotorsUGV.html#af72da5854381c77f10a70d4000cf3cbd" title=" " alt="" coords="419,133,579,177"/>
+<area shape="rect" id="node10" href="$classAP__MotorsUGV.html#ac6a939c7d6afae6228ac9447c08c195b" title=" " alt="" coords="419,201,579,245"/>
+<area shape="rect" id="node11" href="$classModeAcro.html#ae5d00656090fc48fd6eb179c6d3b677f" title=" " alt="" coords="430,269,568,313"/>
+<area shape="rect" id="node12" href="$classRover.html#a15e2e466958ecf41e9fb8a343a27e0a4" title=" " alt="" coords="419,337,578,365"/>
+<area shape="rect" id="node14" href="$classModeSteering.html#af6ec7f519c478be18968f8a9386671d2" title=" " alt="" coords="422,389,575,417"/>
+<area shape="rect" id="node3" href="$classRover.html#af59dd9bfb73e334cc06a666532eb525f" title=" " alt="" coords="184,5,365,49"/>
+<area shape="rect" id="node5" href="$classRover.html#a392287376694d4ff8cd3d18c542d3fe5" title=" " alt="" coords="204,73,345,101"/>
+<area shape="rect" id="node4" href="$classRover.html#a6578ee76e373ab207951dff1ffd93d0d" title=" " alt="" coords="7,13,135,41"/>
+<area shape="rect" id="node8" href="$classAP__MotorsUGV.html#aa030840d7598fc6302c3d523979b4b5b" title=" " alt="" coords="195,158,355,186"/>
+<area shape="rect" id="node9" href="$classRover.html#ad4be2cd10573138d29d4d0511e84c5bb" title=" " alt="" coords="6,158,135,186"/>
+<area shape="rect" id="node13" href="$classGCS__MAVLINK__Rover.html#ae9ec14ed21cc6430c169dafd4d52dba9" title=" " alt="" coords="192,329,357,373"/>
+</map>

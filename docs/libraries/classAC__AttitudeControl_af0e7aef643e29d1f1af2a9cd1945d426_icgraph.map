@@ -1,0 +1,5 @@
+<map id="AC_AttitudeControl::input_euler_angle_roll_pitch_euler_rate_yaw" name="AC_AttitudeControl::input_euler_angle_roll_pitch_euler_rate_yaw">
+<area shape="rect" id="node1" title=" " alt="" coords="235,39,416,99"/>
+<area shape="rect" id="node2" href="$classAC__AttitudeControl__Heli.html#a96317d64d32a0d29202c4f443bd06076" title=" " alt="" coords="6,5,186,65"/>
+<area shape="rect" id="node3" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="30,89,162,117"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AP_AHRS_DCM::reset_gyro_drift" name="AP_AHRS_DCM::reset_gyro_drift">
+<area shape="rect" id="node1" title=" " alt="" coords="6,5,165,49"/>
+<area shape="rect" id="node2" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="214,13,314,41"/>
+</map>

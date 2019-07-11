@@ -1,0 +1,5 @@
+<map id="SITL::Submarine::calculate_buoyancy_acceleration" name="SITL::Submarine::calculate_buoyancy_acceleration">
+<area shape="rect" id="node1" title="Calculate buoyancy force of the frame." alt="" coords="453,5,635,49"/>
+<area shape="rect" id="node2" href="$classSITL_1_1Submarine.html#aeff8104fa2b5ed26f97ce00bfbf728d5" title=" " alt="" coords="224,5,405,49"/>
+<area shape="rect" id="node3" href="$classSITL_1_1Submarine.html#a831df237e7890146463c338be1b23106" title=" " alt="" coords="6,13,175,41"/>
+</map>

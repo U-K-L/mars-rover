@@ -1,0 +1,8 @@
+<map id="AC_PosControl::get_pos_xy_p" name="AC_PosControl::get_pos_xy_p">
+<area shape="rect" id="node1" title=" " alt="" coords="464,73,603,117"/>
+<area shape="rect" id="node2" href="$classAC__WPNav.html#a603ec5c1a7654ccd9a227565cdbee275" title="advance_wp_target_along_track &#45; move target location along track from origin to destination" alt="" coords="241,5,415,49"/>
+<area shape="rect" id="node4" href="$classAC__Loiter.html#a5a2f3d8bb29a6cf03ea900e24dae2b75" title=" " alt="" coords="247,73,409,117"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#abec87ee397915084c28abc7c0566aba2" title=" " alt="" coords="258,141,398,185"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher" alt="" coords="5,13,192,41"/>
+<area shape="rect" id="node5" href="$classAC__Loiter.html#ad73abbc1c7fcefbb9d18bac3b1fe4444" title="run the loiter controller" alt="" coords="34,81,163,109"/>
+</map>

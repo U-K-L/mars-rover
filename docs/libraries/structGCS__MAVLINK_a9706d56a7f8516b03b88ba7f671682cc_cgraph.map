@@ -1,0 +1,6 @@
+<map id="GCS_MAVLINK::send_timesync" name="GCS_MAVLINK::send_timesync">
+<area shape="rect" id="node1" title=" " alt="" coords="6,13,218,41"/>
+<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a4aa7860d644a9d699bc80cb6c9bd76e4" title=" " alt="" coords="267,5,442,49"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="490,13,624,41"/>
+<area shape="rect" id="node4" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="672,13,771,41"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="RC_Channel::do_aux_function_relay" name="RC_Channel::do_aux_function_relay">
+<area shape="rect" id="node1" title=" " alt="" coords="6,87,154,131"/>
+<area shape="rect" id="node2" href="$namespaceAP.html#ab5e102a9841d2cbe10bcc8f75f993d57" title=" " alt="" coords="208,39,355,67"/>
+<area shape="rect" id="node4" href="$classAP__ServoRelayEvents.html#a97e7a71ad2ed00b9b4ceb20bc617be4c" title=" " alt="" coords="203,143,359,187"/>
+<area shape="rect" id="node3" href="$classAP__ServoRelayEvents.html#aba672e443bdfad91bdb84f5c45649f31" title=" " alt="" coords="409,5,565,49"/>
+<area shape="rect" id="node5" href="$namespaceAP.html#a730acdb902fce56b0e171368b2d2036b" title=" " alt="" coords="449,229,524,257"/>
+<area shape="rect" id="node7" href="$classAP__Relay.html#a8799e43496aadd7f713ba6a59040114f" title=" " alt="" coords="419,281,554,309"/>
+<area shape="rect" id="node8" href="$classAP__Relay.html#a8f00e5559174917b795ef84472822e53" title=" " alt="" coords="646,73,749,101"/>
+<area shape="rect" id="node11" href="$classAP__Relay.html#aff679a24b3c6b73f066e1e62c86e0fae" title=" " alt="" coords="646,177,749,205"/>
+<area shape="rect" id="node12" href="$classAP__Relay.html#acadbe252379390594091edd75953456a" title=" " alt="" coords="424,125,549,153"/>
+<area shape="rect" id="node6" href="$classAP__Relay.html#a59622d3a46872069f915eaadebab7031" title=" " alt="" coords="614,229,781,257"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title=" " alt="" coords="830,86,1002,114"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title=" " alt="" coords="842,151,990,179"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1GPIO.html#a453e2829832c783a5337849218390efc" title=" " alt="" coords="624,125,771,153"/>
+</map>

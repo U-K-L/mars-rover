@@ -1,0 +1,13 @@
+<map id="AP_OABendyRuler::calc_margin_from_proximity_sensors" name="AP_OABendyRuler::calc_margin_from_proximity_sensors">
+<area shape="rect" id="node1" title=" " alt="" coords="6,117,173,177"/>
+<area shape="rect" id="node2" href="$classAP__Proximity.html#a9a5196c465fcce6e3a0c38b77b2f4d28" title=" " alt="" coords="222,5,410,33"/>
+<area shape="rect" id="node3" href="$classAP__Proximity.html#a00d8183d9be514ed433a14164c6ef57c" title=" " alt="" coords="248,57,384,101"/>
+<area shape="rect" id="node6" href="$classLocation.html#abb7c08d16b0da0de7ac8929f3503cac3" title=" " alt="" coords="245,125,387,169"/>
+<area shape="rect" id="node9" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="261,193,371,221"/>
+<area shape="rect" id="node11" href="$structVector2.html#a9d12e2f9128926637d5977c7efa7a074" title=" " alt="" coords="229,245,403,289"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__Backend.html#a45d2dd86bde84106c85628955bd572a2" title=" " alt="" coords="458,57,619,101"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="729,65,775,93"/>
+<area shape="rect" id="node7" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="502,133,575,161"/>
+<area shape="rect" id="node8" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="667,133,837,161"/>
+<area shape="rect" id="node10" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="494,193,583,221"/>
+</map>

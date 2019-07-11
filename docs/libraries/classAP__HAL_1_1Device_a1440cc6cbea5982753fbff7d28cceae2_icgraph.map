@@ -1,0 +1,12 @@
+<map id="AP_HAL::Device::get_bus_id_devtype" name="AP_HAL::Device::get_bus_id_devtype">
+<area shape="rect" id="node1" title=" " alt="" coords="272,277,419,321"/>
+<area shape="rect" id="node2" href="$classAP__InertialSensor__LSM9DS0.html#a1fa1189f7920f61d52d526f779be3d8f" title=" " alt="" coords="16,5,213,49"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM9DS1.html#a2adca5a3291b333dc9f4938a1093224c" title=" " alt="" coords="16,73,213,117"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__L3G4200D.html#a5ddc32421474ee6f544abca47a91ae02" title=" " alt="" coords="19,141,210,185"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__BMI160.html#a786f5fe4d157ea0a2313c702402b58c5" title=" " alt="" coords="24,209,206,253"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__RST.html#a38430e9e92c819483999835ae880c04a" title=" " alt="" coords="33,277,196,321"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__BMI088.html#a0710f2f2daabadacdff9b1dbe46d1541" title=" " alt="" coords="24,345,206,389"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__BMI055.html#a21d17eb17effa4f110bfce7ed5edfbb4" title=" " alt="" coords="24,413,206,457"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__Invensensev2.html#aabef6fa96d268997a2921d8e0563d34c" title=" " alt="" coords="5,481,224,525"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__Invensense.html#ad54c13370e4efffcfa2c0eece9b53239" title=" " alt="" coords="12,549,217,593"/>
+</map>

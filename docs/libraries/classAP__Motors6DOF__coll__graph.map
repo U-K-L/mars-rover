@@ -1,0 +1,11 @@
+<map id="AP_Motors6DOF" name="AP_Motors6DOF">
+<area shape="rect" id="node1" title=" " alt="" coords="309,478,432,506"/>
+<area shape="rect" id="node2" href="$classAP__MotorsMatrix.html" title=" " alt="" coords="224,398,347,426"/>
+<area shape="rect" id="node3" href="$classAP__MotorsMulticopter.html" title=" " alt="" coords="197,305,349,333"/>
+<area shape="rect" id="node4" href="$classAP__Motors.html" title=" " alt="" coords="215,210,301,238"/>
+<area shape="rect" id="node5" href="$structAP__Motors_1_1AP__Motors__limit.html" title=" " alt="" coords="366,99,527,143"/>
+<area shape="rect" id="node6" href="$classLowPassFilter.html" title=" " alt="" coords="5,107,157,135"/>
+<area shape="rect" id="node7" href="$classDigitalLPF.html" title=" " alt="" coords="16,6,147,34"/>
+<area shape="rect" id="node8" href="$structAP__Motors_1_1AP__Motors__flags.html" title=" " alt="" coords="182,99,343,143"/>
+<area shape="rect" id="node9" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="414,210,567,238"/>
+</map>

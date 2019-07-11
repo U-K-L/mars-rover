@@ -1,0 +1,8 @@
+<map id="AP_HAL::Util::was_watchdog_safety_off" name="AP_HAL::Util::was_watchdog_safety_off">
+<area shape="rect" id="node1" title=" " alt="" coords="427,35,621,79"/>
+<area shape="rect" id="node2" href="$classAP__BoardConfig.html#a5f1bd37f36b512bae5fca062d55c055c" title=" " alt="" coords="216,5,378,49"/>
+<area shape="rect" id="node4" href="$classAP__IOMCU__FW.html#ac44fd3950057730a5a93041166c4529f" title=" " alt="" coords="226,73,369,101"/>
+<area shape="rect" id="node3" href="$classAP__BoardConfig.html#aba2ca4fd524c037dbffaed17344fc0f1" title=" " alt="" coords="14,5,159,49"/>
+<area shape="rect" id="node5" href="$classChibiOS_1_1RCOutput.html#a692486bec7f38b4be3ce6a88ae44c721" title=" " alt="" coords="6,73,168,101"/>
+<area shape="rect" id="node6" href="$iofirmware_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="60,125,114,153"/>
+</map>

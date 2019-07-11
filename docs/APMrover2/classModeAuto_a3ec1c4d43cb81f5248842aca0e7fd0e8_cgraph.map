@@ -1,0 +1,7 @@
+<map id="ModeAuto::verify_within_distance" name="ModeAuto::verify_within_distance">
+<area shape="rect" id="node1" title=" " alt="" coords="5,65,168,109"/>
+<area shape="rect" id="node2" href="$classModeAuto.html#a17e7b375e52e02ac06ebf7f98878660c" title=" " alt="" coords="216,65,381,109"/>
+<area shape="rect" id="node3" href="$classModeRTL.html#a76483f10d210b7829f6eed8b5b9fcc9d" title=" " alt="" coords="439,5,601,49"/>
+<area shape="rect" id="node4" href="$classModeLoiter.html#a7f3b456ca6125619c43f92c7c4a7f12d" title=" " alt="" coords="658,95,830,139"/>
+<area shape="rect" id="node5" href="$classModeGuided.html#a499c6683ef911ab3d683bf30a0724a53" title=" " alt="" coords="430,125,610,169"/>
+</map>
