@@ -347,10 +347,7 @@ int LobotSerialServoReadVin(HardwareSerial &SerialX, uint8_t id)
  *  END of Arduino control code released by LewanSoul
  */
 
-LewanSoul::LewanSoul(bool debug)
-{
-  _debug = debug; // Currently unused
-}
+LewanSoul::LewanSoul()
 
 void LewanSoul::setup()
 {

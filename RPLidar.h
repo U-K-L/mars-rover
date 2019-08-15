@@ -29,7 +29,7 @@
 
 #pragma once
 
-#include "Arduino.h"
+#include <Arduino.h>
 #include "inc/rptypes.h"
 #include "inc/rplidar_cmd.h"
 
