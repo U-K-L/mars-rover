@@ -1,7 +1,0 @@
-<map id="Linux::RCInput::_update_periods" name="Linux::RCInput::_update_periods">
-<area shape="rect" id="node1" title=" " alt="" coords="221,107,387,151"/>
-<area shape="rect" id="node2" href="$classLinux_1_1RCInput__Navio2.html#aa60d05a1d204b54e64b01da4193f3302" title=" " alt="" coords="10,5,169,49"/>
-<area shape="rect" id="node3" href="$classLinux_1_1RCInput__UDP.html#a7b59962897eba14a2499dc2269bea283" title=" " alt="" coords="17,73,162,117"/>
-<area shape="rect" id="node4" href="$classLinux_1_1RCInput__UART.html#a62de76b97c1a63a99b5777b262d27f4f" title=" " alt="" coords="13,141,166,185"/>
-<area shape="rect" id="node5" href="$classLinux_1_1RCInput__SoloLink.html#ac8c8b6e68d56f07bcb64a23eb15b5633" title=" " alt="" coords="5,209,173,253"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AP_InertialSensor_Invensense::get_auxiliary_bus" name="AP_InertialSensor_Invensense::get_auxiliary_bus">
-<area shape="rect" id="node1" title=" " alt="" coords="6,39,210,83"/>
-<area shape="rect" id="node2" href="$classAP__InertialSensor__Invensense.html#a61db3707128a290f9ed086a00dd211bd" title=" " alt="" coords="259,5,464,49"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a51dc074d450d02eedf40229f33d80c16" title=" " alt="" coords="288,73,435,117"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a1a5cc08a6d02761ffb62e2a46aab11e3" title=" " alt="" coords="513,13,695,41"/>
-</map>

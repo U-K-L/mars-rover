@@ -1,9 +1,0 @@
-<map id="libraries/APM_Control/AP_AutoTune.h" name="libraries/APM_Control/AP_AutoTune.h">
-<area shape="rect" id="node1" title=" " alt="" coords="179,6,329,50"/>
-<area shape="rect" id="node2" href="$AP__AutoTune_8cpp.html" title=" " alt="" coords="4,99,155,143"/>
-<area shape="rect" id="node3" href="$AP__PitchController_8h.html" title=" " alt="" coords="179,99,329,143"/>
-<area shape="rect" id="node6" href="$AP__RollController_8h.html" title=" " alt="" coords="354,99,504,143"/>
-<area shape="rect" id="node4" href="$AP__PitchController_8cpp.html" title=" " alt="" coords="82,193,243,237"/>
-<area shape="rect" id="node5" href="$APM__Control_8h.html" title=" " alt="" coords="267,193,417,237"/>
-<area shape="rect" id="node7" href="$AP__RollController_8cpp.html" title=" " alt="" coords="442,193,597,237"/>
-</map>

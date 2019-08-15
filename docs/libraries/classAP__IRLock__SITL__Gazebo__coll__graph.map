@@ -1,6 +1,0 @@
-<map id="AP_IRLock_SITL_Gazebo" name="AP_IRLock_SITL_Gazebo">
-<area shape="rect" id="node1" title=" " alt="" coords="100,179,277,207"/>
-<area shape="rect" id="node2" href="$classIRLock.html" title=" " alt="" coords="158,99,220,127"/>
-<area shape="rect" id="node3" href="$structIRLock_1_1irlock__target__info.html" title=" " alt="" coords="5,6,176,34"/>
-<area shape="rect" id="node4" href="$structIRLock_1_1AP__IRLock__Flags.html" title=" " alt="" coords="201,6,377,34"/>
-</map>

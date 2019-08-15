@@ -1,6 +1,0 @@
-<map id="libraries/Filter/ModeFilter.h" name="libraries/Filter/ModeFilter.h">
-<area shape="rect" id="node1" title="A class to apply a mode filter which is basically picking the median value from the last x samples th..." alt="" coords="4,6,181,34"/>
-<area shape="rect" id="node2" title=" " alt="" coords="46,238,124,266"/>
-<area shape="rect" id="node3" href="$FilterClass_8h.html" title="A pure virtual interface class." alt="" coords="80,161,175,189"/>
-<area shape="rect" id="node4" href="$FilterWithBuffer_8h.html" title="A filter with a buffer. This is implemented separately to the base Filter class to get around restric..." alt="" coords="130,83,253,111"/>
-</map>

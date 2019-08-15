@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSerialDevice.html" title=" " alt="" coords="5,83,101,111"/>
-<area shape="rect" id="node2" href="$classConsoleDevice.html" title=" " alt="" coords="158,5,269,33"/>
-<area shape="rect" id="node3" href="$classTCPServerDevice.html" title=" " alt="" coords="149,57,277,85"/>
-<area shape="rect" id="node4" href="$classUARTDevice.html" title=" " alt="" coords="164,109,262,137"/>
-<area shape="rect" id="node5" href="$classUDPDevice.html" title=" " alt="" coords="168,161,258,189"/>
-</map>

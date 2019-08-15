@@ -1,6 +1,0 @@
-<map id="setup" name="setup">
-<area shape="rect" id="node1" title=" " alt="" coords="5,43,59,71"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="106,5,254,49"/>
-<area shape="rect" id="node3" href="$UART__test_8cpp.html#a437f0b278eef26b876fd7f0e4cf85503" title=" " alt="" coords="138,73,222,101"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title=" " alt="" coords="302,65,453,109"/>
-</map>

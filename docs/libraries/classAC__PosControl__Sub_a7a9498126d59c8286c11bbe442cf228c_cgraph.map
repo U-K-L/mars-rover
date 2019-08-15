@@ -1,7 +1,0 @@
-<map id="AC_PosControl_Sub::relax_alt_hold_controllers" name="AC_PosControl_Sub::relax_alt_hold_controllers">
-<area shape="rect" id="node1" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="5,73,179,117"/>
-<area shape="rect" id="node2" href="$classAP__InertialNav.html#ac47da3c171cdcaabb4bc3a2749762461" title=" " alt="" coords="251,5,387,49"/>
-<area shape="rect" id="node3" href="$classAP__InertialNav.html#a0bfe83fb80c4340b39987b25c26659b6" title=" " alt="" coords="251,73,387,117"/>
-<area shape="rect" id="node4" href="$classAP__AHRS__View.html#ae6d7aca4137258820ea6b04f2f925734" title=" " alt="" coords="227,141,411,185"/>
-<area shape="rect" id="node5" href="$classAP__AHRS.html#afc779d96a3908a857df88c3c9e599f6e" title=" " alt="" coords="459,141,607,185"/>
-</map>

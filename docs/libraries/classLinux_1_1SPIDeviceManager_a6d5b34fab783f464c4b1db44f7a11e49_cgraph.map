@@ -1,9 +1,0 @@
-<map id="Linux::SPIDeviceManager::_create_device" name="Linux::SPIDeviceManager::_create_device">
-<area shape="rect" id="node1" title=" " alt="" coords="6,49,181,93"/>
-<area shape="rect" id="node2" href="$classLinux_1_1SPIBus.html#a347b2eef05c77bc33f7e94923b8facd7" title=" " alt="" coords="230,57,372,85"/>
-<area shape="rect" id="node3" href="$stdio_8h.html#a37c1e8ce8a2b411fa666dc33972a2cec" title=" " alt="" coords="445,5,510,33"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="421,57,533,85"/>
-<area shape="rect" id="node7" href="$posix_8c.html#add46ab98f32b76457852dbb872842bf2" title="POSIX strerror() &#45; convert POSIX errno to text with user message." alt="" coords="445,109,509,137"/>
-<area shape="rect" id="node5" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="626,27,683,55"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="581,79,728,123"/>
-</map>

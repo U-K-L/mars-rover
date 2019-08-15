@@ -1,7 +1,0 @@
-<map id="AP_AHRS_NavEKF::get_rotation_body_to_ned" name="AP_AHRS_NavEKF::get_rotation_body_to_ned">
-<area shape="rect" id="node1" title=" " alt="" coords="459,49,626,93"/>
-<area shape="rect" id="node2" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="297,5,343,33"/>
-<area shape="rect" id="node3" href="$classSoloGimbalEKF.html#a3be12acb5c78532662967b12d611800b" title=" " alt="" coords="233,57,407,85"/>
-<area shape="rect" id="node4" href="$classAP__Mount__Servo.html#af3b79839d37536f6bb7ab56104d77e2f" title=" " alt="" coords="229,109,411,137"/>
-<area shape="rect" id="node5" href="$classAP__Mount__Servo.html#a4e46d4c891b157986810f9fba8eb69c6" title=" " alt="" coords="6,109,180,137"/>
-</map>

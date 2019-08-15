@@ -1,9 +1,0 @@
-<map id="NavEKF2_core::send_status_report" name="NavEKF2_core::send_status_report">
-<area shape="rect" id="node1" title=" " alt="" coords="6,109,154,153"/>
-<area shape="rect" id="node2" href="$classLocation.html#a02afc332b5f374b923aa57ec0a63c1af" title=" " alt="" coords="448,65,560,93"/>
-<area shape="rect" id="node6" href="$classNavEKF2__core.html#a1f512c939771330fe9d2bec4dc2b0a48" title=" " alt="" coords="203,117,399,145"/>
-<area shape="rect" id="node7" href="$classVector3.html#afcdfe81173c23d57e4a53a0282cddae7" title=" " alt="" coords="246,169,356,197"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title=" " alt="" coords="639,5,710,33"/>
-<area shape="rect" id="node4" href="$classLocation.html#aa23d345c5562140fb21682f9cc0cc247" title=" " alt="" coords="608,57,741,101"/>
-<area shape="rect" id="node5" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="790,95,840,123"/>
-</map>

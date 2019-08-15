@@ -1,5 +1,0 @@
-<map id="AP_BattMonitor_SMBus::init" name="AP_BattMonitor_SMBus::init">
-<area shape="rect" id="node1" title=" " alt="" coords="5,39,171,83"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDevice.html#a5d6a208d57d47068884af3a4fb90f1a2" title=" " alt="" coords="219,5,394,49"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor__SMBus.html#a86932bed590a29ad9c84bdf1bb8d6f23" title=" " alt="" coords="224,73,389,117"/>
-</map>

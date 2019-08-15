@@ -1,8 +1,0 @@
-<map id="NavEKF2::getWind" name="NavEKF2::getWind">
-<area shape="rect" id="node1" title=" " alt="" coords="707,43,842,71"/>
-<area shape="rect" id="node2" href="$classNavEKF2.html#a2e17c7a8905faca59fb404ff698f4193" title=" " alt="" coords="470,13,658,41"/>
-<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#a5f28b4c332a397764657c26fc5edd035" title=" " alt="" coords="476,65,652,109"/>
-<area shape="rect" id="node3" href="$classNavEKF2.html#ae038ac654f847b58d6cd0fbc75d2fdd9" title=" " alt="" coords="250,13,396,41"/>
-<area shape="rect" id="node4" href="$classAP__AHRS__NavEKF.html#a1c5d4cbc750d19efec25a619c34be78a" title=" " alt="" coords="6,5,176,49"/>
-<area shape="rect" id="node6" href="$classAP__OSD__Screen.html#a4df989d28855c82766ac6a64928d667c" title=" " alt="" coords="225,73,421,101"/>
-</map>

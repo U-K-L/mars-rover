@@ -1,7 +1,0 @@
-<map id="AR_AttitudeControl::get_desired_speed_accel_limited" name="AR_AttitudeControl::get_desired_speed_accel_limited">
-<area shape="rect" id="node1" title=" " alt="" coords="449,82,591,142"/>
-<area shape="rect" id="node2" href="$classAR__AttitudeControl.html#a9aab31d9702c59bf0cd5dbfc8db2fc6b" title=" " alt="" coords="221,5,387,49"/>
-<area shape="rect" id="node3" href="$classAR__AttitudeControl.html#aa6d93dc014f5037bbcd88e96a392cc5e" title=" " alt="" coords="6,47,160,91"/>
-<area shape="rect" id="node4" href="$classAR__WPNav.html#a537e00d4cacfe212829be555575c66f4" title=" " alt="" coords="12,141,153,169"/>
-<area shape="rect" id="node5" href="$classAR__WPNav.html#a06e03e3a27331e86b3817dca3f0167af" title=" " alt="" coords="208,175,400,219"/>
-</map>

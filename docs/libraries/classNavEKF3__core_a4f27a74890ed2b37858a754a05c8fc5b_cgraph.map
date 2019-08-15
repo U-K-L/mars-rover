@@ -1,9 +1,0 @@
-<map id="NavEKF3_core::CovarianceInit" name="NavEKF3_core::CovarianceInit">
-<area shape="rect" id="node1" title=" " alt="" coords="6,95,210,123"/>
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="329,5,367,33"/>
-<area shape="rect" id="node3" href="$classNavEKF3__core.html#a9bb44692c2b0233ac003e232803c38fe" title=" " alt="" coords="265,57,431,101"/>
-<area shape="rect" id="node6" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="315,125,381,153"/>
-<area shape="rect" id="node7" href="$classNavEKF3__core.html#a96917982439240a9fedada4c97345044" title=" " alt="" coords="258,177,438,221"/>
-<area shape="rect" id="node4" href="$classNavEKF3__core.html#a60c1c2314069524260554d324819058a" title=" " alt="" coords="485,39,664,67"/>
-<area shape="rect" id="node5" href="$classNavEKF3__core.html#a668056e5b2efae63163fc41aa7b7b1fd" title=" " alt="" coords="489,91,661,119"/>
-</map>

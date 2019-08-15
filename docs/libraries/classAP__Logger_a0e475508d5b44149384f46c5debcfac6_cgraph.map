@@ -1,8 +1,0 @@
-<map id="AP_Logger::Write_RPM" name="AP_Logger::Write_RPM">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,170,85"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="232,5,366,33"/>
-<area shape="rect" id="node4" href="$classAP__RPM.html#a6222178dcb331b70cbf292cbba8fd8eb" title=" " alt="" coords="232,57,365,85"/>
-<area shape="rect" id="node6" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="219,109,378,137"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="441,5,540,33"/>
-<area shape="rect" id="node5" href="$classAP__RPM.html#a9c5715bbd3d39c3b66960e411644457d" title=" " alt="" coords="427,57,554,85"/>
-</map>

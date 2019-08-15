@@ -1,7 +1,0 @@
-<map id="libraries/AP_Camera/AP_Camera.h" name="libraries/AP_Camera/AP_Camera.h">
-<area shape="rect" id="node1" title="Photo or video camera manager, with EEPROM&#45;backed storage of constants." alt="" coords="301,6,445,50"/>
-<area shape="rect" id="node2" href="$AP__Camera_8cpp.html" title=" " alt="" coords="5,99,149,143"/>
-<area shape="rect" id="node3" href="$AP__Mission__Commands_8cpp.html" title=" " alt="" coords="174,99,369,143"/>
-<area shape="rect" id="node4" href="$GCS__Common_8cpp.html" title=" " alt="" coords="394,99,555,143"/>
-<area shape="rect" id="node5" href="$RC__Channel_8cpp.html" title=" " alt="" coords="579,99,727,143"/>
-</map>

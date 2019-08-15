@@ -1,7 +1,0 @@
-<map id="libraries/SITL/SIM_Multicopter.h" name="libraries/SITL/SIM_Multicopter.h">
-<area shape="rect" id="node1" title=" " alt="" coords="79,6,205,50"/>
-<area shape="rect" id="node2" href="$SITL__cmdline_8cpp.html" title=" " alt="" coords="5,193,163,237"/>
-<area shape="rect" id="node3" href="$SIM__Multicopter_8cpp.html" title=" " alt="" coords="79,99,205,143"/>
-<area shape="rect" id="node4" href="$SIM__QuadPlane_8h.html" title=" " alt="" coords="230,99,356,143"/>
-<area shape="rect" id="node5" href="$SIM__QuadPlane_8cpp.html" title=" " alt="" coords="230,193,356,237"/>
-</map>

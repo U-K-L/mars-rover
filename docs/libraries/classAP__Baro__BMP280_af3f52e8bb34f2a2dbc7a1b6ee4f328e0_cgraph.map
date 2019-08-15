@@ -1,6 +1,0 @@
-<map id="AP_Baro_BMP280::_update_pressure" name="AP_Baro_BMP280::_update_pressure">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,194,79"/>
-<area shape="rect" id="node2" href="$classAP__Baro__Backend.html#adf46bf795e1e13967264596cf4faadd7" title=" " alt="" coords="243,43,458,71"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#a0f2f5b99445cb04a204cbf48819d82c0" title=" " alt="" coords="507,5,640,49"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="541,73,605,101"/>
-</map>

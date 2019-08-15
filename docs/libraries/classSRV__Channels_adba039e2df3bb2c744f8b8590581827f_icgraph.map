@@ -1,8 +1,0 @@
-<map id="SRV_Channels::set_range" name="SRV_Channels::set_range">
-<area shape="rect" id="node1" title=" " alt="" coords="411,115,589,143"/>
-<area shape="rect" id="node2" href="$classAP__MotorsHeli__RSC.html#aeb6143de2bc88e0540acd68349f61c73" title=" " alt="" coords="209,73,362,117"/>
-<area shape="rect" id="node6" href="$classAP__MotorsHeli.html#aa28a743a70aecbc9b4b50ed7fdcce233" title=" " alt="" coords="212,141,359,185"/>
-<area shape="rect" id="node3" href="$classAP__MotorsHeli__Quad.html#a60c6d97a61975ec1ebccb8f717071977" title=" " alt="" coords="8,5,158,49"/>
-<area shape="rect" id="node4" href="$classAP__MotorsHeli__Dual.html#af9f3d3cb5c7d59106219ad51e02df7a9" title=" " alt="" coords="10,141,155,185"/>
-<area shape="rect" id="node5" href="$classAP__MotorsHeli__Single.html#a018454351a5f35b808c933e3cab29a04" title=" " alt="" coords="5,73,160,117"/>
-</map>

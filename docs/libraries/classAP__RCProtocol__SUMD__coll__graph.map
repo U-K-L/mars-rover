@@ -1,7 +1,0 @@
-<map id="AP_RCProtocol_SUMD" name="AP_RCProtocol_SUMD">
-<area shape="rect" id="node1" title=" " alt="" coords="233,115,393,143"/>
-<area shape="rect" id="node2" href="$classAP__RCProtocol__Backend.html" title=" " alt="" coords="61,14,235,42"/>
-<area shape="rect" id="node3" href="$classAP__RCProtocol.html" title=" " alt="" coords="5,115,120,143"/>
-<area shape="rect" id="node4" href="$classSoftSerial.html" title=" " alt="" coords="266,14,344,42"/>
-<area shape="rect" id="node5" href="$structAP__RCProtocol__SUMD_1_1ReceiverFcPacketHoTT.html" title=" " alt="" coords="370,6,539,50"/>
-</map>

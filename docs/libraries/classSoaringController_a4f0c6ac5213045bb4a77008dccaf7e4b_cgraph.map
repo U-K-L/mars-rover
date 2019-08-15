@@ -1,8 +1,0 @@
-<map id="SoaringController::suppress_throttle" name="SoaringController::suppress_throttle">
-<area shape="rect" id="node1" title=" " alt="" coords="6,73,138,117"/>
-<area shape="rect" id="node2" href="$classSoaringController.html#a33f22b5c75eb366e8d41bcf9ffe7b14c" title=" " alt="" coords="194,5,350,49"/>
-<area shape="rect" id="node4" href="$classAP__SpdHgtControl.html#a5a2fcce0738c8f617bc8432c35585ef3" title=" " alt="" coords="186,73,358,117"/>
-<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="205,141,339,169"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a6573f5db06887fb66661ecb18e03ec3f" title=" " alt="" coords="405,5,565,49"/>
-<area shape="rect" id="node6" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="436,141,535,169"/>
-</map>

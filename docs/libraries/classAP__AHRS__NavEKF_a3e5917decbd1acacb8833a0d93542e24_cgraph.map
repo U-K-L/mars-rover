@@ -1,7 +1,0 @@
-<map id="AP_AHRS_NavEKF::resetHeightDatum" name="AP_AHRS_NavEKF::resetHeightDatum">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,221,101"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="270,13,469,41"/>
-<area shape="rect" id="node4" href="$classNavEKF3.html#aeff588883c2a757adfa1ecb4031d0bb4" title=" " alt="" coords="273,65,466,93"/>
-<area shape="rect" id="node5" href="$classNavEKF2.html#a6f6a861ea9a4227458a543458469eace" title=" " alt="" coords="273,117,466,145"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="518,5,706,49"/>
-</map>

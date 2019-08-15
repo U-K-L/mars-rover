@@ -1,7 +1,0 @@
-<map id="AP_Button::timer_update" name="AP_Button::timer_update">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,176,59"/>
-<area shape="rect" id="node2" href="$classAP__Button.html#aba35712bc3a265fab26d9a35823537ac" title=" " alt="" coords="225,5,375,33"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a59336c5fceaf28a76d1df1581a87a25d" title=" " alt="" coords="238,57,362,85"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#a453e2829832c783a5337849218390efc" title=" " alt="" coords="424,5,571,33"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="448,57,547,85"/>
-</map>

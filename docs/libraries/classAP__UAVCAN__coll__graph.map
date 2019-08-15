@@ -1,6 +1,0 @@
-<map id="AP_UAVCAN" name="AP_UAVCAN">
-<area shape="rect" id="node1" title=" " alt="" coords="211,102,311,130"/>
-<area shape="rect" id="node2" title=" " alt="" coords="4,7,160,35"/>
-<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="185,7,337,35"/>
-<area shape="rect" id="node4" href="$structAP__UAVCAN_1_1led__device.html" title=" " alt="" coords="475,7,647,35"/>
-</map>

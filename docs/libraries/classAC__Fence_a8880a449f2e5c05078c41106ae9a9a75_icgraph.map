@@ -1,5 +1,0 @@
-<map id="AC_Fence::pre_arm_check_circle" name="AC_Fence::pre_arm_check_circle">
-<area shape="rect" id="node1" title=" " alt="" coords="464,5,648,49"/>
-<area shape="rect" id="node2" href="$classAC__Fence.html#ae46cc9ba79d869296585e41a2702621e" title="pre_arm_check &#45; returns true if all pre&#45;takeoff checks have completed successfully" alt="" coords="232,13,416,41"/>
-<area shape="rect" id="node3" href="$classAP__Arming.html#a98bcd9c01b012d94e1ed4239f63c6207" title=" " alt="" coords="6,13,184,41"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CompassCalibrator" name="CompassCalibrator">
-<area shape="rect" id="node1" title=" " alt="" coords="102,257,236,285"/>
-<area shape="rect" id="node2" href="$classCompassCalibrator_1_1param__t.html" title=" " alt="" coords="5,147,147,191"/>
-<area shape="rect" id="node3" href="$classVector3.html" title=" " alt="" coords="19,14,133,42"/>
-<area shape="rect" id="node4" href="$classCompassCalibrator_1_1CompassSample.html" title=" " alt="" coords="171,147,313,191"/>
-<area shape="rect" id="node5" href="$classCompassCalibrator_1_1AttitudeSample.html" title=" " alt="" coords="171,6,313,50"/>
-</map>

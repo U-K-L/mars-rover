@@ -1,8 +1,0 @@
-<map id="AP_Baro_KellerLD::_read" name="AP_Baro_KellerLD::_read">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,181,85"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="251,5,424,33"/>
-<area shape="rect" id="node3" href="$classAP__Baro__Backend.html#adf46bf795e1e13967264596cf4faadd7" title=" " alt="" coords="230,57,445,85"/>
-<area shape="rect" id="node6" href="$classAP__Baro__KellerLD.html#ac198bf23a0936fa3ce62f45a4617f1c4" title=" " alt="" coords="230,109,445,153"/>
-<area shape="rect" id="node4" href="$classAP__Baro.html#a0f2f5b99445cb04a204cbf48819d82c0" title=" " alt="" coords="493,19,627,63"/>
-<area shape="rect" id="node5" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="528,87,592,115"/>
-</map>

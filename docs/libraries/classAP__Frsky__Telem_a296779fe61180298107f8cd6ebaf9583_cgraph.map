@@ -1,6 +1,0 @@
-<map id="AP_Frsky_Telem::calc_gps_latlng" name="AP_Frsky_Telem::calc_gps_latlng">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,159,67"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="238,5,306,33"/>
-<area shape="rect" id="node4" href="$classAP__GPS.html#a14652c171d9c34d23f22f23b1ab04d12" title=" " alt="" coords="208,57,336,85"/>
-<area shape="rect" id="node3" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="385,5,546,33"/>
-</map>

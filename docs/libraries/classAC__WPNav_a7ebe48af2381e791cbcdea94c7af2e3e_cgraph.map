@@ -1,7 +1,0 @@
-<map id="AC_WPNav::shift_wp_origin_to_current_pos" name="AC_WPNav::shift_wp_origin_to_current_pos">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,163,151"/>
-<area shape="rect" id="node2" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title=" " alt="" coords="236,5,372,49"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#a2f085914146edcdba66690633f521aac" title="get_pos_target &#45; get target as position vector (from home in cm)" alt="" coords="234,73,374,117"/>
-<area shape="rect" id="node4" href="$classAC__PosControl.html#ad70a79da0c5dcde97ccf848b03e7356a" title="set_pos_target in cm from home" alt="" coords="235,141,373,185"/>
-<area shape="rect" id="node5" href="$classAC__PosControl.html#aa979d20c99f08a96d0f482c1dad50f78" title="freeze_ff_z &#45; used to stop the feed forward being calculated during a known discontinuity" alt="" coords="211,209,397,237"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="GCS_MAVLINK::send_fence_status" name="GCS_MAVLINK::send_fence_status">
-<area shape="rect" id="node1" title=" " alt="" coords="6,101,197,145"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#ad7eb5eb7d80cfbcb69839b497bff7a46" title=" " alt="" coords="302,5,381,33"/>
-<area shape="rect" id="node4" href="$classAC__Fence.html#a6bed7149b276214cbe954b1f977cbdab" title="enabled &#45; returns true if fence is enabled" alt="" coords="272,57,411,85"/>
-<area shape="rect" id="node5" href="$classAC__Fence.html#a3370da9e8d33b90de3220ef5e4c7fd44" title="get_breaches &#45; returns bit mask of the fence types that have been breached" alt="" coords="255,109,428,137"/>
-<area shape="rect" id="node6" href="$classAC__Fence.html#aea58c33625cf5f9a213ccd4b316ba0d2" title="get_breach_count &#45; returns number of times we have breached the fence" alt="" coords="262,161,421,205"/>
-<area shape="rect" id="node7" href="$classAC__Fence.html#a0c8a7ebb0c109a3b8ee01fe04b228e05" title="get_breach_time &#45; returns time the fence was breached" alt="" coords="246,229,437,257"/>
-<area shape="rect" id="node3" href="$classAC__Fence.html#a564e4d513a44df29b5bc6b0424aeedf8" title=" " alt="" coords="485,5,656,33"/>
-</map>

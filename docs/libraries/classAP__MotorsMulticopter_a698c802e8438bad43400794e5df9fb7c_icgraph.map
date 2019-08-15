@@ -1,9 +1,0 @@
-<map id="AP_MotorsMulticopter::get_compensation_gain" name="AP_MotorsMulticopter::get_compensation_gain">
-<area shape="rect" id="node1" title=" " alt="" coords="232,175,402,219"/>
-<area shape="rect" id="node2" href="$classAP__MotorsMatrixTS.html#ab59e83167f9e74ad1f5576a09c40fc2b" title=" " alt="" coords="10,5,179,49"/>
-<area shape="rect" id="node3" href="$classAP__MotorsTailsitter.html#a77524bd10bf916c603d20f9baf871fc1" title=" " alt="" coords="6,73,183,117"/>
-<area shape="rect" id="node4" href="$classAP__MotorsSingle.html#ae143d0ad4b95db4a228e3767c79224b5" title=" " alt="" coords="10,141,179,185"/>
-<area shape="rect" id="node5" href="$classAP__MotorsCoax.html#a6036d8d3fd2948640fd0d7461c4475cd" title=" " alt="" coords="13,209,176,253"/>
-<area shape="rect" id="node6" href="$classAP__MotorsTri.html#a4aad996948123d2d8caecb7de264ebc1" title=" " alt="" coords="21,277,168,321"/>
-<area shape="rect" id="node7" href="$classAP__MotorsMatrix.html#a08dfb63192b28d8480871171c4db6a90" title=" " alt="" coords="11,345,179,389"/>
-</map>

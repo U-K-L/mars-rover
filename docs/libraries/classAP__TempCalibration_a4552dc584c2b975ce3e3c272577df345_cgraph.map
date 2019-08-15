@@ -1,6 +1,0 @@
-<map id="AP_TempCalibration::setup_learning" name="AP_TempCalibration::setup_learning">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,149,79"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a8aec57eb0b7a79044cbc1f0ca4b75bcf" title=" " alt="" coords="251,5,325,33"/>
-<area shape="rect" id="node4" href="$classAP__Baro.html#ae7be7aff322792daa05c01e4f326cc42" title=" " alt="" coords="198,81,378,109"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#a92b0efed71f214529da6c54d692f1d61" title=" " alt="" coords="427,5,589,33"/>
-</map>

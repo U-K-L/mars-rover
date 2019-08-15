@@ -1,8 +1,0 @@
-<map id="GCS_MAVLINK::send_home_position" name="GCS_MAVLINK::send_home_position">
-<area shape="rect" id="node1" title=" " alt="" coords="5,49,197,93"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="285,5,358,33"/>
-<area shape="rect" id="node4" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="246,57,396,85"/>
-<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="254,109,388,137"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="446,5,616,33"/>
-<area shape="rect" id="node6" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="481,109,580,137"/>
-</map>

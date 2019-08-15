@@ -1,9 +1,0 @@
-<map id="GCS_MAVLINK::set_mode" name="GCS_MAVLINK::set_mode">
-<area shape="rect" id="node1" title=" " alt="" coords="1104,46,1285,74"/>
-<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a7ff42b90dc344d26bf27e7ed3f21c656" title=" " alt="" coords="867,38,1056,82"/>
-<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a19b41aa20ad8b57801f6554551e29b05" title=" " alt="" coords="643,7,818,51"/>
-<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#ac8b61d6ff34dbae1be71540cf87b15ee" title=" " alt="" coords="429,73,592,117"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a29e2941413d50ab63cd70f5beadef19a" title=" " alt="" coords="427,5,594,49"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#abc79cdd8393234b66f2e8217a527f8f9" title=" " alt="" coords="216,7,379,51"/>
-<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,38,168,82"/>
-</map>

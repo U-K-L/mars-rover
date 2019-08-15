@@ -1,9 +1,0 @@
-<map id="AP_Baro_ICM20789::send_cmd16" name="AP_Baro_ICM20789::send_cmd16">
-<area shape="rect" id="node1" title=" " alt="" coords="934,24,1114,68"/>
-<area shape="rect" id="node2" href="$classAP__Baro__ICM20789.html#a238e5cd7bf2ef592564e04b114521724" title=" " alt="" coords="488,32,656,60"/>
-<area shape="rect" id="node6" href="$classAP__Baro__ICM20789.html#ae6777424f6602441291e24c2e7610839" title=" " alt="" coords="706,24,884,68"/>
-<area shape="rect" id="node7" href="$classAP__Baro__ICM20789.html#ae4021d501b3a647d7990fa281c6980a3" title=" " alt="" coords="704,92,885,120"/>
-<area shape="rect" id="node3" href="$classAP__Baro__ICM20789.html#a2e0e725561f9b022d67f24f025433395" title=" " alt="" coords="254,32,439,60"/>
-<area shape="rect" id="node4" href="$classAP__Baro.html#a942db790233528bfbb4d9a07c3454360" title=" " alt="" coords="106,32,206,60"/>
-<area shape="rect" id="node5" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,32,59,60"/>
-</map>

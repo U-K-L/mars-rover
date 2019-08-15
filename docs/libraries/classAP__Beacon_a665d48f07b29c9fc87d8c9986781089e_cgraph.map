@@ -1,6 +1,0 @@
-<map id="AP_Beacon::get_vehicle_position_ned" name="AP_Beacon::get_vehicle_position_ned">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,173,67"/>
-<area shape="rect" id="node2" href="$classAP__Beacon.html#ad2c3fd428ea9602b00c1fc7a8d253a37" title=" " alt="" coords="221,5,400,33"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="256,57,365,85"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="449,57,538,85"/>
-</map>

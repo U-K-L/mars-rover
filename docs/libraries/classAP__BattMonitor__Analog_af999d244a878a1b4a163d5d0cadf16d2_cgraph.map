@@ -1,4 +1,0 @@
-<map id="AP_BattMonitor_Analog::has_current" name="AP_BattMonitor_Analog::has_current">
-<area shape="rect" id="node1" title="returns true if battery monitor provides current info" alt="" coords="6,5,170,49"/>
-<area shape="rect" id="node2" href="$classAP__BattMonitor__Params.html#a401e9b141c1337d938290611e33d8e29" title=" " alt="" coords="219,5,387,49"/>
-</map>

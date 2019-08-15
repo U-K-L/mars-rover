@@ -1,9 +1,0 @@
-<map id="NavEKF3::updateLaneSwitchYawResetData" name="NavEKF3::updateLaneSwitchYawResetData">
-<area shape="rect" id="node1" title=" " alt="" coords="854,34,1050,78"/>
-<area shape="rect" id="node2" href="$classNavEKF3.html#a3d065ec0f57eb7e0d25d6c31c743c5ff" title=" " alt="" coords="616,15,805,43"/>
-<area shape="rect" id="node4" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title=" " alt="" coords="631,69,790,97"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a4a6ab06c1d395400dbe7312f9ef1b51d" title=" " alt="" coords="362,5,545,49"/>
-<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title=" " alt="" coords="339,73,568,101"/>
-<area shape="rect" id="node6" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="102,73,290,101"/>
-<area shape="rect" id="node7" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,73,53,101"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="RCMapper::roll" name="RCMapper::roll">
-<area shape="rect" id="node1" title="roll &#45; return input channel number for roll / aileron input" alt="" coords="222,13,333,41"/>
-<area shape="rect" id="node2" href="$classSRV__Channels.html#a465e1e727a9e9897cc8a4667b95b2834" title=" " alt="" coords="5,5,174,49"/>
-</map>

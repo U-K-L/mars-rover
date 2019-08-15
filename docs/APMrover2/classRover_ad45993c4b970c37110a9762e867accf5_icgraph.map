@@ -1,8 +1,0 @@
-<map id="Rover::set_home_to_current_location" name="Rover::set_home_to_current_location">
-<area shape="rect" id="node1" title=" " alt="" coords="453,87,595,131"/>
-<area shape="rect" id="node2" href="$classRover.html#a92f3479869a8d896ecc3c2b59b49e879" title=" " alt="" coords="251,5,389,33"/>
-<area shape="rect" id="node3" href="$classRC__Channel__Rover.html#abeef07ee78896cacb25340467bd6255d" title=" " alt="" coords="239,57,401,101"/>
-<area shape="rect" id="node4" href="$classModeAuto.html#a866d096f0b2d651e62d270fef03d1a45" title=" " alt="" coords="235,125,405,153"/>
-<area shape="rect" id="node6" href="$classGCS__MAVLINK__Rover.html#a149f7d1cff5a58ce92af38211d0e2661" title=" " alt="" coords="237,177,403,237"/>
-<area shape="rect" id="node5" href="$classModeAuto.html#a31ef596d25ce081bc7fa4e14c7691baa" title=" " alt="" coords="5,125,187,153"/>
-</map>

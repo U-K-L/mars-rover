@@ -1,7 +1,0 @@
-<map id="AP_OSD_Screen::draw_bat2used" name="AP_OSD_Screen::draw_bat2used">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,167,101"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="282,13,369,41"/>
-<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a77b0a6dab6949d6c861811bc29ed7b0b" title="consumed_mah &#45; returns total current drawn since start&#45;up in milliampere.hours" alt="" coords="217,65,434,93"/>
-<area shape="rect" id="node5" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="240,117,410,145"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="483,5,624,49"/>
-</map>

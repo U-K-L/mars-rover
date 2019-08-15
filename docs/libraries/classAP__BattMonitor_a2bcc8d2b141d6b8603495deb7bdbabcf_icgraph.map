@@ -1,4 +1,0 @@
-<map id="AP_BattMonitor::checkPoweringOff" name="AP_BattMonitor::checkPoweringOff">
-<area shape="rect" id="node1" title=" " alt="" coords="204,5,434,33"/>
-<area shape="rect" id="node2" href="$classAP__BattMonitor.html#a2275643d2998063448035e89cba6f549" title="Read the battery voltage and current for all batteries. Should be called at 10hz." alt="" coords="6,5,154,33"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="AC_AttitudeControl::get_slew_yaw_rads" name="AC_AttitudeControl::get_slew_yaw_rads">
-<area shape="rect" id="node1" title=" " alt="" coords="582,51,728,95"/>
-<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#aa111691a6822ceea4c70c434ee6d38e7" title=" " alt="" coords="398,43,533,103"/>
-<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#a8720532877383f5bc054862f88e64dfe" title=" " alt="" coords="184,5,349,65"/>
-<area shape="rect" id="node4" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="191,89,343,133"/>
-<area shape="rect" id="node5" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,97,136,125"/>
-</map>

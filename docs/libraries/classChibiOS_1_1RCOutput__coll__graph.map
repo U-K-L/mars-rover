@@ -1,6 +1,0 @@
-<map id="ChibiOS::RCOutput" name="ChibiOS::RCOutput">
-<area shape="rect" id="node1" title=" " alt="" coords="172,131,309,159"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1RCOutput.html" title=" " alt="" coords="5,14,144,42"/>
-<area shape="rect" id="node3" href="$structChibiOS_1_1RCOutput_1_1pwm__group.html" title=" " alt="" coords="169,6,313,50"/>
-<area shape="rect" id="node4" href="$structChibiOS_1_1RCOutput_1_1irq__state.html" title=" " alt="" coords="338,6,483,50"/>
-</map>

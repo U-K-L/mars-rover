@@ -1,7 +1,0 @@
-<map id="ChibiOS::UARTDriver::dma_tx_allocate" name="ChibiOS::UARTDriver::dma_tx_allocate">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,156,67"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1UARTDriver.html#a301b0d8b7b4124fbce338b3513048062" title=" " alt="" coords="206,23,356,67"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="418,5,537,33"/>
-<area shape="rect" id="node5" href="$classByteBuffer.html#a340aabf4c3be89a8b3445d1da3648bce" title=" " alt="" coords="406,57,549,85"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="597,5,696,33"/>
-</map>

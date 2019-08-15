@@ -1,9 +1,0 @@
-<map id="Radio_CC2500::Reset" name="Radio_CC2500::Reset">
-<area shape="rect" id="node1" title=" " alt="" coords="5,73,160,101"/>
-<area shape="rect" id="node2" href="$classRadio__CC2500.html#ac8cf5f42756049a9982f5d0056175d8c" title=" " alt="" coords="216,13,376,41"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="222,65,370,109"/>
-<area shape="rect" id="node5" href="$classRadio__CC2500.html#a36534cad0ad6e38cb21a4a08e58c53fc" title=" " alt="" coords="208,133,384,161"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDevice.html#a57f3011db8365847b675246cbd0ccc7f" title=" " alt="" coords="435,5,584,49"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="432,125,587,169"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="635,133,808,161"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="AP_Beacon_Marvelmind::process_beacons_distances_datagram" name="AP_Beacon_Marvelmind::process_beacons_distances_datagram">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,202,125"/>
-<area shape="rect" id="node2" href="$classAP__Beacon__Marvelmind.html#ae8eedbaeef3c03dd212e7b1353ef8052" title=" " alt="" coords="251,5,419,49"/>
-<area shape="rect" id="node3" href="$classAP__Beacon__Backend.html#a92a1e60c6db04f3ce482aee9a80261e5" title=" " alt="" coords="255,73,414,117"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="467,111,576,139"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="625,111,714,139"/>
-</map>

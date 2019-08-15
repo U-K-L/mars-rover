@@ -1,4 +1,0 @@
-<map id="AnalogIn_Navio2::servorail_voltage" name="AnalogIn_Navio2::servorail_voltage">
-<area shape="rect" id="node1" title=" " alt="" coords="6,5,186,49"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogSource.html#a97f02eb815fd2f568df7b927d6f6b559" title=" " alt="" coords="236,5,399,49"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AC_Fence::boundary_breached" name="AC_Fence::boundary_breached">
-<area shape="rect" id="node1" title="returns true if we&#39;ve breached the polygon boundary. simple passthrough to underlying _poly_loader ob..." alt="" coords="6,5,154,49"/>
-<area shape="rect" id="node2" href="$classAC__PolyFence__loader.html#ab892e291bfb2d345fbff450aa7cc2ca5" title=" " alt="" coords="203,5,357,49"/>
-<area shape="rect" id="node3" href="$polygon_8cpp.html#a69c7755ab39f2ede645c4542b3aed07c" title=" " alt="" coords="405,13,525,41"/>
-<area shape="rect" id="node4" href="$polygon_8cpp.html#a296ad0a1a7b2ee7ce09a49163781d7d7" title=" " alt="" coords="573,13,704,41"/>
-</map>

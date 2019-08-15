@@ -1,5 +1,0 @@
-<map id="AC_PosControl::get_distance_to_target" name="AC_PosControl::get_distance_to_target">
-<area shape="rect" id="node1" title="get_distance_to_target &#45; get horizontal distance to position target in cm (used for reporting)" alt="" coords="218,39,358,83"/>
-<area shape="rect" id="node2" href="$classAC__Loiter.html#a298e60d8781926e1885841dc3724a9c4" title="get horizontal distance to loiter target in cm" alt="" coords="6,5,170,49"/>
-<area shape="rect" id="node3" href="$classAC__Circle.html#adf75541abe28ab74f30847668f59dda2" title="get horizontal distance to loiter target in cm" alt="" coords="6,73,170,117"/>
-</map>

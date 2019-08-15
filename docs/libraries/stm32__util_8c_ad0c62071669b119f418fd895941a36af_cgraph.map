@@ -1,7 +1,0 @@
-<map id="get_fattime" name="get_fattime">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,93,59"/>
-<area shape="rect" id="node2" href="$stm32__util_8c.html#a1519a9aeb64feb239bcf5f9ad5270093" title=" " alt="" coords="141,5,286,33"/>
-<area shape="rect" id="node4" href="$stm32__util_8c.html#a7cc9028a85a39bfcdab9b549fc91721d" title=" " alt="" coords="145,57,282,85"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="333,5,432,33"/>
-<area shape="rect" id="node5" href="$stm32__util_8c.html#a0973467cd61bf6f16a40d57c4aee6277" title=" " alt="" coords="351,57,414,85"/>
-</map>

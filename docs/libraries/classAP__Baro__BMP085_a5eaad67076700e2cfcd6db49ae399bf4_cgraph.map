@@ -1,6 +1,0 @@
-<map id="AP_Baro_BMP085::_read_temp" name="AP_Baro_BMP085::_read_temp">
-<area shape="rect" id="node1" title=" " alt="" coords="6,47,218,75"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="267,5,421,49"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#ab8df2848215253ccd70298be7bb52339" title=" " alt="" coords="271,73,417,117"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="469,13,643,41"/>
-</map>

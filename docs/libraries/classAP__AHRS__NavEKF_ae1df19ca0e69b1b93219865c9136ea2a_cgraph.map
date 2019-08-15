@@ -1,9 +1,0 @@
-<map id="AP_AHRS_NavEKF::get_origin" name="AP_AHRS_NavEKF::get_origin">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,173,109"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="222,17,421,45"/>
-<area shape="rect" id="node4" href="$classNavEKF2.html#a80ecf97c17c6726160c66575095afb02" title=" " alt="" coords="239,73,404,101"/>
-<area shape="rect" id="node6" href="$classNavEKF3.html#ac108a36b646bcb242914b20a3140d9ff" title=" " alt="" coords="239,125,404,153"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="474,5,662,49"/>
-<area shape="rect" id="node5" href="$classNavEKF2__core.html#a438221bc1cc946005c10e47f4cbf7797" title=" " alt="" coords="469,73,667,101"/>
-<area shape="rect" id="node7" href="$classNavEKF3__core.html#a294296c7cecb33960362863a52ef512d" title=" " alt="" coords="469,125,667,153"/>
-</map>

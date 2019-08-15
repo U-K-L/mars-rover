@@ -1,5 +1,0 @@
-<map id="AC_PosControl::shift_alt_target" name="AC_PosControl::shift_alt_target">
-<area shape="rect" id="node1" title="shift altitude target (positive means move altitude up)" alt="" coords="6,23,151,67"/>
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="261,5,325,33"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#aa979d20c99f08a96d0f482c1dad50f78" title="freeze_ff_z &#45; used to stop the feed forward being calculated during a known discontinuity" alt="" coords="200,57,387,85"/>
-</map>

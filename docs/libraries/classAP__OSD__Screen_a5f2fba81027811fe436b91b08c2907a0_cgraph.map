@@ -1,6 +1,0 @@
-<map id="AP_OSD_Screen::draw_flightime" name="AP_OSD_Screen::draw_flightime">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,167,67"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#ae4a7bd0e29c759e12dfc5b88a8851592" title=" " alt="" coords="264,5,339,33"/>
-<area shape="rect" id="node4" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="216,57,386,85"/>
-<area shape="rect" id="node3" href="$classAP__Stats.html#a0a493c0e055800bda086e7fa49db3561" title=" " alt="" coords="436,5,599,33"/>
-</map>

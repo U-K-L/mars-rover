@@ -1,8 +1,0 @@
-<map id="RC_Channel::reset_mode_switch" name="RC_Channel::reset_mode_switch">
-<area shape="rect" id="node1" title=" " alt="" coords="6,49,181,93"/>
-<area shape="rect" id="node2" href="$classRC__Channel.html#aedb22300da87f02e47a695d89de430df" title=" " alt="" coords="230,49,402,93"/>
-<area shape="rect" id="node3" href="$classRC__Channel.html#a35dd43d363695269b38277306426f883" title=" " alt="" coords="453,5,632,33"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="488,57,597,85"/>
-<area shape="rect" id="node6" href="$classRC__Channel.html#a79cfb7c441f58d5355d21f6737236e6d" title=" " alt="" coords="451,109,634,153"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="684,57,772,85"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AP_MotorsUGV::setup_servo_output" name="AP_MotorsUGV::setup_servo_output">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,162,101"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#a7522c0412b2174273d656caec3c55317" title=" " alt="" coords="213,5,390,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#acab9e1aba9fcbde6e598169af5b3181f" title=" " alt="" coords="211,57,391,101"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#adba039e2df3bb2c744f8b8590581827f" title=" " alt="" coords="212,125,391,153"/>
-</map>

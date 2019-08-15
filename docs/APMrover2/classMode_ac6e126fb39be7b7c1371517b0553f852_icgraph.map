@@ -1,9 +1,0 @@
-<map id="Mode::stop_vehicle" name="Mode::stop_vehicle">
-<area shape="rect" id="node1" title=" " alt="" coords="397,135,533,163"/>
-<area shape="rect" id="node2" href="$classModeAuto.html#a76e521f4d768d7106551e12b6ba2a690" title=" " alt="" coords="186,5,347,33"/>
-<area shape="rect" id="node3" href="$classModeAuto.html#a5e2c24f57899cb498ccfc9fb86af100a" title=" " alt="" coords="6,83,136,111"/>
-<area shape="rect" id="node4" href="$classModeGuided.html#af4257d14a75f566998ef6ea93aa6e096" title=" " alt="" coords="194,109,340,137"/>
-<area shape="rect" id="node5" href="$classModeRTL.html#a38eb1818b778be599f0863b838c5c90d" title=" " alt="" coords="203,161,331,189"/>
-<area shape="rect" id="node6" href="$classModeSmartRTL.html#a025fa96b94d960f45692ce9807dbabb8" title=" " alt="" coords="185,213,348,241"/>
-<area shape="rect" id="node7" href="$classModeFollow.html#af09ce3286dd54d7eaf9943f32202ba4a" title=" " alt="" coords="196,265,337,293"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ChibiOS::UARTDriver::tx_complete" name="ChibiOS::UARTDriver::tx_complete">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,156,67"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="218,5,337,33"/>
-<area shape="rect" id="node4" href="$classByteBuffer.html#a340aabf4c3be89a8b3445d1da3648bce" title=" " alt="" coords="206,57,349,85"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="397,5,496,33"/>
-</map>

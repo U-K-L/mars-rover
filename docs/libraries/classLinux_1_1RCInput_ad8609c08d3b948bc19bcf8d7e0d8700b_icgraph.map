@@ -1,7 +1,0 @@
-<map id="Linux::RCInput::read" name="Linux::RCInput::read">
-<area shape="rect" id="node1" title=" " alt="" coords="240,115,384,143"/>
-<area shape="rect" id="node2" href="$classLinux_1_1RCInput__UART.html#a62de76b97c1a63a99b5777b262d27f4f" title=" " alt="" coords="22,5,175,49"/>
-<area shape="rect" id="node3" href="$classLinux_1_1RCInput__Multi.html#a0b12cfca1c9ff9bcbf8f2818d8c1007f" title=" " alt="" coords="26,73,171,117"/>
-<area shape="rect" id="node4" href="$classLinux_1_1RCInput__RCProtocol.html#a54506ab0c93089f920441e628301fd7c" title=" " alt="" coords="6,141,191,185"/>
-<area shape="rect" id="node5" href="$classLinux_1_1RCInput.html#ac311d44b1091c0e8cc137f1c9488afb7" title=" " alt="" coords="27,209,170,237"/>
-</map>

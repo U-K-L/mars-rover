@@ -1,5 +1,0 @@
-<map id="AP_InertialSensor::calc_vibration_and_clipping" name="AP_InertialSensor::calc_vibration_and_clipping">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,191,79"/>
-<area shape="rect" id="node2" href="$classAP__InertialSensor__Backend.html#a86d773e553328d1874cc8bfac1a22b10" title=" " alt="" coords="241,5,429,49"/>
-<area shape="rect" id="node3" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="262,73,407,101"/>
-</map>

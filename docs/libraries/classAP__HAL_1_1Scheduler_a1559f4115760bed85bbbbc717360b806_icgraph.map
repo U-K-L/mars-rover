@@ -1,8 +1,0 @@
-<map id="AP_HAL::Scheduler::call_delay_cb" name="AP_HAL::Scheduler::call_delay_cb">
-<area shape="rect" id="node1" title=" " alt="" coords="586,65,734,109"/>
-<area shape="rect" id="node2" href="$classHALSITL_1_1Scheduler.html#a8b298eda68e2de4c5c082f02dda3abd9" title=" " alt="" coords="387,5,530,49"/>
-<area shape="rect" id="node3" href="$classLinux_1_1Scheduler.html#a8b298eda68e2de4c5c082f02dda3abd9" title=" " alt="" coords="379,73,539,101"/>
-<area shape="rect" id="node4" href="$classChibiOS_1_1Scheduler.html#a8b298eda68e2de4c5c082f02dda3abd9" title=" " alt="" coords="389,125,528,169"/>
-<area shape="rect" id="node5" href="$classChibiOS_1_1Scheduler.html#a66d207ecd5b9d48df9546c3248929464" title=" " alt="" coords="192,125,331,169"/>
-<area shape="rect" id="node6" href="$classChibiOS_1_1Scheduler.html#a241ba4fe05070acba40af09beb5d65fc" title=" " alt="" coords="5,125,144,169"/>
-</map>

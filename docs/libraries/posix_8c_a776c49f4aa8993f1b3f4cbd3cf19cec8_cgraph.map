@@ -1,4 +1,0 @@
-<map id="fgets" name="fgets">
-<area shape="rect" id="node1" title="get a string from stdin See fdevopen() sets stream&#45;&gt;put get for TTY devices" alt="" coords="6,5,56,33"/>
-<area shape="rect" id="node2" href="$posix_8c.html#ab11a990e4f8863a1e7736e3c1d430092" title="Get byte from a TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;get = fatfs_getc() for..." alt="" coords="104,5,154,33"/>
-</map>

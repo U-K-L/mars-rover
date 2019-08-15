@@ -1,9 +1,0 @@
-<map id="AP_WindVane_Airspeed::update_speed" name="AP_WindVane_Airspeed::update_speed">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,173,101"/>
-<area shape="rect" id="node2" href="$classAP__Airspeed.html#a6bfb2eababf55852b35bdff810ca86d1" title=" " alt="" coords="222,5,408,33"/>
-<area shape="rect" id="node3" href="$classAP__WindVane__Backend.html#a3b272fc3c34174f37e8268daec71ba87" title=" " alt="" coords="230,57,399,101"/>
-<area shape="rect" id="node7" href="$classAP__Airspeed.html#a02885c320f3cedbc08c02bc8894aba04" title=" " alt="" coords="223,125,406,153"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="486,5,570,33"/>
-<area shape="rect" id="node5" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title=" " alt="" coords="463,57,593,101"/>
-<area shape="rect" id="node6" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title=" " alt="" coords="456,125,600,153"/>
-</map>

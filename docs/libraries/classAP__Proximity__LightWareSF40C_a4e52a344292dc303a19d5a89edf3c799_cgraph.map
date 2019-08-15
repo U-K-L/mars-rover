@@ -1,7 +1,0 @@
-<map id="AP_Proximity_LightWareSF40C::set_motor_direction" name="AP_Proximity_LightWareSF40C::set_motor_direction">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,207,101"/>
-<area shape="rect" id="node2" href="$classAP__Proximity.html#a50e88d57d11bfdce71e3014c8c42e9db" title=" " alt="" coords="256,5,453,33"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="275,57,434,101"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="300,125,409,153"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="502,125,591,153"/>
-</map>

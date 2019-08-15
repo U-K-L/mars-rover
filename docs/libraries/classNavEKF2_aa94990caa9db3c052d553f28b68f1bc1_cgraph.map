@@ -1,6 +1,0 @@
-<map id="NavEKF2::getFilterFaults" name="NavEKF2::getFilterFaults">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,176,59"/>
-<area shape="rect" id="node2" href="$classNavEKF2__core.html#a592b9676c553d0032005f9dba248f983" title=" " alt="" coords="225,31,428,59"/>
-<area shape="rect" id="node3" href="$classQuaternion.html#abcf4d5106b0d09f6a443050bfd8b4bc9" title=" " alt="" coords="478,5,612,33"/>
-<area shape="rect" id="node4" href="$classVector3.html#a938ff6c07ddb4789f64e2c1709a590b5" title=" " alt="" coords="489,57,602,85"/>
-</map>

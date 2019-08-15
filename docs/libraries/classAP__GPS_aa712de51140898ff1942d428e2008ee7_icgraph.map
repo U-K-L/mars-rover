@@ -1,7 +1,0 @@
-<map id="AP_GPS::inject_data" name="AP_GPS::inject_data">
-<area shape="rect" id="node1" title=" " alt="" coords="619,47,765,75"/>
-<area shape="rect" id="node2" href="$classAP__GPS.html#ab23fbd832b645879b3a7a8db446aef03" title=" " alt="" coords="419,5,570,49"/>
-<area shape="rect" id="node5" href="$classAP__GPS.html#a09fc3eb0ae4581f5d34d180431b0295f" title=" " alt="" coords="419,73,570,117"/>
-<area shape="rect" id="node3" href="$classAP__GPS.html#a3074764330bd4dfd9da851b59a6df2ed" title=" " alt="" coords="216,47,371,75"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,39,168,83"/>
-</map>

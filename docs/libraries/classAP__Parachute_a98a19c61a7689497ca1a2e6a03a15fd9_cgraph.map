@@ -1,9 +1,0 @@
-<map id="AP_Parachute::enabled" name="AP_Parachute::enabled">
-<area shape="rect" id="node1" title="enabled &#45; enable or disable parachute release" alt="" coords="6,31,168,59"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="258,5,342,33"/>
-<area shape="rect" id="node4" href="$classAP__Logger.html#a735b93604bf760fbf43dd329a3967473" title=" " alt="" coords="216,57,384,85"/>
-<area shape="rect" id="node3" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="433,5,607,33"/>
-<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="453,57,587,85"/>
-<area shape="rect" id="node7" href="$classAP__Logger.html#a32f5822b72789c7c83402b2af7544d09" title=" " alt="" coords="436,109,604,153"/>
-<area shape="rect" id="node6" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="656,57,755,85"/>
-</map>

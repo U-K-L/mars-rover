@@ -1,4 +1,0 @@
-<map id="Buzzer::update_playing_pattern" name="Buzzer::update_playing_pattern">
-<area shape="rect" id="node1" title=" " alt="" coords="166,5,327,49"/>
-<area shape="rect" id="node2" href="$classBuzzer.html#a2030506aad10c8ceb50681b8f79146f2" title="update &#45; updates buzzer according to timed_updated. Should be called at 50Hz" alt="" coords="6,13,117,41"/>
-</map>

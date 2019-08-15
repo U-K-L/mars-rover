@@ -1,7 +1,0 @@
-<map id="HALSITL::UARTDriver::receive_time_constraint_us" name="HALSITL::UARTDriver::receive_time_constraint_us">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,197,79"/>
-<area shape="rect" id="node2" href="$classHALSITL_1_1UARTDriver.html#a160c3d91ce72b5d353106235af5395d0" title=" " alt="" coords="245,35,400,79"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1UARTDriver.html#af540d04ec612fa06ec6a75b77d73ba4d" title=" " alt="" coords="448,5,603,49"/>
-<area shape="rect" id="node5" href="$classByteBuffer.html#a340aabf4c3be89a8b3445d1da3648bce" title=" " alt="" coords="454,73,597,101"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1UARTDriver.html#a8b8c6116a527641b0c1a2f907c673740" title=" " alt="" coords="651,5,805,49"/>
-</map>

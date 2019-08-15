@@ -1,7 +1,0 @@
-<map id="SoaringController::init_thermalling" name="SoaringController::init_thermalling">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,138,109"/>
-<area shape="rect" id="node2" href="$classExtendedKalmanFilter.html#a7aa3c432f9f97d2a55e01e9cdeffa8f5" title=" " alt="" coords="192,5,344,49"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a861802533d7f8a91efc39425ac9c724f" title=" " alt="" coords="187,73,349,101"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="201,125,335,153"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="397,125,496,153"/>
-</map>

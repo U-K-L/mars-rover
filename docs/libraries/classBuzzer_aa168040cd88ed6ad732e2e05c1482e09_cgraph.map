@@ -1,7 +1,0 @@
-<map id="Buzzer::update_playing_pattern" name="Buzzer::update_playing_pattern">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,167,67"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="216,5,325,33"/>
-<area shape="rect" id="node4" href="$classBuzzer.html#a7febd0198541a90c55bae1fd5db8aa0a" title="on &#45; turns the buzzer on or off" alt="" coords="228,57,313,85"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="404,5,492,33"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title=" " alt="" coords="374,57,522,85"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="AP_Motors::set_throttle" name="AP_Motors::set_throttle">
-<area shape="rect" id="node1" title=" " alt="" coords="389,115,550,143"/>
-<area shape="rect" id="node2" href="$classAC__AttitudeControl__Sub.html#a01e89bcda33d4d292631f126b21d64fc" title=" " alt="" coords="187,5,339,49"/>
-<area shape="rect" id="node3" href="$classAC__AttitudeControl__Multi.html#a3e83f3b32e305ad977cdaadf92cc80e1" title=" " alt="" coords="185,73,341,117"/>
-<area shape="rect" id="node5" href="$classAC__AttitudeControl__Heli.html#af86df98fd0b8a7cc1a58bdcbf44bb480" title=" " alt="" coords="187,141,338,185"/>
-<area shape="rect" id="node6" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="215,209,310,237"/>
-<area shape="rect" id="node4" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,81,136,109"/>
-<area shape="rect" id="node7" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="47,209,94,237"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AC_PrecLand::get_target_position_cm" name="AC_PrecLand::get_target_position_cm">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,178,79"/>
-<area shape="rect" id="node2" href="$classAC__PrecLand.html#ab74395f2f665f296b59563d398f13a60" title=" " alt="" coords="227,5,373,49"/>
-<area shape="rect" id="node5" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="264,73,336,101"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="452,13,561,41"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="641,13,730,41"/>
-<area shape="rect" id="node6" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="422,73,592,101"/>
-</map>

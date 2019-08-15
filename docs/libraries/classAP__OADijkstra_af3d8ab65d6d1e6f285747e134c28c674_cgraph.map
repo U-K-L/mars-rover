@@ -1,7 +1,0 @@
-<map id="AP_OADijkstra::polygon_fence_enabled" name="AP_OADijkstra::polygon_fence_enabled">
-<area shape="rect" id="node1" title=" " alt="" coords="6,79,170,123"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#ad7eb5eb7d80cfbcb69839b497bff7a46" title=" " alt="" coords="262,5,341,33"/>
-<area shape="rect" id="node3" href="$classAC__Fence.html#a564e4d513a44df29b5bc6b0424aeedf8" title=" " alt="" coords="432,31,603,59"/>
-<area shape="rect" id="node4" href="$classAC__Fence.html#a64c44e21372b24c2bd6ba4c3277a65eb" title="returns true if polygon fence is valid (i.e. has at least 3 sides)" alt="" coords="224,109,379,153"/>
-<area shape="rect" id="node5" href="$classAC__Fence.html#a1c191248ef154bb17da4795498b2fc03" title="get_enabled_fences &#45; returns bitmask of enabled fences" alt="" coords="219,177,384,221"/>
-</map>

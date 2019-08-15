@@ -1,5 +1,0 @@
-<map id="ChibiOS::UARTDriver::check_dma_tx_completion" name="ChibiOS::UARTDriver::check_dma_tx_completion">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,192,49"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="240,13,360,41"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="408,13,507,41"/>
-</map>

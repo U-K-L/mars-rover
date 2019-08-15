@@ -1,7 +1,0 @@
-<map id="AP_Baro_MS56XX::_calculate_5607" name="AP_Baro_MS56XX::_calculate_5607">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,245,59"/>
-<area shape="rect" id="node2" href="$classAP__Baro__Backend.html#ad70c9cb450b4a7f5085d5b118ad90325" title=" " alt="" coords="294,23,471,67"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="520,5,629,33"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title=" " alt="" coords="539,57,610,85"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="678,5,767,33"/>
-</map>

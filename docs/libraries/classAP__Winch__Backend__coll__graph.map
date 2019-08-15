@@ -1,8 +1,0 @@
-<map id="AP_Winch_Backend" name="AP_Winch_Backend">
-<area shape="rect" id="node1" title=" " alt="" coords="185,289,327,317"/>
-<area shape="rect" id="node2" href="$structAP__Winch_1_1Backend__Config.html" title=" " alt="" coords="162,195,349,223"/>
-<area shape="rect" id="node3" href="$classAC__PID.html" title="Copter PID control class." alt="" coords="221,102,291,130"/>
-<area shape="rect" id="node4" href="$structAC__PID_1_1ac__pid__flags.html" title=" " alt="" coords="4,7,155,35"/>
-<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="180,7,332,35"/>
-<area shape="rect" id="node6" href="$structAP__Logger_1_1PID__Info.html" title=" " alt="" coords="469,7,616,35"/>
-</map>

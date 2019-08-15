@@ -1,5 +1,0 @@
-<map id="AC_PosControl::time_since_last_xy_update" name="AC_PosControl::time_since_last_xy_update">
-<area shape="rect" id="node1" title=" " alt="" coords="184,23,341,67"/>
-<area shape="rect" id="node2" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller" alt="" coords="6,5,135,33"/>
-<area shape="rect" id="node3" href="$classAC__Loiter.html#ad73abbc1c7fcefbb9d18bac3b1fe4444" title="run the loiter controller" alt="" coords="6,57,135,85"/>
-</map>

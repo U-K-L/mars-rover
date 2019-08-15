@@ -1,9 +1,0 @@
-<map id="libraries/AP_Gripper/AP_Gripper_Backend.h" name="libraries/AP_Gripper/AP_Gripper_Backend.h">
-<area shape="rect" id="node1" title=" " alt="" coords="263,6,427,50"/>
-<area shape="rect" id="node2" href="$AP__Gripper__Servo_8h.html" title=" " alt="" coords="102,99,249,143"/>
-<area shape="rect" id="node5" href="$AP__Gripper__EPM_8h.html" title=" " alt="" coords="274,99,416,143"/>
-<area shape="rect" id="node7" href="$AP__Gripper__Backend_8cpp.html" title=" " alt="" coords="440,99,619,143"/>
-<area shape="rect" id="node3" href="$AP__Gripper_8cpp.html" title=" " alt="" coords="191,193,332,237"/>
-<area shape="rect" id="node4" href="$AP__Gripper__Servo_8cpp.html" title=" " alt="" coords="4,193,165,237"/>
-<area shape="rect" id="node6" href="$AP__Gripper__EPM_8cpp.html" title=" " alt="" coords="357,193,512,237"/>
-</map>

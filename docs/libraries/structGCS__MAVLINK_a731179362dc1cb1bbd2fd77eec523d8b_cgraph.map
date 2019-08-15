@@ -1,8 +1,0 @@
-<map id="GCS_MAVLINK::send_power_status" name="GCS_MAVLINK::send_power_status">
-<area shape="rect" id="node1" title=" " alt="" coords="5,91,200,135"/>
-<area shape="rect" id="node2" href="$GCS__Common_8cpp.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="323,5,365,33"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1AnalogIn.html#a84c87bc57f06182afc85725cafe22698" title=" " alt="" coords="257,57,431,101"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1AnalogIn.html#aec5bbeb075072b2cc35d2301236c7f45" title=" " alt="" coords="249,125,439,169"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1AnalogIn.html#ab607b3cdb6819195a05f728589ffaf29" title=" " alt="" coords="256,193,432,237"/>
-<area shape="rect" id="node3" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="489,5,626,33"/>
-</map>

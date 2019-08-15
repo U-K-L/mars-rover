@@ -1,7 +1,0 @@
-<map id="AP_Mount_SToRM32_serial::send_target_angles" name="AP_Mount_SToRM32_serial::send_target_angles">
-<area shape="rect" id="node1" title=" " alt="" coords="6,73,194,117"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1BetterStream.html#ab0193c7791fd95eb2bfbfd6597bdf6d8" title=" " alt="" coords="243,5,402,49"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="243,73,402,117"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="268,141,377,169"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="452,141,540,169"/>
-</map>

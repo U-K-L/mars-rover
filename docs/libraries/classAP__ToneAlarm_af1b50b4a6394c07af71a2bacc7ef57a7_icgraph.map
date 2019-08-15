@@ -1,6 +1,0 @@
-<map id="AP_ToneAlarm::play_tone" name="AP_ToneAlarm::play_tone">
-<area shape="rect" id="node1" title="play_tune &#45; play one of the pre&#45;defined tunes" alt="" coords="414,73,589,101"/>
-<area shape="rect" id="node2" href="$classAP__ToneAlarm.html#aff7efe6cee998dcabfc01f782a93ac3d" title=" " alt="" coords="213,5,366,49"/>
-<area shape="rect" id="node4" href="$classAP__ToneAlarm.html#a8a95fc204fe7bd62fb3c227d2d84cf94" title="init &#45; initialised the tone alarm" alt="" coords="222,73,357,101"/>
-<area shape="rect" id="node3" href="$classAP__ToneAlarm.html#a609a448b91c414d9f9c4558b0039efde" title="update &#45; updates led according to timed_updated. Should be called at 50Hz" alt="" coords="6,69,165,97"/>
-</map>

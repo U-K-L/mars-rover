@@ -1,9 +1,0 @@
-<map id="AP_Mount_SToRM32" name="AP_Mount_SToRM32">
-<area shape="rect" id="node1" title=" " alt="" coords="5,289,155,317"/>
-<area shape="rect" id="node2" href="$classAP__Mount__Backend.html" title=" " alt="" coords="53,194,195,222"/>
-<area shape="rect" id="node3" href="$classAP__Mount.html" title=" " alt="" coords="261,289,344,317"/>
-<area shape="rect" id="node4" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="409,194,561,222"/>
-<area shape="rect" id="node5" href="$structAP__Mount_1_1mount__state.html" title=" " alt="" coords="170,99,333,127"/>
-<area shape="rect" id="node6" href="$classLocation.html" title=" " alt="" coords="284,6,355,34"/>
-<area shape="rect" id="node7" href="$classVector3.html" title=" " alt="" coords="24,99,139,127"/>
-</map>

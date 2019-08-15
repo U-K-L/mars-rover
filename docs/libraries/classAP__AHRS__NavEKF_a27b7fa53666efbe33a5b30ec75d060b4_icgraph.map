@@ -1,7 +1,0 @@
-<map id="AP_AHRS_NavEKF::get_mag_field_correction" name="AP_AHRS_NavEKF::get_mag_field_correction">
-<area shape="rect" id="node1" title=" " alt="" coords="753,23,919,67"/>
-<area shape="rect" id="node2" href="$classSoloGimbalEKF.html#a84f878df87ed6057c63306b2c16e8c22" title=" " alt="" coords="481,23,703,67"/>
-<area shape="rect" id="node3" href="$classSoloGimbalEKF.html#af7f8f4cca1a21c25d200b9360d669578" title=" " alt="" coords="227,5,432,33"/>
-<area shape="rect" id="node5" href="$classSoloGimbalEKF.html#ae3a2e7a2ef3021289c6919ab9613fe14" title=" " alt="" coords="229,57,430,85"/>
-<area shape="rect" id="node4" href="$classSoloGimbalEKF.html#a3be12acb5c78532662967b12d611800b" title=" " alt="" coords="5,31,179,59"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="libraries/AP_Landing/AP_Landing_Deepstall.h" name="libraries/AP_Landing/AP_Landing_Deepstall.h">
-<area shape="rect" id="node1" title=" " alt="" coords="279,6,451,50"/>
-<area shape="rect" id="node2" href="$AP__Landing_8h.html" title=" " alt="" coords="293,99,437,143"/>
-<area shape="rect" id="node3" href="$AP__Landing_8cpp.html" title=" " alt="" coords="5,193,149,237"/>
-<area shape="rect" id="node4" href="$AP__Landing__Deepstall_8cpp.html" title=" " alt="" coords="174,193,359,237"/>
-<area shape="rect" id="node5" href="$AP__Landing__Slope_8cpp.html" title=" " alt="" coords="383,193,547,237"/>
-<area shape="rect" id="node6" href="$AP__TECS_8h.html" title="Combined Total Energy Speed &amp; Height Control. This is a instance of an AP_SpdHgtControl class." alt="" coords="571,193,724,237"/>
-<area shape="rect" id="node7" href="$AP__TECS_8cpp.html" title=" " alt="" coords="571,286,724,330"/>
-</map>

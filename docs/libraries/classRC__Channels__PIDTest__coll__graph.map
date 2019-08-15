@@ -1,9 +1,0 @@
-<map id="RC_Channels_PIDTest" name="RC_Channels_PIDTest">
-<area shape="rect" id="node1" title=" " alt="" coords="187,302,345,330"/>
-<area shape="rect" id="node2" href="$classRC__Channels.html" title=" " alt="" coords="70,209,175,237"/>
-<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,14,157,42"/>
-<area shape="rect" id="node4" href="$classRC__Channel.html" title="Object managing one RC channel." alt="" coords="314,115,411,143"/>
-<area shape="rect" id="node7" href="$classRC__Channel__PIDTest.html" title=" " alt="" coords="287,209,437,237"/>
-<area shape="rect" id="node5" href="$structRC__Channel_1_1debounce__state__t.html" title=" " alt="" coords="296,6,459,50"/>
-<area shape="rect" id="node6" href="$structRC__Channel_1_1modeswitch__state__t.html" title=" " alt="" coords="483,6,657,50"/>
-</map>

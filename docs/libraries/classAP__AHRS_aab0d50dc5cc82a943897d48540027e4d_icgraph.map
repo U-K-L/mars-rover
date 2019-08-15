@@ -1,5 +1,0 @@
-<map id="AP_AHRS::get_relative_position_NED_home" name="AP_AHRS::get_relative_position_NED_home">
-<area shape="rect" id="node1" title=" " alt="" coords="251,39,411,83"/>
-<area shape="rect" id="node2" href="$lua__generated__bindings_8cpp.html#a4200f5288020403f3cef20a0a37b38b0" title=" " alt="" coords="24,5,184,49"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__View.html#a4d2d78f35dd331501891fcf484b8fe95" title=" " alt="" coords="6,73,202,117"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="OpticalFlow_backend" name="OpticalFlow_backend">
-<area shape="rect" id="node1" title=" " alt="" coords="250,5,398,33"/>
-<area shape="rect" id="node2" href="$classOpticalFlow.html" title=" " alt="" coords="525,113,616,141"/>
-<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="248,113,400,141"/>
-<area shape="rect" id="node4" href="$structOpticalFlow_1_1OpticalFlow__state.html" title=" " alt="" coords="240,165,408,209"/>
-<area shape="rect" id="node5" href="$structVector2.html" title=" " alt="" coords="5,173,120,201"/>
-<area shape="rect" id="node6" href="$structOpticalFlow_1_1AP__OpticalFlow__Flags.html" title=" " alt="" coords="227,233,421,277"/>
-</map>

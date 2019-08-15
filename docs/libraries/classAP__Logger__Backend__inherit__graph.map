@@ -1,6 +1,0 @@
-<map id="AP_Logger_Backend" name="AP_Logger_Backend">
-<area shape="rect" id="node1" title=" " alt="" coords="76,6,223,34"/>
-<area shape="rect" id="node2" href="$classAP__Logger__Block.html" title=" " alt="" coords="5,83,133,111"/>
-<area shape="rect" id="node4" href="$classAP__Logger__MAVLink.html" title=" " alt="" coords="157,83,304,111"/>
-<area shape="rect" id="node3" href="$classAP__Logger__SITL.html" title=" " alt="" coords="8,161,131,189"/>
-</map>

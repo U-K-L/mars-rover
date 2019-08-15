@@ -1,6 +1,0 @@
-<map id="AP_RangeFinder_Backend::_get_mav_distance_sensor_type" name="AP_RangeFinder_Backend::_get_mav_distance_sensor_type">
-<area shape="rect" id="node1" title=" " alt="" coords="528,51,752,95"/>
-<area shape="rect" id="node2" href="$classAP__RangeFinder__Backend.html#a70be857a438f361f455e925362dc3640" title=" " alt="" coords="262,51,479,95"/>
-<area shape="rect" id="node3" href="$classRangeFinder.html#a368719dfd1ce226cd80e0882712e3875" title=" " alt="" coords="30,5,189,65"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#ab2fdac71e912e61b3c6130bf41352bdb" title=" " alt="" coords="5,89,214,133"/>
-</map>

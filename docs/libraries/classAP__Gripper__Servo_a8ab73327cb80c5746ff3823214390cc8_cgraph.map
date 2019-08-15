@@ -1,6 +1,0 @@
-<map id="AP_Gripper_Servo::valid" name="AP_Gripper_Servo::valid">
-<area shape="rect" id="node1" title=" " alt="" coords="5,47,173,75"/>
-<area shape="rect" id="node2" href="$classAP__Gripper__Backend.html#a3390d2cfcbe26532064f6b758c8240bc" title=" " alt="" coords="230,5,380,49"/>
-<area shape="rect" id="node3" href="$classSRV__Channels.html#a378e0022237c196e6107c9e79f340285" title=" " alt="" coords="222,73,389,117"/>
-<area shape="rect" id="node4" href="$classBitmask.html#a0be34bb49dbf06972c4a16c0b12cd846" title=" " alt="" coords="438,81,533,109"/>
-</map>

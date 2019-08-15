@@ -1,6 +1,0 @@
-<map id="AP_AK8963_BusDriver_Auxiliary::AP_AK8963_BusDriver_Auxiliary" name="AP_AK8963_BusDriver_Auxiliary::AP_AK8963_BusDriver_Auxiliary">
-<area shape="rect" id="node1" title=" " alt="" coords="5,55,165,115"/>
-<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a98fb28755e41d2e2052c500b7ac3e2b6" title=" " alt="" coords="219,29,355,73"/>
-<area shape="rect" id="node3" href="$classAuxiliaryBus.html#ad29c7f5c2163db6c9f484bff45af9fac" title=" " alt="" coords="213,97,360,141"/>
-<area shape="rect" id="node4" href="$classAuxiliaryBus.html#a3973e92c6130b4e34a2e627fc49ce770" title=" " alt="" coords="408,97,578,141"/>
-</map>

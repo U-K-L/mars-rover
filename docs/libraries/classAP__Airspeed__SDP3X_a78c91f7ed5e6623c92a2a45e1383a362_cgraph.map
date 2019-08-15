@@ -1,8 +1,0 @@
-<map id="AP_Airspeed_SDP3X::_timer" name="AP_Airspeed_SDP3X::_timer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,65,163,109"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="443,5,592,49"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="248,102,357,130"/>
-<area shape="rect" id="node5" href="$classAP__Airspeed__SDP3X.html#ada274f6ff9b677f88954ccda84d502d2" title=" " alt="" coords="224,34,382,78"/>
-<area shape="rect" id="node6" href="$classAP__Airspeed__SDP3X.html#aeb2857ba03776e029f1fc006ccc146b8" title=" " alt="" coords="211,154,394,182"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="473,102,562,130"/>
-</map>

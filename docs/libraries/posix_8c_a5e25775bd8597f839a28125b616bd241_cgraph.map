@@ -1,9 +1,0 @@
-<map id="fseek" name="fseek">
-<area shape="rect" id="node1" title="POSIX seek to file possition." alt="" coords="5,47,59,75"/>
-<area shape="rect" id="node2" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="528,98,581,126"/>
-<area shape="rect" id="node3" href="$posix_8c.html#af4a94d1a050fafb23798dd6bcdac74f0" title="POSIX seek to file position." alt="" coords="107,125,160,153"/>
-<area shape="rect" id="node4" href="$posix_8c.html#a1eeda4d85cf3cae5cf1ee8c1e196a686" title="Convert POSIX fileno to FatFS handle NOT POSIX." alt="" coords="208,98,312,126"/>
-<area shape="rect" id="node5" href="$posix_8c.html#aeac589354c9d47c7d9c7c49ba4b0d266" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="394,46,446,74"/>
-<area shape="rect" id="node6" href="$posix_8c.html#ae0821388c321f66b16fbca4a625022de" title="Convert POSIX fileno to POSIX FILE stream pointer. NOT POSIX." alt="" coords="360,150,480,178"/>
-<area shape="rect" id="node7" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="208,254,312,282"/>
-</map>

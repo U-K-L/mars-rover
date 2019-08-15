@@ -1,8 +1,0 @@
-<map id="AP_MotorsUGV::pre_arm_check" name="AP_MotorsUGV::pre_arm_check">
-<area shape="rect" id="node1" title=" " alt="" coords="6,75,178,119"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#a378e0022237c196e6107c9e79f340285" title=" " alt="" coords="457,49,623,93"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="296,31,338,59"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classGCS.html#a9866f3484283db744409e40719cef765" title=" " alt="" coords="260,83,375,111"/>
-<area shape="rect" id="node5" href="$classAP__MotorsUGV.html#ac993a856521fd85525bce7007982f3d5" title=" " alt="" coords="231,135,403,163"/>
-<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#acab9e1aba9fcbde6e598169af5b3181f" title=" " alt="" coords="227,187,407,231"/>
-</map>

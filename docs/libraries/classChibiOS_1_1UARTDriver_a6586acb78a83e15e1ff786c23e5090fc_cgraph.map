@@ -1,9 +1,0 @@
-<map id="ChibiOS::UARTDriver::end" name="ChibiOS::UARTDriver::end">
-<area shape="rect" id="node1" title=" " alt="" coords="6,43,186,71"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title=" " alt="" coords="234,5,382,49"/>
-<area shape="rect" id="node3" href="$classByteBuffer.html#a4279e626cb21779cc92f7cf63b9cb3f7" title=" " alt="" coords="238,73,378,101"/>
-<area shape="rect" id="node4" href="$malloc_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title=" " alt="" coords="435,46,479,74"/>
-<area shape="rect" id="node5" href="$malloc_8c.html#a62b7798461bd461da64c5f9d35feddf7" title=" " alt="" coords="430,98,485,126"/>
-<area shape="rect" id="node6" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="534,98,594,126"/>
-<area shape="rect" id="node7" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="643,98,738,126"/>
-</map>

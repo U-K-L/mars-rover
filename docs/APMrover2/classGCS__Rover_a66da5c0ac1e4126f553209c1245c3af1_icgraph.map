@@ -1,8 +1,0 @@
-<map id="GCS_Rover::chan" name="GCS_Rover::chan">
-<area shape="rect" id="node1" title=" " alt="" coords="619,35,749,63"/>
-<area shape="rect" id="node2" href="$classRover.html#a90f48660f49aa6c8184a46161c8c66bf" title=" " alt="" coords="425,5,565,33"/>
-<area shape="rect" id="node4" href="$classRover.html#aec9757b3e0c2102af1808d93faace667" title=" " alt="" coords="419,57,570,101"/>
-<area shape="rect" id="node3" href="$classRover.html#aa8facf471cdb4f4d59ba165f28f15fcd" title=" " alt="" coords="246,5,343,33"/>
-<area shape="rect" id="node5" href="$classRover.html#a34cf7d06f8f26c791bda383a0f35532b" title=" " alt="" coords="219,57,370,101"/>
-<area shape="rect" id="node6" href="$classGCS__MAVLINK__Rover.html#a46580d8a9c126a95b84791c4f1069102" title=" " alt="" coords="5,49,171,109"/>
-</map>

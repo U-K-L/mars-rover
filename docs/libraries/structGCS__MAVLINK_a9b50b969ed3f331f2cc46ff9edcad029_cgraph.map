@@ -1,8 +1,0 @@
-<map id="GCS_MAVLINK::handle_command_preflight_set_sensor_offsets" name="GCS_MAVLINK::handle_command_preflight_set_sensor_offsets">
-<area shape="rect" id="node1" title=" " alt="" coords="6,41,173,101"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#ab9d0bcbec954b6c20abd8e13e6de7356" title=" " alt="" coords="255,5,355,33"/>
-<area shape="rect" id="node4" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title=" " alt="" coords="270,57,341,85"/>
-<area shape="rect" id="node5" href="$classCompass.html#afeac6bcfad2650762cccda72dbce3e69" title=" " alt="" coords="221,109,389,153"/>
-<area shape="rect" id="node3" href="$classCompass.html#af51dbdeb1147a5a8b5533bae6bd64e7a" title=" " alt="" coords="438,5,602,33"/>
-<area shape="rect" id="node6" href="$classCompass.html#abfc394b43272d5a6e97001232e201b7f" title=" " alt="" coords="440,117,600,145"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor_Invensense::_data_ready" name="AP_InertialSensor_Invensense::_data_ready">
-<area shape="rect" id="node1" title=" " alt="" coords="6,39,210,83"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1DigitalSource.html#a6d155c0e1088e7b045b075c34bc2a13e" title=" " alt="" coords="282,5,441,49"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__Invensense.html#ab3565db6e0296bc0515f6d02f80ffade" title=" " alt="" coords="259,73,464,117"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="512,73,667,117"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="715,81,888,109"/>
-</map>

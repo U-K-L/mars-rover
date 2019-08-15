@@ -1,7 +1,0 @@
-<map id="RSCThrCrvParam::set_thrcrv_enable" name="RSCThrCrvParam::set_thrcrv_enable">
-<area shape="rect" id="node1" title=" " alt="" coords="413,73,568,117"/>
-<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#a143a51dcc8a0ac5077f18a1a0eee0abf" title=" " alt="" coords="208,73,366,117"/>
-<area shape="rect" id="node3" href="$classAP__MotorsHeli__Quad.html#a6256dc5e385efb3e9b9cc83e9d6f9235" title=" " alt="" coords="8,5,158,49"/>
-<area shape="rect" id="node4" href="$classAP__MotorsHeli__Single.html#a7b5237d9ac4b926d7d84e1e34b18ee4f" title=" " alt="" coords="5,73,160,117"/>
-<area shape="rect" id="node5" href="$classAP__MotorsHeli__Dual.html#a7112c1b7a86a1080a00dd3c529c17b25" title=" " alt="" coords="10,141,155,185"/>
-</map>

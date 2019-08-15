@@ -1,6 +1,0 @@
-<map id="AP_IRLock_I2C::sync_frame_start" name="AP_IRLock_I2C::sync_frame_start">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,157,67"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="205,5,379,33"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="237,57,347,85"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="428,57,516,85"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="GCS_MAVLINK::handle_command_do_set_home" name="GCS_MAVLINK::handle_command_do_set_home">
-<area shape="rect" id="node1" title=" " alt="" coords="6,79,181,123"/>
-<area shape="rect" id="node2" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title=" " alt="" coords="284,5,356,33"/>
-<area shape="rect" id="node3" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="288,57,352,85"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a16b1113424afd184dabe92c0d3432bda" title=" " alt="" coords="229,109,411,153"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#af1c0fd653d5f1fd10dadfb22f41dd865" title=" " alt="" coords="229,177,411,205"/>
-</map>

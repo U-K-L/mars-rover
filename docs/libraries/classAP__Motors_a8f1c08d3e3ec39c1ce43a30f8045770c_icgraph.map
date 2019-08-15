@@ -1,7 +1,0 @@
-<map id="AP_Motors::set_throttle_avg_max" name="AP_Motors::set_throttle_avg_max">
-<area shape="rect" id="node1" title=" " alt="" coords="389,73,550,117"/>
-<area shape="rect" id="node2" href="$classAC__AttitudeControl__Sub.html#a01e89bcda33d4d292631f126b21d64fc" title=" " alt="" coords="187,5,339,49"/>
-<area shape="rect" id="node3" href="$classAC__AttitudeControl__Multi.html#a3e83f3b32e305ad977cdaadf92cc80e1" title=" " alt="" coords="185,73,341,117"/>
-<area shape="rect" id="node5" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="236,141,290,169"/>
-<area shape="rect" id="node4" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,81,136,109"/>
-</map>

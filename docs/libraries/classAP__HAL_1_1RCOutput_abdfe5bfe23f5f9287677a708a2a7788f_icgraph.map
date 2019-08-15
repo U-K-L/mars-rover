@@ -1,6 +1,0 @@
-<map id="AP_HAL::RCOutput::set_failsafe_pwm" name="AP_HAL::RCOutput::set_failsafe_pwm">
-<area shape="rect" id="node1" title=" " alt="" coords="278,65,442,109"/>
-<area shape="rect" id="node2" href="$classSRV__Channels.html#ae90ac2cb19a55521eb5e0b6b58792e80" title=" " alt="" coords="24,5,211,49"/>
-<area shape="rect" id="node3" href="$classSRV__Channels.html#ad666a1604f6935b69e8683923d56efb8" title=" " alt="" coords="6,73,229,101"/>
-<area shape="rect" id="node4" href="$classSRV__Channels.html#a3ff943b57c4cc040ee2d602d7b8b0682" title=" " alt="" coords="41,125,193,185"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="AP_VisualOdom_MAV::handle_msg" name="AP_VisualOdom_MAV::handle_msg">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,167,67"/>
-<area shape="rect" id="node2" href="$classAP__VisualOdom__Backend.html#a780a0c771c4525c2e1837ec54b1e1b2c" title=" " alt="" coords="216,23,394,67"/>
-<area shape="rect" id="node3" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title=" " alt="" coords="443,5,551,33"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="443,57,552,85"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="601,57,690,85"/>
-</map>

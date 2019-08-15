@@ -1,7 +1,0 @@
-<map id="AP_Arming_Rover::pre_arm_rc_checks" name="AP_Arming_Rover::pre_arm_rc_checks">
-<area shape="rect" id="node1" title=" " alt="" coords="6,75,165,119"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channel.html#a186bd6c744701bce1755f836d44d5f96" title=" " alt="" coords="216,5,405,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Arming.html#a23895372c31458800735b5eb6ff28589" title=" " alt="" coords="226,57,396,85"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channel.html#aa056e3c3b15ca3e44aee9f97b7ca7855" title=" " alt="" coords="214,109,407,137"/>
-<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classRC__Channel.html#a903c74361c5318f0af90b66ca83a79b3" title=" " alt="" coords="216,161,406,189"/>
-</map>

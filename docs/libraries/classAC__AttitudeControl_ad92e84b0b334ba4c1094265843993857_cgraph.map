@@ -1,5 +1,0 @@
-<map id="AC_AttitudeControl::set_attitude_target_to_current_attitude" name="AC_AttitudeControl::set_attitude_target_to_current_attitude">
-<area shape="rect" id="node1" title=" " alt="" coords="6,5,146,65"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__View.html#a627d00a7a0f2e9ecf60b09e08b748839" title=" " alt="" coords="195,13,373,57"/>
-<area shape="rect" id="node3" href="$classQuaternion.html#a5ee01ee833114be6181887d0dcfb33b1" title=" " alt="" coords="421,13,595,57"/>
-</map>

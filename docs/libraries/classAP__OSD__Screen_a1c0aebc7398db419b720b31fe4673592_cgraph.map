@@ -1,6 +1,0 @@
-<map id="AP_OSD_Screen::draw_fltmode" name="AP_OSD_Screen::draw_fltmode">
-<area shape="rect" id="node1" title=" " alt="" coords="6,49,167,93"/>
-<area shape="rect" id="node2" href="$classAP__Notify.html#a0264facb8d3b5c35a7cff0171acdabd0" title=" " alt="" coords="218,5,385,33"/>
-<area shape="rect" id="node3" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="216,57,386,85"/>
-<area shape="rect" id="node4" href="$classAP__Notify.html#a533419ba60f177315cc879d31a57fd07" title=" " alt="" coords="230,109,372,153"/>
-</map>

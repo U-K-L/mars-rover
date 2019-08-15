@@ -1,6 +1,0 @@
-<map id="NavEKF3_core::useAirspeed" name="NavEKF3_core::useAirspeed">
-<area shape="rect" id="node1" title=" " alt="" coords="6,29,199,57"/>
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a47ea335b3b317f0c5e54320f59d5ca8a" title=" " alt="" coords="248,21,437,65"/>
-<area shape="rect" id="node3" href="$classAP__Airspeed.html#a1f93ae84c30efc1375765b835004e7a9" title=" " alt="" coords="485,29,635,57"/>
-<area shape="rect" id="node4" href="$classAP__Airspeed.html#a86b49520d90ba23d15fb79614605e522" title=" " alt="" coords="683,29,837,57"/>
-</map>

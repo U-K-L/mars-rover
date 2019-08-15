@@ -1,6 +1,0 @@
-<map id="AP_AHRS_DCM::use_fast_gains" name="AP_AHRS_DCM::use_fast_gains">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,184,79"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="232,5,386,49"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="255,73,364,101"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="436,73,524,101"/>
-</map>

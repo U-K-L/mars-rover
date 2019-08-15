@@ -1,8 +1,0 @@
-<map id="Linux::RCOutput_Bebop::play_note" name="Linux::RCOutput_Bebop::play_note">
-<area shape="rect" id="node1" title=" " alt="" coords="5,117,171,161"/>
-<area shape="rect" id="node2" href="$sparse-endian_8h.html#afeadfffc79afb9d2c017f0921b187204" title=" " alt="" coords="275,5,344,33"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="235,57,384,101"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="219,125,400,153"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="235,177,384,221"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="219,245,400,273"/>
-</map>

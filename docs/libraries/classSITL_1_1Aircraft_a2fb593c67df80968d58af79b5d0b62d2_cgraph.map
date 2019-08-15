@@ -1,9 +1,0 @@
-<map id="SITL::Aircraft::update_wind" name="SITL::Aircraft::update_wind">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,188,93"/>
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="271,5,337,33"/>
-<area shape="rect" id="node3" href="$classSITL_1_1Aircraft.html#a502deceacbf96bf8534e89310fcbe8a2" title=" " alt="" coords="243,57,365,101"/>
-<area shape="rect" id="node6" href="$classSITL_1_1Aircraft.html#a8764799fe6bcc0cb70f30e441db384a9" title=" " alt="" coords="237,125,371,169"/>
-<area shape="rect" id="node4" href="$classSITL_1_1Aircraft.html#a098a61f3c3cdb49a41567509b8473ae5" title=" " alt="" coords="419,65,551,93"/>
-<area shape="rect" id="node5" href="$classSITL_1_1Aircraft.html#a2b0e774ca55ac8976870d9717f8ed843" title=" " alt="" coords="601,57,749,101"/>
-<area shape="rect" id="node7" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="453,133,517,161"/>
-</map>

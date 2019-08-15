@@ -1,8 +1,0 @@
-<map id="AP_Motors::set_desired_spool_state" name="AP_Motors::set_desired_spool_state">
-<area shape="rect" id="node1" title=" " alt="" coords="308,65,471,109"/>
-<area shape="rect" id="node2" href="$classAP__MotorsMulticopter.html#a5c1f9a311308cd7a28bb800b5ef071de" title=" " alt="" coords="106,5,259,49"/>
-<area shape="rect" id="node4" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="117,73,248,101"/>
-<area shape="rect" id="node5" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="135,125,230,153"/>
-<area shape="rect" id="node3" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,13,59,41"/>
-<area shape="rect" id="node6" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="9,125,55,153"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_Baro_ICM20789::convert_data" name="AP_Baro_ICM20789::convert_data">
-<area shape="rect" id="node1" title=" " alt="" coords="6,49,234,77"/>
-<area shape="rect" id="node2" href="$classAP__Baro__ICM20789.html#aa45775d51c9b4efee6296b7a8a146a32" title=" " alt="" coords="306,9,475,53"/>
-<area shape="rect" id="node4" href="$classAP__Baro__Backend.html#adf46bf795e1e13967264596cf4faadd7" title=" " alt="" coords="283,81,498,109"/>
-<area shape="rect" id="node3" href="$classAP__Baro__ICM20789.html#a4b433b3a3b5ee9facf62c01d43f33b10" title=" " alt="" coords="548,5,751,49"/>
-<area shape="rect" id="node5" href="$classAP__Baro.html#a0f2f5b99445cb04a204cbf48819d82c0" title=" " alt="" coords="583,73,716,117"/>
-<area shape="rect" id="node6" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="617,141,681,169"/>
-</map>

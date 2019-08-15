@@ -1,4 +1,0 @@
-<map id="unix_time_to_fat" name="unix_time_to_fat">
-<area shape="rect" id="node1" title="Convert Linux POSIX time_t to FAT32 date and time. NOT POSIX." alt="" coords="107,5,226,33"/>
-<area shape="rect" id="node2" href="$posix_8c.html#a1299674b4b1934ebf0441388d07981a6" title="Set Modification and Access time of a file." alt="" coords="5,5,59,33"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="Display::update_gps" name="Display::update_gps">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,148,59"/>
-<area shape="rect" id="node2" href="$stdio_8h.html#a37c1e8ce8a2b411fa666dc33972a2cec" title=" " alt="" coords="230,5,295,33"/>
-<area shape="rect" id="node3" href="$classDisplay.html#ac03add33133d8384bae206c8d44108b7" title=" " alt="" coords="198,57,328,85"/>
-<area shape="rect" id="node4" href="$classDisplay.html#a479e21ab6f7524849a7d1592dc5f9a95" title=" " alt="" coords="377,57,511,85"/>
-<area shape="rect" id="node5" href="$classDisplay__Backend.html#a58a0fd14153dfb0e3a513c230104862e" title=" " alt="" coords="565,14,715,58"/>
-<area shape="rect" id="node6" href="$classDisplay__Backend.html#a79d80eb1f6591c6e4bc9991145b8271f" title=" " alt="" coords="560,82,720,126"/>
-</map>

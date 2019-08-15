@@ -1,9 +1,0 @@
-<map id="libraries/AP_HAL_Linux/Poller.h" name="libraries/AP_HAL_Linux/Poller.h">
-<area shape="rect" id="node1" title=" " alt="" coords="378,6,539,50"/>
-<area shape="rect" id="node2" href="$PollerThread_8h.html" title=" " alt="" coords="284,99,445,143"/>
-<area shape="rect" id="node7" href="$Poller_8cpp.html" title=" " alt="" coords="471,99,632,143"/>
-<area shape="rect" id="node3" href="$AP__HAL__Linux_2I2CDevice_8cpp.html" title=" " alt="" coords="4,193,165,237"/>
-<area shape="rect" id="node4" href="$PollerThread_8cpp.html" title=" " alt="" coords="191,193,352,237"/>
-<area shape="rect" id="node5" href="$AP__HAL__Linux_2SPIDevice_8cpp.html" title=" " alt="" coords="378,193,539,237"/>
-<area shape="rect" id="node6" href="$test__thread_8cpp.html" title=" " alt="" coords="564,193,725,237"/>
-</map>

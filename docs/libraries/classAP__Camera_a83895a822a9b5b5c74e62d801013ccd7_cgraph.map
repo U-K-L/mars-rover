@@ -1,8 +1,0 @@
-<map id="AP_Camera::send_feedback" name="AP_Camera::send_feedback">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,197,85"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="285,5,358,33"/>
-<area shape="rect" id="node4" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="246,57,396,85"/>
-<area shape="rect" id="node5" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="287,109,355,137"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="446,5,616,33"/>
-<area shape="rect" id="node6" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="450,109,611,137"/>
-</map>

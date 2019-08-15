@@ -1,8 +1,0 @@
-<map id="SoloGimbalEKF" name="SoloGimbalEKF">
-<area shape="rect" id="node1" title=" " alt="" coords="157,243,272,271"/>
-<area shape="rect" id="node2" href="$classMatrix3.html" title=" " alt="" coords="5,141,117,169"/>
-<area shape="rect" id="node3" href="$classVector3.html" title=" " alt="" coords="108,6,223,34"/>
-<area shape="rect" id="node4" href="$structSoloGimbalEKF_1_1state__elements.html" title=" " alt="" coords="244,133,396,177"/>
-<area shape="rect" id="node5" href="$classQuaternion.html" title=" " alt="" coords="276,6,363,34"/>
-<area shape="rect" id="node6" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="420,141,572,169"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="AC_PosControl::update_z_controller" name="AC_PosControl::update_z_controller">
-<area shape="rect" id="node1" title="update_z_controller &#45; fly to altitude in cm above home" alt="" coords="217,27,378,71"/>
-<area shape="rect" id="node2" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="21,5,152,33"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#a4acc8cd7285895654901011106aeab6d" title=" " alt="" coords="6,57,167,101"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="AP_MotorsMulticopter::actuator_spin_up_to_ground_idle" name="AP_MotorsMulticopter::actuator_spin_up_to_ground_idle">
-<area shape="rect" id="node1" title=" " alt="" coords="421,133,574,193"/>
-<area shape="rect" id="node2" href="$classAP__MotorsTailsitter.html#ad8afd6b59eb811bdded6a17bbdec806d" title=" " alt="" coords="220,5,356,49"/>
-<area shape="rect" id="node3" href="$classAP__MotorsTri.html#a81327742c3c59ceb1c117cbc801cd845" title=" " alt="" coords="215,73,361,117"/>
-<area shape="rect" id="node4" href="$classAP__MotorsMatrix.html#afabcd6515d526c629ae104f9cf42f165" title=" " alt="" coords="204,141,372,185"/>
-<area shape="rect" id="node6" href="$classAP__MotorsSingle.html#a5c93cf6a62207bdbefc88b59f150d2fb" title=" " alt="" coords="204,209,372,253"/>
-<area shape="rect" id="node7" href="$classAP__MotorsCoax.html#a461cbe86173b8360279491ac5aeacac7" title=" " alt="" coords="207,277,369,321"/>
-<area shape="rect" id="node5" href="$classAP__MotorsMatrixTS.html#a9da18d99c3a1abdaac078d539ab2a99e" title=" " alt="" coords="6,141,154,185"/>
-</map>

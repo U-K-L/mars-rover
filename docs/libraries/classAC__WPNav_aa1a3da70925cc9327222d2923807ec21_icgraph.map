@@ -1,4 +1,0 @@
-<map id="AC_WPNav::advance_spline_target_along_track" name="AC_WPNav::advance_spline_target_along_track">
-<area shape="rect" id="node1" title="advance_spline_target_along_track &#45; move target location along track from origin to destination" alt="" coords="237,5,430,49"/>
-<area shape="rect" id="node2" href="$classAC__WPNav.html#acc138e7bc6435087ab308896358de6a3" title="update_spline &#45; update spline controller" alt="" coords="6,13,189,41"/>
-</map>

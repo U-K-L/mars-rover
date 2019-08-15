@@ -1,9 +1,0 @@
-<map id="NavEKF2::all_cores_healthy" name="NavEKF2::all_cores_healthy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,49,144,93"/>
-<area shape="rect" id="node2" href="$classNavEKF2.html#a8cb16a3d93ba2de38da068ad28216460" title=" " alt="" coords="193,57,322,85"/>
-<area shape="rect" id="node3" href="$classNavEKF2__core.html#a66754380c8cb82819db95fc2b3838037" title=" " alt="" coords="371,57,533,85"/>
-<area shape="rect" id="node4" href="$classNavEKF2__core.html#a592b9676c553d0032005f9dba248f983" title=" " alt="" coords="582,30,786,58"/>
-<area shape="rect" id="node7" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="665,82,703,110"/>
-<area shape="rect" id="node5" href="$classQuaternion.html#abcf4d5106b0d09f6a443050bfd8b4bc9" title=" " alt="" coords="836,5,970,33"/>
-<area shape="rect" id="node6" href="$classVector3.html#a938ff6c07ddb4789f64e2c1709a590b5" title=" " alt="" coords="846,57,959,85"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AP_ToneAlarm::stop_cont_tone" name="AP_ToneAlarm::stop_cont_tone">
-<area shape="rect" id="node1" title=" " alt="" coords="214,5,357,49"/>
-<area shape="rect" id="node2" href="$classAP__ToneAlarm.html#a609a448b91c414d9f9c4558b0039efde" title="update &#45; updates led according to timed_updated. Should be called at 50Hz" alt="" coords="6,13,165,41"/>
-</map>

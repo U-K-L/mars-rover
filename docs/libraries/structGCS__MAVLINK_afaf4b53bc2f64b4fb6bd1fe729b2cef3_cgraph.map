@@ -1,6 +1,0 @@
-<map id="GCS_MAVLINK::init" name="GCS_MAVLINK::init">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,146,85"/>
-<area shape="rect" id="node2" href="$GCS__MAVLink_8h.html#a17ee8d1ce05b7d160ccc6a78b92b774f" title=" " alt="" coords="209,5,311,33"/>
-<area shape="rect" id="node3" href="$stdio_8h.html#a37c1e8ce8a2b411fa666dc33972a2cec" title=" " alt="" coords="227,57,293,85"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Util.html#a6b7f7ba5272a4a2f7ae352fe35af90e1" title=" " alt="" coords="195,109,325,153"/>
-</map>

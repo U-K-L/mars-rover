@@ -1,9 +1,0 @@
-<map id="AP_Beacon_Backend::set_vehicle_position" name="AP_Beacon_Backend::set_vehicle_position">
-<area shape="rect" id="node1" title=" " alt="" coords="6,27,165,71"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="239,5,348,33"/>
-<area shape="rect" id="node4" href="$classAP__Beacon__Backend.html#ac2ff3477615e67258b494f5c3ffac448" title=" " alt="" coords="214,57,373,101"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="422,5,511,33"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title=" " alt="" coords="427,61,507,89"/>
-<area shape="rect" id="node7" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="434,113,499,141"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title=" " alt="" coords="560,61,640,89"/>
-</map>

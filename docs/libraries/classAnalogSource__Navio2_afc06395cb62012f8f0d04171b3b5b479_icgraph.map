@@ -1,7 +1,0 @@
-<map id="AnalogSource_Navio2::voltage_average" name="AnalogSource_Navio2::voltage_average">
-<area shape="rect" id="node1" title=" " alt="" coords="454,73,608,117"/>
-<area shape="rect" id="node2" href="$classAnalogSource__Navio2.html#af17d76cdc320171fbafec8dc876e2392" title=" " alt="" coords="230,38,384,82"/>
-<area shape="rect" id="node5" href="$classAnalogSource__Navio2.html#aafc4e458d6d2436e849608e95aad4c58" title=" " alt="" coords="208,106,405,150"/>
-<area shape="rect" id="node3" href="$classAnalogSource__Navio2.html#a1e2ff7febc0820494b1da8d8f00605d5" title=" " alt="" coords="6,5,160,49"/>
-<area shape="rect" id="node4" href="$classAnalogSource__Navio2.html#a2ed615d61e111252f1192fc4c8696675" title=" " alt="" coords="6,73,160,117"/>
-</map>

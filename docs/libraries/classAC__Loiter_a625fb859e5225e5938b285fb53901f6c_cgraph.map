@@ -1,6 +1,0 @@
-<map id="AC_Loiter::soften_for_landing" name="AC_Loiter::soften_for_landing">
-<area shape="rect" id="node1" title="reduce response for landing" alt="" coords="5,73,152,117"/>
-<area shape="rect" id="node2" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title=" " alt="" coords="201,5,337,49"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#a1acdd0aec3b36ec2fad0b05cbca0c252" title="set_xy_target in cm from home" alt="" coords="200,73,339,117"/>
-<area shape="rect" id="node4" href="$classAC__PosControl.html#a234a2e9174f63a3c43d1fdd5ebb65ffa" title=" " alt="" coords="200,141,339,185"/>
-</map>

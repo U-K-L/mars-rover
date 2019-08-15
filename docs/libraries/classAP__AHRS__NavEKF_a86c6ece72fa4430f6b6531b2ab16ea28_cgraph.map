@@ -1,8 +1,0 @@
-<map id="AP_AHRS_NavEKF::getMagOffsets" name="AP_AHRS_NavEKF::getMagOffsets">
-<area shape="rect" id="node1" title=" " alt="" coords="5,91,240,119"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="289,13,487,41"/>
-<area shape="rect" id="node4" href="$classNavEKF2.html#aedc7547bfae7b769c8d670a91b423493" title=" " alt="" coords="302,65,474,93"/>
-<area shape="rect" id="node5" href="$classNavEKF3.html#a5da888b64f34e042cf00c2ef2efdb669" title=" " alt="" coords="302,117,474,145"/>
-<area shape="rect" id="node6" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="338,169,438,197"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="536,5,725,49"/>
-</map>

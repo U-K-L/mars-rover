@@ -1,9 +1,0 @@
-<map id="Linux::PWM_Sysfs_Base::set_period" name="Linux::PWM_Sysfs_Base::set_period">
-<area shape="rect" id="node1" title=" " alt="" coords="653,43,824,87"/>
-<area shape="rect" id="node2" href="$classLinux_1_1HeatPwm.html#a910503ba8647930c989ec4311051447a" title=" " alt="" coords="422,21,605,49"/>
-<area shape="rect" id="node3" href="$classLinux_1_1PWM__Sysfs__Base.html#a50e507faa5755bf00b21867764464f6f" title=" " alt="" coords="428,73,599,117"/>
-<area shape="rect" id="node4" href="$classLinux_1_1RCOutput__Sysfs.html#a2147e42f465594730c289e76c327643a" title=" " alt="" coords="213,5,373,49"/>
-<area shape="rect" id="node6" href="$classLinux_1_1OpticalFlow__Onboard.html#ad2533ed83311a68c8201436f70c64713" title=" " alt="" coords="228,73,358,117"/>
-<area shape="rect" id="node7" href="$classLinux_1_1RCOutput__Sysfs.html#a878fc409bafc004ad8dd9b973d731e87" title=" " alt="" coords="213,141,373,185"/>
-<area shape="rect" id="node5" href="$classLinux_1_1RCOutput__Disco.html#aa7c4f715a6e793972896389de9d642ad" title=" " alt="" coords="5,5,166,49"/>
-</map>

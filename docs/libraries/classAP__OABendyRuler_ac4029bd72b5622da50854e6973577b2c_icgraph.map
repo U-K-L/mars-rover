@@ -1,8 +1,0 @@
-<map id="AP_OABendyRuler::calc_margin_from_proximity_sensors" name="AP_OABendyRuler::calc_margin_from_proximity_sensors">
-<area shape="rect" id="node1" title=" " alt="" coords="1139,5,1306,65"/>
-<area shape="rect" id="node2" href="$classAP__OABendyRuler.html#aa3d52aad36ec27fc841b3b4000e99515" title=" " alt="" coords="923,13,1090,57"/>
-<area shape="rect" id="node3" href="$classAP__OABendyRuler.html#ae02132964ba26e110dc8f01fd13b4cf8" title=" " alt="" coords="691,21,874,49"/>
-<area shape="rect" id="node4" href="$classAP__OAPathPlanner.html#ace6c764d50b35454e6c82d6475ad9c1c" title=" " alt="" coords="435,13,642,57"/>
-<area shape="rect" id="node5" href="$classAP__OAPathPlanner.html#a66d8137be6e55f005e9d0bdf33cb7b63" title=" " alt="" coords="195,13,387,57"/>
-<area shape="rect" id="node6" href="$classAR__WPNav.html#a537e00d4cacfe212829be555575c66f4" title=" " alt="" coords="6,21,146,49"/>
-</map>

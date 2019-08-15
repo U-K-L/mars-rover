@@ -1,5 +1,0 @@
-<map id="fputc" name="fputc">
-<area shape="rect" id="node1" title="Put a byte to TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;put = fatfs_outc() for F..." alt="" coords="6,5,56,33"/>
-<area shape="rect" id="node2" href="$posix_8c.html#a90d998e82aa4f903a1570c0c48aeae59" title="Private FatFs function called by fputc() to put a byte from file stream NOT POSIX open() assigns stre..." alt="" coords="104,5,184,33"/>
-<area shape="rect" id="node3" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="232,5,336,33"/>
-</map>

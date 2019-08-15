@@ -1,9 +1,0 @@
-<map id="AP_MotorsHeli_RSC::set_governor_disengage" name="AP_MotorsHeli_RSC::set_governor_disengage">
-<area shape="rect" id="node1" title=" " alt="" coords="432,73,600,117"/>
-<area shape="rect" id="node2" href="$classAP__MotorsHeli__Quad.html#a7ac1966c777600f9cfc85ef3087e2f8a" title=" " alt="" coords="208,5,384,49"/>
-<area shape="rect" id="node4" href="$classAP__MotorsHeli__Single.html#a366dcf3bdb67ab852feca02fa1cc3055" title=" " alt="" coords="208,73,384,117"/>
-<area shape="rect" id="node6" href="$classAP__MotorsHeli__Dual.html#a6ceac770c46717669afffc50590d93ee" title=" " alt="" coords="208,141,384,185"/>
-<area shape="rect" id="node3" href="$classAP__MotorsHeli__Quad.html#a6256dc5e385efb3e9b9cc83e9d6f9235" title=" " alt="" coords="8,5,158,49"/>
-<area shape="rect" id="node5" href="$classAP__MotorsHeli__Single.html#a7b5237d9ac4b926d7d84e1e34b18ee4f" title=" " alt="" coords="5,73,160,117"/>
-<area shape="rect" id="node7" href="$classAP__MotorsHeli__Dual.html#a7112c1b7a86a1080a00dd3c529c17b25" title=" " alt="" coords="10,141,155,185"/>
-</map>

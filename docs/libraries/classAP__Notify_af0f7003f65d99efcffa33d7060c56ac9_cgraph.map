@@ -1,4 +1,0 @@
-<map id="AP_Notify::update" name="AP_Notify::update">
-<area shape="rect" id="node1" title="update &#45; allow updates of leds that cannot be updated during a timed interrupt" alt="" coords="6,5,135,33"/>
-<area shape="rect" id="node2" href="$classNotifyDevice.html#aff1aa508c273feabcf70db8f970c93b7" title=" " alt="" coords="184,5,328,33"/>
-</map>

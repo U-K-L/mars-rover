@@ -1,9 +1,0 @@
-<map id="SITL::MultiCopter::create" name="SITL::MultiCopter::create">
-<area shape="rect" id="node1" title=" " alt="" coords="6,101,138,145"/>
-<area shape="rect" id="node2" href="$classSITL_1_1MultiCopter.html#a1b3a52d1ac484ae1560e389025b3aaa3" title=" " alt="" coords="187,101,320,145"/>
-<area shape="rect" id="node3" href="$classSITL_1_1Frame.html#ad45481981db45618022bffc4817d09eb" title=" " alt="" coords="374,5,540,33"/>
-<area shape="rect" id="node4" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="432,57,483,85"/>
-<area shape="rect" id="node5" href="$classSITL_1_1Frame.html#ae4f2670ddee41221a8c3819e2c459e79" title=" " alt="" coords="397,109,517,137"/>
-<area shape="rect" id="node6" href="$classSITL_1_1Aircraft.html#aae94a95f709c0c2ad7f3177fe6c0b6c6" title=" " alt="" coords="368,161,547,189"/>
-<area shape="rect" id="node7" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="425,213,490,241"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="GCS_MAVLINK::handle_command_battery_reset" name="GCS_MAVLINK::handle_command_battery_reset">
-<area shape="rect" id="node1" title=" " alt="" coords="6,5,178,49"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="227,13,314,41"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="363,5,504,49"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Display::update_prearm" name="Display::update_prearm">
-<area shape="rect" id="node1" title=" " alt="" coords="5,47,168,75"/>
-<area shape="rect" id="node2" href="$classDisplay.html#ac03add33133d8384bae206c8d44108b7" title=" " alt="" coords="216,47,346,75"/>
-<area shape="rect" id="node3" href="$classDisplay.html#a479e21ab6f7524849a7d1592dc5f9a95" title=" " alt="" coords="395,47,530,75"/>
-<area shape="rect" id="node4" href="$classDisplay__Backend.html#a58a0fd14153dfb0e3a513c230104862e" title=" " alt="" coords="584,5,733,49"/>
-<area shape="rect" id="node5" href="$classDisplay__Backend.html#a79d80eb1f6591c6e4bc9991145b8271f" title=" " alt="" coords="578,73,739,117"/>
-</map>

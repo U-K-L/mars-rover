@@ -1,5 +1,0 @@
-<map id="NavEKF2_core::use_compass" name="NavEKF2_core::use_compass">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,207,59"/>
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a1c4fdc6a67b3cadc661ffb510e28a0d0" title=" " alt="" coords="256,5,426,33"/>
-<area shape="rect" id="node3" href="$classCompass.html#af5c3da7e49f681c1d7a0354b91eba7ba" title="return true if the compass should be used for yaw calculations" alt="" coords="261,57,422,85"/>
-</map>

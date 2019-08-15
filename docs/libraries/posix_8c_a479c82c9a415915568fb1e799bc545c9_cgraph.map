@@ -1,4 +1,0 @@
-<map id="fatfs_getc" name="fatfs_getc">
-<area shape="rect" id="node1" title="Formt SD card." alt="" coords="6,5,85,33"/>
-<area shape="rect" id="node2" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="134,5,237,33"/>
-</map>

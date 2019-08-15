@@ -1,9 +1,0 @@
-<map id="AP_BattMonitor_SMBus::read_temp" name="AP_BattMonitor_SMBus::read_temp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,103,171,147"/>
-<area shape="rect" id="node2" href="$classAP__BattMonitor__SMBus.html#ac10f1791a37bbf796c42729b7540503d" title=" " alt="" coords="219,73,384,117"/>
-<area shape="rect" id="node6" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="247,141,356,169"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="437,5,592,49"/>
-<area shape="rect" id="node5" href="$classAP__BattMonitor__SMBus.html#a2c925254f4b6953855c088faa0cd7421" title="get_PEC &#45; calculate packet error correction code of buffer" alt="" coords="432,73,597,117"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="645,13,819,41"/>
-<area shape="rect" id="node7" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="470,141,559,169"/>
-</map>

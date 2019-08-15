@@ -1,9 +1,0 @@
-<map id="Rover::update_home" name="Rover::update_home">
-<area shape="rect" id="node1" title=" " alt="" coords="6,135,152,163"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#af1a33f343f63c699c8bc97aeb2de37cc" title=" " alt="" coords="208,5,395,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a43e3b61c13ecdfd2b3b3a2b33c359993" title=" " alt="" coords="201,57,402,85"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Baro.html#a67fd690b15ef9f0f23b3304831ca913a" title=" " alt="" coords="206,109,397,137"/>
-<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#a4ffe6b0b13f7f4106740105101fed115" title=" " alt="" coords="218,161,385,189"/>
-<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="226,213,376,241"/>
-<area shape="rect" id="node7" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#afaedde8606bdd549cccaab7283673e4e" title=" " alt="" coords="208,265,395,293"/>
-</map>

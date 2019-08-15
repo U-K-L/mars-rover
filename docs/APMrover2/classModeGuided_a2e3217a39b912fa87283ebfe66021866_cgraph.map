@@ -1,7 +1,0 @@
-<map id="ModeGuided::set_desired_turn_rate_and_speed" name="ModeGuided::set_desired_turn_rate_and_speed">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,180,67"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="281,5,391,33"/>
-<area shape="rect" id="node3" href="$classRover.html#ada8b2c7652711aea7ba237201eb53328" title=" " alt="" coords="230,57,442,85"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="504,30,638,58"/>
-<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="491,82,650,110"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ChibiOS::DeviceBus::register_periodic_callback" name="ChibiOS::DeviceBus::register_periodic_callback">
-<area shape="rect" id="node1" title=" " alt="" coords="196,47,338,107"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1I2CDevice.html#a49868f6cbd67bc4755b33a8c1b7e9f77" title=" " alt="" coords="6,5,146,65"/>
-<area shape="rect" id="node3" href="$classChibiOS_1_1SPIDevice.html#ad0cf458c9ea9a8bea046b9b986ef3c4f" title=" " alt="" coords="6,89,146,149"/>
-</map>

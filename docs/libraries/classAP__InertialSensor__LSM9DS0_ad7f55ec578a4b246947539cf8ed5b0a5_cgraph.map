@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor_LSM9DS0::_gyro_data_ready" name="AP_InertialSensor_LSM9DS0::_gyro_data_ready">
-<area shape="rect" id="node1" title=" " alt="" coords="6,39,202,83"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1DigitalSource.html#a6d155c0e1088e7b045b075c34bc2a13e" title=" " alt="" coords="270,5,429,49"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM9DS0.html#a9471a5e1bd8764e4b66b071017e6885c" title=" " alt="" coords="251,73,448,117"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="496,73,651,117"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="699,81,872,109"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AC_Fence::pre_arm_check" name="AC_Fence::pre_arm_check">
-<area shape="rect" id="node1" title="pre_arm_check &#45; returns true if all pre&#45;takeoff checks have completed successfully" alt="" coords="6,99,189,127"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="304,5,376,33"/>
-<area shape="rect" id="node4" href="$classAC__Fence.html#a44e87044bf07cb5dd2b2399bf59c7feb" title=" " alt="" coords="248,57,432,101"/>
-<area shape="rect" id="node5" href="$classAC__Fence.html#a8880a449f2e5c05078c41106ae9a9a75" title=" " alt="" coords="248,125,432,169"/>
-<area shape="rect" id="node6" href="$classAC__Fence.html#a2e1b31469e12ba2749555d89d8892d5f" title=" " alt="" coords="237,193,443,221"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="491,5,661,33"/>
-</map>

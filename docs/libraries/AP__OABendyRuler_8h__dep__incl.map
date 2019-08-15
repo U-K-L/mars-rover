@@ -1,8 +1,0 @@
-<map id="libraries/AC_Avoidance/AP_OABendyRuler.h" name="libraries/AC_Avoidance/AP_OABendyRuler.h">
-<area shape="rect" id="node1" title=" " alt="" coords="125,6,284,50"/>
-<area shape="rect" id="node2" href="$AP__OABendyRuler_8cpp.html" title=" " alt="" coords="5,99,168,143"/>
-<area shape="rect" id="node3" href="$AP__OAPathPlanner_8h.html" title=" " alt="" coords="243,99,401,143"/>
-<area shape="rect" id="node4" href="$AP__OAPathPlanner_8cpp.html" title=" " alt="" coords="122,193,288,237"/>
-<area shape="rect" id="node5" href="$AR__WPNav_8h.html" title=" " alt="" coords="313,193,455,237"/>
-<area shape="rect" id="node6" href="$AR__WPNav_8cpp.html" title=" " alt="" coords="313,286,455,330"/>
-</map>

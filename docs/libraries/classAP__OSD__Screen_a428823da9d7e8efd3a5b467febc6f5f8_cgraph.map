@@ -1,6 +1,0 @@
-<map id="AP_OSD_Screen::draw_throttle" name="AP_OSD_Screen::draw_throttle">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,167,67"/>
-<area shape="rect" id="node2" href="$classAP__OSD__Backend.html#a0874cc679cadd5bc77b95df77192ef99" title=" " alt="" coords="216,5,386,33"/>
-<area shape="rect" id="node3" href="$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="280,57,322,85"/>
-<area shape="rect" id="node4" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="436,57,572,85"/>
-</map>

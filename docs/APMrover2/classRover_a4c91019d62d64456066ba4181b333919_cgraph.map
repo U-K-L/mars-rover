@@ -1,7 +1,0 @@
-<map id="Rover::failsafe_ekf_off_event" name="Rover::failsafe_ekf_off_event">
-<area shape="rect" id="node1" title=" " alt="" coords="6,75,138,119"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="228,5,311,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Logger.html#a5f47086952bb5e841d979491e6dd562f" title=" " alt="" coords="188,57,351,85"/>
-<area shape="rect" id="node4" href="$classRover.html#aa49315d8344d41618e6b6abfc459e89c" title=" " alt="" coords="227,109,312,137"/>
-<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classGCS.html#a9866f3484283db744409e40719cef765" title=" " alt="" coords="212,161,327,189"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="lua_scripts::reschedule_script" name="lua_scripts::reschedule_script">
-<area shape="rect" id="node1" title=" " alt="" coords="5,27,163,71"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="211,35,323,63"/>
-<area shape="rect" id="node3" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="415,5,473,33"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="370,57,518,101"/>
-</map>

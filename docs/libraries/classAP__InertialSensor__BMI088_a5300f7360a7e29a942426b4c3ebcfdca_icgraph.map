@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor_BMI088::setup_accel_config" name="AP_InertialSensor_BMI088::setup_accel_config">
-<area shape="rect" id="node1" title=" " alt="" coords="470,39,652,83"/>
-<area shape="rect" id="node2" href="$classAP__InertialSensor__BMI088.html#a2be4620893ac1c7a3cdb0a4f4687adfb" title=" " alt="" coords="238,5,420,49"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__BMI088.html#acc980e77c533f281fb5013ef538166a7" title=" " alt="" coords="238,73,420,117"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__BMI088.html#a17b46e0c20992862df4917c8f0c12137" title=" " alt="" coords="6,5,188,49"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor__BMI088.html#a0710f2f2daabadacdff9b1dbe46d1541" title=" " alt="" coords="6,73,188,117"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="NavEKF3_core::getRotationBodyToNED" name="NavEKF3_core::getRotationBodyToNED">
-<area shape="rect" id="node1" title=" " alt="" coords="868,39,1055,83"/>
-<area shape="rect" id="node2" href="$classNavEKF3.html#ab2a2ba418967238853115d2f3492ed2d" title=" " alt="" coords="617,5,818,49"/>
-<area shape="rect" id="node4" href="$classNavEKF3.html#a2c6a4e02b2ed3af15f3cde86eee2495c" title=" " alt="" coords="625,73,810,117"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a69546b54c7e1605b2e91c01c061672ac" title=" " alt="" coords="354,5,553,49"/>
-<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title=" " alt="" coords="339,81,568,109"/>
-<area shape="rect" id="node6" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="102,81,290,109"/>
-<area shape="rect" id="node7" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,81,53,109"/>
-</map>

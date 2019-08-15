@@ -1,6 +1,0 @@
-<map id="Compass::send_mag_cal_progress" name="Compass::send_mag_cal_progress">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,178,101"/>
-<area shape="rect" id="node2" href="$classCompass.html#ae360dcf0cbadb3cc00fb5e60f5ab12ef" title=" " alt="" coords="227,5,402,33"/>
-<area shape="rect" id="node3" href="$classCompassCalibrator.html#ab97bbd5682bff34549e8f59023b85321" title=" " alt="" coords="243,57,386,101"/>
-<area shape="rect" id="node4" href="$classCompassCalibrator.html#a186c15475aec7e4462e4928fb1ab53f7" title=" " alt="" coords="243,125,386,169"/>
-</map>

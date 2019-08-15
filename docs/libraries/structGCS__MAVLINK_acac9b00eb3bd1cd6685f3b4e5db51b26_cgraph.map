@@ -1,8 +1,0 @@
-<map id="GCS_MAVLINK::send_rpm" name="GCS_MAVLINK::send_rpm">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,187,85"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#ad5986df034b9156395fea23c11cb2210" title=" " alt="" coords="267,5,336,33"/>
-<area shape="rect" id="node4" href="$classAP__RPM.html#a76ecca7a584a760e39be09ba29dcbdeb" title=" " alt="" coords="236,57,367,85"/>
-<area shape="rect" id="node5" href="$classAP__RPM.html#a6222178dcb331b70cbf292cbba8fd8eb" title=" " alt="" coords="235,109,368,137"/>
-<area shape="rect" id="node3" href="$classAP__RPM.html#ae7cb8baddb7aa17faa7a074f79c13096" title=" " alt="" coords="416,5,579,33"/>
-<area shape="rect" id="node6" href="$classAP__RPM.html#a9c5715bbd3d39c3b66960e411644457d" title=" " alt="" coords="434,109,561,137"/>
-</map>

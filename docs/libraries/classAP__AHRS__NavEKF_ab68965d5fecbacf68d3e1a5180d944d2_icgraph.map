@@ -1,6 +1,0 @@
-<map id="AP_AHRS_NavEKF::get_relative_position_D_origin" name="AP_AHRS_NavEKF::get_relative_position_D_origin">
-<area shape="rect" id="node1" title=" " alt="" coords="449,27,615,87"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#acf8913fdd3d47c9b2cfcdda9d4e27268" title=" " alt="" coords="217,5,399,49"/>
-<area shape="rect" id="node4" href="$classAP__Logger.html#a419829e32e08996981e1b0965efcb4eb" title=" " alt="" coords="6,73,168,101"/>
-<area shape="rect" id="node3" href="$classAP__OSD__Screen.html#a86e00c5f43dc77e161b1bb8572beab26" title=" " alt="" coords="6,5,167,49"/>
-</map>

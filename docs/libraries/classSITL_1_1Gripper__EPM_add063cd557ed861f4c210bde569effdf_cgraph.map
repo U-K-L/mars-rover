@@ -1,8 +1,0 @@
-<map id="SITL::Gripper_EPM::update_from_demand" name="SITL::Gripper_EPM::update_from_demand">
-<area shape="rect" id="node1" title=" " alt="" coords="5,59,157,103"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="400,7,534,35"/>
-<area shape="rect" id="node4" href="$classSITL_1_1Gripper__EPM.html#a29316fdb9ab6b1136910f89b2ada94e8" title=" " alt="" coords="206,28,351,72"/>
-<area shape="rect" id="node5" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="253,96,304,124"/>
-<area shape="rect" id="node6" href="$classSITL_1_1Gripper__EPM.html#a8fd23d4ae93d3608cf912fed9273b0ce" title=" " alt="" coords="206,148,351,192"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="581,7,680,35"/>
-</map>

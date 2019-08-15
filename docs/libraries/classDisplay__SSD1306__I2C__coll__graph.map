@@ -1,9 +1,0 @@
-<map id="Display_SSD1306_I2C" name="Display_SSD1306_I2C">
-<area shape="rect" id="node1" title=" " alt="" coords="38,395,196,423"/>
-<area shape="rect" id="node2" href="$classDisplay__Backend.html" title=" " alt="" coords="4,294,128,322"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1OwnPtr.html" title=" " alt="" coords="153,286,305,330"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html" title=" " alt="" coords="169,193,289,221"/>
-<area shape="rect" id="node5" href="$structAP__HAL_1_1Device_1_1checkreg.html" title=" " alt="" coords="73,99,255,127"/>
-<area shape="rect" id="node6" href="$unionAP__HAL_1_1Device_1_1DeviceId.html" title=" " alt="" coords="279,99,459,127"/>
-<area shape="rect" id="node7" href="$structAP__HAL_1_1Device_1_1DeviceStructure.html" title=" " alt="" coords="258,6,480,34"/>
-</map>

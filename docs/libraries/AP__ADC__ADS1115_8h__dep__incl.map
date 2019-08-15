@@ -1,7 +1,0 @@
-<map id="libraries/AP_ADC/AP_ADC_ADS1115.h" name="libraries/AP_ADC/AP_ADC_ADS1115.h">
-<area shape="rect" id="node1" title=" " alt="" coords="93,6,239,50"/>
-<area shape="rect" id="node2" href="$AP__ADC__ADS1115_8cpp.html" title=" " alt="" coords="4,99,149,143"/>
-<area shape="rect" id="node3" href="$AnalogIn__ADS1115_8h.html" title=" " alt="" coords="175,99,336,143"/>
-<area shape="rect" id="node4" href="$AnalogIn__ADS1115_8cpp.html" title=" " alt="" coords="80,193,245,237"/>
-<area shape="rect" id="node5" href="$HAL__Linux__Class_8cpp.html" title=" " alt="" coords="270,193,431,237"/>
-</map>

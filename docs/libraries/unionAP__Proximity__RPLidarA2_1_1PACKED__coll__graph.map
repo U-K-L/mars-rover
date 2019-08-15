@@ -1,5 +1,0 @@
-<map id="AP_Proximity_RPLidarA2::PACKED" name="AP_Proximity_RPLidarA2::PACKED">
-<area shape="rect" id="node1" title=" " alt="" coords="103,115,275,159"/>
-<area shape="rect" id="node2" href="$structAP__Proximity__RPLidarA2_1_1__sensor__health.html" title=" " alt="" coords="4,6,176,50"/>
-<area shape="rect" id="node3" href="$structAP__Proximity__RPLidarA2_1_1__sensor__scan.html" title=" " alt="" coords="201,6,373,50"/>
-</map>

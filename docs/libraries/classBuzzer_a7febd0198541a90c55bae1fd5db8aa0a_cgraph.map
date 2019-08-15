@@ -1,4 +1,0 @@
-<map id="Buzzer::on" name="Buzzer::on">
-<area shape="rect" id="node1" title="on &#45; turns the buzzer on or off" alt="" coords="5,5,91,33"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title=" " alt="" coords="139,5,288,33"/>
-</map>

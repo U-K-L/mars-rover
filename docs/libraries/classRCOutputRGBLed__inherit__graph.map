@@ -1,7 +1,0 @@
-<map id="RCOutputRGBLed" name="RCOutputRGBLed">
-<area shape="rect" id="node1" title=" " alt="" coords="122,161,253,189"/>
-<area shape="rect" id="node4" href="$classRCOutputRGBLedInverted.html" title=" " alt="" coords="5,238,184,266"/>
-<area shape="rect" id="node5" href="$classRCOutputRGBLedOff.html" title=" " alt="" coords="208,238,356,266"/>
-<area shape="rect" id="node2" href="$classRGBLed.html" title=" " alt="" coords="152,83,224,111"/>
-<area shape="rect" id="node3" href="$classNotifyDevice.html" title=" " alt="" coords="140,6,236,34"/>
-</map>

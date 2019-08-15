@@ -1,9 +1,0 @@
-<map id="AP_AHRS_NavEKF::getLastPosDownReset" name="AP_AHRS_NavEKF::getLastPosDownReset">
-<area shape="rect" id="node1" title=" " alt="" coords="6,73,221,117"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="281,21,479,49"/>
-<area shape="rect" id="node4" href="$classNavEKF2.html#a988d3c0397c58361c78936a582b07e61" title=" " alt="" coords="269,81,491,109"/>
-<area shape="rect" id="node6" href="$classNavEKF3.html#af8f633712a464fdef83c39ed1baf84cd" title=" " alt="" coords="269,141,491,169"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="539,5,728,49"/>
-<area shape="rect" id="node5" href="$classNavEKF2__core.html#a0552f80d9e3ceeda884413512f1edfbf" title=" " alt="" coords="540,73,726,117"/>
-<area shape="rect" id="node7" href="$classNavEKF3__core.html#ab0b02bd2b13ff0dfde8ab4512d58ee42" title=" " alt="" coords="540,141,726,185"/>
-</map>

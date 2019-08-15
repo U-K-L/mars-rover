@@ -1,6 +1,0 @@
-<map id="AP_Motors::get_yaw" name="AP_Motors::get_yaw">
-<area shape="rect" id="node1" title=" " alt="" coords="594,13,739,41"/>
-<area shape="rect" id="node2" href="$classAP__Logger.html#a0739b99fb9eb211dae48bc7ccb1d9c31" title=" " alt="" coords="384,13,546,41"/>
-<area shape="rect" id="node3" href="$classAC__AutoTune.html#a7553749cc2b73850fcf4b14a61e384bb" title=" " alt="" coords="184,5,336,49"/>
-<area shape="rect" id="node4" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,13,136,41"/>
-</map>

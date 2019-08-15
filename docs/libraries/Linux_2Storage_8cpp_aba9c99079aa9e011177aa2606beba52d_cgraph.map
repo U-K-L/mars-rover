@@ -1,7 +1,0 @@
-<map id="is_dir" name="is_dir">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,59,59"/>
-<area shape="rect" id="node2" href="$posix_8c.html#a5f9f3a5b6a7ddcc72c521d70d0f677db" title="Display struct stat, from POSIX stat(0 or fstat(), in ASCII. NOT POSIX." alt="" coords="107,31,149,59"/>
-<area shape="rect" id="node3" href="$posix_8c.html#aeb68afd2fdf966f8d89cc7aaa9aa7c23" title="Convert FafFs error result to POSIX errno. NOT POSIX." alt="" coords="206,5,309,33"/>
-<area shape="rect" id="node4" href="$posix_8c.html#a429fb62120654af9991d381961ab0c0d" title="Convert FatFs file date and time to POSIX epoch seconds. NOT POSIX." alt="" coords="198,57,317,85"/>
-<area shape="rect" id="node5" href="$posix_8c.html#a1d22cb8941388656918f4e1b16061cd9" title=" " alt="" coords="366,57,482,85"/>
-</map>

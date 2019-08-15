@@ -1,8 +1,0 @@
-<map id="HAL_Empty::run" name="HAL_Empty::run">
-<area shape="rect" id="node1" title=" " alt="" coords="6,133,125,161"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a4003ad5b2ebcbb767700f0d483216a56" title=" " alt="" coords="176,5,341,33"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title=" " alt="" coords="183,57,334,101"/>
-<area shape="rect" id="node4" href="$structAP__HAL_1_1HAL_1_1Callbacks.html#ac17391b6bc7af1125a01f714db4416ea" title=" " alt="" coords="173,125,344,169"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#aedeb9c9f5b782f55afeebc8d2f612c8a" title=" " alt="" coords="185,193,332,237"/>
-<area shape="rect" id="node6" href="$structAP__HAL_1_1HAL_1_1Callbacks.html#a639c16a1964775a5bf52a2d5a906ceeb" title=" " alt="" coords="173,261,344,305"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="GCS_MAVLINK::log_vision_position_estimate_data" name="GCS_MAVLINK::log_vision_position_estimate_data">
-<area shape="rect" id="node1" title=" " alt="" coords="664,59,846,103"/>
-<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a700265c4d6a54364427b1ac0153e20e3" title=" " alt="" coords="447,5,609,49"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a6f49b41ed3f9b5e11df9a4a1221e2f84" title=" " alt="" coords="441,106,615,166"/>
-<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,94,168,138"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#aec273d3bdc27755bfb8f2680dd2e5071" title=" " alt="" coords="223,47,385,107"/>
-<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a5a232dea09ba3ec0c8459e0a7b72200b" title=" " alt="" coords="218,131,390,175"/>
-<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#a3f74dcfb77af6c36c0a56e87959fded3" title=" " alt="" coords="217,199,391,243"/>
-</map>

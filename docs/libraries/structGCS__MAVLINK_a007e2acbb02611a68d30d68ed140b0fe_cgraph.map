@@ -1,6 +1,0 @@
-<map id="GCS_MAVLINK::send_collision_all" name="GCS_MAVLINK::send_collision_all">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,232,63"/>
-<area shape="rect" id="node2" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title=" " alt="" coords="281,35,418,63"/>
-<area shape="rect" id="node3" href="$GCS__MAVLink_8h.html#a17ee8d1ce05b7d160ccc6a78b92b774f" title=" " alt="" coords="495,5,598,33"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1BetterStream.html#ab0193c7791fd95eb2bfbfd6597bdf6d8" title=" " alt="" coords="467,57,626,101"/>
-</map>

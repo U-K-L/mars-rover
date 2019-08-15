@@ -1,7 +1,0 @@
-<map id="Mode::get_speed_default" name="Mode::get_speed_default">
-<area shape="rect" id="node1" title=" " alt="" coords="417,97,589,125"/>
-<area shape="rect" id="node2" href="$classGCS__MAVLINK__Rover.html#a46580d8a9c126a95b84791c4f1069102" title=" " alt="" coords="197,5,363,65"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK__Rover.html#a47165039f13699b9ebffd14252708171" title=" " alt="" coords="197,89,363,133"/>
-<area shape="rect" id="node4" href="$classMode.html#a495a5b5be5a468bd9866a97c17bdd331" title=" " alt="" coords="193,157,367,201"/>
-<area shape="rect" id="node5" href="$classModeFollow.html#ac3c36e1cca15c7469f7ff9b72d81a1b2" title=" " alt="" coords="5,165,144,193"/>
-</map>

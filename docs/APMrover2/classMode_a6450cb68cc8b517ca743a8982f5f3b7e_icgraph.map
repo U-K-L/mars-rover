@@ -1,7 +1,0 @@
-<map id="Mode::navigate_to_waypoint" name="Mode::navigate_to_waypoint">
-<area shape="rect" id="node1" title=" " alt="" coords="398,51,589,79"/>
-<area shape="rect" id="node2" href="$classModeAuto.html#a5e2c24f57899cb498ccfc9fb86af100a" title=" " alt="" coords="6,25,136,53"/>
-<area shape="rect" id="node3" href="$classModeGuided.html#af4257d14a75f566998ef6ea93aa6e096" title=" " alt="" coords="194,25,340,53"/>
-<area shape="rect" id="node4" href="$classModeRTL.html#a38eb1818b778be599f0863b838c5c90d" title=" " alt="" coords="203,77,331,105"/>
-<area shape="rect" id="node5" href="$classModeSmartRTL.html#a025fa96b94d960f45692ce9807dbabb8" title=" " alt="" coords="185,129,348,157"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="libraries/AP_RPM/RPM_Backend.h" name="libraries/AP_RPM/RPM_Backend.h">
-<area shape="rect" id="node1" title=" " alt="" coords="273,6,432,50"/>
-<area shape="rect" id="node2" href="$RPM__Pin_8h.html" title=" " alt="" coords="89,99,248,143"/>
-<area shape="rect" id="node5" href="$RPM__SITL_8h.html" title=" " alt="" coords="273,99,432,143"/>
-<area shape="rect" id="node7" href="$RPM__Backend_8cpp.html" title=" " alt="" coords="457,99,616,143"/>
-<area shape="rect" id="node3" href="$AP__RPM_8cpp.html" title=" " alt="" coords="187,193,335,237"/>
-<area shape="rect" id="node4" href="$RPM__Pin_8cpp.html" title=" " alt="" coords="4,193,163,237"/>
-<area shape="rect" id="node6" href="$RPM__SITL_8cpp.html" title=" " alt="" coords="359,193,517,237"/>
-</map>

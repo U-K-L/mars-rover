@@ -1,8 +1,0 @@
-<map id="libraries/AP_HAL_Linux/UARTDriver.h" name="libraries/AP_HAL_Linux/UARTDriver.h">
-<area shape="rect" id="node1" title=" " alt="" coords="250,6,411,50"/>
-<area shape="rect" id="node2" href="$SPIUARTDriver_8h.html" title=" " alt="" coords="191,99,352,143"/>
-<area shape="rect" id="node3" href="$HAL__Linux__Class_8cpp.html" title=" " alt="" coords="4,193,165,237"/>
-<area shape="rect" id="node4" href="$Linux_2Scheduler_8cpp.html" title=" " alt="" coords="378,193,539,237"/>
-<area shape="rect" id="node6" href="$AP__HAL__Linux_2UARTDriver_8cpp.html" title=" " alt="" coords="428,99,589,143"/>
-<area shape="rect" id="node5" href="$SPIUARTDriver_8cpp.html" title=" " alt="" coords="191,193,352,237"/>
-</map>

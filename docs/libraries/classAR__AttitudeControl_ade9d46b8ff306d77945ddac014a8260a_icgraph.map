@@ -1,6 +1,0 @@
-<map id="AR_AttitudeControl::get_turn_rate_from_lat_accel" name="AR_AttitudeControl::get_turn_rate_from_lat_accel">
-<area shape="rect" id="node1" title=" " alt="" coords="441,27,583,87"/>
-<area shape="rect" id="node2" href="$classAR__AttitudeControl.html#aedb2c49f989bc820c8df3a01f8c4d780" title=" " alt="" coords="199,5,387,49"/>
-<area shape="rect" id="node3" href="$classAR__WPNav.html#ae361edfe4baa867ab17c54036aef86ae" title=" " alt="" coords="196,73,391,101"/>
-<area shape="rect" id="node4" href="$classAR__WPNav.html#a537e00d4cacfe212829be555575c66f4" title=" " alt="" coords="6,73,146,101"/>
-</map>

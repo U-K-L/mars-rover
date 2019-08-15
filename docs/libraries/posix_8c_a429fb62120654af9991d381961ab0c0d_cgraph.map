@@ -1,4 +1,0 @@
-<map id="fat_time_to_unix" name="fat_time_to_unix">
-<area shape="rect" id="node1" title="Convert FatFs file date and time to POSIX epoch seconds. NOT POSIX." alt="" coords="6,5,125,33"/>
-<area shape="rect" id="node2" href="$posix_8c.html#a1d22cb8941388656918f4e1b16061cd9" title=" " alt="" coords="174,5,290,33"/>
-</map>

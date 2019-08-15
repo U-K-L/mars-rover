@@ -1,7 +1,0 @@
-<map id="AP_BattMonitor::has_cell_voltages" name="AP_BattMonitor::has_cell_voltages">
-<area shape="rect" id="node1" title=" " alt="" coords="678,39,821,83"/>
-<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#af61ae80fb30fc8bb0fbf7ede1e47dfb0" title=" " alt="" coords="429,5,629,49"/>
-<area shape="rect" id="node3" href="$classAP__Logger.html#a9ae837a2154a41ffd9aa69adbeb92111" title=" " alt="" coords="440,73,618,117"/>
-<area shape="rect" id="node4" href="$classAP__Logger.html#a7cd4f7f0ae4fd47dd92f2ecb5b89509f" title=" " alt="" coords="203,81,381,109"/>
-<area shape="rect" id="node5" href="$classAP__BattMonitor.html#a2275643d2998063448035e89cba6f549" title="Read the battery voltage and current for all batteries. Should be called at 10hz." alt="" coords="6,81,154,109"/>
-</map>

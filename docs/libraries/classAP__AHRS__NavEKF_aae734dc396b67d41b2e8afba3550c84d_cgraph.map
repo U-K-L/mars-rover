@@ -1,6 +1,0 @@
-<map id="AP_AHRS_NavEKF::writeExtNavData" name="AP_AHRS_NavEKF::writeExtNavData">
-<area shape="rect" id="node1" title=" " alt="" coords="6,5,202,49"/>
-<area shape="rect" id="node2" href="$classNavEKF2.html#afd9aa4d252840d61d167258a857af78f" title=" " alt="" coords="251,13,437,41"/>
-<area shape="rect" id="node3" href="$classNavEKF2__core.html#ac1b14b4330c4897aed362416d322ad26" title=" " alt="" coords="485,13,704,41"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="752,13,802,41"/>
-</map>

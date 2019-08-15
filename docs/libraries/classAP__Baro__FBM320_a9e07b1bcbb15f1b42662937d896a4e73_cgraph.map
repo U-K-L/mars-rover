@@ -1,5 +1,0 @@
-<map id="AP_Baro_FBM320::read_calibration" name="AP_Baro_FBM320::read_calibration">
-<area shape="rect" id="node1" title=" " alt="" coords="6,5,173,49"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="221,5,376,49"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="424,13,597,41"/>
-</map>

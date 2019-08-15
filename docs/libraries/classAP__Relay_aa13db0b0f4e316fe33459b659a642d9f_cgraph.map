@@ -1,7 +1,0 @@
-<map id="AP_Relay::init" name="AP_Relay::init">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,111,59"/>
-<area shape="rect" id="node2" href="$classAP__Relay.html#aff679a24b3c6b73f066e1e62c86e0fae" title=" " alt="" coords="161,5,263,33"/>
-<area shape="rect" id="node5" href="$classAP__Relay.html#a8f00e5559174917b795ef84472822e53" title=" " alt="" coords="161,57,263,85"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title=" " alt="" coords="313,5,485,33"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title=" " alt="" coords="324,57,473,85"/>
-</map>

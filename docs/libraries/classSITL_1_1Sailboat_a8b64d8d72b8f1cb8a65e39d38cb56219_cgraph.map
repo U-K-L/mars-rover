@@ -1,6 +1,0 @@
-<map id="SITL::Sailboat::get_yaw_rate" name="SITL::Sailboat::get_yaw_rate">
-<area shape="rect" id="node1" title=" " alt="" coords="5,23,136,67"/>
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="364,5,428,33"/>
-<area shape="rect" id="node3" href="$classSITL_1_1Sailboat.html#abebb619e756195ee296ac2666b626a58" title=" " alt="" coords="184,53,315,97"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="363,61,429,89"/>
-</map>

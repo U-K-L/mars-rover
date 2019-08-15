@@ -1,5 +1,0 @@
-<map id="AC_PosControl::init_ekf_z_reset" name="AC_PosControl::init_ekf_z_reset">
-<area shape="rect" id="node1" title="initialise ekf z axis reset check" alt="" coords="192,39,330,83"/>
-<area shape="rect" id="node2" href="$classAC__PosControl.html#abd590af4985586d33e4623adf76e7536" title="init_takeoff &#45; initialises target altitude if we are taking off" alt="" coords="6,5,144,49"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#ae2897de0075f8f8aaa94eb7e8cad100b" title="xyz velocity controller" alt="" coords="6,73,144,117"/>
-</map>

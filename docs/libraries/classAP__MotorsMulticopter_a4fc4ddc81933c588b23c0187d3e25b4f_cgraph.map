@@ -1,6 +1,0 @@
-<map id="AP_MotorsMulticopter::output_to_pwm" name="AP_MotorsMulticopter::output_to_pwm">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,158,101"/>
-<area shape="rect" id="node2" href="$classAP__Motors.html#a67a133570ae075a874c6522b23c5261b" title=" " alt="" coords="219,5,352,33"/>
-<area shape="rect" id="node3" href="$classAP__MotorsMulticopter.html#a7e7289ea665c236215c2fe1664fee64b" title=" " alt="" coords="207,57,363,101"/>
-<area shape="rect" id="node4" href="$classAP__MotorsMulticopter.html#a1ab80415887328ea2c714d10000d88aa" title=" " alt="" coords="205,125,365,169"/>
-</map>

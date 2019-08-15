@@ -1,6 +1,0 @@
-<map id="skipcomment" name="skipcomment">
-<area shape="rect" id="node1" title=" " alt="" coords="6,31,106,59"/>
-<area shape="rect" id="node2" href="$lauxlib_8c.html#a2166815af5654076fea257c99eca1789" title=" " alt="" coords="156,5,231,33"/>
-<area shape="rect" id="node3" href="$posix_8c.html#a6c8d403fb133a4eb82a146df500a9a49" title=" " alt="" coords="281,31,327,59"/>
-<area shape="rect" id="node4" href="$posix_8c.html#ab11a990e4f8863a1e7736e3c1d430092" title="Get byte from a TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;get = fatfs_getc() for..." alt="" coords="376,31,426,59"/>
-</map>

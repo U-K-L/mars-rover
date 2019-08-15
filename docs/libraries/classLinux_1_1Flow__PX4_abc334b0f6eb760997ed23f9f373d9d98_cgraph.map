@@ -1,6 +1,0 @@
-<map id="Linux::Flow_PX4::compute_flow" name="Linux::Flow_PX4::compute_flow">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,216,85"/>
-<area shape="rect" id="node2" href="$Flow__PX4_8cpp.html#a32854b3814e2dea4700c1aefc382c184" title="Compute the average pixel gradient of all horizontal and vertical steps." alt="" coords="281,5,378,33"/>
-<area shape="rect" id="node3" href="$Flow__PX4_8cpp.html#adc25098c159423f77b4acd31d0721b37" title="Compute SAD of two pixel windows." alt="" coords="279,57,380,85"/>
-<area shape="rect" id="node4" href="$Flow__PX4_8cpp.html#a6ecede8f249a2f7f2e369f5b3333fe09" title="Compute SAD distances of subpixel shift of two pixel patterns." alt="" coords="265,109,394,137"/>
-</map>

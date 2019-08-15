@@ -1,6 +1,0 @@
-<map id="AP_Beacon_Backend" name="AP_Beacon_Backend">
-<area shape="rect" id="node1" title=" " alt="" coords="190,6,340,34"/>
-<area shape="rect" id="node2" href="$classAP__Beacon__Marvelmind.html" title=" " alt="" coords="5,83,173,111"/>
-<area shape="rect" id="node3" href="$classAP__Beacon__Pozyx.html" title=" " alt="" coords="198,83,332,111"/>
-<area shape="rect" id="node4" href="$classAP__Beacon__SITL.html" title=" " alt="" coords="358,83,484,111"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="GCS_MAVLINK::send_battery_status" name="GCS_MAVLINK::send_battery_status">
-<area shape="rect" id="node1" title=" " alt="" coords="5,65,205,109"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="296,13,384,41"/>
-<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a919b4b473883ce5282efa1e126b2b7ff" title=" " alt="" coords="266,65,414,109"/>
-<area shape="rect" id="node5" href="$classAP__BattMonitor.html#af7da2493a1943662a28350467d26f2f9" title="get_type &#45; returns battery monitor type" alt="" coords="253,133,427,161"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="475,5,616,49"/>
-</map>

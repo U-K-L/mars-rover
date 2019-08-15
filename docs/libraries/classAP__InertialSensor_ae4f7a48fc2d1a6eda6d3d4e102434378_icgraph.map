@@ -1,9 +1,0 @@
-<map id="AP_InertialSensor::get_last_update_usec" name="AP_InertialSensor::get_last_update_usec">
-<area shape="rect" id="node1" title=" " alt="" coords="824,23,976,67"/>
-<area shape="rect" id="node2" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title=" " alt="" coords="617,5,775,33"/>
-<area shape="rect" id="node6" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title=" " alt="" coords="617,57,775,85"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title=" " alt="" coords="339,5,568,33"/>
-<area shape="rect" id="node4" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title=" " alt="" coords="102,31,290,59"/>
-<area shape="rect" id="node5" href="$AHRS__Test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,31,53,59"/>
-<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title=" " alt="" coords="339,57,568,85"/>
-</map>

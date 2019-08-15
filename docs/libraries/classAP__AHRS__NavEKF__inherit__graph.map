@@ -1,5 +1,0 @@
-<map id="AP_AHRS_NavEKF" name="AP_AHRS_NavEKF">
-<area shape="rect" id="node1" title=" " alt="" coords="4,161,144,189"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html" title=" " alt="" coords="14,83,135,111"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html" title=" " alt="" coords="33,6,116,34"/>
-</map>

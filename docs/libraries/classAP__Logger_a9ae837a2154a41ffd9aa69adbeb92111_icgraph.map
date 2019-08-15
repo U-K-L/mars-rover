@@ -1,5 +1,0 @@
-<map id="AP_Logger::Write_Current_instance" name="AP_Logger::Write_Current_instance">
-<area shape="rect" id="node1" title=" " alt="" coords="430,5,608,49"/>
-<area shape="rect" id="node2" href="$classAP__Logger.html#a7cd4f7f0ae4fd47dd92f2ecb5b89509f" title=" " alt="" coords="203,13,381,41"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a2275643d2998063448035e89cba6f549" title="Read the battery voltage and current for all batteries. Should be called at 10hz." alt="" coords="6,13,154,41"/>
-</map>

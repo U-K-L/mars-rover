@@ -1,6 +1,0 @@
-<map id="GCS_MAVLINK::_set_mode_common" name="GCS_MAVLINK::_set_mode_common">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,194,101"/>
-<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#ad9f23c1630121a87f7deea2bb1422045" title=" " alt="" coords="243,5,424,33"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1RCOutput.html#afb075a7e5438b6f0bae228e0b6be0cc2" title=" " alt="" coords="245,57,421,101"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1RCOutput.html#a6852e3aa22747f045dc71972e97d7de6" title=" " alt="" coords="245,125,421,169"/>
-</map>

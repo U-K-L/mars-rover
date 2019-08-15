@@ -1,9 +1,0 @@
-<map id="HALSITL::Scheduler::reboot" name="HALSITL::Scheduler::reboot">
-<area shape="rect" id="node1" title=" " alt="" coords="6,39,149,83"/>
-<area shape="rect" id="node2" href="$classAP__BoardConfig.html#aa907eb67931dea502d3eaba210763871" title=" " alt="" coords="197,5,344,49"/>
-<area shape="rect" id="node3" href="$classHAL__SITL.html#a2805a02c5c2e2f5628902c8b3dc8bb1e" title=" " alt="" coords="203,73,338,117"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="392,54,504,82"/>
-<area shape="rect" id="node7" href="$posix_8c.html#add46ab98f32b76457852dbb872842bf2" title="POSIX strerror() &#45; convert POSIX errno to text with user message." alt="" coords="416,106,480,134"/>
-<area shape="rect" id="node5" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="597,25,654,53"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="552,77,699,121"/>
-</map>

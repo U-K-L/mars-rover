@@ -1,9 +1,0 @@
-<map id="AP_Frsky_Telem::calc_param" name="AP_Frsky_Telem::calc_param">
-<area shape="rect" id="node1" title=" " alt="" coords="6,89,159,133"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="240,17,328,45"/>
-<area shape="rect" id="node4" href="$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="263,70,305,98"/>
-<area shape="rect" id="node6" href="$classGCS.html#a17943db71c851282d428a5acbcce418f" title=" " alt="" coords="222,122,346,150"/>
-<area shape="rect" id="node7" href="$classAP__BattMonitor.html#a4875755fd290eb98f350ca1dbd95ab71" title="pack_capacity_mah &#45; returns the capacity of the battery pack in mAh when the pack is full" alt="" coords="209,174,359,218"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="408,5,549,49"/>
-<area shape="rect" id="node5" href="$classGCS.html#a684e9575c690f04ad04e105d6e8fde49" title=" " alt="" coords="410,73,547,101"/>
-</map>

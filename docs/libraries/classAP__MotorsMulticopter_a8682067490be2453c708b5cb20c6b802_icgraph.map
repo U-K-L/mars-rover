@@ -1,8 +1,0 @@
-<map id="AP_MotorsMulticopter::get_motor_mask" name="AP_MotorsMulticopter::get_motor_mask">
-<area shape="rect" id="node1" title=" " alt="" coords="264,125,416,169"/>
-<area shape="rect" id="node2" href="$classAP__MotorsTailsitter.html#ae9fc5d01449d55fc97b435c9173dbdfd" title=" " alt="" coords="43,5,179,49"/>
-<area shape="rect" id="node3" href="$classAP__MotorsTri.html#a0842bbabfee6285e72a19f50ad1e4544" title=" " alt="" coords="6,73,215,101"/>
-<area shape="rect" id="node4" href="$classAP__MotorsMatrix.html#ae863bcf4401e8d03ba69042207d29545" title=" " alt="" coords="36,125,185,169"/>
-<area shape="rect" id="node5" href="$classAP__MotorsSingle.html#a4696c17b47fab66b0e0a844493cb80c9" title=" " alt="" coords="36,193,186,237"/>
-<area shape="rect" id="node6" href="$classAP__MotorsCoax.html#a1afb2502c6c4f5e1a5c30d4b6c979672" title=" " alt="" coords="38,261,183,305"/>
-</map>

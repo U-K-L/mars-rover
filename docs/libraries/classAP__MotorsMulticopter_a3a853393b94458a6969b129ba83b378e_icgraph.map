@@ -1,8 +1,0 @@
-<map id="AP_MotorsMulticopter::get_throttle_thrust_max" name="AP_MotorsMulticopter::get_throttle_thrust_max">
-<area shape="rect" id="node1" title=" " alt="" coords="590,55,759,99"/>
-<area shape="rect" id="node2" href="$classAC__AttitudeControl__Sub.html#a5b05f03714d372c1b7a7cf1710fcc7f8" title=" " alt="" coords="392,5,539,65"/>
-<area shape="rect" id="node4" href="$classAC__AttitudeControl__Multi.html#a76e4a41ae16398361dd688f5ff2d24d9" title=" " alt="" coords="389,89,541,149"/>
-<area shape="rect" id="node3" href="$classAC__AttitudeControl__Sub.html#a01e89bcda33d4d292631f126b21d64fc" title=" " alt="" coords="187,13,339,57"/>
-<area shape="rect" id="node5" href="$classAC__AttitudeControl__Multi.html#a3e83f3b32e305ad977cdaadf92cc80e1" title=" " alt="" coords="185,97,341,141"/>
-<area shape="rect" id="node6" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="5,105,136,133"/>
-</map>

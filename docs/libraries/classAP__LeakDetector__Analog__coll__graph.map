@@ -1,8 +1,0 @@
-<map id="AP_LeakDetector_Analog" name="AP_LeakDetector_Analog">
-<area shape="rect" id="node1" title=" " alt="" coords="58,211,232,239"/>
-<area shape="rect" id="node2" href="$classAP__LeakDetector__Backend.html" title=" " alt="" coords="193,117,377,145"/>
-<area shape="rect" id="node4" href="$classAP__LeakDetector.html" title=" " alt="" coords="286,211,412,239"/>
-<area shape="rect" id="node3" href="$structAP__LeakDetector_1_1LeakDetector__State.html" title=" " alt="" coords="271,6,483,50"/>
-<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="489,117,641,145"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1AnalogSource.html" title=" " alt="" coords="5,117,168,145"/>
-</map>

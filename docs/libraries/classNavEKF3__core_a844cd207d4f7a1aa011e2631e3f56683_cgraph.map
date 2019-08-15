@@ -1,8 +1,0 @@
-<map id="NavEKF3_core::ResetVelocity" name="NavEKF3_core::ResetVelocity">
-<area shape="rect" id="node1" title=" " alt="" coords="5,109,205,137"/>
-<area shape="rect" id="node2" href="$classNavEKF3__core.html#a60c1c2314069524260554d324819058a" title=" " alt="" coords="253,5,432,33"/>
-<area shape="rect" id="node3" href="$classNavEKF3__core.html#a668056e5b2efae63163fc41aa7b7b1fd" title=" " alt="" coords="257,57,429,85"/>
-<area shape="rect" id="node4" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="293,109,393,137"/>
-<area shape="rect" id="node5" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="323,161,362,189"/>
-<area shape="rect" id="node6" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="318,213,368,241"/>
-</map>

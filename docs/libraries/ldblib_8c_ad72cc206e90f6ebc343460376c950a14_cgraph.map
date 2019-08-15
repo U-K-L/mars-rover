@@ -1,6 +1,0 @@
-<map id="db_debug" name="db_debug">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,86,59"/>
-<area shape="rect" id="node2" href="$posix_8c.html#a776c49f4aa8993f1b3f4cbd3cf19cec8" title="get a string from stdin See fdevopen() sets stream&#45;&gt;put get for TTY devices" alt="" coords="150,5,200,33"/>
-<area shape="rect" id="node4" href="$lapi_8c.html#adaa30f0d34786144c94644039d1d1b6e" title=" " alt="" coords="133,57,216,85"/>
-<area shape="rect" id="node3" href="$posix_8c.html#ab11a990e4f8863a1e7736e3c1d430092" title="Get byte from a TTY device or FatFs file stream open() or fopen() sets stream&#45;&gt;get = fatfs_getc() for..." alt="" coords="264,5,314,33"/>
-</map>

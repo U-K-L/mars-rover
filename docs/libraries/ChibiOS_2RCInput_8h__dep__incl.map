@@ -1,8 +1,0 @@
-<map id="libraries/AP_HAL_ChibiOS/RCInput.h" name="libraries/AP_HAL_ChibiOS/RCInput.h">
-<area shape="rect" id="node1" title=" " alt="" coords="323,6,503,50"/>
-<area shape="rect" id="node2" href="$AP__HAL__ChibiOS__Private_8h.html" title=" " alt="" coords="5,99,197,143"/>
-<area shape="rect" id="node4" href="$ChibiOS_2RCInput_8cpp.html" title=" " alt="" coords="222,99,401,143"/>
-<area shape="rect" id="node5" href="$ChibiOS_2Scheduler_8cpp.html" title=" " alt="" coords="426,99,605,143"/>
-<area shape="rect" id="node6" href="$iofirmware_8cpp.html" title=" " alt="" coords="630,99,807,143"/>
-<area shape="rect" id="node3" href="$HAL__ChibiOS__Class_8cpp.html" title=" " alt="" coords="11,193,191,237"/>
-</map>

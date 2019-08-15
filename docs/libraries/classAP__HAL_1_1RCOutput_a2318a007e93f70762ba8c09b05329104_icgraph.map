@@ -1,9 +1,0 @@
-<map id="AP_HAL::RCOutput::set_default_rate" name="AP_HAL::RCOutput::set_default_rate">
-<area shape="rect" id="node1" title=" " alt="" coords="563,35,728,79"/>
-<area shape="rect" id="node2" href="$classSRV__Channels.html#ad4306fcdcf8ba30daa7c0bf62072ca2a" title="Should be called after the the servo functions have been initialized." alt="" coords="336,5,496,49"/>
-<area shape="rect" id="node5" href="$classAP__IOMCU__FW.html#a1a711e065227a9bee8bee196b61b6124" title=" " alt="" coords="318,73,514,101"/>
-<area shape="rect" id="node3" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="138,13,233,41"/>
-<area shape="rect" id="node4" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,13,53,41"/>
-<area shape="rect" id="node6" href="$classAP__IOMCU__FW.html#aa6e97452785d6ade70465f15a87978f4" title=" " alt="" coords="102,73,269,101"/>
-<area shape="rect" id="node7" href="$iofirmware_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,73,53,101"/>
-</map>

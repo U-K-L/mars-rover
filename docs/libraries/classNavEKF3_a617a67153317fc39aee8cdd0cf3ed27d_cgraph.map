@@ -1,9 +1,0 @@
-<map id="NavEKF3::Log_Write_BodyOdom" name="NavEKF3::Log_Write_BodyOdom">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,152,109"/>
-<area shape="rect" id="node2" href="$classNavEKF3.html#a1fcb3693fe8474bb5e9fb10222c61c0f" title=" " alt="" coords="201,5,410,49"/>
-<area shape="rect" id="node5" href="$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="264,73,347,101"/>
-<area shape="rect" id="node7" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="226,125,385,153"/>
-<area shape="rect" id="node3" href="$classNavEKF3__core.html#a99aad619e7fff7f348560a01b068a95e" title=" " alt="" coords="459,5,666,49"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="715,13,765,41"/>
-<area shape="rect" id="node6" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="475,73,650,101"/>
-</map>

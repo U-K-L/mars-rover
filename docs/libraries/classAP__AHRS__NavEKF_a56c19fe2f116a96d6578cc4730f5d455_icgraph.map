@@ -1,9 +1,0 @@
-<map id="AP_AHRS_NavEKF::groundspeed_vector" name="AP_AHRS_NavEKF::groundspeed_vector">
-<area shape="rect" id="node1" title=" " alt="" coords="784,57,1010,101"/>
-<area shape="rect" id="node2" href="$classAP__OSD__Screen.html#aeeac9d0027f1c9334b3ba5264f10b04e" title=" " alt="" coords="552,5,736,33"/>
-<area shape="rect" id="node3" href="$classAP__OSD__Screen.html#aa5c481469bce884ebb3573c69618f3d0" title=" " alt="" coords="563,57,725,101"/>
-<area shape="rect" id="node4" href="$classAP__OSD.html#a35ea6c92d7f94ffc57d642c97ff9275d" title=" " alt="" coords="589,125,699,153"/>
-<area shape="rect" id="node5" href="$classAP__OSD.html#a12697704a6b32392563a6515c3adf3fb" title=" " alt="" coords="352,125,504,153"/>
-<area shape="rect" id="node6" href="$classAP__OSD.html#a508ef8c63d701dbe12cfd8c78e95ec43" title=" " alt="" coords="155,125,304,153"/>
-<area shape="rect" id="node7" href="$classAP__OSD.html#a09e7d40118a2fe4de6ecbbb168ebd8b7" title=" " alt="" coords="6,125,106,153"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_Notify::get_flight_mode_str" name="AP_Notify::get_flight_mode_str">
-<area shape="rect" id="node1" title=" " alt="" coords="561,35,703,79"/>
-<area shape="rect" id="node2" href="$classAP__OSD__Screen.html#a1c0aebc7398db419b720b31fe4673592" title=" " alt="" coords="350,5,511,49"/>
-<area shape="rect" id="node3" href="$classDisplay.html#a451d07f2310565de93613d7de720e078" title=" " alt="" coords="354,73,508,101"/>
-<area shape="rect" id="node4" href="$classDisplay.html#ac7c05517e56f226edea08769a5607bcc" title=" " alt="" coords="168,73,302,101"/>
-<area shape="rect" id="node5" href="$classDisplay.html#a03e5ad3f86b74dd19a334e60b4224932" title=" " alt="" coords="18,46,107,74"/>
-<area shape="rect" id="node6" href="$classDisplay.html#a42794c2be56d886e5e842b5c7618c7cc" title=" " alt="" coords="6,98,119,126"/>
-</map>

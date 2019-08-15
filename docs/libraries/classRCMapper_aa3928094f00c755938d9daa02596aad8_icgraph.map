@@ -1,4 +1,0 @@
-<map id="RCMapper::yaw" name="RCMapper::yaw">
-<area shape="rect" id="node1" title="yaw &#45; return input channel number for yaw / rudder input" alt="" coords="222,13,338,41"/>
-<area shape="rect" id="node2" href="$classSRV__Channels.html#a465e1e727a9e9897cc8a4667b95b2834" title=" " alt="" coords="5,5,174,49"/>
-</map>

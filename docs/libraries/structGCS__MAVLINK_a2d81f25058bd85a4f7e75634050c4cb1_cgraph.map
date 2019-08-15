@@ -1,6 +1,0 @@
-<map id="GCS_MAVLINK::vfr_hud_climbrate" name="GCS_MAVLINK::vfr_hud_climbrate">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,173,67"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="236,5,308,33"/>
-<area shape="rect" id="node4" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title=" " alt="" coords="222,57,322,85"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="371,5,541,33"/>
-</map>

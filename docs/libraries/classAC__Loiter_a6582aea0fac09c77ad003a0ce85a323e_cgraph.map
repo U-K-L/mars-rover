@@ -1,7 +1,0 @@
-<map id="AC_Loiter::get_angle_max_cd" name="AC_Loiter::get_angle_max_cd">
-<area shape="rect" id="node1" title="get maximum lean angle when using loiter" alt="" coords="5,50,152,94"/>
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="433,58,497,86"/>
-<area shape="rect" id="node3" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="252,28,298,56"/>
-<area shape="rect" id="node4" href="$classAC__AttitudeControl.html#ac71e87097ca470583c0d8f32ead23f21" title=" " alt="" coords="398,125,533,169"/>
-<area shape="rect" id="node5" href="$classAC__PosControl.html#a84660e7d1713d6217dafeb78e037e42f" title="get_lean_angle_max_cd &#45; returns the maximum lean angle the autopilot may request" alt="" coords="201,80,349,124"/>
-</map>

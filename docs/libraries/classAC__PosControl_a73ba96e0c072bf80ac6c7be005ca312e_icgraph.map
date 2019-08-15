@@ -1,5 +1,0 @@
-<map id="AC_PosControl::relax_alt_hold_controllers" name="AC_PosControl::relax_alt_hold_controllers">
-<area shape="rect" id="node1" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="227,35,376,79"/>
-<area shape="rect" id="node2" href="$classAC__PosControl__Sub.html#ad8f7c6291be9be035a2faa970ecab24a" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="5,5,179,49"/>
-<area shape="rect" id="node3" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="26,73,158,101"/>
-</map>

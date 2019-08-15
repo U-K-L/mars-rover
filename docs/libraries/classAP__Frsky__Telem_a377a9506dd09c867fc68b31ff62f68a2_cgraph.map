@@ -1,9 +1,0 @@
-<map id="AP_Frsky_Telem::calc_batt" name="AP_Frsky_Telem::calc_batt">
-<area shape="rect" id="node1" title=" " alt="" coords="6,125,189,153"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#aac3bcb68bcccad29cc493b878aef055e" title=" " alt="" coords="303,13,390,41"/>
-<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a03394a700753687bbb87632743cc2bb3" title="voltage &#45; returns battery voltage in millivolts" alt="" coords="264,65,429,93"/>
-<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#aea60e986f6cff0d30f76fff2c80c758a" title=" " alt="" coords="269,117,425,161"/>
-<area shape="rect" id="node6" href="$classAP__BattMonitor.html#a280ff28558f03d85c6090321287bdd77" title="current_amps &#45; returns the instantaneous current draw in amperes" alt="" coords="245,185,448,213"/>
-<area shape="rect" id="node7" href="$classAP__BattMonitor.html#a77b0a6dab6949d6c861811bc29ed7b0b" title="consumed_mah &#45; returns total current drawn since start&#45;up in milliampere.hours" alt="" coords="238,237,455,265"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a5ff4b03b1d21913358b11c3f6261927c" title=" " alt="" coords="504,5,645,49"/>
-</map>

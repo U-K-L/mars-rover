@@ -1,5 +1,0 @@
-<map id="AC_PosControl::get_bearing_to_target" name="AC_PosControl::get_bearing_to_target">
-<area shape="rect" id="node1" title="get_bearing_to_target &#45; get bearing to target position in centi&#45;degrees" alt="" coords="213,39,352,83"/>
-<area shape="rect" id="node2" href="$classAC__Loiter.html#a26ff4ab0b5daf9789c1fd7e3f978582d" title="get bearing to target in centi&#45;degrees" alt="" coords="6,5,165,49"/>
-<area shape="rect" id="node3" href="$classAC__Circle.html#ab3d4c491260bcc4588da06c5932b5672" title="get bearing to target in centi&#45;degrees" alt="" coords="6,73,165,117"/>
-</map>

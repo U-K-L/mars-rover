@@ -1,7 +1,0 @@
-<map id="Rover::accel_cal_update" name="Rover::accel_cal_update">
-<area shape="rect" id="node1" title=" " alt="" coords="5,115,173,143"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="222,5,376,49"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a9ca5d711a97f4c33fe6a7c31b1329761" title=" " alt="" coords="231,73,367,117"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a5ba61d675f72ea75a9cf851ab3dd7d3c" title=" " alt="" coords="231,141,367,185"/>
-<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#ab45359e5c71751e421577e6a2d85625e" title=" " alt="" coords="229,209,368,237"/>
-</map>

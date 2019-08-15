@@ -1,4 +1,0 @@
-<map id="AP_BattMonitor_Sum::has_consumed_energy" name="AP_BattMonitor_Sum::has_consumed_energy">
-<area shape="rect" id="node1" title="returns true if battery monitor provides consumed energy info" alt="" coords="6,5,173,49"/>
-<area shape="rect" id="node2" href="$classAP__BattMonitor__Sum.html#a0598760698814f919e10aa5fadd0dcf1" title="returns true if battery monitor provides current info" alt="" coords="221,5,371,49"/>
-</map>

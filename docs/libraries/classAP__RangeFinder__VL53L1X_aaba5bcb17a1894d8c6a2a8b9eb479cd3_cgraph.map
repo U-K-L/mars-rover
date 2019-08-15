@@ -1,6 +1,0 @@
-<map id="AP_RangeFinder_VL53L1X::startContinuous" name="AP_RangeFinder_VL53L1X::startContinuous">
-<area shape="rect" id="node1" title=" " alt="" coords="6,39,192,83"/>
-<area shape="rect" id="node2" href="$classAP__RangeFinder__VL53L1X.html#ac7b6001b44279d128a151c350c804e4a" title=" " alt="" coords="240,5,426,49"/>
-<area shape="rect" id="node4" href="$classAP__RangeFinder__VL53L1X.html#a889fcc3b10a73c13b7bf614bee0c8e89" title=" " alt="" coords="240,73,426,117"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="475,39,624,83"/>
-</map>

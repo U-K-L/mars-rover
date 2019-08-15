@@ -1,4 +1,0 @@
-<map id="AP_Mission::num_commands_max" name="AP_Mission::num_commands_max">
-<area shape="rect" id="node1" title="num_commands_max &#45; returns maximum number of commands that can be stored" alt="" coords="6,5,236,33"/>
-<area shape="rect" id="node2" href="$classStorageAccess.html#aa810ebbc83bfc0986aa6c13f76d08eaf" title=" " alt="" coords="286,5,428,33"/>
-</map>

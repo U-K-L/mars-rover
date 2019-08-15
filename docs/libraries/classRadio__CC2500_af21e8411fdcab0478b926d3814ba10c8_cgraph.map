@@ -1,5 +1,0 @@
-<map id="Radio_CC2500::unlock_bus" name="Radio_CC2500::unlock_bus">
-<area shape="rect" id="node1" title=" " alt="" coords="6,43,194,71"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDevice.html#af41e5987b93020cd1c50f8e0954e3d7f" title=" " alt="" coords="259,5,408,49"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="243,73,424,101"/>
-</map>

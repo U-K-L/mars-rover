@@ -1,9 +1,0 @@
-<map id="AP_AHRS_NavEKF::setTakeoffExpected" name="AP_AHRS_NavEKF::setTakeoffExpected">
-<area shape="rect" id="node1" title=" " alt="" coords="5,73,214,117"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="263,21,462,49"/>
-<area shape="rect" id="node4" href="$classNavEKF2.html#a6a5280f84beae2ba371aec4e0e98911d" title=" " alt="" coords="262,81,464,109"/>
-<area shape="rect" id="node6" href="$classNavEKF3.html#a0f83b5541040bcad6900071f979570f2" title=" " alt="" coords="262,141,464,169"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="512,5,701,49"/>
-<area shape="rect" id="node5" href="$classNavEKF2__core.html#a1ed8086357824add6bb57e905217fb6a" title=" " alt="" coords="517,73,697,117"/>
-<area shape="rect" id="node7" href="$classNavEKF3__core.html#a959a5b705dda7d622a54ac15d7fcd38e" title=" " alt="" coords="517,141,697,185"/>
-</map>

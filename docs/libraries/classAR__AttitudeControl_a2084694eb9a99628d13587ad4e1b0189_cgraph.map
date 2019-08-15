@@ -1,6 +1,0 @@
-<map id="AR_AttitudeControl::get_desired_pitch" name="AR_AttitudeControl::get_desired_pitch">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,141,67"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="209,5,319,33"/>
-<area shape="rect" id="node4" href="$classAC__PID.html#a76473622105f65e201cd106f127d220c" title=" " alt="" coords="189,57,339,85"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="388,5,476,33"/>
-</map>

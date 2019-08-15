@@ -1,6 +1,0 @@
-<map id="Rover::update_mission" name="Rover::update_mission">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,163,85"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS.html#a4ffe6b0b13f7f4106740105101fed115" title=" " alt="" coords="226,5,393,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Mission.html#af26b7935304c34d8c03881b02beb3f48" title=" " alt="" coords="210,57,408,85"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__Mission.html#ad27b4531fa652b277bd9300b60ca4493" title=" " alt="" coords="239,109,379,137"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="NavEKF3::Log_Write_Quaternion" name="NavEKF3::Log_Write_Quaternion">
-<area shape="rect" id="node1" title=" " alt="" coords="6,49,152,93"/>
-<area shape="rect" id="node2" href="$classNavEKF3.html#aff29b65cb71022273aad257a679b50c2" title=" " alt="" coords="200,5,370,33"/>
-<area shape="rect" id="node4" href="$namespaceAP.html#aa35bfac1ea2da16f110e8e72db7b3b20" title=" " alt="" coords="244,57,327,85"/>
-<area shape="rect" id="node6" href="$classAP__Logger.html#ada8172473eb14aabbf121c20ef6ad76b" title=" " alt="" coords="206,109,365,137"/>
-<area shape="rect" id="node3" href="$classNavEKF3__core.html#a0a3c021b87e1ff291b1c55a1204e7fca" title=" " alt="" coords="420,5,623,33"/>
-<area shape="rect" id="node5" href="$classAP__Logger.html#a7dfeda4dc3df2edc8531110c9d7252dc" title=" " alt="" coords="434,57,609,85"/>
-</map>

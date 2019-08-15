@@ -1,6 +1,0 @@
-<map id="AP_OpticalFlow_CXOF::init" name="AP_OpticalFlow_CXOF::init">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,166,79"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title=" " alt="" coords="214,5,365,49"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="230,73,349,101"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="413,73,512,101"/>
-</map>

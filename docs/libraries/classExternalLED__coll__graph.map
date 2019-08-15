@@ -1,9 +1,0 @@
-<map id="ExternalLED" name="ExternalLED">
-<area shape="rect" id="node1" title=" " alt="" coords="309,35,405,63"/>
-<area shape="rect" id="node2" href="$classNotifyDevice.html" title=" " alt="" coords="57,93,153,121"/>
-<area shape="rect" id="node3" href="$classAP__Notify.html" title=" " alt="" coords="317,186,398,214"/>
-<area shape="rect" id="node4" href="$structAP__Notify_1_1notify__events__type.html" title="notify_events_type &#45; bitmask of active events." alt="" coords="6,179,205,207"/>
-<area shape="rect" id="node5" href="$structAP__Notify_1_1notify__flags__and__values__type.html" title="notify_flags_type &#45; bitmask of notification flags" alt="" coords="28,231,183,275"/>
-<area shape="rect" id="node6" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="29,355,182,383"/>
-<area shape="rect" id="node7" href="$structExternalLED_1_1copterleds__flag__type.html" title="buzzer_flag_type &#45; bitmask of current state and ap_notify states we track" alt="" coords="23,5,188,49"/>
-</map>

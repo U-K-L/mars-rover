@@ -1,7 +1,0 @@
-<map id="SITL::Plane::liftCoeff" name="SITL::Plane::liftCoeff">
-<area shape="rect" id="node1" title=" " alt="" coords="627,31,770,59"/>
-<area shape="rect" id="node2" href="$classSITL_1_1Plane.html#a81bc3dfe93a6e7d6597db214082b60e0" title=" " alt="" coords="427,31,578,59"/>
-<area shape="rect" id="node3" href="$classSITL_1_1Plane.html#a23a7248ca498b4b952d1673372689cb0" title=" " alt="" coords="227,23,378,67"/>
-<area shape="rect" id="node4" href="$classSITL_1_1Plane.html#a68de2c1dd6684fe9e83bc087d702a439" title=" " alt="" coords="22,5,162,33"/>
-<area shape="rect" id="node5" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title=" " alt="" coords="6,57,178,85"/>
-</map>

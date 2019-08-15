@@ -1,8 +1,0 @@
-<map id="GCS_MAVLINK::handle_command_do_gripper" name="GCS_MAVLINK::handle_command_do_gripper">
-<area shape="rect" id="node1" title=" " alt="" coords="5,75,168,119"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a281eab484336c7b9e2e34072a94895e0" title=" " alt="" coords="245,5,333,33"/>
-<area shape="rect" id="node4" href="$classAP__Gripper.html#a582c100e6f5d1d8b0c7bd68b30c4c426" title=" " alt="" coords="216,57,362,85"/>
-<area shape="rect" id="node5" href="$classAP__Gripper.html#a40b0812c1f3ddefcc90bfb6d968c244c" title=" " alt="" coords="218,109,360,137"/>
-<area shape="rect" id="node6" href="$classAP__Gripper.html#a0ab7a524f9fc267b0a68eb3076702936" title=" " alt="" coords="227,161,352,189"/>
-<area shape="rect" id="node3" href="$classAP__Gripper.html#ad08818b39d79b0230df0be1b744a64d8" title=" " alt="" coords="411,5,589,33"/>
-</map>

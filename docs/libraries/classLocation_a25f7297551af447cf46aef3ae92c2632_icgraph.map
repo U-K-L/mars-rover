@@ -1,9 +1,0 @@
-<map id="Location::check_latlng" name="Location::check_latlng">
-<area shape="rect" id="node1" title=" " alt="" coords="662,103,815,131"/>
-<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a51f900a2ef4e2e34d2671cca2ef2c534" title=" " alt="" coords="439,5,601,49"/>
-<area shape="rect" id="node3" href="$classLocation.html#aa1ac32f74c3d2ed9f67f32ad1e50948d" title=" " alt="" coords="458,73,582,101"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#af12f472c624f3c0735b082c982e7ec42" title=" " alt="" coords="437,125,603,169"/>
-<area shape="rect" id="node7" href="$classAP__AHRS__DCM.html#afaedde8606bdd549cccaab7283673e4e" title=" " alt="" coords="426,193,614,221"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#ad02c83895334e008e3c2f454a616893e" title=" " alt="" coords="216,125,379,169"/>
-<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,125,168,169"/>
-</map>

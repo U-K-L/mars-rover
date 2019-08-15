@@ -1,8 +1,0 @@
-<map id="AP_GPS_SBF::sbf_msg_parser_t" name="AP_GPS_SBF::sbf_msg_parser_t">
-<area shape="rect" id="node1" title=" " alt="" coords="298,193,464,237"/>
-<area shape="rect" id="node2" href="$unionAP__GPS__SBF_1_1msgbuffer.html" title=" " alt="" coords="294,99,468,127"/>
-<area shape="rect" id="node3" href="$structAP__GPS__SBF_1_1msg5908.html" title=" " alt="" coords="4,6,173,34"/>
-<area shape="rect" id="node4" href="$structAP__GPS__SBF_1_1msg4001.html" title=" " alt="" coords="199,6,368,34"/>
-<area shape="rect" id="node5" href="$structAP__GPS__SBF_1_1msg4014.html" title=" " alt="" coords="394,6,563,34"/>
-<area shape="rect" id="node6" href="$structAP__GPS__SBF_1_1msg4007.html" title=" " alt="" coords="588,6,757,34"/>
-</map>

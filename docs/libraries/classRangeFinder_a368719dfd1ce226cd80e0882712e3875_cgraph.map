@@ -1,8 +1,0 @@
-<map id="RangeFinder::get_mav_distance_sensor_type_orient" name="RangeFinder::get_mav_distance_sensor_type_orient">
-<area shape="rect" id="node1" title=" " alt="" coords="6,81,165,141"/>
-<area shape="rect" id="node2" href="$classRangeFinder.html#a1491b0acf5a52d28ad96980bf494fab0" title=" " alt="" coords="230,65,415,93"/>
-<area shape="rect" id="node5" href="$classAP__RangeFinder__Backend.html#a70be857a438f361f455e925362dc3640" title=" " alt="" coords="214,121,431,165"/>
-<area shape="rect" id="node3" href="$classRangeFinder.html#aa7b45987158dbccaea5ea52ed4dd1954" title=" " alt="" coords="501,5,683,33"/>
-<area shape="rect" id="node4" href="$classAP__RangeFinder__Backend.html#ab18f1f3fb5439ebc82721c6937ee3bc6" title=" " alt="" coords="501,57,683,101"/>
-<area shape="rect" id="node6" href="$classAP__RangeFinder__Backend.html#a488ad63fcb18332d82eb5047349be241" title=" " alt="" coords="480,125,704,169"/>
-</map>

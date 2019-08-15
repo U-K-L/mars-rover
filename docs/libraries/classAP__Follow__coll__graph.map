@@ -1,8 +1,0 @@
-<map id="AP_Follow" name="AP_Follow">
-<area shape="rect" id="node1" title=" " alt="" coords="201,211,285,239"/>
-<area shape="rect" id="node2" href="$classJitterCorrection.html" title=" " alt="" coords="4,102,115,130"/>
-<area shape="rect" id="node3" href="$classAC__P.html" title="Object managing one P controller." alt="" coords="140,102,196,130"/>
-<area shape="rect" id="node4" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="130,7,283,35"/>
-<area shape="rect" id="node5" href="$classVector3.html" title=" " alt="" coords="319,102,433,130"/>
-<area shape="rect" id="node6" href="$classLocation.html" title=" " alt="" coords="475,102,545,130"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_RCProtocol_IBUS::_process_byte" name="AP_RCProtocol_IBUS::_process_byte">
-<area shape="rect" id="node1" title=" " alt="" coords="6,39,159,83"/>
-<area shape="rect" id="node2" href="$classAP__RCProtocol__IBUS.html#a6d701ea0d176d1bbc10b65831de3882c" title=" " alt="" coords="219,5,373,49"/>
-<area shape="rect" id="node3" href="$classAP__RCProtocol__Backend.html#a07a0cb46703f289db379e832dad921a0" title=" " alt="" coords="209,73,383,117"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="432,54,478,82"/>
-<area shape="rect" id="node5" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="435,106,474,134"/>
-<area shape="rect" id="node6" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="526,106,717,134"/>
-</map>

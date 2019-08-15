@@ -1,7 +1,0 @@
-<map id="LoggerMessageWriter" name="LoggerMessageWriter">
-<area shape="rect" id="node1" title=" " alt="" coords="5,115,157,143"/>
-<area shape="rect" id="node2" href="$classLoggerMessageWriter__DFLogStart.html" title=" " alt="" coords="205,5,357,49"/>
-<area shape="rect" id="node3" href="$classLoggerMessageWriter__WriteAllRallyPoints.html" title=" " alt="" coords="205,73,357,117"/>
-<area shape="rect" id="node4" href="$classLoggerMessageWriter__WriteEntireMission.html" title=" " alt="" coords="205,141,357,185"/>
-<area shape="rect" id="node5" href="$classLoggerMessageWriter__WriteSysInfo.html" title=" " alt="" coords="205,209,357,253"/>
-</map>

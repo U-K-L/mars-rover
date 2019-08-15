@@ -1,7 +1,0 @@
-<map id="AP_Notify" name="AP_Notify">
-<area shape="rect" id="node1" title=" " alt="" coords="304,65,384,93"/>
-<area shape="rect" id="node5" href="$classNotifyDevice.html" title=" " alt="" coords="488,65,584,93"/>
-<area shape="rect" id="node2" href="$structAP__Notify_1_1notify__events__type.html" title="notify_events_type &#45; bitmask of active events." alt="" coords="6,5,205,33"/>
-<area shape="rect" id="node3" href="$structAP__Notify_1_1notify__flags__and__values__type.html" title="notify_flags_type &#45; bitmask of notification flags" alt="" coords="28,57,183,101"/>
-<area shape="rect" id="node4" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="29,181,182,209"/>
-</map>

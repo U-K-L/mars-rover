@@ -1,6 +1,0 @@
-<map id="AP_MotorsHeli_RSC::set_desired_speed" name="AP_MotorsHeli_RSC::set_desired_speed">
-<area shape="rect" id="node1" title=" " alt="" coords="230,73,383,117"/>
-<area shape="rect" id="node2" href="$classAP__MotorsHeli__Quad.html#ad8d4f4e1e9193478e73622cee0870130" title=" " alt="" coords="5,5,181,49"/>
-<area shape="rect" id="node3" href="$classAP__MotorsHeli__Single.html#a81752454d1d370eb6d85a7e02e1addf1" title=" " alt="" coords="5,73,181,117"/>
-<area shape="rect" id="node4" href="$classAP__MotorsHeli__Dual.html#a627af26329f33db4a070b9c1525eea79" title=" " alt="" coords="5,141,181,185"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Compass::configured" name="Compass::configured">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,152,59"/>
-<area shape="rect" id="node2" href="$classCompass.html#aab02220a8209d664f89f2be9050cf283" title=" " alt="" coords="208,5,352,33"/>
-<area shape="rect" id="node3" href="$classCompass.html#a099bc37c6d1b03238c2efe39ea3b14d3" title="return true if the compass should be used for yaw calculations" alt="" coords="200,57,360,85"/>
-<area shape="rect" id="node4" href="$classCompass.html#a514bab09cfbac818a417d2f989467ce6" title=" " alt="" coords="585,57,740,85"/>
-<area shape="rect" id="node5" href="$classCompass.html#a76b5ecbd5bd613d28b1172834d3a8db9" title=" " alt="" coords="408,94,536,122"/>
-</map>

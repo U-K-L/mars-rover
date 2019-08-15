@@ -1,8 +1,0 @@
-<map id="AP_OSD_Backend" name="AP_OSD_Backend">
-<area shape="rect" id="node1" title=" " alt="" coords="16,102,151,130"/>
-<area shape="rect" id="node4" href="$classAP__OSD__Screen.html" title=" " alt="" coords="140,355,264,383"/>
-<area shape="rect" id="node2" href="$classAP__OSD.html" title=" " alt="" coords="165,449,240,477"/>
-<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="264,7,416,35"/>
-<area shape="rect" id="node5" href="$classAP__OSD__Setting.html" title=" " alt="" coords="278,102,401,130"/>
-<area shape="rect" id="node6" href="$structAP__OSD_1_1NavInfo.html" title=" " alt="" coords="477,355,605,383"/>
-</map>

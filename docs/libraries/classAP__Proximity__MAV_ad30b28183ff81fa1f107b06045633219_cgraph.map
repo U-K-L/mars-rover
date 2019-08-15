@@ -1,6 +1,0 @@
-<map id="AP_Proximity_MAV::update" name="AP_Proximity_MAV::update">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,190,63"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="263,5,372,33"/>
-<area shape="rect" id="node4" href="$classAP__Proximity__Backend.html#aeaa3bfadaa564370cbff7e89e08547cf" title=" " alt="" coords="237,57,398,101"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="446,5,535,33"/>
-</map>

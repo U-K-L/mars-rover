@@ -1,8 +1,0 @@
-<map id="AP_Airspeed_Backend::get_psi_range" name="AP_Airspeed_Backend::get_psi_range">
-<area shape="rect" id="node1" title=" " alt="" coords="846,39,1005,83"/>
-<area shape="rect" id="node2" href="$classAP__Airspeed__MS4525.html#a97652ff70584a7e96ec8368bd4d1b41f" title=" " alt="" coords="631,5,787,49"/>
-<area shape="rect" id="node6" href="$classAP__Airspeed__Analog.html#a6e7b989caea71bd6000bb3b0f0d80e0e" title=" " alt="" coords="622,73,797,117"/>
-<area shape="rect" id="node3" href="$classAP__Airspeed__MS4525.html#a13fc58d8fcd175bfa011a67849d416bd" title=" " alt="" coords="417,5,573,49"/>
-<area shape="rect" id="node4" href="$classAP__Airspeed__MS4525.html#aac959768d4e8ad20d05dce4f9d809d22" title=" " alt="" coords="6,5,162,49"/>
-<area shape="rect" id="node5" href="$classAP__Airspeed__MS4525.html#aae5d41deaf1f1064c81ca91ef44ca8b1" title=" " alt="" coords="211,34,367,78"/>
-</map>

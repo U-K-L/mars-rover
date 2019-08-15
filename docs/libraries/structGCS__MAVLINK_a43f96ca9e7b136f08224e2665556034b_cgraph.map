@@ -1,7 +1,0 @@
-<map id="GCS_MAVLINK::handle_command_preflight_can" name="GCS_MAVLINK::handle_command_preflight_can">
-<area shape="rect" id="node1" title=" " alt="" coords="5,91,176,135"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="252,5,406,49"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title=" " alt="" coords="294,73,365,101"/>
-<area shape="rect" id="node4" href="$classAP__KDECAN.html#a1f62c80879764d4e6655baa2b0c0a39e" title=" " alt="" coords="240,125,419,153"/>
-<area shape="rect" id="node5" href="$classAP__KDECAN.html#a6b79837c29e1c5d3cf7bc22f7ba4bec5" title=" " alt="" coords="224,177,434,205"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AP_Compass_SITL::_setup_eliptical_correcion" name="AP_Compass_SITL::_setup_eliptical_correcion">
-<area shape="rect" id="node1" title=" " alt="" coords="6,49,192,93"/>
-<area shape="rect" id="node2" href="$classVector3.html#aadf732329f2fa584629151e8cb891707" title=" " alt="" coords="240,5,357,33"/>
-<area shape="rect" id="node3" href="$classMatrix3.html#ae4054ff80c892e6b21cd970a4c3653b6" title=" " alt="" coords="246,57,351,85"/>
-<area shape="rect" id="node4" href="$classMatrix3.html#acfd79fa5d5968b42219a9b6d017ac5b5" title=" " alt="" coords="241,109,356,137"/>
-</map>

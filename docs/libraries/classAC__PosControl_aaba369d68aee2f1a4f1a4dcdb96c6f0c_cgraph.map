@@ -1,5 +1,0 @@
-<map id="AC_PosControl::init_ekf_z_reset" name="AC_PosControl::init_ekf_z_reset">
-<area shape="rect" id="node1" title="initialise ekf z axis reset check" alt="" coords="6,5,144,49"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__View.html#a0bbe38ea1d1c242117fd861d14b5bb6a" title=" " alt="" coords="192,5,386,49"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#adf59f57a54ee7767559598a6aceea09d" title=" " alt="" coords="435,13,661,41"/>
-</map>

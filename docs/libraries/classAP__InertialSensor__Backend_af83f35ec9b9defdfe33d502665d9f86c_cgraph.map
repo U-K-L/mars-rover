@@ -1,4 +1,0 @@
-<map id="AP_InertialSensor_Backend::_gyro_notch_center_freq_hz" name="AP_InertialSensor_Backend::_gyro_notch_center_freq_hz">
-<area shape="rect" id="node1" title=" " alt="" coords="6,5,205,49"/>
-<area shape="rect" id="node2" href="$classNotchFilterParams.html#a17d92c3799a84bc2612c876b61e012e2" title=" " alt="" coords="253,5,392,49"/>
-</map>

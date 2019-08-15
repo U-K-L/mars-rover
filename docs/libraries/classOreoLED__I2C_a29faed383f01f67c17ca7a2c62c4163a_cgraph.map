@@ -1,5 +1,0 @@
-<map id="OreoLED_I2C::command_send" name="OreoLED_I2C::command_send">
-<area shape="rect" id="node1" title=" " alt="" coords="6,47,213,75"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a081c1465451027e9f23def7904ea7c20" title=" " alt="" coords="263,5,409,49"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="262,73,410,117"/>
-</map>

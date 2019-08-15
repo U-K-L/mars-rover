@@ -1,7 +1,0 @@
-<map id="ChibiOS::AnalogIn" name="ChibiOS::AnalogIn">
-<area shape="rect" id="node1" title=" " alt="" coords="165,195,296,223"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogIn.html" title=" " alt="" coords="4,94,136,122"/>
-<area shape="rect" id="node3" href="$structChibiOS_1_1AnalogIn_1_1pin__info.html" title=" " alt="" coords="161,86,299,130"/>
-<area shape="rect" id="node4" href="$classChibiOS_1_1AnalogSource.html" title=" " alt="" coords="324,94,485,122"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1AnalogSource.html" title=" " alt="" coords="324,6,487,34"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_HAL::Util" name="AP_HAL::Util">
-<area shape="rect" id="node1" title=" " alt="" coords="178,6,277,34"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1Util.html" title=" " alt="" coords="5,83,101,111"/>
-<area shape="rect" id="node3" href="$classEmpty_1_1Util.html" title=" " alt="" coords="126,83,212,111"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1Util.html" title=" " alt="" coords="236,83,337,111"/>
-<area shape="rect" id="node5" href="$classLinux_1_1Util.html" title=" " alt="" coords="361,83,440,111"/>
-<area shape="rect" id="node6" href="$classLinux_1_1UtilRPI.html" title=" " alt="" coords="350,161,452,189"/>
-</map>

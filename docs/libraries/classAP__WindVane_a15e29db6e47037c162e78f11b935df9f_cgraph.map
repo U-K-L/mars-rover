@@ -1,9 +1,0 @@
-<map id="AP_WindVane::update_true_wind_speed_and_direction" name="AP_WindVane::update_true_wind_speed_and_direction">
-<area shape="rect" id="node1" title=" " alt="" coords="5,67,165,127"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="233,5,306,33"/>
-<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title=" " alt="" coords="234,57,304,85"/>
-<area shape="rect" id="node6" href="$AP__Math_8h.html#a37d7c62a8231d9d22826261297b99da4" title=" " alt="" coords="237,109,302,137"/>
-<area shape="rect" id="node7" href="$structVector2.html#a671d712528ea3b2cc21fd4616eea8f98" title=" " alt="" coords="214,161,324,189"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="374,5,544,33"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title=" " alt="" coords="420,57,497,85"/>
-</map>

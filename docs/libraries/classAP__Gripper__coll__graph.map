@@ -1,6 +1,0 @@
-<map id="AP_Gripper" name="AP_Gripper">
-<area shape="rect" id="node1" title=" " alt="" coords="325,211,416,239"/>
-<area shape="rect" id="node2" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="5,117,157,145"/>
-<area shape="rect" id="node3" href="$classAP__Gripper__Backend.html" title=" " alt="" coords="296,117,445,145"/>
-<area shape="rect" id="node4" href="$structAP__Gripper_1_1Backend__Config.html" title=" " alt="" coords="373,6,523,50"/>
-</map>

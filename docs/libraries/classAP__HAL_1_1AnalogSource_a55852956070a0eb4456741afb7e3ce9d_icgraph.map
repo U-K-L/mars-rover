@@ -1,6 +1,0 @@
-<map id="AP_HAL::AnalogSource::set_settle_time" name="AP_HAL::AnalogSource::set_settle_time">
-<area shape="rect" id="node1" title=" " alt="" coords="452,39,615,83"/>
-<area shape="rect" id="node2" href="$classAP__RangeFinder__analog.html#a589dd759f93a9b6c9e505cd441bcda3a" title=" " alt="" coords="224,5,403,49"/>
-<area shape="rect" id="node3" href="$classAP__RangeFinder__analog.html#a79298166e180b5de2cf9f7c9dbcf56ea" title=" " alt="" coords="228,73,399,117"/>
-<area shape="rect" id="node4" href="$classAP__RangeFinder__analog.html#abfc8bd429dabb04f5fc400865a6e4d3a" title=" " alt="" coords="5,73,176,117"/>
-</map>

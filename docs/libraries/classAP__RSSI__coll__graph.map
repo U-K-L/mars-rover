@@ -1,6 +1,0 @@
-<map id="AP_RSSI" name="AP_RSSI">
-<area shape="rect" id="node1" title=" " alt="" coords="220,102,297,130"/>
-<area shape="rect" id="node2" href="$structAP__RSSI_1_1PWMState.html" title=" " alt="" coords="4,7,152,35"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1AnalogSource.html" title=" " alt="" coords="177,7,340,35"/>
-<area shape="rect" id="node4" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="365,7,517,35"/>
-</map>

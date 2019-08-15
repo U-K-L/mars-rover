@@ -1,7 +1,0 @@
-<map id="AP_HAL::RCOutput::timer_tick" name="AP_HAL::RCOutput::timer_tick">
-<area shape="rect" id="node1" title=" " alt="" coords="409,43,612,71"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1Scheduler.html#ae2531973a04e2cb9b887a8aeb683b601" title=" " alt="" coords="207,5,345,49"/>
-<area shape="rect" id="node4" href="$classAP__IOMCU__FW.html#aa6e97452785d6ade70465f15a87978f4" title=" " alt="" coords="192,73,360,101"/>
-<area shape="rect" id="node3" href="$classChibiOS_1_1Scheduler.html#a241ba4fe05070acba40af09beb5d65fc" title=" " alt="" coords="5,5,144,49"/>
-<area shape="rect" id="node5" href="$iofirmware_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="51,73,98,101"/>
-</map>

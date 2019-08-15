@@ -1,7 +1,0 @@
-<map id="AP_HAL::SPIDevice" name="AP_HAL::SPIDevice">
-<area shape="rect" id="node1" title=" " alt="" coords="162,83,304,111"/>
-<area shape="rect" id="node3" href="$classChibiOS_1_1SPIDevice.html" title=" " alt="" coords="4,161,144,189"/>
-<area shape="rect" id="node4" href="$classEmpty_1_1SPIDevice.html" title=" " alt="" coords="169,161,297,189"/>
-<area shape="rect" id="node5" href="$classLinux_1_1SPIDevice.html" title=" " alt="" coords="321,161,444,189"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html" title=" " alt="" coords="173,6,293,34"/>
-</map>

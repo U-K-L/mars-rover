@@ -1,5 +1,0 @@
-<map id="AC_PosControl::init_ekf_xy_reset" name="AC_PosControl::init_ekf_xy_reset">
-<area shape="rect" id="node1" title="initialise and check for ekf position resets" alt="" coords="6,5,144,49"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__View.html#a663e45e8c023eac92493b0f5d46dc982" title=" " alt="" coords="192,5,386,49"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a6675330f8813ab0c2feacc36e43aeae5" title=" " alt="" coords="436,5,626,49"/>
-</map>

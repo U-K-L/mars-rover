@@ -1,6 +1,0 @@
-<map id="AP_InertialSensor::get_fixed_mount_accel_cal_sample" name="AP_InertialSensor::get_fixed_mount_accel_cal_sample">
-<area shape="rect" id="node1" title=" " alt="" coords="6,27,165,87"/>
-<area shape="rect" id="node2" href="$classAccelCalibrator.html#a5edb2c035357c9bec69a6eaadeb95969" title=" " alt="" coords="214,5,352,49"/>
-<area shape="rect" id="node4" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title=" " alt="" coords="229,73,337,101"/>
-<area shape="rect" id="node3" href="$classAccelCalibrator.html#af8d0574188598eae96b08857480ad453" title=" " alt="" coords="400,5,538,49"/>
-</map>

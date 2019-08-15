@@ -1,9 +1,0 @@
-<map id="AccelCalibrator::start" name="AccelCalibrator::start">
-<area shape="rect" id="node1" title=" " alt="" coords="1342,13,1487,41"/>
-<area shape="rect" id="node2" href="$classAP__AccelCal.html#a5a1f3f9b0c46aa6f245440c0a1a358d7" title=" " alt="" coords="1160,13,1293,41"/>
-<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#a60c3c7ed1d9e0a9d298fac37c688763b" title=" " alt="" coords="902,5,1112,49"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a562b2955a49da7d782d3f55ed8e021c9" title=" " alt="" coords="643,5,853,49"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a29e2941413d50ab63cd70f5beadef19a" title=" " alt="" coords="427,5,594,49"/>
-<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#abc79cdd8393234b66f2e8217a527f8f9" title=" " alt="" coords="216,5,379,49"/>
-<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,5,168,49"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AC_Loiter::sanity_check_params" name="AC_Loiter::sanity_check_params">
-<area shape="rect" id="node1" title=" " alt="" coords="200,5,365,49"/>
-<area shape="rect" id="node2" href="$classAC__Loiter.html#ac61cfb41e7da4ba41276d3e731d6ea85" title="init_target to a position in cm from ekf origin" alt="" coords="5,13,152,41"/>
-</map>

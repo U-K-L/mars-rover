@@ -1,6 +1,0 @@
-<map id="Buzzer::on" name="Buzzer::on">
-<area shape="rect" id="node1" title="on &#45; turns the buzzer on or off" alt="" coords="376,35,461,63"/>
-<area shape="rect" id="node2" href="$classBuzzer.html#af6fac86df7258e5220dd7cc1b02448c2" title="init &#45; initialise the buzzer" alt="" coords="203,5,290,33"/>
-<area shape="rect" id="node3" href="$classBuzzer.html#aa168040cd88ed6ad732e2e05c1482e09" title=" " alt="" coords="166,57,327,101"/>
-<area shape="rect" id="node4" href="$classBuzzer.html#a2030506aad10c8ceb50681b8f79146f2" title="update &#45; updates buzzer according to timed_updated. Should be called at 50Hz" alt="" coords="6,65,117,93"/>
-</map>

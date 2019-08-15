@@ -1,6 +1,0 @@
-<map id="AC_PosControl::limit_vector_length" name="AC_PosControl::limit_vector_length">
-<area shape="rect" id="node1" title="limit vector to a given length, returns true if vector was limited" alt="" coords="5,23,150,67"/>
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a45fe9f81332c93a04d1fdbcf0bc89c29" title=" " alt="" coords="214,5,266,33"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a4e3ae698e8f99cec214348ad233e3c41" title=" " alt="" coords="198,57,282,85"/>
-<area shape="rect" id="node3" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="331,5,370,33"/>
-</map>

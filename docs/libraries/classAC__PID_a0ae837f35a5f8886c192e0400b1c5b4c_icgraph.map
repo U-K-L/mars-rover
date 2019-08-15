@@ -1,9 +1,0 @@
-<map id="AC_PID::set_integrator" name="AC_PID::set_integrator">
-<area shape="rect" id="node1" title=" " alt="" coords="438,89,597,117"/>
-<area shape="rect" id="node2" href="$classAC__PosControl.html#abd590af4985586d33e4623adf76e7536" title="init_takeoff &#45; initialises target altitude if we are taking off" alt="" coords="239,5,377,49"/>
-<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#ae1e17847d017cc4f71e36397df689ddb" title=" " alt="" coords="228,73,388,133"/>
-<area shape="rect" id="node5" href="$classAC__PosControl.html#a73ba96e0c072bf80ac6c7be005ca312e" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="233,157,383,201"/>
-<area shape="rect" id="node4" href="$classAC__AttitudeControl__Heli.html#a5f1a3e763623f247c1cb72d8fb35645d" title=" " alt="" coords="6,81,178,125"/>
-<area shape="rect" id="node6" href="$classAC__PosControl__Sub.html#ad8f7c6291be9be035a2faa970ecab24a" title="relax_alt_hold_controllers &#45; set all desired and targets to measured" alt="" coords="5,153,179,197"/>
-<area shape="rect" id="node7" href="$classAC__AutoTune.html#a1a880de557aca3dc882924b746bcf383" title=" " alt="" coords="26,221,158,249"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="AP_HAL::Device::set_device_address" name="AP_HAL::Device::set_device_address">
-<area shape="rect" id="node1" title=" " alt="" coords="246,87,392,131"/>
-<area shape="rect" id="node2" href="$classLinux_1_1I2CDevice.html#a43354ea1d2083050dd54ada3250791af" title=" " alt="" coords="6,5,197,33"/>
-<area shape="rect" id="node3" href="$classChibiOS_1_1I2CDevice.html#a0e9ae4b92ca5cf17c73339ee87a12062" title=" " alt="" coords="31,57,171,101"/>
-<area shape="rect" id="node4" href="$classLinux_1_1SPIDevice.html#acbdde2e0e470c7eb2794a6efe727b1db" title=" " alt="" coords="5,125,198,153"/>
-<area shape="rect" id="node5" href="$classChibiOS_1_1SPIDevice.html#a2ab0af3b6b20eea5a818af740d29fa42" title=" " alt="" coords="31,177,172,221"/>
-</map>

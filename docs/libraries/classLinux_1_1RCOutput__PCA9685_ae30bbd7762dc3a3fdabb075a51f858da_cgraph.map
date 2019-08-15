@@ -1,9 +1,0 @@
-<map id="Linux::RCOutput_PCA9685::disable_ch" name="Linux::RCOutput_PCA9685::disable_ch">
-<area shape="rect" id="node1" title=" " alt="" coords="5,107,190,151"/>
-<area shape="rect" id="node2" href="$classLinux_1_1RCOutput__PCA9685.html#a04226542722d6ebee89e3251bfae774d" title=" " alt="" coords="237,107,422,151"/>
-<area shape="rect" id="node3" href="$classLinux_1_1RCOutput__PCA9685.html#a7fb21fe48e7a7ead89ced675463e953b" title=" " alt="" coords="469,107,654,151"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="718,5,866,49"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title=" " alt="" coords="714,73,870,117"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="718,141,866,185"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="702,209,882,237"/>
-</map>

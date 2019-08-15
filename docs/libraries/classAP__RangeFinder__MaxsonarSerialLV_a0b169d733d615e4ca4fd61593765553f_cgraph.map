@@ -1,9 +1,0 @@
-<map id="AP_RangeFinder_MaxsonarSerialLV::AP_RangeFinder_MaxsonarSerialLV" name="AP_RangeFinder_MaxsonarSerialLV::AP_RangeFinder_MaxsonarSerialLV">
-<area shape="rect" id="node1" title=" " alt="" coords="5,73,267,117"/>
-<area shape="rect" id="node2" href="$classAP__SerialManager.html#a58cb32ebb77d9fc18e4756d0270d1970" title=" " alt="" coords="315,5,477,49"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title=" " alt="" coords="320,73,472,117"/>
-<area shape="rect" id="node6" href="$classAP__SerialManager.html#a5e363f0274897cdcf5a427d5bbe3eb51" title=" " alt="" coords="315,141,477,185"/>
-<area shape="rect" id="node3" href="$classAP__SerialManager.html#a073cb2777b00ddb4695dea07acc786d9" title=" " alt="" coords="528,39,690,83"/>
-<area shape="rect" id="node4" href="$classAP__SerialManager.html#aeecba06b097b0443637b7cf5349fdf68" title=" " alt="" coords="742,39,930,83"/>
-<area shape="rect" id="node7" href="$classAP__SerialManager.html#a0b46c00a7f296e98ee118821a2481ffc" title=" " alt="" coords="526,141,693,185"/>
-</map>

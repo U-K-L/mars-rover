@@ -1,8 +1,0 @@
-<map id="ChibiOS::AnalogIn::init" name="ChibiOS::AnalogIn::init">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,162,63"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#a14c1d65e9a151cbb7fc3f5ce8a17e420" title=" " alt="" coords="211,5,389,33"/>
-<area shape="rect" id="node6" href="$classChibiOS_1_1AnalogIn.html#abb57dd181d30d5abe0aad21ead539ece" title=" " alt="" coords="231,57,369,101"/>
-<area shape="rect" id="node3" href="$malloc_8c.html#a62b7798461bd461da64c5f9d35feddf7" title=" " alt="" coords="438,5,493,33"/>
-<area shape="rect" id="node4" href="$malloc_8c.html#a7ac38fce3243a7dcf448301ee9ffd392" title=" " alt="" coords="542,5,602,33"/>
-<area shape="rect" id="node5" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="651,5,746,33"/>
-</map>

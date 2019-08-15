@@ -1,7 +1,0 @@
-<map id="AP_ADSB" name="AP_ADSB">
-<area shape="rect" id="node1" title=" " alt="" coords="523,142,605,170"/>
-<area shape="rect" id="node2" href="$structAP__ADSB_1_1adsb__vehicle__t.html" title=" " alt="" coords="5,21,184,49"/>
-<area shape="rect" id="node4" href="$classAP__Buffer.html" title=" " alt="" coords="267,54,421,114"/>
-<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="268,194,420,222"/>
-<area shape="rect" id="node5" href="$classLocation.html" title=" " alt="" coords="308,246,380,274"/>
-</map>

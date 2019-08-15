@@ -1,9 +1,0 @@
-<map id="NavEKF3_core::getPosNE" name="NavEKF3_core::getPosNE">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,184,85"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#ae6eeec356455220f913e47e323057cd5" title=" " alt="" coords="289,5,357,33"/>
-<area shape="rect" id="node4" href="$classAP__GPS.html#a14652c171d9c34d23f22f23b1ab04d12" title=" " alt="" coords="259,57,387,85"/>
-<area shape="rect" id="node5" href="$classLocation.html#af597420e2ec20fc794ca3d5447fd36ba" title=" " alt="" coords="232,109,413,137"/>
-<area shape="rect" id="node3" href="$classAP__GPS.html#a08d0437767d62a318e59b40cf323a31a" title=" " alt="" coords="462,5,623,33"/>
-<area shape="rect" id="node6" href="$classLocation.html#aa23d345c5562140fb21682f9cc0cc247" title=" " alt="" coords="476,101,609,145"/>
-<area shape="rect" id="node7" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="672,109,722,137"/>
-</map>

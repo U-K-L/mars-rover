@@ -1,9 +1,0 @@
-<map id="AP_RobotisServo::configure_servos" name="AP_RobotisServo::configure_servos">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,194,79"/>
-<area shape="rect" id="node2" href="$classAP__RobotisServo.html#a8dd80655f3453f374c7d977dd777e0fb" title=" " alt="" coords="243,35,405,79"/>
-<area shape="rect" id="node3" href="$AP__Math_8h.html#a321a91de43cfb2e95d40cde314d0a80f" title=" " alt="" coords="512,13,558,41"/>
-<area shape="rect" id="node4" href="$classAP__RobotisServo.html#a30e0c641da548e3e68d408186d9d1bbb" title=" " alt="" coords="453,65,616,109"/>
-<area shape="rect" id="node5" href="$classAP__RobotisServo.html#a27bee3a4e51dae474160dc7c5fd97c80" title=" " alt="" coords="686,5,842,49"/>
-<area shape="rect" id="node6" href="$classAP__RobotisServo.html#ab4063e0f8c962c96c7b89d720b658ac0" title=" " alt="" coords="664,73,864,101"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="685,125,843,169"/>
-</map>

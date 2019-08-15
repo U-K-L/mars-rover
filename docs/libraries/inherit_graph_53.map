@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classAP__Airspeed__Backend.html" title=" " alt="" coords="6,135,165,163"/>
-<area shape="rect" id="node2" href="$classAP__Airspeed__Analog.html" title=" " alt="" coords="221,5,369,33"/>
-<area shape="rect" id="node3" href="$classAP__Airspeed__DLVR.html" title=" " alt="" coords="224,57,365,85"/>
-<area shape="rect" id="node4" href="$classAP__Airspeed__MS4525.html" title=" " alt="" coords="217,109,373,137"/>
-<area shape="rect" id="node5" href="$classAP__Airspeed__MS5525.html" title=" " alt="" coords="217,161,373,189"/>
-<area shape="rect" id="node6" href="$classAP__Airspeed__SDP3X.html" title=" " alt="" coords="220,213,370,241"/>
-<area shape="rect" id="node7" href="$classAP__Airspeed__UAVCAN.html" title=" " alt="" coords="214,265,375,293"/>
-</map>

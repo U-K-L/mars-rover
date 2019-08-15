@@ -1,7 +1,0 @@
-<map id="Rover::mode_from_mode_num" name="Rover::mode_from_mode_num">
-<area shape="rect" id="node1" title=" " alt="" coords="381,65,587,93"/>
-<area shape="rect" id="node2" href="$classRover.html#a90f48660f49aa6c8184a46161c8c66bf" title=" " alt="" coords="173,5,313,33"/>
-<area shape="rect" id="node4" href="$classRC__Channel__Rover.html#a63911d9adfcda56f8ce438a248735046" title=" " alt="" coords="152,57,333,101"/>
-<area shape="rect" id="node5" href="$classGCS__MAVLINK__Rover.html#a80ef1e75ce51230b30adf34023019f16" title=" " alt="" coords="160,125,325,169"/>
-<area shape="rect" id="node3" href="$classRover.html#aa8facf471cdb4f4d59ba165f28f15fcd" title=" " alt="" coords="6,5,103,33"/>
-</map>

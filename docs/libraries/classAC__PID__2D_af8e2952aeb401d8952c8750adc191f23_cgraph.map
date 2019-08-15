@@ -1,8 +1,0 @@
-<map id="AC_PID_2D::filt_d_hz" name="AC_PID_2D::filt_d_hz">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,157,63"/>
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="254,5,304,33"/>
-<area shape="rect" id="node3" href="$classAC__PID__2D.html#aa68751df607933de5e44f95eb6e7d349" title=" " alt="" coords="206,57,352,101"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="400,38,464,66"/>
-<area shape="rect" id="node5" href="$RC__Channel_8h.html#acb66f35c4fe350096704f48e4c651948" title=" " alt="" coords="413,90,451,118"/>
-<area shape="rect" id="node6" href="$classRC__Channels.html#aff83e1bebc777f76d2c19fc601c40c4f" title=" " alt="" coords="512,90,704,118"/>
-</map>

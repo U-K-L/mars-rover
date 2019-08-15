@@ -1,6 +1,0 @@
-<map id="GCS_MAVLINK::get_default_interval_for_mavlink_message_id" name="GCS_MAVLINK::get_default_interval_for_mavlink_message_id">
-<area shape="rect" id="node1" title=" " alt="" coords="5,39,232,83"/>
-<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a8b947efd39ef128020f20544da6cfc25" title=" " alt="" coords="291,5,459,49"/>
-<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#ac747807d69da72d1d3660c8e962ecd54" title=" " alt="" coords="280,73,469,117"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#aa9263cd0a1bb3697c476dc0be960c507" title=" " alt="" coords="518,73,709,117"/>
-</map>

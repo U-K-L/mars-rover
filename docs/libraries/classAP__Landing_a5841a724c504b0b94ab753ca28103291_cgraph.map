@@ -1,7 +1,0 @@
-<map id="AP_Landing::type_slope_verify_abort_landing" name="AP_Landing::type_slope_verify_abort_landing">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,171,79"/>
-<area shape="rect" id="node2" href="$classAP__Navigation.html#a29f135a82c3164fbae1b48bebf5be5a9" title=" " alt="" coords="224,5,382,49"/>
-<area shape="rect" id="node3" href="$classLocation.html#a48a312dc9de608dda0fe65c5e6f3bf58" title=" " alt="" coords="219,73,387,101"/>
-<area shape="rect" id="node4" href="$classLocation.html#aa23d345c5562140fb21682f9cc0cc247" title=" " alt="" coords="435,65,568,109"/>
-<area shape="rect" id="node5" href="$AP__Math_8h.html#a5abc8871f1e7781a55afe9bf299f0a39" title=" " alt="" coords="616,73,666,101"/>
-</map>

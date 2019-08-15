@@ -1,6 +1,0 @@
-<map id="AP_AHRS_DCM::euler_angles" name="AP_AHRS_DCM::euler_angles">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,165,109"/>
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a637256339762e4ef51c5b7ee607e273b" title=" " alt="" coords="213,5,432,49"/>
-<area shape="rect" id="node3" href="$classMatrix3.html#a3a809878d75c408fb8173b052016b529" title=" " alt="" coords="262,73,383,101"/>
-<area shape="rect" id="node4" href="$classAP__AHRS.html#a8bf3f8d2410b5456bc43b937c872e6bb" title=" " alt="" coords="246,125,399,169"/>
-</map>

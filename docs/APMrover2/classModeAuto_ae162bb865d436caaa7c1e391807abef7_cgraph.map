@@ -1,8 +1,0 @@
-<map id="ModeAuto::send_guided_position_target" name="ModeAuto::send_guided_position_target">
-<area shape="rect" id="node1" title=" " alt="" coords="5,117,171,161"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="255,5,364,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$structGCS__MAVLINK.html#af6800df234ecb0befbc006466c6ec4c6" title=" " alt="" coords="227,57,392,101"/>
-<area shape="rect" id="node4" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$GCS_8h.html#a1d3cc361b864ddf64a44c12ab3bd044e" title=" " alt="" coords="288,125,330,153"/>
-<area shape="rect" id="node5" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classGCS.html#a9f093f75d5a95970e1f6b09adc775d69" title=" " alt="" coords="266,177,353,205"/>
-<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$structGCS__MAVLINK.html#aee84d7757e12e04e2a10466f4a7cdfd9" title=" " alt="" coords="219,229,400,273"/>
-</map>

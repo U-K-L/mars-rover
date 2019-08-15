@@ -1,7 +1,0 @@
-<map id="SITL::Morse::connect_sockets" name="SITL::Morse::connect_sockets">
-<area shape="rect" id="node1" title=" " alt="" coords="6,53,154,97"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title=" " alt="" coords="203,34,315,62"/>
-<area shape="rect" id="node5" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="233,86,284,114"/>
-<area shape="rect" id="node3" href="$stdio_8h.html#aae132cc6af1eb6cf43bf011d8d63e854" title=" " alt="" coords="407,5,465,33"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title=" " alt="" coords="362,57,510,101"/>
-</map>

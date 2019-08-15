@@ -1,7 +1,0 @@
-<map id="AP_Frsky_Telem::calc_nav_alt" name="AP_Frsky_Telem::calc_nav_alt">
-<area shape="rect" id="node1" title=" " alt="" coords="6,49,159,93"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="253,5,326,33"/>
-<area shape="rect" id="node4" href="$classAP__AHRS.html#a861802533d7f8a91efc39425ac9c724f" title=" " alt="" coords="208,57,371,85"/>
-<area shape="rect" id="node5" href="$classAP__AHRS.html#a8ebd6624062d91ec1d19fc3306513e9a" title=" " alt="" coords="214,109,364,137"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="419,5,589,33"/>
-</map>

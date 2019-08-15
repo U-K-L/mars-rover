@@ -1,7 +1,0 @@
-<map id="AP_RangeFinder_TeraRangerI2C::update" name="AP_RangeFinder_TeraRangerI2C::update">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,207,101"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="293,5,403,33"/>
-<area shape="rect" id="node4" href="$classAP__RangeFinder__Backend.html#a9e858f638e4c2d1138aa3f56d217a394" title=" " alt="" coords="257,57,439,101"/>
-<area shape="rect" id="node5" href="$classAP__RangeFinder__Backend.html#ac5b3771c47b58dfba89ebcf2a24541cd" title=" " alt="" coords="489,86,671,130"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="536,5,624,33"/>
-</map>

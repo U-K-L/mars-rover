@@ -1,6 +1,0 @@
-<map id="AC_PosControl::get_roll" name="AC_PosControl::get_roll">
-<area shape="rect" id="node1" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="198,57,362,85"/>
-<area shape="rect" id="node2" href="$classAC__Circle.html#a509ae9e616c3ac9bf23b112b2cc2bc39" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="11,5,144,33"/>
-<area shape="rect" id="node3" href="$classAC__Loiter.html#a29713979050711ccc67a486f3692a5b1" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="11,57,143,85"/>
-<area shape="rect" id="node4" href="$classAC__WPNav.html#a09359f3f218efd8b5a39a8218a5ddea0" title="get desired roll, pitch which should be fed into stabilize controllers" alt="" coords="6,109,149,137"/>
-</map>

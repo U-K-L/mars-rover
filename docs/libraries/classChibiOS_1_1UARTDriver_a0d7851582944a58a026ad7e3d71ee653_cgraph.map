@@ -1,9 +1,0 @@
-<map id="ChibiOS::UARTDriver::write_locked" name="ChibiOS::UARTDriver::write_locked">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,156,109"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1Semaphore.html#a3d32468b4916580646301fd236f396e7" title=" " alt="" coords="205,5,352,49"/>
-<area shape="rect" id="node3" href="$classByteBuffer.html#ac57883bb2bce8263d26221a250f452dc" title=" " alt="" coords="219,73,338,101"/>
-<area shape="rect" id="node7" href="$classChibiOS_1_1Semaphore.html#afe45528a5225a2736da02cf613845769" title=" " alt="" coords="205,125,352,169"/>
-<area shape="rect" id="node4" href="$classByteBuffer.html#ad5f9e7af638987efeadb7b4bb9c0ae28" title=" " alt="" coords="400,47,536,75"/>
-<area shape="rect" id="node6" href="$classByteBuffer.html#a866914509694b8f71af1280ad2eba222" title=" " alt="" coords="401,99,535,127"/>
-<area shape="rect" id="node5" href="$classByteBuffer.html#a44decf7619adddfa5833f9d337fe56f4" title=" " alt="" coords="585,74,711,102"/>
-</map>

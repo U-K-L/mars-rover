@@ -1,5 +1,0 @@
-<map id="Rover::init_compass_location" name="Rover::init_compass_location">
-<area shape="rect" id="node1" title=" " alt="" coords="6,27,148,71"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a43e3b61c13ecdfd2b3b3a2b33c359993" title=" " alt="" coords="198,5,399,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classCompass.html#a95d49517b12183412d9d0ed481b785bf" title=" " alt="" coords="228,57,369,101"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AC_PosControl::set_max_speed_z" name="AC_PosControl::set_max_speed_z">
-<area shape="rect" id="node1" title=" " alt="" coords="267,49,405,93"/>
-<area shape="rect" id="node2" href="$classAC__WPNav.html#a445bba570c26e83dd13a12d6621d94d5" title="set current target descent rate during wp navigation" alt="" coords="12,5,212,33"/>
-<area shape="rect" id="node3" href="$classAC__WPNav.html#ab46ed218833b1e09930b676556d5b7ee" title="set current target climb or descent rate during wp navigation" alt="" coords="20,57,204,85"/>
-<area shape="rect" id="node4" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title=" " alt="" coords="5,109,219,137"/>
-</map>

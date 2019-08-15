@@ -1,5 +1,0 @@
-<map id="AP_Arming::disarm" name="AP_Arming::disarm">
-<area shape="rect" id="node1" title=" " alt="" coords="5,47,141,75"/>
-<area shape="rect" id="node2" href="$classAP__BoardConfig.html#ae36cdd39a41717b869676cf2353fbf04" title=" " alt="" coords="204,5,351,49"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1RCOutput.html#a6852e3aa22747f045dc71972e97d7de6" title=" " alt="" coords="189,73,365,117"/>
-</map>

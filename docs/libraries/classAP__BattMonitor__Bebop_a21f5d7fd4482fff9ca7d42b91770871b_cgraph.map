@@ -1,7 +1,0 @@
-<map id="AP_BattMonitor_Bebop::read" name="AP_BattMonitor_Bebop::read">
-<area shape="rect" id="node1" title=" " alt="" coords="6,73,167,117"/>
-<area shape="rect" id="node2" href="$classLinux_1_1RCOutput__Bebop.html#a6f3aa51451811799f099d4b0cd55d4c0" title=" " alt="" coords="216,5,382,49"/>
-<area shape="rect" id="node3" href="$classLinux_1_1RCOutput__Disco.html#a8692caab118bef928bbc9cc2a0a494b9" title=" " alt="" coords="218,73,379,117"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="239,141,358,169"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="429,141,528,169"/>
-</map>

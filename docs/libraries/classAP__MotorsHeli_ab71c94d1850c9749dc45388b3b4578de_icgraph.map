@@ -1,8 +1,0 @@
-<map id="AP_MotorsHeli::move_actuators" name="AP_MotorsHeli::move_actuators">
-<area shape="rect" id="node1" title=" " alt="" coords="441,107,591,151"/>
-<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#af9a8373c52a44382d0286efc792f52d5" title=" " alt="" coords="223,5,377,49"/>
-<area shape="rect" id="node4" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title=" " alt="" coords="223,73,377,117"/>
-<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title=" " alt="" coords="223,141,377,185"/>
-<area shape="rect" id="node6" href="$classAP__MotorsHeli.html#a5a05a6fdf12a55183dce4a46784b5255" title=" " alt="" coords="208,209,392,237"/>
-<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#ab9f72dd9a10890cdd5b284c339b5a043" title=" " alt="" coords="5,81,160,109"/>
-</map>

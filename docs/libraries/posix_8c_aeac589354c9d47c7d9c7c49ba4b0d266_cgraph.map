@@ -1,4 +1,0 @@
-<map id="isatty" name="isatty">
-<area shape="rect" id="node1" title="Test POSIX fileno if it is a Serial Console/TTY." alt="" coords="6,5,58,33"/>
-<area shape="rect" id="node2" href="$posix_8c.html#af86fa14728c9bad5418a6d29cad9f9ff" title="Convert POSIX stream pointer to POSIX fileno (index of __iob[])" alt="" coords="107,5,160,33"/>
-</map>

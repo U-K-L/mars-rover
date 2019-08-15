@@ -1,9 +1,0 @@
-<map id="MissionItemProtocol::get_item" name="MissionItemProtocol::get_item">
-<area shape="rect" id="node1" title=" " alt="" coords="912,39,1053,83"/>
-<area shape="rect" id="node2" href="$classMissionItemProtocol.html#ac2b502c2410952ecc99c53a1d15a3906" title=" " alt="" coords="680,5,853,49"/>
-<area shape="rect" id="node6" href="$classMissionItemProtocol.html#a0f218f2ef1da3f5ddf4cd9c06d5e6373" title=" " alt="" coords="669,73,864,117"/>
-<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#ac528f7e91bf82403fdf395a91435df2f" title=" " alt="" coords="459,5,621,49"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#a00013e2a14c47d88af2638763d82e7d3" title=" " alt="" coords="216,39,410,83"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,39,168,83"/>
-<area shape="rect" id="node7" href="$structGCS__MAVLINK.html#a2093a0591a3db60700f254ed78dce18d" title=" " alt="" coords="459,73,621,117"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="VRBoard_LED" name="VRBoard_LED">
-<area shape="rect" id="node1" title=" " alt="" coords="4,161,112,189"/>
-<area shape="rect" id="node2" href="$classRGBLed.html" title=" " alt="" coords="22,83,95,111"/>
-<area shape="rect" id="node3" href="$classNotifyDevice.html" title=" " alt="" coords="11,6,107,34"/>
-</map>

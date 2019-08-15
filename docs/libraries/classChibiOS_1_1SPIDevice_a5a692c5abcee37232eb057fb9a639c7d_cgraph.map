@@ -1,7 +1,0 @@
-<map id="ChibiOS::SPIDevice::acquire_bus" name="ChibiOS::SPIDevice::acquire_bus">
-<area shape="rect" id="node1" title=" " alt="" coords="6,35,146,79"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1Semaphore.html#a5d52f4d2148547be239b89941612df27" title=" " alt="" coords="194,5,342,49"/>
-<area shape="rect" id="node4" href="$malloc_8c.html#a0ec75ec3773e0053f3d233b785b7f3c2" title=" " alt="" coords="221,73,315,101"/>
-<area shape="rect" id="node3" href="$classChibiOS_1_1Semaphore.html#a9b3100381eab8d8c7640f4fa5f2fe367" title=" " alt="" coords="389,5,536,49"/>
-<area shape="rect" id="node5" href="$malloc_8c.html#aa5c105052a59261e63119d5203374a41" title=" " alt="" coords="415,73,510,101"/>
-</map>

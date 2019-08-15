@@ -1,6 +1,0 @@
-<map id="AP_GPS_NOVA::msgbuffer" name="AP_GPS_NOVA::msgbuffer">
-<area shape="rect" id="node1" title=" " alt="" coords="190,99,375,127"/>
-<area shape="rect" id="node2" href="$structAP__GPS__NOVA_1_1psrdop.html" title=" " alt="" coords="4,6,171,34"/>
-<area shape="rect" id="node3" href="$structAP__GPS__NOVA_1_1bestpos.html" title=" " alt="" coords="196,6,368,34"/>
-<area shape="rect" id="node4" href="$structAP__GPS__NOVA_1_1bestvel.html" title=" " alt="" coords="393,6,561,34"/>
-</map>

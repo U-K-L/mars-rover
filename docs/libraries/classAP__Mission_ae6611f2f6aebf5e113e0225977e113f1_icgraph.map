@@ -1,6 +1,0 @@
-<map id="AP_Mission::stop" name="AP_Mission::stop">
-<area shape="rect" id="node1" title="stop &#45; stops mission execution. subsequent calls to update() will have no effect until the mission is..." alt="" coords="278,65,402,93"/>
-<area shape="rect" id="node2" href="$classMissionTest.html#af8b75f25f2b1c7fdd51ab19c4ee42ec8" title=" " alt="" coords="18,5,217,33"/>
-<area shape="rect" id="node3" href="$classMissionTest.html#aa5175c099befd271fcc279deb7e28b06" title=" " alt="" coords="5,57,230,101"/>
-<area shape="rect" id="node4" href="$classAP__Landing.html#a23d5d937afe630bfa1d3eeea5d767e4b" title=" " alt="" coords="51,125,184,169"/>
-</map>

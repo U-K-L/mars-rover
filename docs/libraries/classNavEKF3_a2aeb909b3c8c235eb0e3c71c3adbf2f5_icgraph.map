@@ -1,7 +1,0 @@
-<map id="NavEKF3::setOriginLLH" name="NavEKF3::setOriginLLH">
-<area shape="rect" id="node1" title=" " alt="" coords="854,13,1018,41"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#ad4132c9b9b70c061179a31f24a388ecc" title=" " alt="" coords="640,5,806,49"/>
-<area shape="rect" id="node3" href="$structGCS__MAVLINK.html#af12f472c624f3c0735b082c982e7ec42" title=" " alt="" coords="427,5,592,49"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#ad02c83895334e008e3c2f454a616893e" title=" " alt="" coords="216,5,379,49"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,5,168,49"/>
-</map>

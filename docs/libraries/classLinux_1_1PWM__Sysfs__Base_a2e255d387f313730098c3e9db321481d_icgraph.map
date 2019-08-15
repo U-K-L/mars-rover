@@ -1,8 +1,0 @@
-<map id="Linux::PWM_Sysfs_Base::init" name="Linux::PWM_Sysfs_Base::init">
-<area shape="rect" id="node1" title=" " alt="" coords="445,79,616,123"/>
-<area shape="rect" id="node2" href="$classLinux_1_1HeatPwm.html#a910503ba8647930c989ec4311051447a" title=" " alt="" coords="214,5,397,33"/>
-<area shape="rect" id="node3" href="$classDiscoLED.html#a6d29ad2c6dbe761d0ec2bb9e3ce59e2d" title=" " alt="" coords="241,57,370,85"/>
-<area shape="rect" id="node4" href="$classLinux_1_1RCOutput__Sysfs.html#a2147e42f465594730c289e76c327643a" title=" " alt="" coords="225,109,385,153"/>
-<area shape="rect" id="node6" href="$classLinux_1_1OpticalFlow__Onboard.html#ad2533ed83311a68c8201436f70c64713" title=" " alt="" coords="240,177,370,221"/>
-<area shape="rect" id="node5" href="$classLinux_1_1RCOutput__Disco.html#aa7c4f715a6e793972896389de9d642ad" title=" " alt="" coords="5,109,166,153"/>
-</map>

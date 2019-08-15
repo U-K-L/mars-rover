@@ -1,7 +1,0 @@
-<map id="AC_PrecLand_Backend" name="AC_PrecLand_Backend">
-<area shape="rect" id="node1" title=" " alt="" coords="289,6,452,34"/>
-<area shape="rect" id="node2" href="$classAC__PrecLand__Companion.html" title=" " alt="" coords="5,83,184,111"/>
-<area shape="rect" id="node3" href="$classAC__PrecLand__IRLock.html" title=" " alt="" coords="209,83,361,111"/>
-<area shape="rect" id="node4" href="$classAC__PrecLand__SITL.html" title=" " alt="" coords="386,83,525,111"/>
-<area shape="rect" id="node5" href="$classAC__PrecLand__SITL__Gazebo.html" title=" " alt="" coords="550,83,743,111"/>
-</map>

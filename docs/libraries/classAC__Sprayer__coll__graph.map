@@ -1,5 +1,0 @@
-<map id="AC_Sprayer" name="AC_Sprayer">
-<area shape="rect" id="node1" title="Object managing a crop sprayer comprised of a spinner and a pump both controlled by pwm." alt="" coords="90,115,184,143"/>
-<area shape="rect" id="node2" href="$structAC__Sprayer_1_1sprayer__flags__type.html" title="flag bitmask" alt="" coords="4,6,149,50"/>
-<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="174,14,327,42"/>
-</map>

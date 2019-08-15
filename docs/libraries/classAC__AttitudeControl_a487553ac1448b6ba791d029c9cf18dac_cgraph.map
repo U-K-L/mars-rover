@@ -1,9 +1,0 @@
-<map id="AC_AttitudeControl::control_monitor_update" name="AC_AttitudeControl::control_monitor_update">
-<area shape="rect" id="node1" title=" " alt="" coords="6,125,175,169"/>
-<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#ad300b51e0777495496adddd1770ee920" title=" " alt="" coords="246,5,381,49"/>
-<area shape="rect" id="node3" href="$classAC__PID.html#a76473622105f65e201cd106f127d220c" title=" " alt="" coords="239,73,388,101"/>
-<area shape="rect" id="node4" href="$classAC__AttitudeControl.html#a9f960478035a8b88322dc90f32b60056" title=" " alt="" coords="224,125,403,169"/>
-<area shape="rect" id="node6" href="$classAC__AttitudeControl.html#a9e10a37d28eeb3d6476ec087b3bac3df" title=" " alt="" coords="244,193,383,237"/>
-<area shape="rect" id="node7" href="$classAC__AttitudeControl.html#a9e430ac947e0924fdc83280a4ed552bf" title=" " alt="" coords="246,261,381,305"/>
-<area shape="rect" id="node5" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title=" " alt="" coords="451,133,490,161"/>
-</map>

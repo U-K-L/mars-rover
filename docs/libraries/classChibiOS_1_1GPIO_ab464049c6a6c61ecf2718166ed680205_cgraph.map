@@ -1,9 +1,0 @@
-<map id="ChibiOS::GPIO::attach_interrupt" name="ChibiOS::GPIO::attach_interrupt">
-<area shape="rect" id="node1" title=" " alt="" coords="6,57,162,101"/>
-<area shape="rect" id="node2" href="$AP__HAL__ChibiOS_2GPIO_8cpp.html#a6de173bd15c8730b789578fbea3f7912" title=" " alt="" coords="230,5,357,33"/>
-<area shape="rect" id="node3" href="$classChibiOS_1_1GPIO.html#a111006ab1764e7a96114b3e53de58d98" title=" " alt="" coords="212,57,375,101"/>
-<area shape="rect" id="node5" href="$AP__HAL__ChibiOS_2GPIO_8cpp.html#a60cba66bdf66f51b479d2c4dc3ec84d1" title=" " alt="" coords="211,125,376,153"/>
-<area shape="rect" id="node4" href="$AP__HAL__ChibiOS_2GPIO_8cpp.html#af200fd7e9859e32896269a71cbffab7c" title=" " alt="" coords="426,65,542,93"/>
-<area shape="rect" id="node6" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="424,125,544,153"/>
-<area shape="rect" id="node7" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="592,125,691,153"/>
-</map>

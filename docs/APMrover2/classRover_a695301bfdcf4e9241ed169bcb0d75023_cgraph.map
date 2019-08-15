@@ -1,6 +1,0 @@
-<map id="Rover::update_current_mode" name="Rover::update_current_mode">
-<area shape="rect" id="node1" title=" " alt="" coords="5,65,200,93"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#a617fda485edaa49f065f6dd7a91d174a" title=" " alt="" coords="249,5,493,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__AttitudeControl.html#aaac29697a7cb972148d8944f3bc7074c" title=" " alt="" coords="303,57,438,101"/>
-<area shape="rect" id="node4" href="$classMode.html#aa2c21d9299b9df6912689e4ada8d3102" title=" " alt="" coords="319,125,422,153"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_Baro_BMP085::_read_pressure" name="AP_Baro_BMP085::_read_pressure">
-<area shape="rect" id="node1" title=" " alt="" coords="6,65,181,109"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title=" " alt="" coords="229,5,384,49"/>
-<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="252,73,361,101"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#ab8df2848215253ccd70298be7bb52339" title=" " alt="" coords="234,125,380,169"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title=" " alt="" coords="432,13,605,41"/>
-<area shape="rect" id="node5" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="474,73,563,101"/>
-</map>

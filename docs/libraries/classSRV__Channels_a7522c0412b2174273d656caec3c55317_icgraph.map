@@ -1,9 +1,0 @@
-<map id="SRV_Channels::set_angle" name="SRV_Channels::set_angle">
-<area shape="rect" id="node1" title=" " alt="" coords="209,151,386,179"/>
-<area shape="rect" id="node2" href="$classAP__MotorsTailsitter.html#a347e0e7f661f712e299c52f1f60834b4" title=" " alt="" coords="15,5,151,49"/>
-<area shape="rect" id="node3" href="$classAP__Winch__Servo.html#a14b77b8f580a8f4a8cdac764facd1bb3" title=" " alt="" coords="8,73,158,101"/>
-<area shape="rect" id="node4" href="$classAP__MotorsSingle.html#a3bb4cd64c62c263562b6b6468e8c35d9" title=" " alt="" coords="8,125,157,153"/>
-<area shape="rect" id="node5" href="$classAP__MotorsCoax.html#af766071641562a325694443bc58a84f9" title=" " alt="" coords="11,177,154,205"/>
-<area shape="rect" id="node6" href="$classAP__MotorsHeli__Quad.html#a60c6d97a61975ec1ebccb8f717071977" title=" " alt="" coords="8,229,158,273"/>
-<area shape="rect" id="node7" href="$classAP__MotorsHeli__Single.html#a018454351a5f35b808c933e3cab29a04" title=" " alt="" coords="5,297,160,341"/>
-</map>

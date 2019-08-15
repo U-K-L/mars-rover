@@ -1,8 +1,0 @@
-<map id="AP_AHRS::get_origin" name="AP_AHRS::get_origin">
-<area shape="rect" id="node1" title=" " alt="" coords="861,35,1011,63"/>
-<area shape="rect" id="node2" href="$classAP__AHRS.html#ac9514f5193b6a15b16d995fd8ee0e4c4" title=" " alt="" coords="662,27,813,71"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#afaedde8606bdd549cccaab7283673e4e" title=" " alt="" coords="426,5,614,33"/>
-<area shape="rect" id="node4" href="$structGCS__MAVLINK.html#af12f472c624f3c0735b082c982e7ec42" title=" " alt="" coords="437,57,603,101"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#ad02c83895334e008e3c2f454a616893e" title=" " alt="" coords="216,57,379,101"/>
-<area shape="rect" id="node6" href="$structGCS__MAVLINK.html#a13da94a2548ade6552a5250eb3251e89" title=" " alt="" coords="5,57,168,101"/>
-</map>

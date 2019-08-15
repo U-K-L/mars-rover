@@ -1,6 +1,0 @@
-<map id="SITL::Morse::sensors_receive" name="SITL::Morse::sensors_receive">
-<area shape="rect" id="node1" title=" " alt="" coords="6,23,154,67"/>
-<area shape="rect" id="node2" href="$classSITL_1_1Morse.html#adbb2e776af4f4b86296db95354991949" title=" " alt="" coords="203,23,338,67"/>
-<area shape="rect" id="node3" href="$stdio_8h.html#a55f3d956bb2ba20b5059e9e25484a47f" title=" " alt="" coords="392,5,443,33"/>
-<area shape="rect" id="node4" href="$stdio_8h.html#aab0c20e7bf43ee2679bfdf43164efc2a" title=" " alt="" coords="387,57,447,85"/>
-</map>

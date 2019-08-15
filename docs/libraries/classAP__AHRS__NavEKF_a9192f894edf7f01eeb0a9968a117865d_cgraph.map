@@ -1,9 +1,0 @@
-<map id="AP_AHRS_NavEKF::setInhibitGPS" name="AP_AHRS_NavEKF::setInhibitGPS">
-<area shape="rect" id="node1" title=" " alt="" coords="5,73,235,101"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="283,17,482,45"/>
-<area shape="rect" id="node4" href="$classNavEKF2.html#a6bc4e26188215be68c7013734e26e56f" title=" " alt="" coords="299,73,466,101"/>
-<area shape="rect" id="node6" href="$classNavEKF3.html#aca76e36ca17b95dbdd2586a06dcfb126" title=" " alt="" coords="299,125,466,153"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="538,5,726,49"/>
-<area shape="rect" id="node5" href="$classNavEKF2__core.html#a879687ef73bdc560fd17d8f490b1c3b3" title=" " alt="" coords="532,73,732,101"/>
-<area shape="rect" id="node7" href="$classNavEKF3__core.html#a0d8b0e06df4e1126a025b9641df39aa4" title=" " alt="" coords="532,125,732,153"/>
-</map>

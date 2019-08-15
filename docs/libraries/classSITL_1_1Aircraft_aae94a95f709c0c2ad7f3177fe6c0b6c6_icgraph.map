@@ -1,9 +1,0 @@
-<map id="SITL::Aircraft::gross_mass" name="SITL::Aircraft::gross_mass">
-<area shape="rect" id="node1" title=" " alt="" coords="613,103,792,131"/>
-<area shape="rect" id="node2" href="$classSITL_1_1Frame.html#a9dfc3947c7bf0c6433d238bcbbb461d7" title=" " alt="" coords="409,61,564,105"/>
-<area shape="rect" id="node6" href="$classSITL_1_1MultiCopter.html#a1b3a52d1ac484ae1560e389025b3aaa3" title=" " alt="" coords="420,129,553,173"/>
-<area shape="rect" id="node3" href="$classSITL_1_1MultiCopter.html#a9694f42e1889713252a5b01312622bed" title=" " alt="" coords="207,5,340,49"/>
-<area shape="rect" id="node5" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title=" " alt="" coords="187,73,359,101"/>
-<area shape="rect" id="node4" href="$classSITL_1_1MultiCopter.html#a3420ce467f86d484407193d3f6e5447c" title=" " alt="" coords="6,5,138,49"/>
-<area shape="rect" id="node7" href="$classSITL_1_1MultiCopter.html#a9f90e1aa754f77fc472e461ec526c5a4" title=" " alt="" coords="207,129,340,173"/>
-</map>

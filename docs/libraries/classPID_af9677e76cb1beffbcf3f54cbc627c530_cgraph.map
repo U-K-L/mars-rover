@@ -1,4 +1,0 @@
-<map id="PID::reset" name="PID::reset">
-<area shape="rect" id="node1" title="Reset the whole PID state." alt="" coords="5,5,86,33"/>
-<area shape="rect" id="node2" href="$classPID.html#ab5b56004fca57d7bd2a580a743775b74" title=" " alt="" coords="134,5,226,33"/>
-</map>

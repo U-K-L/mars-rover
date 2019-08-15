@@ -1,4 +1,0 @@
-<map id="AP_Mission::check_eeprom_version" name="AP_Mission::check_eeprom_version">
-<area shape="rect" id="node1" title=" " alt="" coords="171,5,357,49"/>
-<area shape="rect" id="node2" href="$classAP__Mission.html#aca08705d731469bf69daa788d93af56b" title="init &#45; initialises this library including checks the version in eeprom matches this library" alt="" coords="6,13,122,41"/>
-</map>

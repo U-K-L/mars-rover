@@ -1,8 +1,0 @@
-<map id="AP_Motors::set_yaw" name="AP_Motors::set_yaw">
-<area shape="rect" id="node1" title=" " alt="" coords="326,115,469,143"/>
-<area shape="rect" id="node2" href="$classAC__AttitudeControl__Sub.html#ac2c2aeb7080b1e40eb19d005e14513b6" title=" " alt="" coords="103,5,275,49"/>
-<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#a5f1a3e763623f247c1cb72d8fb35645d" title=" " alt="" coords="104,73,275,117"/>
-<area shape="rect" id="node4" href="$classAC__AttitudeControl__Multi.html#af304b91ae160b32aa4cd1de9c872b798" title=" " alt="" coords="101,141,277,185"/>
-<area shape="rect" id="node5" href="$AP__Motors__test_8cpp.html#a7f47bb79f883994514efee9d8de3ec0c" title=" " alt="" coords="142,209,237,237"/>
-<area shape="rect" id="node6" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="6,209,53,237"/>
-</map>

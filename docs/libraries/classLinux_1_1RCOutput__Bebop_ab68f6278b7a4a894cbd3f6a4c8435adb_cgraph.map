@@ -1,7 +1,0 @@
-<map id="Linux::RCOutput_Bebop::_clear_error" name="Linux::RCOutput_Bebop::_clear_error">
-<area shape="rect" id="node1" title=" " alt="" coords="5,95,171,139"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title=" " alt="" coords="235,5,384,49"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title=" " alt="" coords="219,73,400,101"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title=" " alt="" coords="235,125,384,169"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title=" " alt="" coords="219,193,400,221"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="PixRacerLED" name="PixRacerLED">
-<area shape="rect" id="node1" title=" " alt="" coords="440,5,541,33"/>
-<area shape="rect" id="node2" href="$classRGBLed.html" title=" " alt="" coords="313,5,386,33"/>
-<area shape="rect" id="node3" href="$classNotifyDevice.html" title=" " alt="" coords="57,41,153,69"/>
-<area shape="rect" id="node4" href="$classAP__Notify.html" title=" " alt="" coords="309,134,390,162"/>
-<area shape="rect" id="node5" href="$structAP__Notify_1_1notify__events__type.html" title="notify_events_type &#45; bitmask of active events." alt="" coords="6,127,205,155"/>
-<area shape="rect" id="node6" href="$structAP__Notify_1_1notify__flags__and__values__type.html" title="notify_flags_type &#45; bitmask of notification flags" alt="" coords="28,179,183,223"/>
-<area shape="rect" id="node7" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="29,303,182,331"/>
-</map>

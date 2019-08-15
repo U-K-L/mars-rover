@@ -1,8 +1,0 @@
-<map id="AP_Compass_MAG3110::read" name="AP_Compass_MAG3110::read">
-<area shape="rect" id="node1" title=" " alt="" coords="939,5,1109,49"/>
-<area shape="rect" id="node2" href="$classAP__Compass__MAG3110.html#abfc2e667f85efbc1f531f9654efd63cb" title=" " alt="" coords="721,5,890,49"/>
-<area shape="rect" id="node3" href="$classAP__Compass__MAG3110.html#a7504db53af052847097508f4885d2697" title=" " alt="" coords="502,5,671,49"/>
-<area shape="rect" id="node4" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title=" " alt="" coords="259,13,453,41"/>
-<area shape="rect" id="node5" href="$classCompass.html#a79db6bfd3fe309c6258d783f126326c6" title=" " alt="" coords="108,13,210,41"/>
-<area shape="rect" id="node6" href="$AHRS__Test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,13,59,41"/>
-</map>

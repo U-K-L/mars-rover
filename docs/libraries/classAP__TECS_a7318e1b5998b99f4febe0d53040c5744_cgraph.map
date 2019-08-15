@@ -1,7 +1,0 @@
-<map id="AP_TECS::_detect_underspeed" name="AP_TECS::_detect_underspeed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,34,216,62"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="287,7,396,35"/>
-<area shape="rect" id="node4" href="$classAP__Landing.html#a5ff74bf65eb1a4083cc783af22276828" title=" " alt="" coords="264,61,419,89"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="505,5,594,33"/>
-<area shape="rect" id="node5" href="$classAP__Landing.html#ac2dfc670ce0af524cbd4614a6469eb37" title=" " alt="" coords="466,57,632,101"/>
-</map>

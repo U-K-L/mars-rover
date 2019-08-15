@@ -1,9 +1,0 @@
-<map id="AP_Baro_Backend" name="AP_Baro_Backend">
-<area shape="rect" id="node1" title=" " alt="" coords="5,183,139,211"/>
-<area shape="rect" id="node2" href="$classAP__Baro.html" title=" " alt="" coords="193,278,268,306"/>
-<area shape="rect" id="node3" href="$structAP__Baro_1_1sensor.html" title=" " alt="" coords="166,183,287,211"/>
-<area shape="rect" id="node4" href="$classDerivativeFilter.html" title=" " alt="" coords="312,183,484,211"/>
-<area shape="rect" id="node5" href="$classFilterWithBuffer.html" title=" " alt="" coords="322,86,475,130"/>
-<area shape="rect" id="node6" href="$classFilter.html" title=" " alt="" coords="349,6,448,34"/>
-<area shape="rect" id="node7" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="509,183,661,211"/>
-</map>

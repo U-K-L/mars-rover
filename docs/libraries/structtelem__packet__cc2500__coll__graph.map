@@ -1,5 +1,0 @@
-<map id="telem_packet_cc2500" name="telem_packet_cc2500">
-<area shape="rect" id="node1" title=" " alt="" coords="42,99,192,127"/>
-<area shape="rect" id="node2" href="$structtelem__status.html" title=" " alt="" coords="5,6,101,34"/>
-<area shape="rect" id="node3" href="$structtelem__firmware.html" title=" " alt="" coords="126,6,239,34"/>
-</map>

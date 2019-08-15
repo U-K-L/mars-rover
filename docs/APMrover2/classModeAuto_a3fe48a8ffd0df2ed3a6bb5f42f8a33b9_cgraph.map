@@ -1,8 +1,0 @@
-<map id="ModeAuto::do_nav_set_yaw_speed" name="ModeAuto::do_nav_set_yaw_speed">
-<area shape="rect" id="node1" title=" " alt="" coords="6,91,165,135"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a4e136782e86e2adaaf7f0f759067dfe1" title=" " alt="" coords="245,5,347,33"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__WPNav.html#aa2950047fb5b0948ea7ba732ae4e7344" title=" " alt="" coords="213,57,379,101"/>
-<area shape="rect" id="node4" href="$classModeAuto.html#a5835fe9317c0c084e252b9243be61356" title=" " alt="" coords="217,125,375,169"/>
-<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title=" " alt="" coords="242,193,350,221"/>
-<area shape="rect" id="node5" href="$classMode.html#a8d1a05e438a25fbe773c1ce3ad7c9872" title=" " alt="" coords="427,125,613,169"/>
-</map>

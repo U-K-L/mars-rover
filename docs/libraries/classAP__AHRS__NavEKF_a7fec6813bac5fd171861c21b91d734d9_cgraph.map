@@ -1,9 +1,0 @@
-<map id="AP_AHRS_NavEKF::getLastVelNorthEastReset" name="AP_AHRS_NavEKF::getLastVelNorthEastReset">
-<area shape="rect" id="node1" title=" " alt="" coords="6,73,216,117"/>
-<area shape="rect" id="node2" href="$classAP__AHRS__NavEKF.html#a9f010f72e8cc321678118e78be8a264e" title=" " alt="" coords="265,17,463,45"/>
-<area shape="rect" id="node4" href="$classNavEKF2.html#a1b18bf623e46ae4925ea0933057cda42" title=" " alt="" coords="274,73,454,117"/>
-<area shape="rect" id="node6" href="$classNavEKF3.html#a2f3077aaa9dd2f1936b1f5ce82463d5d" title=" " alt="" coords="274,141,454,185"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__NavEKF.html#a398575c9b9d19f35e2000fc0219a42ef" title=" " alt="" coords="512,5,701,49"/>
-<area shape="rect" id="node5" href="$classNavEKF2__core.html#a02c2d490fdf2ae4ea395d4103a8e5308" title=" " alt="" coords="516,73,697,117"/>
-<area shape="rect" id="node7" href="$classNavEKF3__core.html#acd2cb62d0969fba455275cab5fa636c1" title=" " alt="" coords="516,141,697,185"/>
-</map>

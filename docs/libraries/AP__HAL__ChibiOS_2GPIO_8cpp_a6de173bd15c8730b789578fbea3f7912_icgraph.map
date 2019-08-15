@@ -1,9 +1,0 @@
-<map id="gpio_by_pin_num" name="gpio_by_pin_num">
-<area shape="rect" id="node1" title=" " alt="" coords="225,151,351,179"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1GPIO.html#ab464049c6a6c61ecf2718166ed680205" title=" " alt="" coords="13,5,168,49"/>
-<area shape="rect" id="node3" href="$classChibiOS_1_1GPIO.html#aca26e83d1f59399cfc05528785dad296" title=" " alt="" coords="8,73,174,101"/>
-<area shape="rect" id="node4" href="$classChibiOS_1_1GPIO.html#a175a662cb73fbebe9b2228517229f128" title=" " alt="" coords="6,125,176,153"/>
-<area shape="rect" id="node5" href="$classChibiOS_1_1GPIO.html#a480174af73bb8a74fd99db22c2686df3" title=" " alt="" coords="18,177,164,205"/>
-<area shape="rect" id="node6" href="$classChibiOS_1_1GPIO.html#a6bb4ce0a8b35f3f42249d3cab1878989" title=" " alt="" coords="13,229,168,257"/>
-<area shape="rect" id="node7" href="$classChibiOS_1_1GPIO.html#adaeceacadeed3c9953384bfac3f32ecf" title=" " alt="" coords="17,281,164,309"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="AP_RangeFinder_NMEA::get_reading" name="AP_RangeFinder_NMEA::get_reading">
-<area shape="rect" id="node1" title=" " alt="" coords="6,73,175,117"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1BetterStream.html#afb6a4e5c487187fe31387e834b784213" title=" " alt="" coords="230,5,389,49"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#a65082ecb994170fc6d2a7ff2bcc301a7" title=" " alt="" coords="230,73,389,117"/>
-<area shape="rect" id="node4" href="$classAP__RangeFinder__NMEA.html#ad69b31717eaa4e27c7dfa39b8fc60917" title=" " alt="" coords="225,141,394,185"/>
-<area shape="rect" id="node5" href="$classAP__RangeFinder__NMEA.html#a0afaf4633cdfc414ef8910bf08745db3" title=" " alt="" coords="443,141,613,185"/>
-<area shape="rect" id="node6" href="$classAP__RangeFinder__NMEA.html#a0cdaa72b47cad467a0f90cea13cd9318" title=" " alt="" coords="662,110,831,154"/>
-<area shape="rect" id="node7" href="$AP__Math_8h.html#a8b6f71a42818d74fd8bfe348108942fa" title=" " alt="" coords="702,178,791,206"/>
-</map>

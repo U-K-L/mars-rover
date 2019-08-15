@@ -1,8 +1,0 @@
-<map id="AC_PosControl::init_ekf_xy_reset" name="AC_PosControl::init_ekf_xy_reset">
-<area shape="rect" id="node1" title="initialise and check for ekf position resets" alt="" coords="454,39,592,83"/>
-<area shape="rect" id="node2" href="$classAC__PosControl.html#ae2897de0075f8f8aaa94eb7e8cad100b" title="xyz velocity controller" alt="" coords="267,5,405,49"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#a76932eed8be2c3c9b84728c3e56edd63" title=" " alt="" coords="267,73,405,117"/>
-<area shape="rect" id="node4" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title=" " alt="" coords="59,29,165,57"/>
-<area shape="rect" id="node5" href="$classAC__Loiter.html#ac61cfb41e7da4ba41276d3e731d6ea85" title="init_target to a position in cm from ekf origin" alt="" coords="39,81,185,109"/>
-<area shape="rect" id="node6" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title=" " alt="" coords="5,133,219,161"/>
-</map>

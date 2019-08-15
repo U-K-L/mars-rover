@@ -1,8 +1,0 @@
-<map id="AP_RangeFinder_analog" name="AP_RangeFinder_analog">
-<area shape="rect" id="node1" title=" " alt="" coords="224,305,395,333"/>
-<area shape="rect" id="node2" href="$classAP__RangeFinder__Backend.html" title=" " alt="" coords="70,211,252,239"/>
-<area shape="rect" id="node3" href="$structRangeFinder_1_1RangeFinder__State.html" title=" " alt="" coords="5,102,187,146"/>
-<area shape="rect" id="node4" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="137,7,289,35"/>
-<area shape="rect" id="node5" href="$classAP__RangeFinder__Params.html" title=" " alt="" coords="212,110,388,138"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1AnalogSource.html" title=" " alt="" coords="277,211,440,239"/>
-</map>

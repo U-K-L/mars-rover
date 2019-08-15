@@ -1,6 +1,0 @@
-<map id="AP_LandingGear::get_state" name="AP_LandingGear::get_state">
-<area shape="rect" id="node1" title="returns detailed state of gear" alt="" coords="645,5,795,49"/>
-<area shape="rect" id="node2" href="$classAP__LandingGear.html#ad952cc47b3774c10759c6b5fbdecb9f1" title=" " alt="" coords="432,5,598,49"/>
-<area shape="rect" id="node3" href="$classAP__Landing.html#a7e884642791e4b1f0b9c396b86055a6a" title=" " alt="" coords="218,5,384,49"/>
-<area shape="rect" id="node4" href="$classAP__Landing.html#afdbc34de818b9cb366336c23660fd495" title=" " alt="" coords="5,13,171,41"/>
-</map>

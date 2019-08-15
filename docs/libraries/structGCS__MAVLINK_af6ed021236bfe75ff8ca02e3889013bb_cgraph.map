@@ -1,7 +1,0 @@
-<map id="GCS_MAVLINK::send_gimbal_report" name="GCS_MAVLINK::send_gimbal_report">
-<area shape="rect" id="node1" title=" " alt="" coords="6,27,204,71"/>
-<area shape="rect" id="node2" href="$namespaceAP.html#aa6f0d760efc796d0ad5345d3acc377b8" title=" " alt="" coords="296,5,379,33"/>
-<area shape="rect" id="node4" href="$classAP__Mount.html#af8f376cbf1c77af36fc4603921c5bb7a" title=" " alt="" coords="254,57,421,101"/>
-<area shape="rect" id="node3" href="$classAP__Mount.html#ada9f06597fc74ef3740e88131ed5dc67" title=" " alt="" coords="474,5,644,33"/>
-<area shape="rect" id="node5" href="$classAP__Mount__Backend.html#a7b81e4c6e54e1b7ded533c1ba37ce3aa" title=" " alt="" coords="469,57,648,101"/>
-</map>

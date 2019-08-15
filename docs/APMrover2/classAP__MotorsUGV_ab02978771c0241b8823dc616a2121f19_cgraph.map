@@ -1,9 +1,0 @@
-<map id="AP_MotorsUGV::active" name="AP_MotorsUGV::active">
-<area shape="rect" id="node1" title=" " alt="" coords="5,125,163,153"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a287a2b82fa30b92c8d52aad61d4d27b7" title=" " alt="" coords="232,5,386,49"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title=" " alt="" coords="277,73,341,101"/>
-<area shape="rect" id="node4" href="$classAP__MotorsUGV.html#a54d9d572b65b97f03c1db8484b896118" title=" " alt="" coords="214,125,404,153"/>
-<area shape="rect" id="node5" href="$classAP__MotorsUGV.html#a3c13ea4a9949243234dce823c2fa961d" title=" " alt="" coords="233,177,385,221"/>
-<area shape="rect" id="node7" href="$classAP__MotorsUGV.html#ab4374f3262930fa94b7e3209dced5001" title=" " alt="" coords="211,245,408,273"/>
-<area shape="rect" id="node6" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classSRV__Channels.html#a378e0022237c196e6107c9e79f340285" title=" " alt="" coords="457,177,623,221"/>
-</map>

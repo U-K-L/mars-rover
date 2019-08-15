@@ -1,7 +1,0 @@
-<map id="AC_Fence::sys_status_failed" name="AC_Fence::sys_status_failed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,65,160,109"/>
-<area shape="rect" id="node2" href="$classAC__Fence.html#a3618533d9240de9b88efff69b2324bd7" title=" " alt="" coords="217,5,372,49"/>
-<area shape="rect" id="node3" href="$classAC__Fence.html#a3370da9e8d33b90de3220ef5e4c7fd44" title="get_breaches &#45; returns bit mask of the fence types that have been breached" alt="" coords="208,73,381,101"/>
-<area shape="rect" id="node4" href="$namespaceAP.html#a99432cfdb696952c9b7146f155a815aa" title=" " alt="" coords="258,125,331,153"/>
-<area shape="rect" id="node5" href="$classAP__AHRS.html#a3db167e808ba6d312c3b746e558008e9" title=" " alt="" coords="430,125,600,153"/>
-</map>

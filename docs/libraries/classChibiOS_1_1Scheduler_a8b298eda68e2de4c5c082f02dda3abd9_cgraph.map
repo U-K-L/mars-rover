@@ -1,9 +1,0 @@
-<map id="ChibiOS::Scheduler::delay" name="ChibiOS::Scheduler::delay">
-<area shape="rect" id="node1" title=" " alt="" coords="5,91,144,135"/>
-<area shape="rect" id="node2" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title=" " alt="" coords="201,5,335,33"/>
-<area shape="rect" id="node4" href="$classChibiOS_1_1Scheduler.html#a332cd2e17889c12f84b469eaf9f24fc8" title=" " alt="" coords="193,57,343,101"/>
-<area shape="rect" id="node5" href="$classChibiOS_1_1Scheduler.html#a7d57edeaf35ec698eadeee0b82e19350" title=" " alt="" coords="199,125,337,169"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a1559f4115760bed85bbbbc717360b806" title=" " alt="" coords="194,193,342,237"/>
-<area shape="rect" id="node3" href="$hrt_8c.html#a152c3348a8e83f2dfe35b44cc2e30362" title=" " alt="" coords="404,5,503,33"/>
-<area shape="rect" id="node6" href="$HAL__ChibiOS__Class_8cpp.html#ab846d7fcc837e93db24c728b27dda2c0" title=" " alt="" coords="393,133,514,161"/>
-</map>

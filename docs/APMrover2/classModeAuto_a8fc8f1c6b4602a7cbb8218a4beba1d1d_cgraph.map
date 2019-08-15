@@ -1,8 +1,0 @@
-<map id="ModeAuto::get_desired_location" name="ModeAuto::get_desired_location">
-<area shape="rect" id="node1" title=" " alt="" coords="6,92,165,136"/>
-<area shape="rect" id="node2" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__WPNav.html#a006033c819157abf97728d4d3530ed6b" title=" " alt="" coords="453,32,635,76"/>
-<area shape="rect" id="node3" href="/Users/coreyshive/Documents/schoolcode/ardupilot/docs/tags/libraries$classAR__WPNav.html#aa6fbcbc361ac2b9593547792cd9bb2cd" title=" " alt="" coords="438,100,650,128"/>
-<area shape="rect" id="node4" href="$classModeRTL.html#a658d9e51b800f8d4ded0b5e9457ad196" title=" " alt="" coords="223,32,380,76"/>
-<area shape="rect" id="node5" href="$classModeLoiter.html#a14e227d7f290072994137199ed943c13" title=" " alt="" coords="461,181,627,225"/>
-<area shape="rect" id="node6" href="$classModeGuided.html#a0808f689fd58bb4ef73c306fa2f8d273" title=" " alt="" coords="214,152,389,196"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AP_BattMonitor_FuelFlow::irq_handler" name="AP_BattMonitor_FuelFlow::irq_handler">
-<area shape="rect" id="node1" title=" " alt="" coords="229,5,405,49"/>
-<area shape="rect" id="node2" href="$classAP__BattMonitor__FuelFlow.html#aa43e6e0b8feb9e1c9c30a8d4eedeb51c" title="Read the battery voltage and current. Should be called at 10hz." alt="" coords="5,5,181,49"/>
-</map>

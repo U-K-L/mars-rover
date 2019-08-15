@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classAP__HAL_1_1GPIO.html" title=" " alt="" coords="6,135,119,163"/>
-<area shape="rect" id="node2" href="$classChibiOS_1_1GPIO.html" title=" " alt="" coords="179,5,291,33"/>
-<area shape="rect" id="node3" href="$classEmpty_1_1GPIO.html" title=" " alt="" coords="185,57,285,85"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1GPIO.html" title=" " alt="" coords="177,109,293,137"/>
-<area shape="rect" id="node5" href="$classLinux_1_1GPIO__BBB.html" title=" " alt="" coords="171,161,299,189"/>
-<area shape="rect" id="node6" href="$classLinux_1_1GPIO__RPI.html" title=" " alt="" coords="173,213,296,241"/>
-<area shape="rect" id="node7" href="$classLinux_1_1GPIO__Sysfs.html" title=" " alt="" coords="168,265,302,293"/>
-</map>

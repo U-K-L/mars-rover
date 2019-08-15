@@ -1,9 +1,0 @@
-<map id="AP_RobotisServo::detect_servos" name="AP_RobotisServo::detect_servos">
-<area shape="rect" id="node1" title=" " alt="" coords="6,118,176,162"/>
-<area shape="rect" id="node2" href="$classAP__RobotisServo.html#a30e0c641da548e3e68d408186d9d1bbb" title=" " alt="" coords="224,81,387,125"/>
-<area shape="rect" id="node6" href="$namespaceAP__HAL.html#a8293355e35887733b1fd151aef08a787" title=" " alt="" coords="246,163,365,191"/>
-<area shape="rect" id="node3" href="$classAP__RobotisServo.html#a27bee3a4e51dae474160dc7c5fd97c80" title=" " alt="" coords="457,5,613,49"/>
-<area shape="rect" id="node4" href="$classAP__RobotisServo.html#ab4063e0f8c962c96c7b89d720b658ac0" title=" " alt="" coords="435,73,635,101"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1BetterStream.html#a915cc01273d4b418c2fb2989fb31a508" title=" " alt="" coords="455,125,614,169"/>
-<area shape="rect" id="node7" href="$hrt_8c.html#aaec580bcdf1351b82110305f0f6dd437" title=" " alt="" coords="485,193,584,221"/>
-</map>

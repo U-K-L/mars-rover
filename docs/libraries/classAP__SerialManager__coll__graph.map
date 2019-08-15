@@ -1,7 +1,0 @@
-<map id="AP_SerialManager" name="AP_SerialManager">
-<area shape="rect" id="node1" title=" " alt="" coords="143,275,275,303"/>
-<area shape="rect" id="node2" href="$structAP__SerialManager_1_1UARTState.html" title=" " alt="" coords="4,181,211,209"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html" title=" " alt="" coords="32,86,183,114"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1BetterStream.html" title=" " alt="" coords="29,6,187,34"/>
-<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title=" " alt="" coords="236,181,388,209"/>
-</map>

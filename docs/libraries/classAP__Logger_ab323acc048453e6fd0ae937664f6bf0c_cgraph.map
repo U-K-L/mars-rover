@@ -1,9 +1,0 @@
-<map id="AP_Logger::handle_log_send_data" name="AP_Logger::handle_log_send_data">
-<area shape="rect" id="node1" title=" " alt="" coords="6,79,167,123"/>
-<area shape="rect" id="node2" href="$structGCS__MAVLINK.html#a38bdeec979d6dbc84c7ca09bafb5bc04" title=" " alt="" coords="217,5,394,33"/>
-<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title=" " alt="" coords="251,57,360,85"/>
-<area shape="rect" id="node5" href="$structGCS__MAVLINK.html#a7bde39a24af7e2b83c6ad63ac3ef2fe9" title=" " alt="" coords="221,109,390,153"/>
-<area shape="rect" id="node6" href="$classAP__Logger.html#a274935ec37e4fb410abce104a9789eb3" title=" " alt="" coords="219,177,392,205"/>
-<area shape="rect" id="node4" href="$hrt_8c.html#a1295f128f60d29874243b5733c4db025" title=" " alt="" coords="476,57,564,85"/>
-<area shape="rect" id="node7" href="$classAP__Logger__Backend.html#a6a750f805d086ced3d0322abff4913b0" title=" " alt="" coords="443,169,597,213"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AC_Loiter::calc_desired_velocity" name="AC_Loiter::calc_desired_velocity">
-<area shape="rect" id="node1" title=" " alt="" coords="184,5,347,49"/>
-<area shape="rect" id="node2" href="$classAC__Loiter.html#ad73abbc1c7fcefbb9d18bac3b1fe4444" title="run the loiter controller" alt="" coords="6,13,135,41"/>
-</map>
