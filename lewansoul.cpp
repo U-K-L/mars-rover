@@ -1,11 +1,14 @@
+#include "lewansoul.h"
 
-
+/*
+ *  BEGIN of Arduino control code released by LewanSoul
+ */
 #define GET_LOW_BYTE(A) (uint8_t)((A))
 //Macro function  get lower 8 bits of A
 #define GET_HIGH_BYTE(A) (uint8_t)((A) >> 8)
 //Macro function  get higher 8 bits of A
 #define BYTE_TO_HW(A, B) ((((uint16_t)(A)) << 8) | (uint8_t)(B))
-//put A as higher 8 bits   B as lower 8 bits   which amalgamated into 16 bits integer
+//Macro Function  put A as higher 8 bits   B as lower 8 bits   which amalgamated into 16 bits integer
 
 #define LOBOT_SERVO_FRAME_HEADER         0x55
 #define LOBOT_SERVO_MOVE_TIME_WRITE      1
@@ -281,13 +284,13 @@ int LobotSerialServoReadPosition(HardwareSerial &SerialX, uint8_t id)
   while (!SerialX.available()) {
     count -= 1;
     if (count < 0)
-      return -2048;
+      return -1;
   }
 
   if (LobotSerialServoReceiveHandle(SerialX, buf) > 0)
-    ret = (int16_t)BYTE_TO_HW(buf[2], buf[1]);
+    ret = BYTE_TO_HW(buf[2], buf[1]);
   else
-    ret = -2048;
+    ret = -1;
 
 #ifdef LOBOT_DEBUG
   Serial.println(ret);
@@ -331,7 +334,7 @@ int LobotSerialServoReadVin(HardwareSerial &SerialX, uint8_t id)
   if (LobotSerialServoReceiveHandle(SerialX, buf) > 0)
     ret = (int16_t)BYTE_TO_HW(buf[2], buf[1]);
   else
-    ret = -2049;
+    ret = -2048;
 
 #ifdef LOBOT_DEBUG
   Serial.println(ret);
@@ -340,28 +343,33 @@ int LobotSerialServoReadVin(HardwareSerial &SerialX, uint8_t id)
 }
 
 
+/*
+ *  END of Arduino control code released by LewanSoul
+ */
 
-void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(115200);
-  delay(1000);
+LewanSoul::LewanSoul(bool debug)
+{
+  _debug = debug; // Currently unused
 }
 
-#define ID1   1
-#define ID2   2
+void LewanSoul::setup()
+{
+  Serial.begin(115200);
+}
 
-void loop() {
-  // put your main code here, to run repeatedly:
-  LobotSerialServoMove(Serial, ID1, 100, 500);
-  LobotSerialServoMove(Serial, ID2, 500, 500);
-  delay(1000);
-  LobotSerialServoMove(Serial, ID1, 500, 500);
-  LobotSerialServoMove(Serial, ID2, 600, 500);
-  delay(1000);
-  LobotSerialServoMove(Serial, ID1, 900, 500);
-  LobotSerialServoMove(Serial, ID2, 700, 500);
-  delay(1000);
-  LobotSerialServoMove(Serial, ID1, 500, 500);
-  LobotSerialServoMove(Serial, ID2, 600, 500);
-  delay(1000);
+void LewanSoul::moveTo(int servoId, float destination)
+{
+  // Input is in angle relative to center as zero, from -120 to 120.
+  // Negative numbers clockwise (when looking at face of servo.)
+
+  // Output to LewanSoul API is from 0 to 1000, with 500 as center.
+  // Interpreted as movement from -120 to 120 degrees.
+  LobotSerialServoMove(Serial, servoId, (destination * (500.0/120.0))+500, 200);
+}
+
+void LewanSoul::spinAt(int servoId, float velocity)
+{
+  // Input should be from -100 to 100, so multiply by 10 to get
+  // the -1000 to 1000 range desired by LewanSoul API
+  LobotSerialServoSetMode(Serial, servoId, 1, velocity * 10);
 }
