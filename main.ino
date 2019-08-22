@@ -6,6 +6,18 @@ LewanSoul lss;
 
 #define RPLIDAR_MOTOR 3 // PWM pin connected to MOTOCTRL signal
 
+// servo ids
+#define WFL 25
+#define WML 21
+#define WBL 20
+#define WFR 27
+#define WMR 22
+#define WBR 28
+#define SFL 23
+#define SBL 24
+#define SFR 29
+#define SBR 26
+
 // runs once when rover is powered up
 void setup() {
     lidar.begin(Serial);
@@ -20,7 +32,7 @@ void loop() {
         float angle    = lidar.getCurrentPoint().angle; // angle in degrees
         bool  startBit = lidar.getCurrentPoint().startBit; // whether this point belongs to a new scan
         byte  quality  = lidar.getCurrentPoint().quality; // quality of the current measurement
-        // TODO: connect to mrpt object avoidance
+        // TODO: connect to object avoidance (SLAM)
     } else {
         analogWrite(RPLIDAR_MOTOR, 0); // stop the lidar motor
         // try to detect lidar device
