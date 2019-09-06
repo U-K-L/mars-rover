@@ -18,6 +18,24 @@ LewanSoul lss;
 #define SFR 29
 #define SBR 26
 
+void moveForward(float speed) {
+    spinAt(WFL, speed);
+    spinAt(WML, speed);
+    spinAt(WBL, speed);
+    spinAt(WFR, speed);
+    spinAt(WMR, speed);
+    spinAt(WBR, speed);
+}
+
+void moveBackward(float speed) {
+    spinAt(WFL, -speed);
+    spinAt(WML, -speed);
+    spinAt(WBL, -speed);
+    spinAt(WFR, -speed);
+    spinAt(WMR, -speed);
+    spinAt(WBR, -speed);
+}
+
 // runs once when rover is powered up
 void setup() {
 /*    lidar.begin(Serial);
@@ -25,24 +43,6 @@ void setup() {
     lss.setup(); // takes over Serial!! (need two serial ports?)
 }
 
-void moveForward(float speed)
-{
-    SpinAt(WFL,speed);
-    SpinAt(WML,speed);
-    SpinAt(WBL,speed);
-    SpinAt(WFR,speed);
-    SpinAt(WMR,speed);
-    SpinAt(WBR,speed);
-}
-void moveBackward(float speed)
-{
-    SpinAt(WFL,-speed);
-    SpinAt(WML,-speed);
-    SpinAt(WBL,-speed);
-    SpinAt(WFR,-speed);
-    SpinAt(WMR,-speed);
-    SpinAt(WBR,-speed);
-}
 // runs constantly as long as rover is powered
 void loop() {
     /*if (IS_OK(lidar.waitPoint())) {
