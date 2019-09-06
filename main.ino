@@ -20,14 +20,14 @@ LewanSoul lss;
 
 // runs once when rover is powered up
 void setup() {
-    lidar.begin(Serial);
-    pinMode(RPLIDAR_MOTOR, OUTPUT);
+/*    lidar.begin(Serial);
+    pinMode(RPLIDAR_MOTOR, OUTPUT);*/
     lss.setup(); // takes over Serial!! (need two serial ports?)
 }
 
 // runs constantly as long as rover is powered
 void loop() {
-    if (IS_OK(lidar.waitPoint())) {
+    /*if (IS_OK(lidar.waitPoint())) {
         float distance = lidar.getCurrentPoint().distance; // distance in mm
         float angle    = lidar.getCurrentPoint().angle; // angle in degrees
         bool  startBit = lidar.getCurrentPoint().startBit; // whether this point belongs to a new scan
@@ -44,5 +44,6 @@ void loop() {
             analogWrite(RPLIDAR_MOTOR, 255);
             delay(1000);
         }
-    }
+    }*/
 }
+
