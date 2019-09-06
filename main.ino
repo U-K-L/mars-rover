@@ -18,7 +18,7 @@ LewanSoul lss;
 #define SFR 29
 #define SBR 26
 
-void moveForward(float speed) {
+void move(float speed) {
     spinAt(WFL, speed);
     spinAt(WML, speed);
     spinAt(WBL, speed);
@@ -27,13 +27,11 @@ void moveForward(float speed) {
     spinAt(WBR, speed);
 }
 
-void moveBackward(float speed) {
-    spinAt(WFL, -speed);
-    spinAt(WML, -speed);
-    spinAt(WBL, -speed);
-    spinAt(WFR, -speed);
-    spinAt(WMR, -speed);
-    spinAt(WBR, -speed);
+void turn(float degrees) {
+    moveTo(SFL, degrees);
+    moveTo(SBL, degrees);
+    moveTo(SFR, degrees);
+    moveTo(SBR, degrees);
 }
 
 // runs once when rover is powered up
